@@ -1,0 +1,20 @@
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-content">
+      <div class="footer-brand">
+        <p class="footer-title">The Convergence Thesis</p>
+        <p class="footer-tagline">AI × Robotics × Crypto — The Machine Economy</p>
+      </div>
+      <div class="footer-links">
+        {{ with .Site.Params.linkedin }}<a href="{{ . }}" target="_blank" rel="noopener">LinkedIn</a>{{ end }}
+        {{ with .Site.Params.twitter }}<a href="{{ . }}" target="_blank" rel="noopener">X / Twitter</a>{{ end }}
+        <a href="/subscribe/">Newsletter</a>
+        <a href="{{ "index.xml" | absURL }}">RSS</a>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; {{ now.Year }} {{ .Site.Params.author }}. All rights reserved.</p>
+      <p class="footer-note">This site reflects personal analysis and conviction. It does not constitute investment advice.</p>
+    </div>
+  </div>
+</footer>

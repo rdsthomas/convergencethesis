@@ -1,0 +1,55 @@
+baseURL = "https://convergencethesis.com/"
+languageCode = "en"
+title = "The Convergence Thesis"
+theme = "convergence"
+
+[params]
+  description = "AI, Robotics, and Crypto as the Investment Framework for the Machine Economy"
+  author = "Thomas Huhn"
+  tagline = "Why AI, Robotics, and Crypto Represent the Greatest Investment Opportunity of Our Lifetime"
+  # Newsletter signup (Buttondown)
+  newsletterEnabled = true
+  newsletterProvider = "buttondown"
+  newsletterHandle = "convergencethesis"
+  # Social
+  linkedin = "https://www.linkedin.com/in/thomashuhn/"
+  twitter = ""
+  # Analytics (add later)
+  # googleAnalytics = ""
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "monokai"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[menu]
+  [[menu.main]]
+    name = "Thesis"
+    url = "/thesis/"
+    weight = 1
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+  [[menu.main]]
+    name = "Subscribe"
+    url = "/subscribe/"
+    weight = 4
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5

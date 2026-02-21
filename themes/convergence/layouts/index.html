@@ -1,0 +1,84 @@
+{{ define "main" }}
+
+<!-- Hero Section -->
+<section class="hero">
+  <div class="container">
+    <p class="hero-eyebrow">An Essay by {{ .Site.Params.author }}</p>
+    <h1 class="hero-title">The Convergence Thesis</h1>
+    <p class="hero-subtitle">{{ .Site.Params.tagline }}</p>
+    <div class="hero-cta">
+      <a href="/thesis/" class="btn btn-primary">Read the Thesis</a>
+      <a href="/subscribe/" class="btn btn-secondary">Subscribe to Newsletter</a>
+    </div>
+  </div>
+</section>
+
+<!-- Pillars Section -->
+<section class="pillars">
+  <div class="container">
+    <h2 class="section-title">Three Pillars. One Thesis.</h2>
+    <div class="pillars-grid">
+      <div class="pillar">
+        <div class="pillar-icon">🧠</div>
+        <h3>Artificial Intelligence</h3>
+        <p>From tool to co-worker to autonomous agent. AI is not a software trend — it is a cognitive revolution that will reshape every industry.</p>
+      </div>
+      <div class="pillar">
+        <div class="pillar-icon">🤖</div>
+        <h3>Robotics</h3>
+        <p>When AI gets a body. Humanoid robots will transform factories, logistics, healthcare, and construction — at a fraction of today's labor cost.</p>
+      </div>
+      <div class="pillar">
+        <div class="pillar-icon">₿</div>
+        <h3>Crypto</h3>
+        <p>The monetary system machines need. Programmable money, smart contracts, and permissionless payments — the infrastructure of the autonomous economy.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Thesis Teaser -->
+<section class="thesis-teaser">
+  <div class="container">
+    <div class="teaser-content">
+      <h2>The Investment Framework for the Machine Economy</h2>
+      <blockquote>
+        "There are moments in history when the tectonic foundations of the economy shift. The steam engine was such a moment. Electrification. The internet. We are standing at such a point right now. And this time, the transformation is more radical than anything we have ever known."
+      </blockquote>
+      <p>A 10,000+ word analysis covering the four phases of AI evolution, why machines will need crypto, the geopolitical landscape, brain-computer interfaces, and a concrete investment framework based on Nassim Taleb's barbell strategy.</p>
+      <a href="/thesis/" class="btn btn-primary">Read the Full Thesis →</a>
+    </div>
+  </div>
+</section>
+
+<!-- Newsletter Section -->
+<section class="newsletter-section">
+  <div class="container">
+    {{ partial "newsletter-form.html" . }}
+  </div>
+</section>
+
+<!-- Latest Posts -->
+{{ $posts := where .Site.RegularPages "Section" "blog" }}
+{{ if $posts }}
+<section class="latest-posts">
+  <div class="container">
+    <h2 class="section-title">Latest from the Newsletter</h2>
+    <div class="posts-grid">
+      {{ range first 3 $posts }}
+      <article class="post-card">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <p>{{ .Summary | truncate 160 }}</p>
+        <a href="{{ .Permalink }}" class="read-more">Read more →</a>
+      </article>
+      {{ end }}
+    </div>
+    {{ if gt (len $posts) 3 }}
+    <p class="view-all"><a href="/blog/">View all posts →</a></p>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+{{ end }}

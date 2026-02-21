@@ -1,0 +1,25 @@
+{{ define "main" }}
+<section class="page-header">
+  <div class="container">
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}<p class="page-description">{{ . }}</p>{{ end }}
+  </div>
+</section>
+
+<section class="posts-list">
+  <div class="container container-narrow">
+    {{ range .Pages }}
+    <article class="post-item">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+      <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+      <p>{{ .Summary | truncate 200 }}</p>
+      <a href="{{ .Permalink }}" class="read-more">Read more →</a>
+    </article>
+    {{ end }}
+
+    {{ if not .Pages }}
+    <p class="no-posts">No posts yet. <a href="/subscribe/">Subscribe</a> to get notified when new content is published.</p>
+    {{ end }}
+  </div>
+</section>
+{{ end }}

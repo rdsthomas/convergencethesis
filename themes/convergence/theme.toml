@@ -1,0 +1,8 @@
+name = "Convergence"
+license = "MIT"
+licenselink = "https://github.com/rdsthomas/convergencethesis"
+description = "Custom theme for The Convergence Thesis"
+min_version = "0.100.0"
+
+[author]
+  name = "Thomas Huhn"
