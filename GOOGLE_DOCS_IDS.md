@@ -22,4 +22,5 @@ Ordner: [Maschinengeld — Buchprojekt](https://drive.google.com/drive/folders/1
 | 13 — Warum jetzt | 15eEoof7qbPBm3jLPdV4iEyyHgz0hFb957pJguMGgmgg |
 | 14 — EPILOG — Für Mila | 12G9DQIWEwSTuUM4qiCHe7GQpJ7SO6i0qEwVApLNN3dg |
 | 03b — Wenn alles ein Token wird (Tokenisierung) | 1_W0gumGbxLBX-egarbyj-eg5Kxt8wMvxlcQwdGIV8sk |
+| 03c — Wenn Maschinen Unternehmen gründen (DAOs) | 1pGVwghtmHAn_7ny1jnKZf7wnkWXP820h1U6wCsyn0Dk |
 | 10b — Unsterblichkeit als Investmentthese (Longevity) | 1e1hV2Xb11tLy7npdhDa6dFI4GQvrWd1BT-llRgJws3Q |
