@@ -9,9 +9,10 @@
 ---
 
 ### Zielumfang
-- ~70.000–80.000 Wörter (ca. 280–320 Seiten)
-- Aktueller Stand: ~15.000 Wörter (Essay, 9 Kapitel)
-- Neues Material: ~55.000–65.000 Wörter
+- ~50.000–55.000 Wörter (ca. 200–220 Seiten)
+- Aktueller Stand (25.02.2026): ~44.350 Wörter (18 Kapitel)
+- Noch zu schreiben: ~6.000–11.000 Wörter
+- Benchmarks: Zero to One (45k), Bitcoin Standard (55k), Howard Marks (50k)
 
 ### Legende
 - 📄 = Bestehendes Kapitel (überarbeiten & vertiefen)
