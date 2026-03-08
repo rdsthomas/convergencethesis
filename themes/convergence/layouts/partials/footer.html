@@ -1,20 +1,15 @@
 <footer class="site-footer">
-  <div class="container">
-    <div class="footer-content">
-      <div class="footer-brand">
-        <p class="footer-title">The Convergence Thesis</p>
-        <p class="footer-tagline">AI × Robotics × Crypto — The Machine Economy</p>
-      </div>
+  <div class="footer-cta reveal">
+    <h2>Stay Ahead of the Curve</h2>
+    <p>Get weekly insights on the convergence of AI, Robotics, and Crypto — and what it means for your portfolio.</p>
+    {{ partial "newsletter-form.html" . }}
+  </div>
+  <div class="footer-bottom">
+    <div class="footer-inner">
+      <p>&copy; {{ now.Year }} Thomas Huhn. All rights reserved.</p>
       <div class="footer-links">
-        {{ with .Site.Params.linkedin }}<a href="{{ . }}" target="_blank" rel="noopener">LinkedIn</a>{{ end }}
-        {{ with .Site.Params.twitter }}<a href="{{ . }}" target="_blank" rel="noopener">X / Twitter</a>{{ end }}
-        <a href="/subscribe/">Newsletter</a>
-        <a href="{{ "index.xml" | absURL }}">RSS</a>
+        {{ if .Site.Params.linkedin }}<a href="{{ .Site.Params.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>{{ end }}
       </div>
-    </div>
-    <div class="footer-bottom">
-      <p>&copy; {{ now.Year }} {{ .Site.Params.author }}. All rights reserved.</p>
-      <p class="footer-note">This site reflects personal analysis and conviction. It does not constitute investment advice.</p>
     </div>
   </div>
 </footer>

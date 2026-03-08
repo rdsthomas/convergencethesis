@@ -1,35 +1,38 @@
 ---
 title: "Subscribe"
-description: "Get weekly analysis on the convergence of AI, robotics, and crypto — the investment framework for the machine economy."
+subtitle: "Stay Ahead of the Convergence"
 layout: "single"
 ---
 
-## Stay Ahead of the Machine Economy
+The convergence of AI, Robotics, and Crypto moves fast. Faster than any news cycle can capture. The weekly newsletter cuts through the noise with one chart, one insight, and one portfolio update — written by a practitioner, not a pundit.
 
-I write a weekly newsletter analyzing developments at the intersection of AI, robotics, and crypto. Each issue connects the dots between the three pillars of the Convergence Thesis — new data, new developments, and what they mean for investors and builders.
+**What you get:**
 
-**What you'll get:**
+- Weekly market analysis through the lens of the convergence thesis
+- Portfolio updates — what changed, why, and what it means
+- First access to new chapters, research, and the book launch
 
-- Analysis of the week's most significant developments in AI, robotics, and crypto
-- Investment implications through the lens of the Convergence Thesis
-- Updates on brain-computer interfaces, energy infrastructure, and the autonomous economy
-- An honest practitioner's perspective — no hype, no financial advice
+**What you don't get:**
 
-<div class="newsletter-box" style="margin-top: 2rem;">
-  <form
-    action="https://buttondown.com/api/emails/embed-subscribe/convergencethesis"
-    method="post"
-    target="popupwindow"
-    class="newsletter-form"
-  >
-    <div class="form-row">
-      <input type="email" name="email" placeholder="Your email address" required>
-      <button type="submit">Subscribe</button>
-    </div>
-    <p class="form-note">Free. No spam. Unsubscribe anytime.</p>
-  </form>
+- Spam
+- Generic "Top 10 AI Stocks" listicles
+- Content generated without thought
+
+<div style="max-width: 480px; margin: 2rem auto;">
+
+<form
+  action="https://buttondown.com/api/emails/embed-subscribe/convergencethesis"
+  method="post"
+  target="popupwindow"
+  class="newsletter-form"
+  style="flex-direction: column; gap: 1rem;"
+>
+  <input type="email" name="email" placeholder="your@email.com" required style="width: 100%;">
+  <button type="submit" style="width: 100%;">Subscribe — It's Free</button>
+</form>
+
 </div>
 
----
+No credit card. No obligation. Unsubscribe anytime.
 
-*You can also follow along on [LinkedIn](https://www.linkedin.com/in/thomashuhn/) or subscribe via [RSS](/blog/index.xml).*
+Your data stays with [Buttondown](https://buttondown.com), a privacy-first newsletter platform. No tracking pixels, no data selling.

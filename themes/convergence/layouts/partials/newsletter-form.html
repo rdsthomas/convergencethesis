@@ -1,18 +1,9 @@
-{{ if .Site.Params.newsletterEnabled }}
-<div class="newsletter-box">
-  <h3>Stay ahead of the Machine Economy</h3>
-  <p>Get weekly analysis on AI, robotics, and crypto — where the three pillars converge.</p>
-  <form
-    action="https://buttondown.com/api/emails/embed-subscribe/{{ .Site.Params.newsletterHandle }}"
-    method="post"
-    target="popupwindow"
-    class="newsletter-form"
-  >
-    <div class="form-row">
-      <input type="email" name="email" placeholder="Your email address" required>
-      <button type="submit">Subscribe</button>
-    </div>
-    <p class="form-note">Free. No spam. Unsubscribe anytime.</p>
-  </form>
-</div>
-{{ end }}
+<form
+  action="https://buttondown.com/api/emails/embed-subscribe/{{ .Site.Params.newsletterHandle }}"
+  method="post"
+  target="popupwindow"
+  class="newsletter-form"
+>
+  <input type="email" name="email" placeholder="your@email.com" required>
+  <button type="submit">Subscribe</button>
+</form>

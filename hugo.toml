@@ -4,18 +4,14 @@ title = "The Convergence Thesis"
 theme = "convergence"
 
 [params]
-  description = "AI, Robotics, and Crypto as the Investment Framework for the Machine Economy"
+  description = "AI, Robotics, and Crypto Will Reshape the Global Economy. Here's the Investment Map."
   author = "Thomas Huhn"
-  tagline = "Why AI, Robotics, and Crypto Represent the Greatest Investment Opportunity of Our Lifetime"
-  # Newsletter signup (Buttondown)
+  tagline = "The Machine Economy Is Coming. Position Yourself Now."
   newsletterEnabled = true
   newsletterProvider = "buttondown"
   newsletterHandle = "convergencethesis"
-  # Social
   linkedin = "https://www.linkedin.com/in/thomashuhn/"
   twitter = ""
-  # Analytics (add later)
-  # googleAnalytics = ""
 
 [markup]
   [markup.goldmark]
@@ -34,12 +30,12 @@ theme = "convergence"
 
 [menu]
   [[menu.main]]
-    name = "Thesis"
-    url = "/thesis/"
+    name = "The Thesis"
+    url = "/"
     weight = 1
   [[menu.main]]
-    name = "Blog"
-    url = "/blog/"
+    name = "Book"
+    url = "/book/"
     weight = 2
   [[menu.main]]
     name = "About"
