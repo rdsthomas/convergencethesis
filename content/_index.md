@@ -262,7 +262,7 @@ The energy infrastructure play: Cameco (world's largest uranium producer), Const
 <div class="chapter-header">
   <span class="chapter-number">05</span>
   <span class="chapter-label">Chapter 5</span>
-  <h2 class="chapter-title">Robots Get Bodies</h2>
+  <h2 class="chapter-title">AI Gets Bodies</h2>
 </div>
 
 The robotics revolution is the part of the convergence you can touch.
