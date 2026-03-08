@@ -1,9 +1,11 @@
 <footer class="site-footer">
+  {{ if ne .Page.RelPermalink "/subscribe/" }}
   <div class="footer-cta reveal">
     <h2>Stay Ahead of the Curve</h2>
     <p>Get weekly insights on the convergence of AI, Robotics, and Crypto — and what it means for your portfolio.</p>
     {{ partial "newsletter-form.html" . }}
   </div>
+  {{ end }}
   <div class="footer-bottom">
     <div class="footer-inner">
       <p>&copy; {{ now.Year }} Thomas Huhn. All rights reserved.</p>
