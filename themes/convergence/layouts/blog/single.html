@@ -1,0 +1,16 @@
+{{ define "main" }}
+<article class="page-content blog-post">
+  <div class="page-header reveal">
+    <span class="post-date">{{ .Date.Format "January 2, 2006" }}</span>
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.subtitle }}<p class="page-subtitle">{{ . }}</p>{{ end }}
+  </div>
+  <div class="page-body">
+    {{ .Content }}
+  </div>
+  <div class="post-footer reveal">
+    <hr>
+    <p><a href="/blog/">← Back to all posts</a></p>
+  </div>
+</article>
+{{ end }}
