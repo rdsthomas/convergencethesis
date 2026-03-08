@@ -38,17 +38,21 @@ theme = "convergence"
     url = "/book/"
     weight = 2
   [[menu.main]]
+    name = "Watchlist"
+    url = "/watchlist/"
+    weight = 3
+  [[menu.main]]
     name = "Blog"
     url = "/blog/"
-    weight = 3
+    weight = 4
   [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 4
+    weight = 5
   [[menu.main]]
     name = "Subscribe"
     url = "/subscribe/"
-    weight = 5
+    weight = 6
 
 [sitemap]
   changefreq = "weekly"
