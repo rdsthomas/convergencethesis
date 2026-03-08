@@ -798,6 +798,10 @@ body {
 }
 
 /* --- Watchlist --- */
+.watchlist-page .page-content {
+  max-width: var(--max-width-wide);
+}
+
 .watchlist-page .page-header {
   text-align: center;
   margin-bottom: 2rem;
