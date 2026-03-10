@@ -198,12 +198,15 @@ p img { text-indent: 0; }
 }
 
 /* Bibliography / Literaturverzeichnis */
-.bib-section p, .bib-entry {
+.bib-section p, .bib-section .bib-entry {
     text-indent: 0 !important;
+    padding-left: 0 !important;
+    margin-left: 0 !important;
     margin: 0.4em 0;
     line-height: 1.5;
 }
-.bib-section h3, .bib-section h4 {
+.bib-section h2, .bib-section h3, .bib-section h4 {
+    text-indent: 0 !important;
     margin-top: 1.2em;
     margin-bottom: 0.3em;
 }
@@ -381,7 +384,7 @@ KINDER_TABLE_C = """
 <tr><td>Bitcoin*</td><td>Im eigenen Depot</td><td>15 %</td><td>30 €</td></tr>
 <tr><td>Ethereum*</td><td>Im eigenen Depot</td><td>5 %</td><td>10 €</td></tr>
 <tr class="total-row"><td colspan="2">Gesamt</td><td>100 %</td><td>200 €</td></tr>
-<tr><td colspan="4" style="text-align:right; font-style:italic; font-size:0.85em; border-top: 2px solid #1a3a5c;">* Krypto nicht im Junior-Depot möglich — Kauf im eigenen Namen, Übertrag zum 18. Geburtstag<br/>Konservativ: ca. 141.000 € · Optimistisch: bis zu 195.000 €</td></tr>
+<tr><td colspan="4" style="text-align:right; font-style:italic; font-size:0.85em; border-top: 2px solid #1a3a5c;">&#42; Krypto nicht im Junior-Depot möglich — Kauf im eigenen Namen, Übertrag zum 18. Geburtstag. Konservativ: ca. 141.000 € · Optimistisch: bis zu 195.000 €</td></tr>
 </table>
 """
 
@@ -526,6 +529,16 @@ def fix_markdown(md):
             i += 1
             continue
         
+        # === STANDALONE IMAGE CAPTIONS ===
+        # Lines like "Abbildung X: ..." that follow an image — format as caption, not content
+        caption_clean = line.strip().strip('*').strip()
+        if caption_clean.startswith('Abbildung ') and re.match(r'^Abbildung \d+:', caption_clean):
+            output.append(f'*{caption_clean}*')
+            output.append('')
+            chapter_start_pending = False  # Don't apply drop-cap to whatever follows
+            i += 1
+            continue
+
         # === DETECT CHAPTER HEADINGS ===
         heading_clean = re.sub(r'\*\*', '', line.lstrip('#').strip())
         is_chapter = re.match(r'^#{2,3}\s+\*?\*?(Kapitel \d+|Vorwort|Epilog)', line)
@@ -537,8 +550,8 @@ def fix_markdown(md):
             i += 1
             continue
         elif is_chapter and in_backmatter:
-            # Endnotes chapter headings — keep as H2, no drop cap
-            output.append(f'## {heading_clean}')
+            # Endnotes chapter headings — keep as H3 to exclude from TOC
+            output.append(f'### {heading_clean}')
             i += 1
             continue
         
@@ -707,11 +720,13 @@ def fix_markdown(md):
             i += 1
             continue
         
-        # === H3 → H2 ===
+        # === H3 → H2 (or H3 in backmatter to keep out of TOC) ===
         if line.startswith('### ') and not line.startswith('#### '):
             clean = re.sub(r'\*\*(.+?)\*\*', r'\1', line[4:].strip())
-            # Don't add ornamental break for H3s that are chapter headings
-            if not re.match(r'(Kapitel \d+|Vorwort|Epilog)', clean):
+            # In backmatter (Literaturverzeichnis sub-headings, Endnotes chapters): keep as H3
+            if in_backmatter or in_literatur:
+                output.append(f'### {clean}')
+            elif not re.match(r'(Kapitel \d+|Vorwort|Epilog)', clean):
                 if not in_backmatter:
                     last_non_empty = ''
                     for prev in reversed(output):
@@ -751,16 +766,22 @@ def fix_markdown(md):
         # === DROP CAP for first paragraph after chapter heading ===
         if chapter_start_pending and line.strip() and not line.startswith('#') and not line.startswith('<') and not line.startswith('!'):
             # This is the first content paragraph — add drop-cap class
-            # But skip if it's an epigraph or empty
+            # But skip if it's an epigraph, empty, or an image caption
             clean = line.strip()
+            clean_nostar = clean.strip('*').strip()
             if clean and not clean.startswith('✦') and not clean.startswith('📌') and not clean.startswith('✅'):
-                # Check it's not an epigraph (already handled above) 
+                # Check it's not an epigraph (already handled above)
+                # Check it's not an image caption (starts with "Abbildung")
                 if not (clean.lstrip('*').startswith('„') or clean.startswith('—')):
-                    output.append(f'<p class="drop-cap">{clean}</p>')
-                    output.append('')
-                    chapter_start_pending = False
-                    i += 1
-                    continue
+                    if clean_nostar.startswith('Abbildung ') or clean_nostar.startswith('\\['):
+                        # Image caption or bracketed note — don't apply drop cap, pass through
+                        pass
+                    else:
+                        output.append(f'<p class="drop-cap">{clean}</p>')
+                        output.append('')
+                        chapter_start_pending = False
+                        i += 1
+                        continue
         
         # === DETECT ANHANG HEADINGS (plain text "Anhang X --- ...") ===
         anhang_match = re.match(r'^Anhang\s+([A-E])\s+---\s+(.+)$', line.strip())
