@@ -29,7 +29,7 @@ import urllib.parse
 DOC_ID = '1JF7Kei019q0iunIISa-fCq7Y4aLcHWHmkjBOb7MBlms'
 BUILD_DIR = '/root/clawd/projects/convergencethesis/epub-build'
 COVER = os.path.join(BUILD_DIR, 'images', 'cover.png')
-OUTPUT = os.path.join(BUILD_DIR, 'Maschinenwelt-v5-styled.epub')
+OUTPUT = os.path.join(BUILD_DIR, 'The-AI-Species-v5-styled.epub')
 DOCX_PATH = '/tmp/maschinenwelt-v5.docx'
 MD_PATH = '/tmp/maschinenwelt-v5-styled.md'
 
@@ -450,8 +450,8 @@ def fix_markdown(md):
     
     # YAML front matter
     output.append('---')
-    output.append('title: "Maschinenwelt"')
-    output.append('subtitle: "Besitze sie, oder sie besitzen dich"')
+    output.append('title: "The AI Species"')
+    output.append('subtitle: "Besitze sie. Sonst besitzt sie dich."')
     output.append('author: "Thomas Huhn"')
     output.append('date: "2026"')
     output.append('lang: de-DE')
@@ -985,7 +985,7 @@ def build_epub(md_path):
 def upload_to_drive(token, file_path):
     """Upload EPUB to Google Drive and return file ID."""
     folder_id = '1NCcMZTw2tpKh--Up-moGPjoZCZrNnDwm'
-    file_name = 'Maschinenwelt-v5-styled.epub'
+    file_name = 'The-AI-Species-v5-styled.epub'
     
     # Check if file already exists in folder and update it
     search_url = f"https://www.googleapis.com/drive/v3/files?q=name='{file_name}'+and+'{folder_id}'+in+parents+and+trashed=false&fields=files(id)"
@@ -1043,7 +1043,7 @@ def count_elements(md_text):
 
 def main():
     print("=" * 60)
-    print("  MASCHINENWELT v5 — EPUB Build (from pre-styled Doc)")
+    print("  THE AI SPECIES v5 — EPUB Build (from pre-styled Doc)")
     print("=" * 60)
     
     print("\n📥 Step 1: Download fresh DOCX from Google Doc v5...")
