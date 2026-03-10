@@ -260,6 +260,32 @@ p img { text-indent: 0; }
     line-height: 1.5;
     font-size: 0.9em;
 }
+
+/* Abbildungsverzeichnis */
+.abbildung-entry {
+    text-indent: 0 !important;
+    margin: 0.3em 0;
+}
+.abbildung-source {
+    text-indent: 0 !important;
+    margin: 0 0 0.8em 0;
+    font-size: 0.85em;
+    color: #666;
+}
+
+/* Stichwortverzeichnis */
+.stichwort-entry {
+    text-indent: 0 !important;
+    margin: 0.3em 0;
+    line-height: 1.5;
+}
+.stichwort-letter {
+    text-indent: 0 !important;
+    font-weight: bold;
+    font-size: 1.1em;
+    color: #1a3a5c;
+    margin: 0.8em 0 0.2em 0;
+}
 """
 
 
@@ -440,6 +466,8 @@ def fix_markdown(md):
     chapter_start_pending = False  # Next content paragraph gets drop-cap
     in_glossar = False
     in_literatur = False
+    in_abbildungen = False
+    in_stichwort = False
     
     i = 0
     while i < len(lines):
@@ -707,6 +735,16 @@ def fix_markdown(md):
                 output.append(f'# {clean}')
             else:
                 output.append(f'# {clean}')
+            # Set section tracking flags
+            if 'Abbildungsverzeichnis' in clean:
+                in_abbildungen = True
+                in_stichwort = False
+            elif 'Stichwortverzeichnis' in clean:
+                in_stichwort = True
+                in_abbildungen = False
+            else:
+                in_abbildungen = False
+                in_stichwort = False
             i += 1
             continue
         
@@ -831,6 +869,61 @@ def fix_markdown(md):
             output.append(f'<p class="endnote-entry">{num}. {text}</p>')
             i += 1
             continue
+
+        # === DETECT Abbildungsverzeichnis / Stichwortverzeichnis headings ===
+        heading_text_clean = re.sub(r'\*\*', '', line.strip())
+        if heading_text_clean == 'Abbildungsverzeichnis' or (line.startswith('#') and 'Abbildungsverzeichnis' in line):
+            in_abbildungen = True
+            in_stichwort = False
+            # Keep as heading
+            if not line.startswith('#'):
+                output.append(f'# {heading_text_clean}')
+            else:
+                output.append(line)
+            i += 1
+            continue
+        if heading_text_clean == 'Stichwortverzeichnis' or (line.startswith('#') and 'Stichwortverzeichnis' in line):
+            in_abbildungen = False
+            in_stichwort = True
+            if not line.startswith('#'):
+                output.append(f'# {heading_text_clean}')
+            else:
+                output.append(line)
+            i += 1
+            continue
+
+        # === ABBILDUNGSVERZEICHNIS: no indent, format entries ===
+        if in_abbildungen and line.strip():
+            clean = line.strip()
+            # "Abbildung X: ..." lines
+            if clean.startswith('*Abbildung') or clean.startswith('Abbildung'):
+                text = clean.strip('*').strip()
+                output.append(f'<p class="abbildung-entry"><em>{text}</em></p>')
+                i += 1
+                continue
+            # Source lines "Kapitel X | ..."
+            if clean.startswith('Kapitel') and '|' in clean:
+                text = clean.replace('\\|', '|')
+                output.append(f'<p class="abbildung-source">{text}</p>')
+                i += 1
+                continue
+
+        # === STICHWORTVERZEICHNIS: no indent, bold keywords ===
+        if in_stichwort and line.strip():
+            clean = line.strip()
+            # Single letter headings (A, B, C, ...)
+            if re.match(r'^[A-ZÄÖÜ]$', clean):
+                output.append(f'<p class="stichwort-letter">{clean}</p>')
+                i += 1
+                continue
+            # Keyword entries: "Keyword --- Kap. X, ..."
+            dash_match = re.match(r'^(.+?)\s+---\s+(.+)$', clean)
+            if dash_match:
+                keyword = dash_match.group(1).strip('*').strip()  # Remove any markdown bold markers
+                chapters = dash_match.group(2)
+                output.append(f'<p class="stichwort-entry"><strong>{keyword}</strong> — {chapters}</p>')
+                i += 1
+                continue
 
         # Default: pass through
         output.append(line)
