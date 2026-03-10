@@ -250,6 +250,16 @@ p img { text-indent: 0; }
     border-top: 2px solid #1a3a5c;
     background-color: #f0f4f8;
 }
+
+/* Endnotes: hanging indent — number flush left, text indented */
+.endnote-entry {
+    text-indent: 0 !important;
+    padding-left: 2.5em;
+    text-indent: -2.5em !important;
+    margin: 0.4em 0;
+    line-height: 1.5;
+    font-size: 0.9em;
+}
 """
 
 
@@ -309,6 +319,43 @@ PORTFOLIO_TABLE_C = """
 <tr><td>RWA</td><td>Private Equity, Immobilien, Private Credit</td><td>7 %</td></tr>
 <tr><td>Venture / Angel</td><td>peaq-Ökosystem, Robotik-DAOs, BCI-nahe Firmen</td><td>5 %</td></tr>
 <tr class="total-row"><td colspan="2">Gesamt</td><td>100 %</td></tr>
+</table>
+"""
+
+
+# Kinderportfolio tables for Anhang E
+KINDER_TABLE_A = """
+<table class="portfolio-table">
+<caption>Variante A — Der einfache Weg (200 €/Monat, 1 ETF)</caption>
+<tr><th>Asset</th><th>Produkt / ISIN</th><th>Anteil</th><th>Betrag</th></tr>
+<tr><td>MSCI World ETF</td><td>IE00B4L5Y983 (TER 0,20 %)</td><td>100 %</td><td>200 €</td></tr>
+<tr><td colspan="4" style="text-align:right; font-style:italic; border-top: 2px solid #1a3a5c;">Erwartung bei 8 % p.a., 18 Jahre: ca. 96.000 € (eingezahlt: 43.200 €)</td></tr>
+</table>
+"""
+
+KINDER_TABLE_B = """
+<table class="portfolio-table">
+<caption>Variante B — Mit KI-Tilt (200 €/Monat, 3 ETFs)</caption>
+<tr><th>Asset</th><th>Produkt / ISIN</th><th>Anteil</th><th>Betrag</th></tr>
+<tr><td>MSCI World ETF</td><td>IE00B4L5Y983</td><td>60 %</td><td>120 €</td></tr>
+<tr><td>Nasdaq-100 ETF</td><td>IE00BFZXGZ54</td><td>25 %</td><td>50 €</td></tr>
+<tr><td>Robotik-ETF</td><td>IE00BYZK4552</td><td>15 %</td><td>30 €</td></tr>
+<tr class="total-row"><td colspan="2">Gesamt</td><td>100 %</td><td>200 €</td></tr>
+<tr><td colspan="4" style="text-align:right; font-style:italic; border-top: 2px solid #1a3a5c;">Erwartung bei 10 % p.a., 18 Jahre: ca. 120.000 €</td></tr>
+</table>
+"""
+
+KINDER_TABLE_C = """
+<table class="portfolio-table">
+<caption>Variante C — Die aggressive Kinderbarbell (200 €/Monat)</caption>
+<tr><th>Asset</th><th>Produkt / ISIN</th><th>Anteil</th><th>Betrag</th></tr>
+<tr><td>MSCI World ETF</td><td>IE00B4L5Y983</td><td>50 %</td><td>100 €</td></tr>
+<tr><td>Nasdaq-100 ETF</td><td>IE00BFZXGZ54</td><td>20 %</td><td>40 €</td></tr>
+<tr><td>Robotik-ETF</td><td>IE00BYZK4552</td><td>10 %</td><td>20 €</td></tr>
+<tr><td>Bitcoin*</td><td>Im eigenen Depot</td><td>15 %</td><td>30 €</td></tr>
+<tr><td>Ethereum*</td><td>Im eigenen Depot</td><td>5 %</td><td>10 €</td></tr>
+<tr class="total-row"><td colspan="2">Gesamt</td><td>100 %</td><td>200 €</td></tr>
+<tr><td colspan="4" style="text-align:right; font-style:italic; font-size:0.85em; border-top: 2px solid #1a3a5c;">* Krypto nicht im Junior-Depot möglich — Kauf im eigenen Namen, Übertrag zum 18. Geburtstag<br/>Konservativ: ca. 141.000 € · Optimistisch: bis zu 195.000 €</td></tr>
 </table>
 """
 
@@ -753,6 +800,35 @@ def fix_markdown(md):
             output.append('')
             output.append(PORTFOLIO_TABLE_C)
             output.append('')
+            i += 1
+            continue
+
+        # === KINDERPORTFOLIO TABLES (Anhang E) ===
+        if 'Variante A' in line and 'einfache Weg' in line and '1 ETF' in line:
+            output.append(KINDER_TABLE_A)
+            output.append('')
+            output.append(line)
+            i += 1
+            continue
+        if 'Variante B' in line and 'KI-Tilt' in line and '3 ETF' in line:
+            output.append(KINDER_TABLE_B)
+            output.append('')
+            output.append(line)
+            i += 1
+            continue
+        if 'Variante C' in line and 'aggressive Kinderbarbell' in line:
+            output.append(KINDER_TABLE_C)
+            output.append('')
+            output.append(line)
+            i += 1
+            continue
+
+        # === ENDNOTES: Hanging indent for numbered entries ===
+        endnote_match = re.match(r'^(\d+)\\\.\s+(.+)', line.strip())
+        if in_backmatter and endnote_match:
+            num = endnote_match.group(1)
+            text = endnote_match.group(2)
+            output.append(f'<p class="endnote-entry">{num}. {text}</p>')
             i += 1
             continue
 
