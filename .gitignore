@@ -2,3 +2,5 @@ public/
 resources/
 .hugo_build.lock
 node_modules/
+insert-images-v2.py
+insert-images-api.py

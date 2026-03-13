@@ -1,0 +1,196 @@
+Kapitel 5: Energie — Der unsichtbare Engpass
+Über KI wird viel geschrieben. Über die Chips, die sie antreiben, wird geschrieben. Über die Modelle, die sie intelligent machen, wird geschrieben. Über die Roboter, die ihr einen Körper geben, wird geschrieben.
+
+
+Über den Strom, den das alles verschlingt, wird erschreckend wenig geschrieben. Und das ist ein Fehler, weil Energie der unsichtbare Engpass der KI-Revolution ist, der kritische Flaschenhals, an dem die gesamte Vision scheitern oder gelingen wird.
+Warum KI einen unstillbaren Energiehunger hat
+Künstliche Intelligenz braucht Strom — nicht ein bisschen, nicht moderat, sondern in Mengen, die selbst Energieexperten erschrecken.
+
+
+Das Training eines großen Sprachmodells — der Prozess, in dem das Modell aus Milliarden von Textdokumenten lernt — verbraucht so viel Strom wie eine Kleinstadt über mehrere Monate. Das Training von GPT-4 hat schätzungsweise 50 Gigawattstunden verbraucht. Zum Vergleich: Ein durchschnittlicher deutscher Haushalt verbraucht etwa 3.500 Kilowattstunden pro Jahr. Das Training eines einzigen KI-Modells verbraucht also so viel Strom wie 14.000 Haushalte in einem ganzen Jahr.
+
+
+Und das Training ist nur der Anfang. Die Inferenz - also der laufende Betrieb des Modells, wenn Millionen von Nutzern gleichzeitig Anfragen stellen - verbraucht auf Dauer mehr Energie als das Training. Jede Frage an ChatGPT, jede Code-Generierung durch Copilot, jede Bild-Erstellung durch DALL-E verbraucht Rechenleistung. Und damit Strom. Goldman Sachs schätzt, dass eine einzelne ChatGPT-Anfrage etwa zehnmal so viel Strom verbraucht wie eine Google-Suche.
+
+
+Rechenzentren, die den Großteil dieser Rechenarbeit leisten, verbrauchen bereits heute geschätzt 4,4 Prozent des gesamten US-Stroms. Die Internationale Energieagentur (IEA) prognostiziert, dass sich der Energieverbrauch von Rechenzentren bis 2030 mehr als verdoppeln wird. Diese Prognose basiert auf aktuellen KI-Workloads, also primär Textgenerierung und Bildverarbeitung für Unternehmensanwendungen.
+  
+Abbildung 15: Energiehunger der KI — Rechenzentren fressen immer mehr Strom
+
+
+Jetzt stellen Sie sich vor, was passiert, wenn KI-Agenten rund um die Uhr autonom arbeiten. Wenn Millionen von Robotern in Echtzeit gesteuert werden. Wenn - wie wir im BCI-Kapitel sehen werden - KI personalisierte, physik-simulierte 3D-Welten für Millionen von Nutzern gleichzeitig generiert. Die Energieanforderungen steigen nicht linear. Sie steigen exponentiell.
+
+
+OpenAI hat die US-Regierung aufgefordert, 100 Gigawatt zusätzliche Stromerzeugungskapazität pro Jahr zu bauen — das Äquivalent von 100 Kernkraftwerken jährlich. Das klingt wie eine absurde Forderung. Es ist die logische Konsequenz der Zahlen.
+
+
+Warum Solar und Wind nicht reichen
+
+
+Jetzt kommt ein Punkt, an dem ich Leute regelmäßig verliere. Sobald ich sage, dass Kernenergie der Schlüssel zur Energieversorgung der KI-Revolution ist, höre ich: "Aber Solar und Wind sind doch viel billiger geworden!" Und das stimmt. Die Baukosten für Solaranlagen sind in den letzten zehn Jahren um über 80 Prozent gefallen. Onshore-Wind ist konkurrenzfähig mit Erdgas. Auf Basis der sogenannten Levelized Cost of Energy (LCOE, also der Gesamtkosten pro erzeugter Megawattstunde über die Lebensdauer einer Anlage) kostet Solar 38 bis 78 Dollar pro Megawattstunde, Onshore-Wind 27 bis 73 Dollar, Erdgas 48 bis 107 Dollar, ein neues Kernkraftwerk dagegen 141 bis 220 Dollar.
+
+
+Fall abgeschlossen? Erneuerbare gewinnen?
+
+
+Nein. Denn diese Zahlen lügen. Nicht absichtlich, aber sie verschweigen etwas Entscheidendes: Erneuerbare Energien produzieren Strom, wenn die Sonne scheint und der Wind weht. Nicht wenn man ihn braucht. Und ein KI-Rechenzentrum braucht Strom rund um die Uhr, 365 Tage im Jahr, mit einer Zuverlässigkeit von 99,99 Prozent. Keine Pause, kein Wochenende, kein "heute war leider bewölkt".
+
+
+Der Kapazitätsfaktor macht den Unterschied. Ein Kernkraftwerk hat einen Kapazitätsfaktor von 92,5 Prozent. Das heißt, es liefert über 22 Stunden am Tag, über 340 Tage im Jahr Strom. Solar liegt bei 23 bis 25 Prozent, Onshore-Wind bei 33 bis 35 Prozent. Ein 1-Gigawatt-Kernkraftwerk erzeugt pro Jahr etwa 8.100 Gigawattstunden. Um dieselbe Energiemenge mit Solar zu erzeugen, bräuchte man die drei- bis vierfache installierte Kapazität. Und selbst dann nicht zur richtigen Zeit.
+
+
+Nachts scheint keine Sonne. Das klingt banal. Aber für ein Rechenzentrum, das gerade einen Trainingsrun über mehrere Wochen durchführt, ist das ein Deal-Breaker. Man kann ein KI-Training nicht pausieren, weil Wolken aufziehen. Man kann einen Inferenz-Service für 200 Millionen Nutzer nicht herunterfahren, weil abends der Wind nachlässt.
+
+
+Und in Europa gibt es das Phänomen der Dunkelflaute, Tage oder Wochen im Winter, in denen gleichzeitig wenig Sonne und wenig Wind verfügbar sind. Deutschland hat das im Januar 2024 erlebt: über eine Woche lang lagen Solar- und Windproduktion zusammen bei unter 10 Prozent der installierten Kapazität. Kohle- und Gaskraftwerke mussten einspringen. Ein KI-Rechenzentrum, das nur auf Erneuerbare setzt, hätte in dieser Woche ein ernstes Problem gehabt.
+
+
+Die Fläche verschärft das Problem weiter. Ein Kernkraftwerk braucht etwa 3,4 Quadratkilometer für 1 Gigawatt Leistung. Ein Solarpark braucht für dieselbe Energieproduktion 115 bis 195 Quadratkilometer. Das ist 35 bis 60 Mal mehr Fläche. Ein Windpark braucht 670 bis 930 Quadratkilometer, also 200 bis 280 Mal mehr. In einem dicht besiedelten Land wie Deutschland oder den Niederlanden stoßen Erneuerbare an physische Grenzen, lange bevor die Kosten relevant werden.
+
+
+Was ist mit Speicher? Die Idee, tagsüber überschüssigen Solarstrom in Batterien zu speichern und nachts zu nutzen, klingt logisch. Aber die Rechnung geht nicht auf.
+
+
+Gordon Hughes, Energieökonom und ehemaliger Weltbank-Berater, hat durchgerechnet, was es kosten würde, ein 1-Gigawatt-Rechenzentrum rein erneuerbar mit 99,99 Prozent Zuverlässigkeit zu versorgen. Sein Ergebnis: 1,8 Gigawatt Offshore-Wind, 1,5 Gigawatt Solar und 8 Gigawattstunden Batteriespeicher. Gesamtkosten: 13,3 Milliarden Dollar. Zum Vergleich: Dieselbe Versorgung mit einem konventionellen Kernkraftwerk plus Gas-Backup kostet 9,85 Milliarden.
+
+
+Und selbst diese 13,3 Milliarden lösen das Problem nicht vollständig. Acht Stunden Batteriespeicher decken eine Nacht ab. Aber was passiert bei einer Dunkelflaute, die fünf Tage dauert? Oder bei einer dreiwöchigen Wartungsperiode? Batteriespeicher für 35 Tage würde über 60 Milliarden Dollar kosten. Allein für ein einziges Rechenzentrum.
+
+
+Über den LCOE-Vergleich sagte Hughes: "Die einzige Verwendung von LCOE-Vergleichen zwischen verschiedenen Technologien ist Lobbyarbeit und PR." Er hat einen Punkt. Wenn man zu den reinen Stromerzeugungskosten von Solar die sogenannten Firming Costs addiert, also Speicher, Netzausbau und Gas-Backup für die dunklen Stunden, landet man bei 90 bis 150 Dollar pro Megawattstunde. Plötzlich sieht Kernenergie gar nicht mehr so teuer aus.
+
+
+Verstehen Sie mich nicht falsch: Erneuerbare Energien sind ein wichtiger Teil des Energiemixes. Für den Haushaltsstrom, für die Industrie, für das Aufladen von Elektroautos. Aber für die permanente, ununterbrechbare Grundlast, die KI-Rechenzentren brauchen, sind sie allein keine Lösung. Das hat nichts mit Ideologie zu tun. Das ist Physik.
+
+
+Google, der weltweit größte private Käufer erneuerbarer Energien, hat das verstanden. Trotz Hunderten von Solar- und Wind-Deals hat kein einziges Google-Rechenzentrum bisher eine 100-prozentige Versorgung mit kohlenstofffreier Energie geschafft. Nicht an einem einzigen Tag im Jahr. Der Grund: Die langfristigen Stromkaufverträge, die sogenannten PPAs, mit Solar- und Windparks sind im Wesentlichen buchhalterische Übungen. Der Windpark steht in Texas, das Rechenzentrum in Virginia. Der Solarstrom wird mittags ins Netz eingespeist, das Rechenzentrum braucht ihn um drei Uhr nachts. Auf dem Papier stimmt die Rechnung. Physisch fließt der Strom nachts aus dem Gaskraftwerk nebenan.
+
+
+Genau deshalb wenden sich Google, Microsoft, Amazon und Meta jetzt der Kernenergie zu. Nicht aus Nostalgie, nicht weil sie plötzlich Atomfans geworden sind, sondern weil es die einzige kohlenstofffreie Technologie ist, die rund um die Uhr Strom liefert. In ausreichender Menge. Auf kleiner Fläche.
+Warum die Tech-Giganten Atomkraftwerke kaufen  Abbildung 14: Tech-Giganten werden Energiekonzerne
+
+
+Hier wird es für Investoren relevant. Denn die Tech-Unternehmen haben das Energieproblem nicht nur erkannt — sie haben begonnen, es selbst zu lösen. Und die Art, wie sie es lösen, sagt viel über die Zukunft der Energiemärkte aus.
+
+
+Microsoft hat 16 Milliarden Dollar in ein Abkommen investiert, um den Three Mile Island-Reaktor in Pennsylvania wieder in Betrieb zu nehmen. Ja, den Three Mile Island — den Ort des schwersten Nuklearunfalls in der Geschichte der USA. Die Ironie ist offensichtlich. Aber Microsofts Kalkül ist nüchtern: Three Mile Island liefert zuverlässig Grundlaststrom, ohne CO₂-Emissionen, in der Nähe wichtiger Rechenzentren an der Ostküste. Die Vergangenheit des Standorts ist ein PR-Problem. Die Physik ist solide.
+
+
+Amazon hat 20 Milliarden Dollar in das Kernkraftwerk Susquehanna investiert und weitere Deals mit Energieversorgern abgeschlossen. Google hat 500 Megawatt Strom von Kairos Energy bestellt, einem Startup, das Small Modular Reactors entwickelt. Meta hat Anfragen für 1 bis 4 Gigawatt neuer Kernenergie-Erzeugung ausgeschrieben.
+
+
+Das sind keine Randnotizen. Das sind die größten Unternehmen der Welt, die Milliarden investieren, um ihre eigene Stromversorgung zu sichern — weil der Markt nicht schnell genug liefern kann, was sie brauchen.
+
+
+Die kritische Erkenntnis für Investoren: Diese Unternehmen kaufen Strom nicht von Versorgern. Sie kaufen die Kraftwerke. Sie integrieren ihre Energieversorgung vertikal, so wie sie bereits ihre Chip-Entwicklung, ihre Cloud-Infrastruktur und zunehmend ihre KI-Modelle vertikal integriert haben.
+
+
+Das verändert die Investmentlandschaft. Traditionelle Energieversorger werden nicht die Hauptprofiteure des KI-Energiebooms sein, zumindest nicht im gleichen Maße wie die Unternehmen, die die Technologie kontrollieren. Der Wert fließt zu den Technologie-Anbietern an den Enden der Kette: den Reaktorbauern, den Uran-Lieferanten und den Tech-Unternehmen selbst. Small Modular Reactors: Die Zukunft der KI-Energieversorgung Small Modular Reactors (SMRs) sind das Konzept, das Kernenergie für das KI-Zeitalter neu definiert. Statt riesiger Kraftwerke, die Jahrzehnte in der Planung und Milliarden im Bau kosten, sind SMRs kompakt, in Fabriken vorgefertigt und können in der Nähe von Rechenzentren aufgestellt werden.
+
+
+NuScale Power hat als erstes Unternehmen eine NRC-Zertifizierung für ein SMR-Design erhalten — die Genehmigung der amerikanischen Atomaufsicht, die den Weg zur kommerziellen Produktion ebnet. Oklo, unterstützt von Sam Altman, entwickelt kompakte Spaltreaktoren, die speziell für Rechenzentren konzipiert sind. Kairos Energy, das den Google-Deal gewonnen hat, arbeitet an einem salzgekühlten Reaktordesign.
+
+
+Die Vorteile für KI-Rechenzentren sind offensichtlich: SMRs liefern 24/7-Grundlaststrom, unabhängig von Wetter oder Tageszeit. Sie haben einen extrem kleinen physischen Fußabdruck. Sie können in der Nähe von Rechenzentren platziert werden, was Übertragungsverluste reduziert. Und sie sind skalierbar — ein Unternehmen kann mit einem Modul anfangen und bei wachsendem Bedarf weitere hinzufügen.
+
+
+Die Zeitlinien sind optimistisch, aber nicht unrealistisch. Die ersten kommerziellen SMRs könnten Ende der 2020er Jahre Strom liefern. Bis 2035 könnten sie ein signifikanter Teil des Energiemixes sein, der die KI-Infrastruktur antreibt. Investmentimplikationen: Uran, SMR-Hersteller, Energieinfrastruktur Für das Investmentportfolio, das wir in Teil IV dieses Buches aufbauen werden, hat das Energie-Thema konkrete Implikationen.
+
+
+Uran ist der Brennstoff der Kernenergie — und damit indirekt der Brennstoff der KI-Revolution. Der Uranpreis hat sich seit 2020 mehr als verdoppelt, getrieben durch die Renaissance der Kernenergie und die Nachfrage der Tech-Giganten. Cameco, der größte börsennotierte Uranproduzent der Welt, ist eine direkte Wette auf steigende Urannachfrage. Kazatomprom in Kasachstan, der weltweit größte Produzent überhaupt, ist ebenfalls investierbar, wenn auch mit höherem geopolitischen Risiko.
+
+
+SMR-Entwickler sind klassische asymmetrische Wetten. NuScale Power (Ticker: SMR — ja, wirklich) ist der am weitesten fortgeschrittene börsennotierte SMR-Entwickler. Oklo ist seit seinem Börsengang über eine SPAC investierbar — eine Special Purpose Acquisition Company, also eine Mantelgesellschaft, die ausschließlich gegründet wird, um ein anderes Unternehmen zu übernehmen und so an die Börse zu bringen. Beide sind Pre-Revenue-Unternehmen mit hohem Risiko — aber in einem Szenario, in dem SMRs zum Standard für Rechenzentrums-Energie werden, sind die Upside-Potenziale enorm.
+
+
+Bestehende Kernkraftwerksbetreiber wie Constellation Energy profitieren bereits. Constellation ist der größte Kernkraftwerksbetreiber der USA und hat langfristige Stromabnahmeverträge mit Microsoft und anderen Tech-Unternehmen unterzeichnet. Im Gegensatz zu SMR-Startups hat Constellation bereits laufende Kraftwerke, regulierte Umsätze und positiven Cashflow. Es ist die konservativere Wette auf die Kernenergie-Renaissance.
+
+
+Die versteckte Krise: Warum Uran knapp wird
+
+
+Der Uranpreis hat sich seit 2020 verdreifacht. Von knapp 30 Dollar pro Pfund U3O8 auf rund 88 Dollar im Februar 2026. Und trotzdem spricht kaum jemand darüber.
+
+
+Das Angebot hält mit der Nachfrage nicht Schritt. Die globale Reaktor-Nachfrage liegt bei etwa 179 Millionen Pfund U3O8 pro Jahr. Die primäre Minenproduktion deckt davon nur 140 bis 150 Millionen Pfund. Die Lücke, 30 bis 40 Millionen Pfund jährlich, wird bisher durch Lagerbestände, wiederaufbereitetes Material und andere sekundäre Quellen geschlossen. Aber diese Quellen schrumpfen. Von 14 Prozent des Angebots heute auf geschätzt 8 Prozent bis 2030.
+
+
+Verschärft wird das Problem durch die beiden größten Produzenten, die gleichzeitig kürzen. Kazatomprom in Kasachstan, mit 24 Prozent der Weltproduktion der größte Einzelproduzent, hat für 2026 eine Produktionskürzung von 10 Prozent angekündigt. Grund: Engpässe bei der Schwefelsäure, die für die Uran-Extraktion gebraucht wird. Cameco in Kanada, mit 14 bis 20 Prozent Marktanteil der größte börsennotierte Produzent, musste seine Produktionsprognose im August 2025 um 19 Prozent senken. Verzögerungen bei der McArthur-River-Mine.
+
+
+Dazu kommen geopolitische Risiken. Niger, ein wichtiges Förderland, wurde 2023 von einem Militärputsch erschüttert. Der französische Urankonzern Orano, der dort einen erheblichen Teil seiner Produktion betreibt, steht vor einer ungewissen Zukunft. Zusammen liefern Kasachstan und Niger rund die Hälfte der weltweiten Primärproduktion. Beide Länder sind politisch instabil.
+
+
+Und dann ist da der Engpass, über den fast niemand spricht: die Urananreicherung. Natururan muss angereichert werden, bevor es als Brennstoff in Reaktoren eingesetzt werden kann. Die globale Anreicherungskapazität beträgt nominell 77 Millionen SWU pro Jahr (SWU ist die Maßeinheit für Anreicherungsarbeit). Davon kontrolliert Russlands Rosatom etwa 40 Prozent. 40 Prozent. In einer einzigen Hand. In der Hand eines Landes, mit dem der Westen gerade einen Wirtschaftskrieg führt.
+
+
+Die USA bezogen bis vor Kurzem 24 Prozent ihrer Anreicherungsdienste aus Russland. Im Mai 2024 unterzeichnete Biden den "Prohibiting Russian Uranium Imports Act". Aber die westliche Kapazität ohne Russland liegt bei nur 37 bis 40 Millionen SWU. Bei steigender Nachfrage durch neue Reaktoren und SMRs droht ab 2030 ein strukturelles Defizit. ARK Invest prognostiziert, dass SWU-Kapazität "bis 2030 knapp wird". Für die neuen Small Modular Reactors wird das noch kritischer: HALEU-Brennstoff, den viele SMR-Designs benötigen, braucht fünf- bis sechsmal mehr Anreicherungsarbeit pro Kilogramm als konventioneller Brennstoff.
+
+
+COP30 hat das Problem offiziell anerkannt: 33 Länder haben sich zur Verdreifachung der Kernkraftkapazität bis 2050 bekannt. Die Nachfrage nach Uran und Anreicherung wird steigen. Das Angebot wächst langsamer. Die Preise haben nur eine Richtung.
+
+
+Ein Detail verdeutlicht die Energie-Dichte von Kernkraft: Ein einzelnes Uran-Brennstoff-Pellet, so groß wie eine Fingerkuppe, erzeugt so viel Energie wie eine Tonne Kohle. Das ist der Grund, warum Kernkraftwerke auf 3,4 Quadratkilometern betrieben werden können und nicht auf der Fläche des Saarlands.
+
+
+Das Ausmaß der Investitionen
+
+
+Wir haben gesehen, welche konkreten Deals Microsoft, Amazon, Google und Meta bei Kernkraftwerken und SMRs abgeschlossen haben. Aber die Dimension geht weit darüber hinaus.
+
+
+Meta plant 135 Milliarden Dollar für KI-Infrastruktur in einem einzigen Jahr, 2026. Microsoft investiert über 60 Milliarden. Amazon ungefähr 100 Milliarden. Google etwa 75 Milliarden. Elon Musks xAI hat 18 Milliarden allein in den Colossus-Supercomputer in Memphis gesteckt, eine Anlage mit 555.000 GPUs, die 2 Gigawatt Strom verbraucht. Zwei Gigawatt. Das reicht, um eine Stadt mit einer Million Einwohnern zu versorgen.
+
+
+Zusammengerechnet investiert die Tech-Industrie 2025 und 2026 über eine Billion Dollar in KI-Infrastruktur. Und jedes einzelne Rechenzentrum, jede einzelne GPU braucht Strom. Viel Strom.
+
+
+Was wir hier beobachten, ist eine vertikale Integration, die es in der Tech-Industrie so noch nie gab. Diese Unternehmen kaufen nicht einfach Strom auf dem Markt. Sie kaufen die Kraftwerke. Sie bauen eigene Solarparks. Sie finanzieren Nuklearforschung. Sie werden zu Energieunternehmen, ob sie es wollen oder nicht.
+
+
+Die USA müssen bis 2030 zusätzliche Kapazitäten von 30 bis 50 Gigawatt bauen, nur für KI-Rechenzentren. Das entspricht 30 bis 50 großen Kernkraftwerken. Oder zehntausenden Windrädern. Oder einer Fläche von Solarpanels, so groß wie das Saarland.
+
+
+Wer die Energie kontrolliert, kontrolliert das Tempo der KI-Revolution. Jensen Huang spricht auf der CES 2026 nicht mehr von "Datacenters", sondern von "AI Factories". Fabriken brauchen Strom. Und die Fabriken, die KI produzieren, brauchen mehr Strom als alles, was die Menschheit bisher gebaut hat.
+
+
+Der Engpass, den niemand auf dem Schirm hat: Wasser
+
+
+Rechenzentren brauchen nicht nur Strom. Sie brauchen Wasser. Sehr viel Wasser. Und dieses Thema wird in fast jeder Analyse der KI-Infrastruktur ignoriert.
+
+
+Server erzeugen Hitze. GPUs unter Volllast laufen bei 70 bis 90 Grad Celsius. Diese Hitze muss abgeführt werden. Die meisten großen Rechenzentren nutzen dafür Verdunstungskühlung: Wasser wird versprüht, verdampft und kühlt dabei die Luft. Das Wasser, das verdampft, ist verbraucht. Nicht verschmutzt, nicht recycelbar. Weg.
+
+
+Ein typisches Hyperscale-Rechenzentrum verbraucht rund 2 Millionen Liter Wasser pro Tag. Pro Tag. Googles Rechenzentrum in Council Bluffs, Iowa, verbrauchte 2024 allein eine Milliarde Gallonen. Das reicht, um den Trinkwasserbedarf aller Haushalte in Iowa zu decken.
+
+
+Insgesamt verbrauchte Google 2024 über 8 Milliarden Gallonen Wasser für seine Rechenzentren. Microsofts Wasserverbrauch stieg um 34 Prozent gegenüber dem Vorjahr. Meta verbrauchte 813 Millionen Gallonen, davon 95 Prozent für Rechenzentren.
+
+
+KI verschärft das Problem. GPU-Cluster für KI-Training haben eine Leistungsdichte von 40 bis über 100 Kilowatt pro Rack. Bei normalen Cloud-Servern sind es 6 bis 10 Kilowatt. Zehn bis zwanzig Mal mehr Hitze pro Quadratmeter bedeutet zehn bis zwanzig Mal mehr Kühlungsbedarf.
+
+
+Die Konflikte haben bereits begonnen. In The Dalles, Oregon, einer Kleinstadt mit 16.000 Einwohnern, betreibt Google seit 2006 mehrere Rechenzentren. Als die lokale Zeitung "The Oregonian" den Wasserverbrauch recherchierte, bezahlte Google 100.000 Dollar, um die Klage der Stadt gegen die Zeitung zu finanzieren. Die Bewohner nennen Google inzwischen "Voldemort". Google plant weitere Rechenzentren in der Region. Die Stadt will Wasser aus dem Mount-Hood-Nationalwald beziehen, um den wachsenden Bedarf zu decken. Umweltschützer vermuten: Das Wasser ist in erster Linie für Google bestimmt, nicht für die Bevölkerung.
+
+
+In Mesa und Goodyear, Arizona, entstehen neue Rechenzentren in einer Region, die bereits unter Wasserknappheit leidet. Der Colorado River, der den amerikanischen Südwesten versorgt, führt seit zwei Jahrzehnten weniger Wasser als historisch üblich.
+
+
+Und dann die Frage, die jeder stellt: Wie viel Wasser verbraucht eine einzelne ChatGPT-Anfrage? Die Antworten variieren. OpenAI gibt offiziell 0,32 Milliliter an, aber das misst nur den direkten Wasserverbrauch am Rechenzentrum selbst. Rechnet man den Wasserverbrauch der Stromerzeugung ein, kommt eine Studie der UC Riverside auf 10 bis 25 Milliliter pro Anfrage. Eine Studie der Washington Post bezifferte den Wasserverbrauch für eine 100-Wörter-E-Mail per GPT-4 auf 519 Milliliter, also ein halber Liter. Bei 200 Millionen täglichen ChatGPT-Nutzern summiert sich das.
+
+
+Lösungen gibt es. Direct Liquid Cooling, bei dem Kühlplatten direkt auf den Chips sitzen, kann den Kühlenergiebedarf um 50 Prozent senken. Immersion Cooling, bei dem Server komplett in eine dielektrische Flüssigkeit getaucht werden, spart noch mehr. In Skandinavien und Island werden Rechenzentren mit reiner Luftkühlung betrieben, ganz ohne Wasser. Aber diese Lösungen kosten mehr und sind bisher nicht Standard.
+
+
+Google und Microsoft haben sich verpflichtet, bis 2030 "water positive" zu sein, also mehr Wasser zurückzugeben als sie verbrauchen. Bisher ist das Gegenteil passiert: Der Verbrauch steigt bei beiden Unternehmen Jahr für Jahr.
+
+
+Wasser ist ein Thema, das in der KI-Debatte unterschätzt wird. Strom kann man erzeugen, zur Not aus fossilen Quellen. Aber Wasser in einer Wüste in Arizona ist Wasser in einer Wüste in Arizona. Man kann kein Gaskraftwerk bauen, das Wasser produziert. Die Tech-Giganten werden ihre Standortentscheidungen zunehmend nicht nur nach Stromverfügbarkeit treffen, sondern nach Wasserzugang. Das ist ein Faktor, der im Investmentkalkül noch kaum vorkommt.
+
+
+Die KI-Revolution ist nicht nur eine Software-Revolution. Sie ist eine physische Revolution — mit Konsequenzen für Energiemärkte, Rohstoffe und Infrastruktur, die weit über den Technologiesektor hinausgehen. Wer nur in Software investiert, übersieht die Hälfte der Geschichte.
+
+
+Aber es gibt noch eine andere Hälfte, die nicht in Gigawatt und Kubikmetern gemessen wird: Was passiert mit den Menschen, deren Arbeit die Maschinen übernehmen? Die Energiefrage ist ein Ingenieursproblem. Die Arbeitsfrage ist eine gesellschaftliche.

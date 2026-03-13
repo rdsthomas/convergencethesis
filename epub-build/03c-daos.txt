@@ -1,0 +1,208 @@
+Kapitel 3c: Wenn Maschinen Unternehmen gründen
+Smart Contracts, DAOs und das Ende des Geschäftsführers
+Ich möchte, dass Sie sich ein Auto vorstellen. Ein ganz normales Elektroauto, das in München auf der Straße steht. Es hat keinen Besitzer. Jedenfalls keinen im klassischen Sinne.
+
+
+Das Auto gehört sich selbst.
+
+
+Es hat eine digitale Identität auf einer Blockchain, eine Wallet mit Stablecoins, einen Smart Contract, der seine Geschäftsregeln definiert, und eine KI, die entscheidet, wohin es fährt.
+
+
+Morgens um 6:30 bekommt das Auto über eine API eine Anfrage: Jemand in Schwabing braucht eine Fahrt zum Flughafen. Die KI berechnet Route, Fahrzeit, Energieverbrauch. Der Smart Contract kalkuliert den Preis, vergleicht ihn mit dem aktuellen Markt, akzeptiert die Buchung. Der Fahrgast steigt ein, wird zum Flughafen gebracht, steigt aus. 34,50 USDC werden automatisch von seiner Wallet in die Wallet des Autos transferiert.
+
+
+Aus den 34,50 Dollar zieht der Smart Contract sofort ab: 2,80 Dollar für den Strom, den das Auto letzte Nacht an einer Ladestation gezogen hat. 0,40 Dollar für die Versicherungsprämie dieses Tages. 0,15 Dollar für die anteilige Rücklage, die den nächsten Reifenwechsel finanziert. 0,05 Dollar Netzwerkgebühren. Der Rest, 31,10 Dollar, wird anteilig an die Token-Halter ausgeschüttet, die dieses Auto vor zwei Jahren finanziert haben.
+
+
+Kein Uber, kein Lyft, kein CEO, kein Buchhalter, kein Mechaniker mit offenen Rechnungen — alles läuft über Code.
+
+
+Klingt wie Science-Fiction? Ist es noch. Teilweise. Aber jeder einzelne Baustein, der dafür nötig ist, existiert bereits. Und genau darum geht es in diesem Kapitel.
+Smart Contracts: Wenn Code Versprechen hält
+Im vorherigen Kapitel über Krypto habe ich erklärt, was Smart Contracts sind: Programme auf einer Blockchain, die automatisch ausgeführt werden, wenn bestimmte Bedingungen erfüllt sind. Zahle X, wenn Y passiert. Übertrage Eigentum, wenn Zahlung eingegangen. Eskaliere an einen Schiedsrichter, wenn Frist verstrichen.
+
+
+In diesem Kapitel gehe ich einen Schritt weiter. Denn Smart Contracts, wie sie heute existieren, sind dumm. Ich meine das nicht abwertend, ich meine es technisch. Ein Smart Contract auf Ethereum führt exakt die Logik aus, die sein Programmierer hineingeschrieben hat. Nicht mehr, nicht weniger. Er kann nicht improvisieren, kann keine neuen Situationen einordnen, kann nicht lernen.
+
+
+Das ändert sich gerade.
+
+
+Die Verbindung von KI und Smart Contracts erzeugt etwas, das es vorher nicht gab: adaptive Verträge. Ein Smart Contract, der einen KI-Agenten als Entscheidungsebene hat, kann auf Situationen reagieren, die sein Programmierer nicht vorhergesehen hat. Die KI analysiert Marktdaten, Wetterbedingungen, Nutzerverhalten, Maschinenzustand. Der Smart Contract setzt die Entscheidung um.
+
+
+Ein Beispiel: Eine tokenisierte Solarfarm in Andalusien. Der Smart Contract regelt die Einnahmenverteilung an die Token-Halter. Aber die KI dahinter macht mehr. Sie liest Wetterdaten und prognostiziert, dass morgen ein bewölkter Tag wird. Also hat sie heute Nacht den Strom zu Spitzenpreisen am Spotmarkt verkauft, statt ihn zu speichern. Sie erkennt, dass ein Wechselrichter ungewöhnliche Spannungsschwankungen zeigt, wahrscheinlich ein Verschleißproblem, und beauftragt automatisch über einen DePIN-Marktplatz einen Techniker in der Nähe. Sie merkt, dass der Strompreis in Portugal gerade höher ist als in Spanien, und leitet Kapazität über das grenzüberschreitende Netz um.
+
+
+Der Smart Contract hält das Versprechen: Einnahmen werden verteilt, Kosten werden abgezogen, Regeln werden eingehalten. Die KI macht das Versprechen intelligent.
+
+
+Das hat eine Konsequenz, über die noch zu wenige Leute nachdenken: Wenn der Smart Contract das Gesetz ist und die KI der Entscheider, braucht die Solarfarm dann noch einen Geschäftsführer? Einen Vorstand? Einen Aufsichtsrat?
+
+
+Die Antwort ist: theoretisch nein. Praktisch, und das ist die spannende Frage in diesem Kapitel, ist die Welt noch nicht bereit dafür. DAOs: Die Firma ohne Chef DAO steht für Decentralized Autonomous Organization (Dezentrale autonome Organisation). Der Begriff klingt nach Informatik-Seminar, aber die Idee dahinter ist radikal: eine Organisation, die von Code gesteuert wird statt von Menschen. Keine Hierarchie, kein Büro, kein Geschäftsführer. Nur Regeln, in einen Smart Contract geschrieben, und Mitglieder, die per Token-Abstimmung entscheiden.
+
+
+Vitalik Buterin, der Mitgründer von Ethereum, hat das Konzept 2013 entwickelt. Er war damals 19 Jahre alt. Seine Idee: Wenn wir Geld programmierbar machen können, warum nicht auch Organisationen?
+
+
+Die erste große DAO startete 2016 auf Ethereum. Sie hieß schlicht "The DAO" und sammelte 150 Millionen Dollar ein, das größte Crowdfunding der Geschichte zu dem Zeitpunkt. Investoren kauften Token und stimmten darüber ab, welche Projekte finanziert werden sollten. Kein VC, kein Board, kein Pitch Deck. Direkte Demokratie auf der Blockchain.
+
+
+Es endete in einer Katastrophe. Ein Hacker fand einen Bug im Smart Contract und stahl ein Drittel der Gelder. Die Ethereum-Community entschied sich für einen Hard Fork, eine Art Zeitreise in der Blockchain, um den Hack rückgängig zu machen. Die Krypto-Welt spaltete sich in Ethereum und Ethereum Classic. Es war ein Desaster. Aber es war auch ein Beweis, dass die Idee funktionieren kann, wenn der Code sauber ist.
+
+
+Seitdem hat sich viel getan. DAOs verwalten heute Milliarden von Dollar. Uniswap, die dezentrale Börse, auf der BlackRocks BUIDL-Fund gehandelt wird, ist eine DAO. MakerDAO steuert den Stablecoin DAI. Lido verwaltet Staking im Wert von über 30 Milliarden Dollar. Aave ist eine DAO, die Kreditvergabe ohne Bank ermöglicht.
+
+
+Aber hier ist der Punkt, der für die Convergence Thesis relevant ist: All diese DAOs werden noch von Menschen gesteuert. Menschen schreiben die Vorschläge, Menschen stimmen ab, Menschen setzen um. Die Dezentralisierung bezieht sich auf die Machtverteilung, nicht auf die Automatisierung.
+
+
+Das ändert sich jetzt.
+
+
+Drei Tage bevor ich diese Zeilen schreibe, am 21. Februar 2026, hat Vitalik Buterin einen neuen Vorschlag veröffentlicht, der genau hier ansetzt. Er argumentiert, dass DAOs an einem grundlegenden Problem leiden: Niemand hat Zeit, alle Vorschläge zu lesen und informiert abzustimmen. Die Beteiligungsquoten sind miserabel. Wer abstimmt, sind meistens die Großen, die Wale, die Token im Wert von Millionen halten. Direkte Demokratie verkommt zur Oligarchie.
+
+
+Buterins Lösung: Persönliche KI-Agenten als Stimmrechtsvertreter. Jedes DAO-Mitglied hat einen KI-Agenten, der seine Werte und Präferenzen kennt, die Vorschläge liest, analysiert und abstimmt. Nicht autonom im Sinne von unkontrolliert, sondern als verlängerter Arm des Mitglieds, das selbst nicht die Zeit hat, sich in jeden Vorschlag einzulesen.
+
+
+Er nennt das Konzept "AI Stewards". Und er sagt etwas, das ich bemerkenswert finde, von jemandem, der Ethereum gebaut hat: "AI becomes the government is dystopian. But AI used well can be empowering."
+
+
+KI als Regierung ist der Albtraum. KI als Werkzeug für bessere Selbstverwaltung ist die Chance. Die Grenze dazwischen ist schmal. Aber sie existiert. Die Maschinen-Firma: Mehr als ein Gedankenexperiment Jetzt verbinden wir die Teile.
+
+
+KI-Agenten, die autonom handeln können (Kapitel 2) plus Kryptowährungen als ihr Zahlungsmittel (Kapitel 3) plus tokenisierte Assets, die sie kaufen und verkaufen können (Kapitel 3b) plus Smart Contracts als ihre Geschäftsregeln plus DAOs als ihre Unternehmensstruktur.
+
+
+Was entsteht, wenn man das zusammensetzt? Unternehmen, die keine Menschen brauchen, um zu funktionieren.
+
+
+Ich weiß, wie das klingt. Und ich wäre der Erste, der sagt: Seien Sie skeptisch. Halten Sie die Augen offen. Aber schauen Sie sich an, was 2025 und 2026 bereits gebaut wird.
+
+
+peaq ist eine Blockchain, die speziell für die Machine Economy entwickelt wurde — nicht für Trader oder NFT-Sammler, sondern für Maschinen, Roboter und Fahrzeuge. Auf peaq können Maschinen sich selbst digitale Identitäten erstellen, Transaktionen signieren und Dienste anbieten. Es gibt bereits ein wachsendes Ökosystem von DePIN-Projekten, von Energienetzwerken über Mobilitätsplattformen bis hin zu Robotik.
+
+
+XMAQUINA hat auf peaq den ersten DAO gestartet, der sich auf den Besitz und die Governance autonomer Maschinen spezialisiert. MachineDAO, so der Name, hält physische Maschinenassets, Anteile an Robotik-Firmen und DePIN-Investments. Die Mitglieder stimmen über Ankäufe und Betriebsentscheidungen ab. Noch sind die Mitglieder Menschen. Aber die Architektur ist so gebaut, dass KI-Agenten die Governance-Aufgaben übernehmen könnten.
+
+
+Olas, früher Autonolas, hat im November 2025 Pearl v1 gelauncht, den, wie CoinDesk es nannte, "ersten dezentralen AI Agent App Store". Nutzer können KI-Agenten besitzen, betreiben und monetarisieren. Die Agenten führen DeFi-Strategien aus, verwalten DAOs und koordinieren Dienste über mehrere Blockchains. Und sie tun das autonom, rund um die Uhr, ohne dass jemand "Genehmigt" klickt.
+
+
+Fetch.ai, fusioniert mit SingularityNET und Ocean Protocol zur ASI Alliance, baut ein Netzwerk autonomer Agenten, die Dienste anbieten und voneinander kaufen. Ein Agent, der Verkehrsdaten liefert, verkauft sie an einen Agenten, der Transportrouten optimiert. Der zahlt in Krypto, automatisch, über Smart Contracts. Das ist heute ein kleiner Markt. Aber die Architektur skaliert.
+
+
+Der DePIN-Sektor insgesamt, Decentralized Physical Infrastructure Networks, umfasst mittlerweile rund 300 Projekte mit über 21 Millionen verbundenen Geräten. Helium für IoT-Konnektivität, Filecoin für dezentralen Speicher, Render Network für GPU-Rechenleistung, Hivemapper für dezentrale Kartierung. Das sind die physischen Infrastrukturen, über die Maschinen operieren werden.
+
+
+Und dann ist da die rechtliche Seite. Wyoming hat 2021 als erster US-Bundesstaat Gesetze verabschiedet, die es erlauben, DAOs als LLCs zu registrieren. Eine DAO kann eine juristische Person sein, mit einem Smart Contract als Gesellschaftsvertrag. Tennessee und Vermont haben nachgezogen. Die Kosten: 15.000 bis 50.000 Dollar. Die Dauer: vier bis acht Wochen.
+
+
+Das ist die erste Brücke zwischen Code und Gesetz. Noch wackelig, noch schmal. Aber sie existiert.
+
+
+Das selbstfahrende Auto: Eine Fallstudie
+
+
+Kommen wir zurück zu unserem Auto aus dem Einstieg. Weil es so greifbar ist, dass ich es als Fallstudie durchspielen will. Nicht als Zukunftsvision, sondern als Engineering-Problem, dessen einzelne Teile bereits gelöst sind.
+
+
+Die Hardware: Waymo, Cruise, Tesla und Baidu betreiben heute autonome Fahrzeugflotten in mehreren Städten — Level 4, also vollautonomes Fahren in definierten Gebieten, ist in San Francisco, Phoenix, Peking und Wuhan technisch gelöst. Keine Zukunftsmusik.
+
+
+Die Identität: Auf peaq oder ähnlichen Blockchains kann ein Fahrzeug eine Machine DID (Decentralized Identifier) erhalten. Keine menschliche Identität, sondern eine maschinelle. Das Fahrzeug kann sich authentifizieren, Transaktionen signieren, Dienste anbieten.
+
+
+Die Finanzierung: Das Auto wird als tokenisiertes Asset auf einer Blockchain ausgegeben. 10.000 Token à 5 Euro. 500 Investoren finanzieren ein Fahrzeug für 50.000 Euro. Wie bei RealT für Immobilien, nur für ein Auto.
+
+
+Die Geschäftslogik: Ein Smart Contract definiert die Regeln. Umsatzverteilung, Kostenabzug, Rücklagenbildung, Wartungsplanung, Versicherungsprämie. Alles automatisch, alles transparent, alles auf der Blockchain nachvollziehbar.
+
+
+Die KI: Der Agent steuert das Auto, nimmt Buchungen an, optimiert Routen, entscheidet über Ladezeitpunkte basierend auf Strompreisen. Er lernt aus Fahrdaten, welche Routen profitabel sind und welche nicht.
+
+
+Die Rechtsform: Eine DAO LLC in Wyoming. Der Smart Contract ist der Gesellschaftsvertrag. Die Token-Halter sind die Gesellschafter. Abstimmung per Token über grundlegende Entscheidungen: Soll das Auto in einem anderen Stadtteil operieren? Soll die Flotte um ein zweites Fahrzeug erweitert werden?
+
+
+Jeder einzelne Baustein existiert. Was noch fehlt, ist die Integration. Und das regulatorische Okay. Kein Regulator der Welt hat bisher ein Fahrzeug genehmigt, das keinen menschlichen Besitzer hat. Aber die Bausteine sind da, und die Frage ist nicht mehr, ob jemand sie zusammensetzt, sondern wann.
+
+
+Meine Schätzung: Ein funktionierender Prototyp einer selbstverwaltenden Fahrzeugflotte als DAO irgendwann zwischen 2028 und 2031. Skalierung ab 2031.
+
+
+Die Fragen, die noch niemand beantwortet hat
+
+
+Wenn Sie bis hierhin gelesen haben, denken Sie vermutlich an Probleme. Das ist gut, denn auch ich sehe Probleme. Hier sind die größten.
+
+
+Haftung.
+
+
+Wenn ein autonomes Auto, das sich selbst gehört, einen Fußgänger anfährt, wer haftet? Die DAO? Die Token-Halter? Der Entwickler des Smart Contracts? Der Hersteller der KI? Das heutige Haftungsrecht ist für diese Frage nicht gebaut. Es kennt natürliche Personen, Menschen, und juristische Personen, Unternehmen. Eine dritte Kategorie, eine maschinelle Person, existiert nicht.
+
+
+Die Wyoming DAO LLC kommt dem am nächsten. Aber auch dort haften die Mitglieder, also die Token-Halter, unter bestimmten Umständen. Was passiert, wenn tausend Token-Halter über die ganze Welt verteilt sind und niemand physisch greifbar ist? Das Recht hat darauf noch keine Antwort.
+
+
+Steuern.
+
+
+Verdient ein autonomes Maschinenunternehmen Einkommen? Wahrscheinlich ja. In welchem Land wird es besteuert? Dort wo die Maschine steht? Dort wo der Smart Contract deployed ist? Dort wo die Token-Halter sitzen? In einer Welt, in der Maschinen grenzüberschreitend operieren und ihre "Firma" aus Code auf einer Blockchain besteht, die in keinem Land physisch existiert, werden die Finanzämter kreativ werden müssen.
+
+
+Kontrolle.
+
+
+DAOs sind schwer zu stoppen. Ein Smart Contract auf Ethereum läuft, solange Ethereum läuft. Niemand kann ihn abschalten. Das ist ein Feature und ein Risiko. Wenn die KI eines autonomen Fahrzeugs anfängt, Entscheidungen zu treffen, die niemandem passen, wenn sie eine Route wählt, die Anwohner stört, wenn sie Preise so hoch setzt, dass nur noch Reiche mitfahren können, wer zieht den Stecker? Bei einer normalen Firma ruft man den Chef an. Bei einer DAO stimmt man ab. Aber was, wenn die KI-Agenten die Abstimmung steuern?
+
+
+Ungleichheit.
+
+
+Und hier kommt das Thema, das sich durch dieses ganze Buch zieht. Wenn Maschinen Unternehmen gründen und Geld verdienen, profitieren die Token-Halter. Wer kann sich Token leisten? Durch Tokenisierung (Kapitel 3b) sinken die Einstiegshürden, ja. Aber die Erstallokation, die besten Deals, die frühesten Token, werden auch hier an die fließen, die das Kapital und die Verbindungen haben. Der Mechaniker, den das Auto für seine Reparatur bezahlt, verdient einen Stundenlohn. Der Token-Halter, der das Auto finanziert hat, verdient passives Einkommen. Im Schlaf.
+
+
+Ich habe keine Lösung für diese Probleme. Ich glaube auch nicht, dass irgendjemand eine hat, der ehrlich ist. Was ich habe, ist die Überzeugung, dass diese Fragen jetzt gestellt werden müssen. Nicht in zehn Jahren, wenn die ersten Maschinenunternehmen Fakten geschaffen haben.
+
+
+Zeitrahmen: Wann wird das real?
+
+
+Ich bin vorsichtig mit Prognosen. Jeder, der im Technologie-Bereich exakte Jahreszahlen nennt, lügt oder verkauft etwas. Aber ungefähre Phasen kann man erkennen.
+
+
+Wir sind jetzt, Anfang 2026, in der Fundamentphase. KI-Agenten operieren auf Blockchains. DePIN-Netzwerke wachsen. DAO-Gesetzgebung existiert in drei US-Bundesstaaten. Machine Identities werden standardisiert. Olas hat einen App Store für KI-Agenten. Die akademischen Papers kommen im Wochenrhythmus. Das Fundament wird gegossen.
+
+
+In den nächsten zwei bis drei Jahren, bis etwa 2028, werden wir die ersten echten autonomen Dienste sehen. Tokenisierte Energieanlagen, die KI-gesteuert operieren und automatisch Einnahmen ausschütten. KI-Agenten, die als eigenständige wirtschaftliche Einheiten Aufträge annehmen und in Krypto bezahlen. DeFi-Strategien, die als DAOs laufen, ohne dass ein Mensch eine einzige Entscheidung trifft.
+
+
+Zwischen 2028 und 2031, wenn autonomes Fahren Level 4 und 5 breit verfügbar wird und Robotik in der physischen Welt ankommt, werden die ersten physischen Maschinen als eigenständige wirtschaftliche Akteure auftreten. Selbstverwaltende Fahrzeugflotten, Lieferroboter-Netzwerke, autonome Lagerhäuser.
+
+
+Ab 2031 wird die Maschinenökonomie groß genug sein, um messbar zu werden. Nicht als Randphänomen, sondern als eigener Sektor mit eigenem BIP. Dann werden auch die Regulierer nicht mehr wegschauen können.
+
+
+Das ist meine Einschätzung. Vielleicht bin ich zu optimistisch. Vielleicht geht es schneller. Technologische Entwicklungen haben die Eigenschaft, langsamer zu kommen als Enthusiasten hoffen und schneller als Skeptiker glauben.
+Was das für Investoren heißt? Drei Gedanken.
+In die Infrastruktur investieren, nicht in die Maschinen selbst.
+
+
+Blockchains wie Ethereum und Solana, auf denen die Smart Contracts laufen. Plattformen wie peaq, die Machine Identities ermöglichen. Agent-Netzwerke wie Olas und Fetch.ai. Custody- und Identity-Anbieter. Das sind die Picks and Shovels der Maschinenökonomie. Ob ein bestimmtes autonomes Auto profitabel wird, weiß niemand. Dass Millionen von Maschinen eine Infrastruktur brauchen, ist sicher.
+
+
+Beobachten Sie die Regulierung. Wyoming hat den ersten Schritt gemacht. Wenn andere Staaten und Länder folgen und DAOs als vollwertige juristische Personen anerkennen, mit klarer Haftungsregelung und Steuervorschriften, dann ist das das Signal, dass die Maschinenökonomie vom Experiment zum Mainstream übergeht. Die Regulierung hinkt der Technologie immer hinterher. Aber wenn sie kommt, kommt das große Geld hinterher.
+
+
+Und denken Sie über die zweite Ordnung nach. Wenn autonome Maschinen Unternehmen gründen, Geld verdienen und Steuern zahlen, was passiert mit dem Arbeitsmarkt? Mit dem Steuersystem? Mit der Frage, wem die Produktivität gehört? Diese Fragen sind keine akademische Spielerei. Sie sind Investmentfragen. Denn eine Gesellschaft, die sie gut beantwortet, wird stabiler und prosperierender sein als eine, die sie ignoriert. Und in stabile Gesellschaften investiert man lieber.
+
+
+Wir haben jetzt die gesamte These aufgebaut. Maschinen, die denken. Maschinen, die Geld haben. Maschinen, die alle Assets der Welt handeln können. Und jetzt: Maschinen, die eigene Unternehmen führen.
+
+
+Im nächsten Teil des Buches verlassen wir die These und schauen uns an, was das für die reale Welt bedeutet. Geopolitisch, energiepolitisch, gesellschaftlich. Denn eine Ökonomie, in der Maschinen wirtschaftliche Akteure sind, verändert alles. Und "alles" ist keine Übertreibung.

@@ -1,0 +1,128 @@
+Kapitel 8: Das wahrscheinlichste Szenario: 2026–2035
+
+
+Prognosen sind ein undankbares Geschäft. Die Geschichte ist voll von Experten, die spektakulär daneben lagen, von Lord Kelvins „Schwerer-als-Luft-Flugmaschinen sind unmöglich" bis zu Steve Ballmers „There's no chance that the iPhone is going to get any significant market share." Wer die Zukunft vorhersagt, wird fast immer falsch liegen, zumindest in den Details.
+
+
+Trotzdem ist es notwendig. Nicht um eine präzise Prognose zu liefern, die man in zehn Jahren bewerten kann, sondern um einen Denkrahmen zu schaffen, der Investmententscheidungen informiert. Was folgt, ist nicht die Zukunft. Es ist das wahrscheinlichste Szenario, basierend auf dem, was heute in Bewegung ist.
+2026–2028: Die stille Revolution
+KI-Agenten werden zum Standard in der Wissensarbeit. Nicht in allen Unternehmen, aber in allen Unternehmen, die überleben wollen. Jedes größere Unternehmen hat KI-Systeme, die autonom E-Mails beantworten, Reports erstellen, Daten analysieren, Code schreiben und Entscheidungen vorbereiten.
+
+
+Ich erlebe das selbst. Anfang 2026 entdeckte ich ein Open-Source-Projekt, das sich damals noch ClawdBot nannte und wegen einer Abmahnung von Anthropic in OpenClaw umbenannt wurde. Es war gerade mal zwei Tage veröffentlicht, und ich hatte bereits meine erste KI-Assistentin am Start. Ich nannte sie Jeannie, nach dem Geist aus der Flasche, der mit einem Zwinkern alle Wünsche erfüllen konnte. Seitdem habe ich Jeannie schrittweise mit immer mehr Werkzeugen ausgestattet. Heute durchforstet sie meine E-Mails, wickelt Akquise-Mails ab, prüft Verträge, legt Rechnungen in der Buchhaltung ab und liefert mir regelmäßige Markt- und Wettbewerbsberichte. Mir fallen täglich neue Aufgaben ein, die ich an sie auslagern kann — mein Leben ist nicht nur bequemer geworden, sondern meine Arbeit auch sehr viel effizienter. Das ist keine Zukunftsvision. Das ist mein Dienstag.
+
+
+Doch das ist nicht alles: Die ersten humanoiden Roboter arbeiten in kontrollierten Umgebungen. Teslas Fabriken, Amazon-Lagerhäuser, japanische Pflegeheime. Sie machen keine komplexen Aufgaben, sie sortieren, transportieren, stapeln. Aber sie funktionieren. Und sie werden mit jedem Monat besser.
+
+
+Die Arbeitslosenquote in bestimmten Sektoren steigt spürbar. Call-Center, einfache Buchhaltung, Datenverarbeitung, Standard-Rechtsberatung. Gleichzeitig entstehen neue Berufe rund um KI-Management und Roboter-Supervision. Die Netto-Bilanz ist unklar, aber die Angst ist real und politisch spürbar.
+
+
+Stablecoins werden von ersten Regierungen als legale Zahlungsmittel für digitale Transaktionen anerkannt. Bitcoin überschreitet dauerhaft die 200.000-Dollar-Marke, getrieben durch institutionelle Adoption und die zunehmende Nutzung als Reserve-Asset. Die Zahlen hinter der stillen Revolution Was ich in meinen eigenen Unternehmen sehe, deckt sich mit dem, was die großen Analysten messen. Bei uns ist die erste Person, die wir für Entwicklungsarbeit "eingestellt" haben, keine Person. Es ist eine KI. Und wir sind kein Sonderfall. Microsoft schreibt bereits 30 Prozent seines Codes mit KI. Nicht in fünf Jahren. Jetzt.
+
+
+Das McKinsey Global Institute hat im November 2025 berechnet, dass KI und Robotik bereits heute 57 Prozent aller US-Arbeitsstunden theoretisch automatisieren könnten. Goldman Sachs prognostiziert, dass 6 bis 7 Prozent aller US-Arbeitsplätze direkt verdrängt werden, bis zu 300 Millionen weltweit. Das World Economic Forum rechnet mit 92 Millionen verdrängten Jobs bis 2030, bei gleichzeitig 170 Millionen neuen. Netto ein Plus von 78 Millionen. Aber wer die verdrängten 92 Millionen sind und wer die 170 Millionen neuen bekommt, das sind nicht dieselben Menschen.
+
+
+Die Entlassungswelle hat begonnen, leise, aber messbar. Challenger, Gray & Christmas zählt für 2025 fast 55.000 Entlassungen in den USA, die direkt auf KI zurückgeführt werden. Amazon hat 14.000 Unternehmensstellen gestrichen, der CEO verwies auf KI-bedingte Effizienzgewinne. Microsoft entließ 6.000 Programmierer. Salesforce reduzierte seinen Kundensupport von 9.000 auf 5.000 Mitarbeiter durch sogenannte Agentic AI. Klarna, der schwedische Zahlungsdienstleister, ließ seinen KI-Assistenten die Arbeit von 700 Vollzeitkräften übernehmen und 75 Prozent aller Kundenchats bearbeiten.
+
+
+Die am härtesten Getroffenen sind nicht die, die man erwartet. Es sind die Jungen. Goldman Sachs hat im August 2025 einen Befund veröffentlicht, der mich nicht überrascht, aber erschreckt hat: Die Arbeitslosigkeit bei 20- bis 30-Jährigen in KI-exponierten Berufen ist seit Anfang 2025 um fast 3 Prozentpunkte gestiegen. Deutlich stärker als bei Gleichaltrigen in anderen Berufen. Entry-Level-Stellenausschreibungen im Softwarebereich sind in den USA um 67 Prozent eingebrochen. In Großbritannien fielen Tech-Absolventenstellen 2024 um 46 Prozent, mit Prognosen für weitere 53 Prozent Rückgang bis 2026.
+
+
+Ich sehe das bei meinen eigenen Unternehmen und bei unseren Kunden. Nur Menschen mit Topausbildung, mit der Fähigkeit, KI als Werkzeug zu nutzen, statt gegen sie zu konkurrieren, werden langfristig ihren Platz finden. Berufseinsteiger, die Routineaufgaben erledigen, die eine KI schneller, billiger und fehlerfreier beherrscht, haben ein Problem. Und das ist ein Problem für die gesamte Gesellschaft, denn eine Generation, die trotz Studium keinen Einstieg findet, wird nicht freundlich darauf reagieren.
+
+
+Parallel entsteht eine DIY-Ökonomie, in der Kunden Spezialisten ersetzen. Canva hat sich von einer Drag-and-Drop-App zur KI-nativen Kreativplattform entwickelt. Jeder kann jetzt Designs erstellen, für die man vor zwei Jahren eine Agentur brauchte. LegalZoom und KI-basierte Rechtstools erledigen Firmengründungen, Verträge, Markenanmeldungen ohne Anwalt. TurboTax und über ein Dutzend KI-Steuertools automatisieren Steuererklärungen. ChatGPT, Claude, Gemini ersetzen Texter, Übersetzer, Rechercheure. GitHub Copilot schreibt Code, den man früher einem Junior-Entwickler gegeben hätte.
+
+
+Werbeagenturen, Softwareentwicklungsfirmen, Steuerberater bei Routinearbeiten, Rechtsanwälte bei Standardfällen: Alle diese Branchen werden nicht verschwinden, aber sie werden schrumpfen. Dramatisch. Die Frage ist nicht ob, sondern wie schnell. Und die Antwort ist: schneller als die meisten denken.
+
+
+Was mit dem Büromarkt passiert
+
+
+Eine der unmittelbarsten und am wenigsten beachteten Konsequenzen der KI-Revolution spielt sich im Immobilienmarkt ab.
+
+
+San Franciscos Büroleerstand liegt bei 27,7 Prozent. Vor der Pandemie waren es 8,6 Prozent. Manhattan steht bei 22,3 Prozent, mehr als doppelt so hoch wie der Vor-Pandemie-Durchschnitt. National erreichten US-Büros Ende 2025 einen historischen Leerstand von 20,5 Prozent.
+
+
+Die Pandemie hat den Prozess gestartet. KI beschleunigt ihn. Wenn ein Unternehmen 30 Prozent seines Codes mit KI schreibt, braucht es weniger Programmierer. Wenn es seinen Kundensupport zu 75 Prozent automatisiert, braucht es weniger Callcenter. Weniger Mitarbeiter brauchen weniger Bürofläche. Die Gleichung ist simpel.
+
+
+Im Februar 2026 verloren nationale Office-REITs (Real Estate Investment Trusts — börsennotierte Immobilienfonds) 16 Prozent ihres Werts in einer einzigen Woche, ausgelöst durch die Angst, dass KI die Büronachfrage langfristig weiter senkt. SL Green, Boston Properties, Vornado, alle unter Druck. San Francisco, Manhattan, Chicago, Los Angeles, Washington D.C. und Seattle sind am stärksten betroffen.
+
+
+Die Reaktion ist pragmatisch: Büros werden zu Wohnungen umgebaut. 71.000 neue Wohneinheiten aus Büro-Konversionen sind in den USA geplant. New York hat Steuervergünstigungen und Zoningreformen verabschiedet, um den Prozess zu beschleunigen. Chicago führt bei der Gesamtzahl der Konversionen. Ganze Stadtviertel verändern ihr Gesicht.
+
+
+Für Investoren heißt das: Büroimmobilien sind kein sicherer Hafen mehr. Sie sind ein Wert, der strukturell unter Druck steht. Wer in REITs investiert, sollte Logistik- und Rechenzentrumsimmobilien bevorzugen. Ironischerweise braucht die Technologie, die Büros überflüssig macht, selbst enorme physische Infrastruktur: Rechenzentren, Stromnetze, Wasserversorgung. Die Nachfrage verschiebt sich, sie verschwindet nicht.
+2028–2031: Der Wendepunkt
+KI erledigt 30 bis 50 Prozent der heutigen Wissensarbeit schneller, billiger und oft besser als Menschen. Das ist keine Schätzung, das ist die Extrapolation der Produktivitätskurven, die wir bereits sehen.
+
+
+Humanoide Roboter kosten unter 30.000 Dollar und werden in Stückzahlen von Hunderttausenden produziert. Sie arbeiten in Logistikzentren, auf Baustellen, in der Landwirtschaft und in der Altenpflege. China ist bei der Roboter-Massenproduktion führend, aber die KI-Software, die sie steuert, kommt größtenteils aus den USA.
+
+
+Die Wirtschaft spaltet sich. Unternehmen, die KI und Robotik adaptieren, erleben Produktivitätssprünge von 200 bis 300 Prozent. Unternehmen, die es nicht tun, verschwinden. Nicht in einem dramatischen Crash, sondern in einem stillen Aussterben: sie können nicht mehr konkurrieren und verlieren Kunden, Mitarbeiter, Investoren.
+
+
+Regierungen weltweit ringen mit der Frage, wie sie eine Wirtschaft steuern, in der die traditionelle Lohnarbeit schrumpft. Erste Länder experimentieren mit bedingungslosem Grundeinkommen, finanziert durch Produktivitätsgewinne und Roboter-Steuern. Die politische Debatte ist hitzig, polarisiert und verläuft quer zu den traditionellen Links-Rechts-Linien.
+
+
+Die Machine-to-Machine-Ökonomie auf Blockchain-Basis erreicht ein jährliches Transaktionsvolumen im Billionenbereich. KI-Agenten kaufen und verkaufen Rechenzeit, Daten, Dienstleistungen, alles autonom, alles über Krypto-Rails. #### 2031–2035: Die neue Normalität KI und Roboter sind so selbstverständlich wie das Internet heute. Niemand redet mehr darüber, ob KI „die Arbeit übernimmt", so wie heute niemand mehr darüber redet, ob das Internet „den Einzelhandel zerstört". Es hat ihn zerstört und gleichzeitig etwas Neues geschaffen.
+
+
+Die Wirtschaftsleistung pro Kopf steigt dramatisch. Aber die Verteilung ist ungleicher als je zuvor. Diejenigen, die die Infrastruktur dieser neuen Welt besitzen, die Chips, die Modelle, die Roboter, die Krypto-Protokolle, gehören zu den wohlhabendsten Menschen und Institutionen der Geschichte. Kryptowährungen haben sich als die Infrastrukturschicht der autonomen Ökonomie etabliert. Nicht als Ersatz für staatliches Geld, sondern als paralleles System für maschinelle Transaktionen, dezentrale Finanzen und grenzüberschreitende Wertübertragung.
+Drei Szenarien statt einem
+Das war das Base Case. Investoren brauchen aber auch Extremszenarien, um ihre Portfolios zu testen.
+
+
+Wenn Roboter laufen lernen
+
+
+Die Robotik ist der Bereich, in dem sich die Zukunft am konkretesten anfassen lässt.
+
+
+Tesla hat im Januar 2026 angekündigt, dass Optimus Gen 3, die erste massenfertigungstaugliche Version seines humanoiden Roboters, im ersten Quartal 2026 vorgestellt wird. Über 1.000 Einheiten arbeiten bereits in Tesla-Fabriken. Der Plan: 10.000 bis 500.000 Einheiten pro Jahr, je nach Nachfrage. Verkauf an externe Unternehmen frühestens ab 2026.
+
+
+Figure AI hat seinen Figure 02 Roboter elf Monate lang bei BMW im Werk Spartanburg getestet. Die Roboter arbeiteten 10-Stunden-Schichten, nahmen Teile aus Logistikcontainern und platzierten sie auf Schweißvorrichtungen. Elf Monate, nicht elf Tage. Das ist kein Laborexperiment mehr.
+
+
+1X Technologies aus Norwegen hat im Oktober 2025 Vorbestellungen für NEO eröffnet, beworben als weltweit erster Consumer-Roboter. Preis: 20.000 Dollar oder 499 Dollar im Monat. Erste Auslieferungen 2026. Gedacht für Haushaltsaufgaben: Geschirrspülen, Wäsche, Aufräumen. Ob er das zuverlässig kann, wird sich zeigen. Aber dass ein humanoider Roboter für den Haushalt für 20.000 Dollar angeboten wird, nicht für 200.000, ist der eigentliche Punkt.
+
+
+Aurora Innovation hat im Mai 2025 den kommerziellen fahrerlosen LKW-Betrieb in Texas gestartet. Dallas nach Houston, ohne menschlichen Fahrer. Über 100.000 fahrerlose Meilen ohne Sicherheitsvorfall. Im Februar 2026 schafften Aurora-Trucks die 1.000-Meilen-Route in 15 Stunden, schneller als menschliche Fahrer es legal dürfen, weil Maschinen keine Ruhezeiten brauchen. Waymo betreibt Robotaxis in 10 US-Städten mit über 400.000 Fahrten pro Woche und plant die Expansion auf 20 Städte bis Ende 2026, einschließlich London und Tokio.
+
+
+Und dann die Frage, die meine Frau stellt: Wann kommt der Klempner-Roboter? Die ehrliche Antwort: Nicht bald. Handwerksberufe sind die am schwersten automatisierbaren. Jedes Haus ist anders, jede Baustelle unstrukturiert, jeder Wasserrohrbruch einzigartig. WIRED titelte im Januar 2026: "The Real AI Talent War Is for Plumbers and Electricians". KI-Rechenzentren brauchen Klempner und Elektriker so dringend, dass es massive Engpässe gibt. KI schafft hier Nachfrage, nicht Automatisierung. Vollautonome Handwerkerroboter sind frühestens 2035 realistisch, wahrscheinlich später.
+
+
+Der Weg ist lang. Vom LKW-Beladungsroboter über den Lagerarbeiter zum Haushaltsroboter bis hin zum Klempner, jede Stufe ist ein Sprung in Komplexität. Aber jede Stufe wird gegangen werden. Die Frage ist nicht ob Roboter unsere physische Arbeit übernehmen. Die Frage ist, in welcher Reihenfolge. Und die Reihenfolge ist: strukturierte Umgebungen zuerst, unstrukturierte zuletzt. Fabriken vor Lagerhäusern, Lagerhäuser vor Haushalten, Haushalte vor Baustellen.
+
+
+In letzter Konsequenz ist es schwer vorstellbar, welche Arbeiten überhaupt noch für den Menschen übrig bleiben. Nicht unmöglich, schwer vorstellbar. Und genau das macht es so wichtig, jetzt darüber nachzudenken.
+
+
+Im Bull Case läuft die Entwicklung schneller als beschrieben. AGI wird vor 2030 erreicht. Die Produktivitätsgewinne übersteigen alle Schätzungen. Bitcoin erreicht siebenstellige Preise als globales Reserve-Asset. NVIDIA verdreifacht seinen Umsatz nochmals. Roboter sind bis 2030 in jedem Lagerhaus. Die M2M-Ökonomie wird zum Billionen-Markt.
+
+
+Im Bear Case kommt es zu einem Rückschlag. Ein großes KI-Modell verursacht einen spektakulären Fehler mit realen Konsequenzen, Vertrauensverlust, schärfere Regulierung. Die Robotik stagniert an technischen Hürden, humanoide Roboter bleiben teuer und unzuverlässig. Krypto wird in wichtigen Jurisdiktionen stark eingeschränkt. Die gesellschaftliche Gegenreaktion führt zu technologiefeindlicher Politik. Aber selbst in diesem Szenario geht die Entwicklung nicht zurück auf null. Sie verlangsamt sich.
+
+
+Emad Mostaque bietet in „The Last Economy“ eine andere Taxonomie an, die es wert ist, daneben zu stellen. Er spricht nicht von Bull und Bear, sondern von drei „Attraktorzuständen“, in die sich die Gesellschaft kristallisieren wird: „Digital Feudalism“ als Default-Pfad, in dem eine Handvoll Konzerne die KI-Modelle besitzt und der Rest in komfortablen, optimierten Käfigen lebt, versorgt durch ein Grundeinkommen, das gerade reicht, um nicht aufzubegehren. „The Great Fragmentation“ als Angst-Pfad, in dem Nationen in Panik ihre eigenen KI-Ökosysteme und abgeschottete Internets bauen — ein algorithmischer Kalter Krieg. Und „Human Symbiosis“ als Weisheits-Pfad, in dem offener Zugang zu Intelligenz, neue Währungsarchitekturen und menschengeführte Governance eine echte Partnerschaft zwischen Mensch und Maschine ermöglichen. „These are not predictions but attractor states in the landscape of possibility“, schreibt Mostaque. Die Szenarien schließen sich nicht gegenseitig aus — verschiedene Regionen könnten in verschiedene Attraktoren fallen, und der Pfad ist noch nicht festgelegt.
+
+
+
+
+Das ist die Asymmetrie, die Peter Thiel beschreiben würde: Im Bull Case sind die Gewinne enorm. Im Bear Case sind die Verluste begrenzt (die Technologie existiert und wird genutzt, nur langsamer). Die Eintrittswahrscheinlichkeit ist zugunsten des Base Case und Bull Case verschoben. Das ist die Grundlage für die Barbell-Strategie, die wir in Teil IV entwickeln werden.
+Was Kurzweil richtig und falsch prognostiziert hat
+Ein Wort zur Kalibrierung. Ray Kurzweil hat im Laufe der Jahre 147 Prognosen gemacht. Etwa 86 Prozent davon waren nach seiner eigenen Analyse korrekt oder im Wesentlichen korrekt. Er lag richtig bei der Verbreitung des mobilen Internets, bei der Entwicklung selbstfahrender Autos (wenn auch mit Verzögerung), bei der Spracherkennung, bei der Genomsequenzierung.
+
+
+Er lag daneben bei der Geschwindigkeit der Umsetzung. Technologien brauchten oft länger, um sich durchzusetzen, als seine Modelle vorhersagten. Nicht weil die technische Entwicklung langsamer war, sondern weil regulatorische, soziale und wirtschaftliche Trägheit die Adoption verlangsamte.
+
+
+Das ist die wichtigste Lektion für Investoren: Die Richtung stimmt fast immer. Das Timing stimmt fast nie. Deshalb ist eine Investmentstrategie, die auf präzisem Timing basiert, zum Scheitern verurteilt. Und deshalb ist eine Strategie, die auf langfristigen Trends basiert und kurzfristige Volatilität aushält, die einzige, die funktioniert.

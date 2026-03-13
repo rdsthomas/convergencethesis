@@ -1,0 +1,43 @@
+Anhang B — Umsetzung für deutsche Anleger
+
+
+Dieses Buch beschreibt eine Investmentthese. Dieser Anhang macht sie praktisch umsetzbar — für jeden, der ein Depot bei einer deutschen Direktbank hat. Stand: Februar 2026. Produkte und ISINs können sich ändern. Aktuelle Informationen finden Sie auf der Companion-Website zum Buch.
+
+
+Der sichere Kern: ETFs und Einzelaktien
+
+
+Für den sicheren Kern des Barbell-Portfolios eignen sich breit gestreute ETFs, die an der Deutschen Börse (Xetra) handelbar sind:
+
+
+Globale Tech-Exposure: Der Invesco Nasdaq-100 ETF (ISIN: IE00BFZXGZ54) bildet die hundert größten Technologiewerte ab. NVIDIA, Microsoft, Apple, Alphabet, Amazon und Meta sind die schwersten Positionen. Laufende Kosten: 0,30 Prozent pro Jahr.
+
+
+Breite Marktabdeckung: Wer weniger Tech-Konzentration möchte, wählt den iShares MSCI World ETF (ISIN: IE00B4L5Y983). Über 1.500 Unternehmen aus 23 Industrieländern. Laufende Kosten: 0,20 Prozent.
+
+
+Robotik und Automation: Der iShares Automation & Robotics UCITS ETF (ISIN: IE00BYZK4552) investiert gezielt in Unternehmen, die von der Automatisierung profitieren, darunter NVIDIA, Intuitive Surgical, Keyence und ABB.
+
+
+Energie und Uran: Der Global X Uranium ETF (ISIN: IE000NDWFGA5) investiert in Uranproduzenten und Versorger. Für die Nuklear-These aus Kapitel 5 eine gezielte Wette.
+
+
+Die asymmetrische Seite: Krypto-Zugang
+
+
+Bitcoin: Der CoinShares Physical Bitcoin ETP (ISIN: GB00BLD4ZL17) und der 21Shares Bitcoin ETP (ISIN: CH0454664001) sind an der Deutschen Börse handelbar. Physisch besichert, reguliert, über jedes Depot kaufbar.
+
+
+Ethereum: Der CoinShares Physical Ethereum ETP (ISIN: GB00BLD4ZM24) bietet den einfachsten regulierten Zugang.
+
+
+Breitere Krypto-Exposure: Der 21Shares Crypto Basket Index ETP (ISIN: CH0445689208) enthält die nach Marktkapitalisierung größten Kryptowährungen, diversifiziert über Bitcoin, Ethereum und weitere.
+
+
+Für direkte Krypto-Investments jenseits von ETPs: Regulierte Börsen wie Bitstamp (MiCA-Lizenz beantragt) oder Kraken bieten Zugang zu Token wie OLAS, FET oder RENDER. Beachten Sie die Steuerpflicht: Kryptowährungen, die länger als ein Jahr gehalten werden, sind in Deutschland nach aktueller Rechtslage steuerfrei. Bei kürzerer Haltedauer fällt der persönliche Einkommensteuersatz an.
+
+
+Wichtiger Hinweis
+
+
+Dieses Buch ist keine Anlageberatung. Die genannten Produkte dienen der Illustration, nicht der Empfehlung. Jede Investmententscheidung sollte auf der eigenen Risikobereitschaft, finanziellen Situation und idealerweise der Beratung eines zugelassenen Finanzberaters basieren.

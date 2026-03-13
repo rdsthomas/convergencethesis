@@ -1,0 +1,154 @@
+Kapitel 7: Regulierung — Der Elefant im Raum
+
+
+Keine Technologie existiert im luftleeren Raum. Jede Transformation, die mächtig genug ist, um die Wirtschaft umzuschreiben, ruft den Staat auf den Plan. Das war bei der Eisenbahn so, bei der Elektrizität, beim Telefon, beim Internet. Und es wird bei KI nicht anders sein.
+
+
+Die Frage ist nicht ob Regulierung kommt. Sie kommt. Die Frage ist wie sie kommt, und was das für Investoren bedeutet.
+EU AI Act: Die detaillierte Analyse
+Der EU AI Act trat in seinen ersten Stufen 2024 in Kraft und ist das ambitionierteste KI-Regulierungswerk der Welt. Lass mich ihn ernst nehmen, ernster als die meisten Tech-Kommentatoren, die ihn reflexhaft ablehnen, und ernster als die EU-Beamten, die ihn reflexhaft verteidigen.
+
+
+Das Grundprinzip ist ein risikobasierter Ansatz. KI-Systeme werden in vier Kategorien eingeteilt:
+
+
+Unakzeptables Risiko - verboten. Dazu gehören Social Scoring (wie in China), manipulative Techniken, Echtzeit-Gesichtserkennung im öffentlichen Raum (mit Ausnahmen für Strafverfolgung). Das ist vernünftig. Wenige argumentieren ernsthaft dagegen.
+
+
+Hohes Risiko - strenge Auflagen. Das betrifft KI in kritischer Infrastruktur, Bildung, Beschäftigung, Kreditvergabe, Strafverfolgung, Migration. Hier werden umfangreiche Dokumentation, Risikobewertungen, Datensatz-Qualitätsprüfungen, menschliche Aufsicht und Transparenzberichte verlangt. Das ist im Prinzip richtig, aber die Umsetzung ist das Problem. Die Compliance-Kosten sind erheblich, die Definitionen sind breit, und die Abgrenzung, was „hohes Risiko" ist, lässt genug Interpretationsspielraum, um Rechtsabteilungen jahrelang zu beschäftigen.
+
+
+Begrenztes Risiko - Transparenzpflichten. KI-generierte Inhalte müssen als solche gekennzeichnet werden. Chatbots müssen offenlegen, dass sie keine Menschen sind. Auch das ist im Grundsatz sinnvoll.
+
+
+Minimales Risiko - keine besonderen Auflagen. Das betrifft den Großteil der KI-Anwendungen, von Spam-Filtern bis Empfehlungsalgorithmen.
+
+
+Soweit die Theorie. Die Praxis sieht anders aus, und ich habe in Kapitel 4 bereits aus eigener Erfahrung beschrieben, wie Europa sich damit ins Abseits reguliert. Hier die strukturelle Analyse: Der AI Act reguliert eine Technologie, die Europa nicht kontrolliert. Die Foundation-Modelle kommen aus den USA und China. Das ist wie wenn Europa Verkehrsregeln für Autobahnen schreiben, aber keine Autos bauen würde. Gleichzeitig treffen die Compliance-Kosten kleine und mittlere Unternehmen überproportional. Für OpenAI sind 200.000 Euro Jahreskosten ein Trinkgeld. Für ein europäisches KI-Startup mit 20 Mitarbeitern sind sie existenzbedrohend. Und die Definitionen sind so breit, dass die Frage „Wann ist ein KI-System hoch riskant?" Gerichte jahrelang beschäftigen wird, mit dem Ergebnis, dass vorsichtige Unternehmen lieber auf KI verzichten als das regulatorische Risiko einzugehen. Die Opfer des AI Acts: Europas KI-Flucht Das Problem mit dem AI Act ist nicht Theorie. Ich kann es an konkreten Fällen zeigen.
+
+
+Aleph Alpha war Deutschlands große KI-Hoffnung. Ein Startup aus Heidelberg, das sein eigenes großes Sprachmodell baute. 2023 sammelte es 500 Millionen Dollar ein, finanziert von Bosch, SAP und der Schwarz-Gruppe. Ein Jahr später war der Traum vorbei. Im September 2024 gab Aleph Alpha bekannt, dass es die Entwicklung eigener Sprachmodelle einstellt und zur KI-Beratungsfirma wird. Nicht wegen des AI Act allein, das wäre zu einfach. Aber der AI Act hat es nicht leichter gemacht. Wenn ein Startup mit 150 Mitarbeitern jedes Jahr 200.000 Euro in Compliance stecken muss statt in Ingenieure, dann ist das kein Papierkram. Das ist ein verlorener Wettbewerbsvorteil.
+
+
+Mistral AI aus Paris hat es geschafft, aber nur durch massives politisches Lobbying. Mistrals wichtigster Lobbyist, der ehemalige Staatssekretär Cédric O, nutzte seinen direkten Draht zu Macron, um Frankreich, Deutschland und Italien zu einer gemeinsamen Front gegen die schärfsten Regeln für generative KI zu bewegen. Es hat funktioniert, die Regeln wurden verwässert. Aber die Ironie sticht ins Auge: Das europäische Vorzeige-Startup überlebte den europäischen AI Act nicht durch Innovation, sondern durch politische Einflussnahme. Das ist genau das System, das der AI Act angeblich bekämpfen soll.
+
+
+Die Zahlen sind ernüchternd. 2025 flossen in die USA rund 215 Milliarden Dollar an KI-Risikokapital. In Europa waren es 37 Milliarden. Verhältnis: fast 6 zu 1. Ein Viertel der vielversprechendsten europäischen KI-Startups erwägt laut einer Sifted-Umfrage den Umzug in die USA. 46 CEOs der größten europäischen Unternehmen forderten im Juli 2025, die Umsetzung des AI Act um zwei Jahre zu pausieren. Die EU-Kommission lehnte zunächst ab. Im November knickte sie ein und verschob die High-Risk-Regeln auf 2027.
+
+
+Europa hat mit dem AI Act ein Regelwerk geschaffen, das die eigene Industrie stärker belastet als die ausländische Konkurrenz. Ein KI-Startup in San Francisco unterliegt keiner vergleichbaren Regulierung. Ein KI-Startup in München schon. Das Ergebnis ist vorhersehbar: Die Innovation wandert dahin, wo sie weniger behindert wird. USA: Von Light Touch zu Laissez-Faire Die amerikanische Regulierungslandschaft ist ein Kontrastprogramm.
+
+
+Präsident Biden hatte 2023 eine Executive Order zu KI erlassen, die Transparenz, Sicherheit und verantwortungsvollen Einsatz betonte — aber keine verbindlichen Regulierungen schuf. Die Verordnung setzte auf freiwillige Commitments der Tech-Industrie und beauftragte Bundesbehörden, Leitlinien zu entwickeln.
+
+
+Unter der nachfolgenden Trump-Administration wurde selbst dieser zaghafte Ansatz weitgehend zurückgenommen. Die neue Linie: KI ist ein Wettbewerbsvorteil, den die USA nicht durch Regulierung gefährden dürfen. Regulierung soll nur dort eingreifen, wo konkreter, nachweislicher Schaden entstanden ist — nicht präventiv.
+
+
+Das Ergebnis: Die USA haben de facto die am wenigsten regulierte KI-Landschaft unter den großen Wirtschaftsmächten. Für Innovatoren ist das ein Segen. Für die gesellschaftliche Debatte über KI-Sicherheit und -Ethik ist es ein Risiko. Für Investoren ist es klar: US-Unternehmen operieren mit weniger regulatorischen Fesseln als ihre europäischen Konkurrenten, was sich in höherer Innovationsgeschwindigkeit und niedrigeren Compliance-Kosten niederschlägt.
+China: Regulierung als Industriepolitik
+China verfolgt einen dritten Weg, der weder dem europäischen Regelungsansatz noch dem amerikanischen Laissez-Faire entspricht: Regulierung als Industriepolitik.
+
+
+Die chinesische Regierung reguliert KI — aber selektiv und strategisch. Sie reguliert, was politisch unerwünscht ist (KI-generierte Inhalte, die das Regime kritisieren; Deepfakes politischer Figuren; Algorithmen, die soziale Instabilität fördern) und fördert aggressiv, was wirtschaftlich und militärisch nützlich ist.
+
+
+Chinas „New Generation AI Development Plan" setzt das explizite Ziel, bis 2030 die weltweit führende KI-Nation zu sein. Die Mittel dazu: Milliarden an staatlichen Subventionen, bevorzugter Zugang zu Daten (China hat 1,4 Milliarden Einwohner und wesentlich laxere Datenschutzgesetze als Europa), gezielte Förderung von KI-Anwendungen in Schlüsselbranchen und ein staatlich orchestriertes Ökosystem aus Universitäten, Unternehmen und Militärforschung.
+
+
+Das Ergebnis: China reguliert mehr als die USA, aber anders als Europa. Die Regulierung bremst nicht — sie lenkt. Sie verhindert nicht Innovation — sie kanalisiert sie in Richtungen, die der Staat für nützlich hält.
+Krypto-Regulierung: MiCA, SEC und die Schlacht um die Zukunft des Geldes
+Im Krypto-Bereich ist die regulatorische Landschaft noch fragmentierter.
+
+
+Europa hat mit MiCA (Markets in Crypto-Assets Regulation) den weltweit ersten umfassenden Regulierungsrahmen für Kryptowährungen geschaffen. MiCA schafft Rechtssicherheit für Krypto-Unternehmen — was grundsätzlich positiv ist. Es definiert, was ein Krypto-Asset ist, wie man eine Lizenz erhält, welche Reserveanforderungen für Stablecoins gelten. Für ein Ökosystem, das bisher in einer regulatorischen Grauzone operierte, ist das ein Fortschritt.
+
+
+Die Kehrseite: MiCA ist konservativ und restriktiv. Die Anforderungen an Stablecoin-Herausgeber sind streng. Die KYC-Pflichten für Krypto-Börsen gehen über das hinaus, was traditionelle Banken für vergleichbare Dienstleistungen leisten müssen. Und die Regulierung von DeFi (dezentralisierten Finanzprotokollen ohne zentrale Betreiber) ist eine offene Frage, die MiCA nicht beantwortet.
+
+
+In den USA hat die SEC unter Gary Gensler eine aggressive Anti-Krypto-Haltung eingenommen und zahlreiche Klagen gegen Krypto-Unternehmen geführt. Die Zulassung der Bitcoin-Spot-ETFs Anfang 2024 war ein Wendepunkt — entgegen Genslers erklärtem Willen durch ein Gerichtsurteil erzwungen. Seitdem sind Hunderte von Milliarden Dollar in Bitcoin-ETFs geflossen, und die regulatorische Stimmung hat sich gedreht. Die aktuelle Administration steht Krypto deutlich wohlwollender gegenüber.
+
+
+Für die Machine-to-Machine-Ökonomie, die dieses Buch beschreibt, ist die regulatorische Frage existenziell: Wird es Maschinen erlaubt sein, autonom Krypto-Transaktionen durchzuführen? Wer haftet, wenn ein KI-Agent einen Smart Contract abschließt? Braucht ein KI-Agent eine KYC-Prüfung? Diese Fragen sind unbeantwortet — und ihre Beantwortung wird die Geschwindigkeit bestimmen, mit der die Maschinenökonomie wächst. Die Roboter-Steuer: Wer besteuert die Maschinen? Im Februar 2017 sagte Bill Gates in einem Interview etwas, das die Welt irritierte: "Wenn ein menschlicher Arbeiter in einer Fabrik 50.000 Dollar an Wertschöpfung erbringt und dafür besteuert wird, dann sollte man einen Roboter, der die gleiche Arbeit macht, auf einem ähnlichen Niveau besteuern."
+
+
+Die Reaktionen waren vorhersehbar. Lawrence Summers, ehemaliger US-Finanzminister und Harvard-Ökonom, nannte den Vorschlag "zutiefst fehlgeleitet". Die Tech-Industrie argumentierte, eine Robotersteuer würde Innovation ersticken. Ökonomen fragten: Was genau ist ein Roboter? Ist eine Tabellenkalkulation ein Roboter? Ein Chatbot? Ein KI-Agent, der Buchhaltung erledigt?
+
+
+Robert Shiller, Nobelpreisträger für Wirtschaft, sah das differenzierter. Er schrieb wenige Wochen nach Gates, dass eine moderate, möglicherweise temporäre Robotersteuer "ein natürlicher und offensichtlicher Bestandteil jeder Politik zur Bekämpfung wachsender Ungleichheit" sei.
+
+
+Das EU-Parlament debattierte die Frage im selben Monat. Die luxemburgische Abgeordnete Mady Delvaux hatte einen Bericht vorgelegt, der eine Robotersteuer und ein Grundeinkommen vorschlug. Der Gesamtbericht wurde mit 396 zu 123 Stimmen angenommen. Aber der Robotersteuer-Absatz wurde per Amendment gestrichen. Die rechts-liberale Koalition aus ALDE, EVP und EKR lehnte ihn ab. Delvaux zeigte sich enttäuscht: Die Konservativen weigerten sich, "mögliche negative Auswirkungen auf den Arbeitsmarkt zu berücksichtigen".
+
+
+Dann ging Südkorea einen Schritt weiter. 2018 wurde das Land zum ersten der Welt, das eine Art Robotersteuer einführte. Nicht als direkte Abgabe, sondern durch eine Reduzierung der Steuervergünstigungen für Automatisierungsinvestitionen. Große Unternehmen, die vorher 7 Prozent Steuerersparnis auf Automatisierungsinvestitionen bekamen, erhielten nur noch 3 Prozent. Die Wirkung war messbar: Eine Studie des Information Technology & Innovation Foundation von Februar 2026 fand, dass betroffene Industrien ihre Roboterinstallationen um 28 Prozent reduzierten. Weniger Automatisierung. Mehr Jobs. Aber auch: weniger Produktivitätsgewinn.
+
+
+Das ist das Dilemma. Eine Robotersteuer verlangsamt die Automatisierung. Das schützt kurzfristig Arbeitsplätze. Langfristig schwächt es die Wettbewerbsfähigkeit gegenüber Ländern ohne solche Steuer. Südkorea hat die höchste Roboterdichte der Welt. Es konnte sich dieses Experiment leisten. Europa oder die USA, die ohnehin hinter China und Südkorea in der Automatisierung zurückliegen, hätten weniger Spielraum.
+
+
+Die Debatte hat sich seitdem weiterentwickelt. Bernie Sanders forderte im Oktober 2025 eine Robotersteuer auf große Unternehmen, die KI einsetzen, um Jobs zu ersetzen. Die Brookings Institution veröffentlichte im Januar 2026 ein Framework, das verschiedene Modelle durchrechnet: Robotersteuer, Compute-Steuer auf GPU-Stunden, Token-Steuer auf KI-generierte Outputs, Digitalsteuer auf AI-as-a-Service-Umsätze. Die akademische Diskussion hat sich von "Robotersteuer ja oder nein" verschoben zu "welche Art von Besteuerung für welche Art von KI".
+
+
+Für die These dieses Buches ist die Frage zentral. Wenn Maschinen zunehmend die Wertschöpfung übernehmen, wenn KI-Agenten Aufträge ausführen und Roboter in Fabriken arbeiten, dann schrumpft die Lohnsteuer als Finanzierungsbasis des Sozialstaats. Irgendwann muss die Gesellschaft eine Antwort finden, wie sie die Maschinenökonomie besteuert. Nicht ob, sondern wie. Die Frage ist nur, ob diese Antwort intelligent und wettbewerbsfähig ausfällt oder ob sie Innovation erstickt, wie es der AI Act zu tun droht.
+
+
+Wer profitiert von Regulierung? Hier liegt die Ironie, die viele übersehen: Regulierung ist nicht automatisch schlecht für die regulierte Branche. Oft ist das Gegenteil der Fall.
+
+
+Regulierung erzeugt Compliance-Kosten. Compliance-Kosten sind fixe Kosten — sie fallen unabhängig von der Unternehmensgröße an. Ein KI-Startup mit 10 Mitarbeitern und ein Tech-Konzern mit 100.000 Mitarbeitern müssen die gleichen Dokumentationsanforderungen erfüllen, die gleichen Audits durchlaufen, die gleichen Berichte einreichen. Für den Konzern sind das Peanuts. Für das Startup ist es ein Drittel des Budgets.
+
+
+Das Ergebnis: Regulierung erhöht die Eintrittsbarrieren. Sie schützt die Etablierten vor den Herausforderern. Sie zementiert bestehende Marktpositionen. NVIDIA, Microsoft, Google, Amazon — sie alle können den EU AI Act und MiCA absorbieren, ohne zu zucken. Ihre Compliance-Abteilungen sind größer als die meisten europäischen KI-Startups.
+
+
+Das ist keine Verschwörungstheorie. Es ist die ökonomische Logik von Regulierung, die seit George Stiglers „Theory of Regulation" aus den 1970er Jahren bekannt ist: Regulierung wird oft von genau den Unternehmen begrüßt und mitgestaltet, die sie angeblich einschränkt — weil sie deren Marktposition schützt.
+
+
+Autonome Waffen: Der Elefant im Elefantenraum
+
+
+Es gibt ein Thema, über das in der KI-Debatte erstaunlich wenig gesprochen wird, obwohl es das dringendste von allen ist: KI-gesteuerte Waffen.
+
+
+Der Ukraine-Krieg ist das erste Labor für autonome Kriegsführung im großen Maßstab. Die Ukraine hat 2024 tausende FPV-Drohnen mit maschinellem Sehen und KI-Targeting beschafft. 2025 begann die Massenproduktion der Vyriy-10, einer Drohne mit einem KI-Navigationsmodul, das autonom weiterfliegt, wenn Russland das GPS-Signal stört. Die Kosten: 500 bis 2.000 Dollar pro Drohne — gegenüber 2 bis 10 Millionen Dollar für den Panzer, den sie zerstört. Dieses Kostenverhältnis macht traditionelle Militärausgaben fragwürdig.
+
+
+Russland antwortet mit der Lancet-3, einer Loitering Munition mit autonomer Zielerkennung, die auf NVIDIA-Prozessoren läuft. China experimentiert mit Drohnenschwärmen und hat ein Militärfahrzeug vorgestellt, das auf Basis von DeepSeek autonom Kampfunterstützung leistet. Die USA betreiben Project Maven, das bis Juni 2026 "100 Prozent maschinengenerierte Aufklärung" an Kampfkommandanten liefern soll. Palantir hat dafür einen Vertrag über mehr als eine Milliarde Dollar. Die Replicator-Initiative des Pentagon zielt auf die Massenproduktion autonomer Drohnen zu Tausenden, um Chinas numerischen Vorteil zu kontern.
+
+
+Die Defence-AI-Industrie wächst schneller als fast jeder andere Sektor. Palantir ist über 160 Milliarden Dollar wert, ein Kursanstieg von 330 Prozent in einem Jahr. Anduril, gegründet vom ehemaligen Oculus-Gründer Palmer Luckey, wurde im Juni 2025 mit 30,5 Milliarden Dollar bewertet. Peter Thiels Founders Fund investierte eine Milliarde Dollar in einer einzigen Runde, der größte einzelne Scheck in der Geschichte des Fonds. Shield AI, dessen Drohnen bereits in der Ukraine und bei den US-Marines im Einsatz sind, steht bei 5,6 Milliarden.
+
+
+Der verstörendste Fall ist nicht die Ukraine, sondern Gaza. Im April 2024 enthüllte das israelische Magazin +972 ein System namens Lavender. Eine KI-Datenbank, die 37.000 Palästinenser als potenzielle Ziele markierte. Laut Quellen innerhalb der israelischen Armee wurde Lavenders Output "praktisch wie eine menschliche Entscheidung behandelt". Die Überprüfungszeit pro Ziel: etwa 20 Sekunden. Ein zweites System namens "Where's Daddy?" lokalisierte die markierten Personen und schlug Angriffe vor, wenn sie nachts zu Hause waren, bei ihren Familien. Die UN-Menschenrechtsexperten verurteilten den Einsatz. Human Rights Watch dokumentierte die Fälle.
+
+
+Lavender ist der erste dokumentierte Fall, in dem KI im großen Maßstab für die Zielauswahl in einem bewaffneten Konflikt eingesetzt wurde. Er wirft eine Frage auf, die kein Rechtssystem der Welt beantwortet: Wer ist verantwortlich, wenn eine KI ein falsches Ziel markiert und ein Zivilist stirbt? Der Programmierer? Der Kommandeur, der 20 Sekunden auf eine Empfehlung geschaut hat? Der Staat? Die KI selbst hat keine Rechtspersönlichkeit. Sie kann nicht bestraft werden. Das Ergebnis ist eine Verantwortungslücke, die mit jeder Generation autonomerer Systeme größer wird.
+
+
+Die UN-Generalversammlung stimmte im Dezember 2024 mit 166 zu 3 Stimmen für eine Resolution zu autonomen Waffensystemen. Nur Russland, Nordkorea und Belarus stimmten dagegen. Die Ukraine enthielt sich, sie setzt die Systeme selbst ein. Aber eine Resolution ist kein Verbot. Seit 2014 verhandelt die UN über ein bindendes Abkommen, die sogenannten LAWS-Verhandlungen. Bisher ohne Ergebnis. Einzelne Staaten blockieren. In der Zwischenzeit beschleunigt sich das Wettrüsten.
+
+
+Das hat Konsequenzen für die These dieses Buches. Die Konvergenz von KI und Robotik betrifft nicht nur Fabriken und Logistikzentren. Sie betrifft Schlachtfelder. Die Technologien, die einen humanoiden Roboter befähigen, in einem Lagerhaus Pakete zu sortieren, befähigen ihn auch, auf einem Schlachtfeld zu operieren. Der Unterschied liegt in der Software, nicht in der Hardware. Und Software ist kopierbar.
+
+
+Die Geschwindigkeit autonomer Entscheidungen macht menschliche Kontrolle zunehmend unpraktikabel. Eine KI reagiert in Millisekunden, ein Mensch in Sekunden. In einem Drohnenschwarm-Angriff gibt es keine Zeit für einen Anruf beim Vorgesetzten. Das bedeutet: Je autonomer die Systeme werden, desto weniger Kontrolle haben Menschen über ihre Entscheidungen. Und je weniger Kontrolle Menschen haben, desto größer wird die Verantwortungslücke.
+
+
+Es gibt keine einfache Lösung. Ein Verbot autonomer Waffen ist wünschenswert, aber unrealistisch, solange die USA, China und Russland sich weigern. Was bleibt, ist die unbequeme Erkenntnis, dass die KI-Revolution, deren Investmentchancen dieses Buch beschreibt, auch eine militärische Dimension hat, die ich lieber nicht hätte, aber nicht ignorieren kann.
+
+
+Für Investoren ist die Schlussfolgerung klar: In einem regulierten Umfeld gewinnen die Großen. NVIDIA, Microsoft, Google sind nicht nur die technologischen Gewinner. Sie sind auch die regulatorischen Gewinner. Das stärkt die Investmentthese für die Infrastruktur-Schwergewichte im sicheren Kern des Portfolios, das wir in Teil IV aufbauen werden. Was können europäische Anleger konkret tun? Die regulatorische Landschaft klingt für Europäer entmutigend. Aber sie ist kein Grund, die Hände in den Schoß zu legen. Es gibt konkrete Wege, trotz MiCA und AI Act zu handeln.
+
+
+Bitcoin- und Ethereum-ETPs sind in Europa über regulierte Börsen handelbar. CoinShares, VanEck und 21Shares bieten Produkte, die an der Deutschen Börse gelistet sind. Das ist kein regulatorisches Schlupfloch, das ist der vorgesehene Weg. MiCA erschwert den direkten Kauf bestimmter Stablecoins, aber es verbietet nicht das Investment in die Infrastruktur der Maschinenökonomie.
+
+
+Für Krypto-Investments jenseits von Bitcoin und Ethereum gibt es regulierte Börsen wie Bitstamp oder Kraken, die MiCA-Lizenzen besitzen oder beantragt haben. Dezentrale Protokolle wie Uniswap oder Aave sind technisch von jedem Ort der Welt nutzbar, aber Europäer sollten die steuerliche Dokumentationspflicht ernst nehmen.
+
+
+Bei KI-Aktien gibt es keine europaspezifischen Einschränkungen. NVIDIA, Microsoft, Alphabet und alle anderen in diesem Buch genannten Unternehmen sind über jedes deutsche Depot handelbar. Die regulatorische Asymmetrie, die europäische Startups benachteiligt, ist für europäische Investoren sogar ein Argument: Investieren Sie dort, wo die Innovation stattfindet, nicht dort, wo sie reguliert wird.
+
+
+Wir kennen jetzt die Technologie, die Geopolitik, die Energie und die Regulierung. Im nächsten Kapitel spielen wir die wahrscheinlichste Entwicklung der nächsten zehn Jahre durch — ein konkretes Szenario, das diese Faktoren zusammenführt.

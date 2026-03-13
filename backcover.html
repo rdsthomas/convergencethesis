@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&family=Montserrat:wght@300;400;500;600&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    width: 130mm;
+    height: 198mm;
+    background: #0a1628;
+    color: #e8e4df;
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .particles {
+    position: absolute;
+    top: 0; left: 0; right: 0; bottom: 0;
+    pointer-events: none;
+    z-index: 0;
+  }
+  .particle {
+    position: absolute;
+    border-radius: 50%;
+    background: rgba(200, 180, 120, 0.12);
+  }
+
+  .content {
+    position: relative;
+    z-index: 1;
+    padding: 10mm 14mm 7mm 14mm;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* Gold diamond opener */
+  .diamond {
+    text-align: center;
+    color: #c8a84e;
+    font-size: 9pt;
+    margin-bottom: 2.5mm;
+  }
+
+  /* Tagline */
+  .tagline {
+    text-align: center;
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 13pt;
+    line-height: 1.4;
+    color: #c8a84e;
+    margin-bottom: 3mm;
+  }
+
+  /* Gold separator line */
+  .separator {
+    border: none;
+    height: 0.5px;
+    background: linear-gradient(90deg, transparent 0%, #c8a84e 15%, #c8a84e 85%, transparent 100%);
+    margin: 2.5mm 0;
+  }
+
+  /* Main blurb text */
+  .blurb {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 10pt;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #ddd8d0;
+    text-align: left;
+    flex-grow: 1;
+  }
+
+  .blurb p {
+    margin-bottom: 2mm;
+  }
+
+  .blurb p:last-child {
+    margin-bottom: 0;
+  }
+
+  .blurb em {
+    font-style: italic;
+    color: #ebe7e0;
+  }
+
+  /* Author section */
+  .author-section {
+    margin-top: auto;
+  }
+
+  .author-name {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 8.5pt;
+    letter-spacing: 3px;
+    color: #c8a84e;
+    text-transform: uppercase;
+    text-align: left;
+    margin-bottom: 1.5mm;
+  }
+
+  .author-bio {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+    font-size: 8.5pt;
+    font-weight: 400;
+    line-height: 1.45;
+    color: #a8a39b;
+    text-align: left;
+    margin-bottom: 2mm;
+  }
+
+  .bottom-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+
+  .website {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 7pt;
+    letter-spacing: 2px;
+    color: #c8a84e;
+  }
+
+  /* Barcode */
+  .barcode-placeholder {
+    display: inline-block;
+    width: 28mm;
+    height: 16mm;
+    background: white;
+    border-radius: 1px;
+    position: relative;
+  }
+
+  .barcode-placeholder::after {
+    content: 'ISBN 978-3-9828573-1-2';
+    position: absolute;
+    bottom: 1mm;
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4pt;
+    color: #333;
+    letter-spacing: 0.3px;
+    white-space: nowrap;
+  }
+
+  .barcode-lines {
+    position: absolute;
+    top: 1.5mm;
+    left: 2.5mm;
+    right: 2.5mm;
+    bottom: 4.5mm;
+    display: flex;
+    gap: 0.15mm;
+    align-items: stretch;
+  }
+
+  .barcode-lines span {
+    flex: 1;
+    background: #000;
+    min-width: 0.2mm;
+  }
+
+  .barcode-lines span:nth-child(even) {
+    background: transparent;
+    flex: 0.6;
+  }
+
+  .barcode-lines span:nth-child(3n) {
+    flex: 0.4;
+  }
+
+  .barcode-lines span:nth-child(5n) {
+    flex: 1.2;
+  }
+
+  .barcode-lines span:nth-child(7n) {
+    flex: 0.35;
+  }
+
+  /* Subtle decorative accents */
+  .glow-accent {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 1px;
+    height: 14mm;
+    background: linear-gradient(180deg, rgba(200, 168, 78, 0.2) 0%, transparent 100%);
+    z-index: 0;
+  }
+
+  .side-accent-left {
+    position: absolute;
+    top: 55mm;
+    left: 0;
+    width: 8mm;
+    height: 0.5px;
+    background: linear-gradient(90deg, rgba(78, 140, 200, 0.08) 0%, transparent 100%);
+  }
+
+  .side-accent-right {
+    position: absolute;
+    top: 90mm;
+    right: 0;
+    width: 8mm;
+    height: 0.5px;
+    background: linear-gradient(270deg, rgba(78, 200, 150, 0.06) 0%, transparent 100%);
+  }
+</style>
+</head>
+<body>
+  <div class="glow-accent"></div>
+  <div class="side-accent-left"></div>
+  <div class="side-accent-right"></div>
+
+  <div class="particles">
+    <div class="particle" style="width:1.5px;height:1.5px;top:8%;left:85%;opacity:0.18"></div>
+    <div class="particle" style="width:1px;height:1px;top:22%;left:92%;opacity:0.12"></div>
+    <div class="particle" style="width:1.2px;height:1.2px;top:40%;left:78%;opacity:0.1"></div>
+    <div class="particle" style="width:1px;height:1px;top:60%;left:90%;opacity:0.12"></div>
+    <div class="particle" style="width:1.5px;height:1.5px;top:75%;left:82%;opacity:0.08"></div>
+    <div class="particle" style="width:1px;height:1px;top:15%;left:6%;opacity:0.08"></div>
+    <div class="particle" style="width:1.2px;height:1.2px;top:50%;left:4%;opacity:0.06"></div>
+    <div class="particle" style="width:1px;height:1px;top:4%;left:50%;opacity:0.12"></div>
+    <div class="particle" style="width:1.2px;height:1.2px;top:85%;left:30%;opacity:0.08"></div>
+  </div>
+
+  <div class="content">
+    <div>
+      <div class="diamond">◆</div>
+
+      <div class="tagline">
+        „Künstliche Intelligenz ersetzt nicht nur Jobs.<br>
+        Sie verändert die Grundregeln der Wirtschaft.&#x201C;
+      </div>
+
+      <hr class="separator">
+
+      <div class="blurb">
+        <p>Thomas Huhn baut selbst KI-Produkte und investiert seit 2017 in Krypto. Seit drei Jahrzehnten beobachtet er, wie Technologiewellen ganze Industrien verschlucken. Was er sieht, hat ihn zu diesem Buch gebracht.</p>
+
+        <p>KI-Agenten, die autonom handeln. Roboter, die in Fabriken und irgendwann unseren Wohnzimmern arbeiten. Und eine Krypto-Infrastruktur, die Maschinen erstmals ermöglicht, was sie bisher nicht konnten: eigenständig bezahlen, Verträge schließen, wirtschaften. Drei Technologien, die isoliert betrachtet jeweils revolutionär sind. Zusammen erschaffen sie eine Ökonomie, in der Maschinen nicht nur produzieren, sondern auch konsumieren.</p>
+
+        <p><em>Maschinengeld</em> ist die schonungslos ehrliche Analyse eines Praktikers mit Skin in the Game. Von der Geopolitik des Chip-Kriegs über den unstillbaren Energiehunger der KI bis zu Brain-Computer Interfaces. Von der Frage, welche Jobs verschwinden, bis zu konkreten Portfolios und einem Aktionsplan für Investoren, die handeln wollen statt zuzuschauen.</p>
+
+        <p>Dieses Buch endet mit einem persönlichen Bekenntnis — und der Widmung an die dreijährige Enkeltochter des Autors, für die Technologie-Optimismus keine abstrakte Haltung ist, sondern eine Notwendigkeit.</p>
+      </div>
+    </div>
+
+    <div class="author-section">
+      <hr class="separator">
+
+      <div class="author-name">Thomas Huhn</div>
+
+      <div class="author-bio">
+        Jahrgang 1963, verbindet seit drei Jahrzehnten Technologie und Unternehmertum. Nach einem Studium der Physik und Wirtschaftsinformatik stieg er 1994 ins Internet ein, Jahre bevor es Mainstream wurde. Gründer mehrerer Tech-Unternehmen und Crypto-Investor seit 2017. Begeisterter Gym-Athlet — mit 62 schafft er noch 50 Liegestützen und 15 Klimmzüge — und ehemaliger Rockmusiker. Vater zweier Töchter und Großvater einer Enkelin. Er lebt am Starnberger See.
+      </div>
+
+      <div class="bottom-row">
+        <div class="website">convergencethesis.com</div>
+        <div class="barcode-placeholder">
+          <div class="barcode-lines">
+            <span></span><span></span><span></span><span></span><span></span>
+            <span></span><span></span><span></span><span></span><span></span>
+            <span></span><span></span><span></span><span></span><span></span>
+            <span></span><span></span><span></span><span></span><span></span>
+            <span></span><span></span><span></span><span></span><span></span>
+            <span></span><span></span><span></span><span></span><span></span>
+            <span></span><span></span><span></span><span></span><span></span>
+            <span></span><span></span><span></span><span></span><span></span>
+            <span></span><span></span><span></span><span></span><span></span>
+            <span></span><span></span><span></span><span></span><span></span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

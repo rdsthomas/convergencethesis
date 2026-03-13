@@ -1,0 +1,25 @@
+Anhang D — Weiterführende Ressourcen
+
+
+Bücher
+
+
+Howard Marks: "The Most Important Thing" — Die Investmentphilosophie, die diesem Buch zugrunde liegt. Nassim Nicholas Taleb: "Antifragile" — Warum Volatilität kein Feind ist, sondern ein Freund. Ray Kurzweil: "The Singularity Is Nearer" (2024) — Die aktualisierte Version seiner Prognosen zur technologischen Singularität. Emad Mostaque: "The Last Economy" (2025) — Der theoretische Unterbau zur Intelligence Inversion: Warum Intelligenz die letzte ökonomische Ressource ist, die von knapp zu abundant wird, und was das für Gesellschaft, Währungen und die Rolle des Menschen bedeutet. Kostenlos verfügbar auf thelasteconomy.com. David Sinclair: "Lifespan" — Die Wissenschaft der Langlebigkeit, Grundlage für Kapitel 11. Peter Thiel: "Zero to One" — Wie Monopole in der Technologie entstehen und warum Wettbewerb überschätzt wird. Balaji Srinivasan: "The Network State" — Die politische Dimension von Krypto und dezentraler Governance.
+
+
+On-Chain-Daten und Research
+
+
+DefiLlama (defillama.com) — TVL-Daten für alle DeFi-Protokolle, kostenlos und open source. Dune Analytics (dune.com) — Benutzerdefinierte On-Chain-Dashboards für Ethereum, Solana und andere Chains. Glassnode (glassnode.com) — Bitcoin- und Ethereum-On-Chain-Metriken für Investoren. The Block (theblock.co) — Research-Dashboards für Krypto-Marktdaten und institutionelle Flows. rwa.xyz — Speziell für tokenisierte Real-World Assets: TVL, Protokollvergleiche, Wachstumsraten.
+
+
+KI und Technologie
+
+
+Situational Awareness (situational-awareness.ai) — Leopold Aschenbrenners Essay über die Geschwindigkeit der KI-Entwicklung. AI Index Report (Stanford HAI) — Jährlicher Bericht zur globalen KI-Landschaft mit Daten statt Meinungen. NVIDIA GTC Keynotes (nvidia.com/gtc) — Jensen Huangs Präsentationen sind die beste Primärquelle für den Stand der KI-Hardware.
+
+
+Weiterbildung
+
+
+Google AI Essentials (coursera.org) — Kostenloser Einsteigerkurs für KI-Grundlagen. Blockchain Fundamentals (edx.org, Berkeley) — Grundlagen der Blockchain-Technologie, akademisch fundiert. Prompt Engineering for Everyone (DeepLearning.AI) — Praktischer Kurs für den Umgang mit KI-Systemen.

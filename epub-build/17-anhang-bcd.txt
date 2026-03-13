@@ -1,0 +1,86 @@
+Anhang B — Umsetzung für deutsche Anleger
+
+
+Dieses Buch beschreibt eine Investmentthese. Dieser Anhang macht sie praktisch umsetzbar — für jeden, der ein Depot bei einer deutschen Direktbank hat. Stand: Februar 2026. Produkte und ISINs können sich ändern. Aktuelle Informationen finden Sie auf der Companion-Website zum Buch.
+
+
+Der sichere Kern: ETFs und Einzelaktien
+
+
+Für den sicheren Kern des Barbell-Portfolios eignen sich breit gestreute ETFs, die an der Deutschen Börse (Xetra) handelbar sind:
+
+
+Globale Tech-Exposure: Der Invesco Nasdaq-100 ETF (ISIN: IE00BFZXGZ54) bildet die hundert größten Technologiewerte ab. NVIDIA, Microsoft, Apple, Alphabet, Amazon und Meta sind die schwersten Positionen. Laufende Kosten: 0,30 Prozent pro Jahr.
+
+
+Breite Marktabdeckung: Wer weniger Tech-Konzentration möchte, wählt den iShares MSCI World ETF (ISIN: IE00B4L5Y983). Über 1.500 Unternehmen aus 23 Industrieländern. Laufende Kosten: 0,20 Prozent.
+
+
+Robotik und Automation: Der iShares Automation & Robotics UCITS ETF (ISIN: IE00BYZK4552) investiert gezielt in Unternehmen, die von der Automatisierung profitieren, darunter NVIDIA, Intuitive Surgical, Keyence und ABB.
+
+
+Energie und Uran: Der Global X Uranium ETF (ISIN: IE000NDWFGA5) investiert in Uranproduzenten und Versorger. Für die Nuklear-These aus Kapitel 5 eine gezielte Wette.
+
+
+Die asymmetrische Seite: Krypto-Zugang
+
+
+Bitcoin: Der CoinShares Physical Bitcoin ETP (ISIN: GB00BLD4ZL17) und der 21Shares Bitcoin ETP (ISIN: CH0454664001) sind an der Deutschen Börse handelbar. Physisch besichert, reguliert, über jedes Depot kaufbar.
+
+
+Ethereum: Der CoinShares Physical Ethereum ETP (ISIN: GB00BLD4ZM24) bietet den einfachsten regulierten Zugang.
+
+
+Breitere Krypto-Exposure: Der 21Shares Crypto Basket Index ETP (ISIN: CH0445689208) enthält die nach Marktkapitalisierung größten Kryptowährungen, diversifiziert über Bitcoin, Ethereum und weitere.
+
+
+Für direkte Krypto-Investments jenseits von ETPs: Regulierte Börsen wie Bitstamp (MiCA-Lizenz beantragt) oder Kraken bieten Zugang zu Token wie OLAS, FET oder RENDER. Beachten Sie die Steuerpflicht: Kryptowährungen, die länger als ein Jahr gehalten werden, sind in Deutschland nach aktueller Rechtslage steuerfrei. Bei kürzerer Haltedauer fällt der persönliche Einkommensteuersatz an.
+
+
+Wichtiger Hinweis
+
+
+Dieses Buch ist keine Anlageberatung. Die genannten Produkte dienen der Illustration, nicht der Empfehlung. Jede Investmententscheidung sollte auf der eigenen Risikobereitschaft, finanziellen Situation und idealerweise der Beratung eines zugelassenen Finanzberaters basieren.
+
+Anhang C — Tokenomics-Vergleich
+
+
+Die folgenden Token werden im Buch als Beispiele für die Infrastruktur der Maschinenökonomie genannt. Diese Übersicht gibt einen Snapshot der wichtigsten Kennzahlen. Stand: Februar 2026.
+
+
+OLAS (Autonolas): Governance-Token für autonome KI-Agenten. Gesamtangebot fixiert bei 526 Millionen Token, davon zum Zeitpunkt dieses Buchs etwa 60 Prozent im Umlauf. Staking möglich mit variablen Renditen. Nutzen: Governance über das Olas-Protokoll, das autonome Agenten-Services koordiniert. Inflationsrate rückläufig durch Token-Burns bei Protokollnutzung.
+
+
+FET (Fetch.ai / ASI Alliance): Infrastruktur-Token für KI-Agenten. Gesamtangebot 2,7 Milliarden Token, praktisch vollständig im Umlauf. Teil der Artificial Superintelligence Alliance (fusioniert mit SingularityNET und Ocean Protocol). Staking mit jährlichen Renditen um 7-10 Prozent. Nutzen: Bezahlung von Agent-Services und Compute auf dem Fetch-Netzwerk.
+
+
+RENDER (Render Network): Token für dezentrales GPU-Rendering. Gesamtangebot 531 Millionen Token. Burn-and-Mint-Mechanik: Token werden bei Nutzung verbrannt und neue für GPU-Provider geprägt. Kein klassisches Staking. Nutzen: Bezahlung von GPU-Rechenzeit für 3D-Rendering, KI-Training und Inferenz.
+
+
+PEAQ (peaq Network): Layer-1-Blockchain für DePIN (Decentralized Physical Infrastructure Networks). Token im Early-Stage-Stadium, Gesamtangebot und Unlock-Schedule noch in Entwicklung. Staking zur Netzwerksicherung. Nutzen: Governance und Transaktionsgebühren für IoT-Geräte und Maschinen-zu-Maschinen-Zahlungen.
+
+Anhang D — Weiterführende Ressourcen
+
+
+Bücher
+
+
+Howard Marks: "The Most Important Thing" — Die Investmentphilosophie, die diesem Buch zugrunde liegt. Nassim Nicholas Taleb: "Antifragile" — Warum Volatilität kein Feind ist, sondern ein Freund. Ray Kurzweil: "The Singularity Is Nearer" (2024) — Die aktualisierte Version seiner Prognosen zur technologischen Singularität. Emad Mostaque: "The Last Economy" (2025) — Der theoretische Unterbau zur Intelligence Inversion: Warum Intelligenz die letzte ökonomische Ressource ist, die von knapp zu abundant wird, und was das für Gesellschaft, Währungen und die Rolle des Menschen bedeutet. Kostenlos verfügbar auf thelasteconomy.com. David Sinclair: "Lifespan" — Die Wissenschaft der Langlebigkeit, Grundlage für Kapitel 11. Peter Thiel: "Zero to One" — Wie Monopole in der Technologie entstehen und warum Wettbewerb überschätzt wird. Balaji Srinivasan: "The Network State" — Die politische Dimension von Krypto und dezentraler Governance.
+
+
+On-Chain-Daten und Research
+
+
+DefiLlama (defillama.com) — TVL-Daten für alle DeFi-Protokolle, kostenlos und open source. Dune Analytics (dune.com) — Benutzerdefinierte On-Chain-Dashboards für Ethereum, Solana und andere Chains. Glassnode (glassnode.com) — Bitcoin- und Ethereum-On-Chain-Metriken für Investoren. The Block (theblock.co) — Research-Dashboards für Krypto-Marktdaten und institutionelle Flows. rwa.xyz — Speziell für tokenisierte Real-World Assets: TVL, Protokollvergleiche, Wachstumsraten.
+
+
+KI und Technologie
+
+
+Situational Awareness (situational-awareness.ai) — Leopold Aschenbrenners Essay über die Geschwindigkeit der KI-Entwicklung. AI Index Report (Stanford HAI) — Jährlicher Bericht zur globalen KI-Landschaft mit Daten statt Meinungen. NVIDIA GTC Keynotes (nvidia.com/gtc) — Jensen Huangs Präsentationen sind die beste Primärquelle für den Stand der KI-Hardware.
+
+
+Weiterbildung
+
+
+Google AI Essentials (coursera.org) — Kostenloser Einsteigerkurs für KI-Grundlagen. Blockchain Fundamentals (edx.org, Berkeley) — Grundlagen der Blockchain-Technologie, akademisch fundiert. Prompt Engineering for Everyone (DeepLearning.AI) — Praktischer Kurs für den Umgang mit KI-Systemen.

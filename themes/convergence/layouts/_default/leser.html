@@ -1,0 +1,43 @@
+{{ define "main" }}
+<section class="leser-page section">
+  <div class="container">
+    <div class="leser-content">
+      <div class="leser-icon">📖</div>
+      <h1>Exklusiv für <span class="gold-text">Buchleser</span></h1>
+      <p>Diese Seite ist für Leser von <em>Maschinengeld</em> reserviert. Im Buch findest du deinen persönlichen Zugangscode.</p>
+
+      <hr class="gold-divider">
+
+      <div class="leser-features">
+        <div class="leser-feature">
+          <div class="feature-icon">📊</div>
+          <h4>Musterportfolio</h4>
+          <p>Die Barbell-Strategie in der Praxis — konkrete Positionen und Gewichtungen.</p>
+        </div>
+        <div class="leser-feature">
+          <div class="feature-icon">🔬</div>
+          <h4>Deep-Dives</h4>
+          <p>Exklusive Analysen zu einzelnen Unternehmen und Technologien.</p>
+        </div>
+        <div class="leser-feature">
+          <div class="feature-icon">📧</div>
+          <h4>Leser-Newsletter</h4>
+          <p>Monatliche Updates zum Musterportfolio und neue Erkenntnisse.</p>
+        </div>
+        <div class="leser-feature">
+          <div class="feature-icon">💬</div>
+          <h4>Community</h4>
+          <p>Austausch mit anderen Lesern und dem Autor.</p>
+        </div>
+      </div>
+
+      <hr class="gold-divider">
+
+      <p style="font-size: 1.1rem; color: var(--accent-gold);">🚧 Coming Soon</p>
+      <p>Der Leserbereich wird mit der Buchveröffentlichung freigeschaltet. Trag dich in den Newsletter ein, um als Erster informiert zu werden.</p>
+
+      {{ partial "newsletter-form.html" . }}
+    </div>
+  </div>
+</section>
+{{ end }}

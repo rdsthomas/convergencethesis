@@ -1,9 +1,18 @@
-<form
-  action="https://buttondown.com/api/emails/embed-subscribe/{{ .Site.Params.newsletterHandle }}"
-  method="post"
-  target="popupwindow"
-  class="newsletter-form"
->
-  <input type="email" name="email" placeholder="your@email.com" required>
-  <button type="submit">Subscribe</button>
-</form>
+{{ if .Site.Params.newsletterEnabled }}
+<div class="newsletter-box">
+  <h3>Der Maschinenökonomie voraus</h3>
+  <p>Analysen zu KI, Robotik und Krypto — dort, wo die drei Säulen konvergieren.</p>
+  <form
+    action="https://buttondown.com/api/emails/embed-subscribe/{{ .Site.Params.newsletterHandle }}"
+    method="post"
+    target="popupwindow"
+    class="newsletter-form"
+  >
+    <div class="form-row">
+      <input type="email" name="email" placeholder="Ihre E-Mail-Adresse" required>
+      <button type="submit">Abonnieren</button>
+    </div>
+    <p class="form-note">Kostenlos. Kein Spam. Jederzeit abbestellbar.</p>
+  </form>
+</div>
+{{ end }}

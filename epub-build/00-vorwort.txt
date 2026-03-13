@@ -1,0 +1,79 @@
+Vorwort
+Dieses Buch ist Mila gewidmet.
+
+
+Mila ist meine Enkeltochter. Sie ist drei Jahre alt, und sie hat eine Form von Leukämie, die so selten ist, dass es dafür keine Standardtherapie gibt. Keine erprobte Medikamentenkombination, kein Protokoll, das Ärzte routiniert abarbeiten können. Jeder Behandlungsschritt ist ein Experiment.
+
+
+Wenn ich über Künstliche Intelligenz schreibe, über ihre Fähigkeit, Muster in Daten zu erkennen, die kein Mensch sehen kann, über Algorithmen, die Millionen von Molekülkombinationen in Stunden durchspielen statt in Jahrzehnten, über maschinelles Lernen, das seltene genetische Mutationen kartiert und Therapieansätze findet, die menschlichen Forschern verborgen bleiben, dann ist das für mich keine abstrakte Investmentthese.
+
+
+Es ist Hoffnung. Konkret und persönlich.
+
+
+Ich habe dieses Buch nicht geschrieben, weil die Welt ein weiteres Buch über Künstliche Intelligenz braucht. Es gibt genug davon. Die meisten sind entweder utopisch bis zur Naivität oder dystopisch bis zur Lähmung. Die einen versprechen das Paradies, die anderen warnen vor dem Untergang. Beide sind unterhaltsam. Beide sind nutzlos.
+
+
+Ich habe dieses Buch geschrieben, weil mich eine Frage nicht losgelassen hat. Als Investor, als Unternehmer, als jemand, der das Tempo dieser Veränderungen jeden Tag am eigenen Leib erlebt:
+
+
+Was passiert, wenn Maschinen nicht nur denken und handeln können, sondern auch ihr eigenes Geld haben, und irgendwann ihre eigenen Unternehmen?
+
+
+Die Antwort auf diese Frage hat Konsequenzen, die weit über Renditetabellen hinausgehen. Sie betrifft, wie wir arbeiten, wie wir investieren, wie wir als Gesellschaft funktionieren und, ja, wie wir die noch unbehandelbaren Krankheiten von heute zu den behandelbaren Krankheiten von morgen machen.
+
+
+Ein Wort zu meinem Standpunkt, weil er relevant ist für alles, was folgt.
+
+
+Ich bin kein Analyst, der aus sicherer Entfernung über Technologie schreibt. Ich bin kein Journalist, der Trends recherchiert und wiedergibt. Ich bin Gründer und Investor. Mit Rockstardevelopers baue ich seit Jahren Softwareprodukte. Mit accessibleAI entwickle ich KI-Systeme, die Unternehmen helfen, regulatorische Compliance zu automatisieren. Ich sitze nicht in einem Büro und lese über KI. Ich baue sie. Jeden Tag.
+
+
+Das heißt auch: Ich habe Skin in the Game. Ich habe in die Technologien investiert, über die ich schreibe. Ich habe Geld in Bitcoin, in Ethereum, in KI-Aktien, in Robotik. Man kann das als Interessenkonflikt lesen oder als Beweis, dass ich meine eigene These ernst genug nehme, um mein Vermögen darauf zu setzen. Ich halte das Zweite für glaubwürdiger.
+
+
+Nassim Taleb hat geschrieben, dass man niemandem vertrauen sollte, der nicht selbst von dem betroffen ist, worüber er urteilt. Ich bin betroffen.
+
+
+Was Sie in diesem Buch finden werden — und warum es sich lohnt, es bis zum Ende zu lesen: Dieses Buch wird Ihnen helfen, Ihr Vermögen in einer Welt zu sichern, die sich radikal verändert. Es wird Ihnen zeigen, wer die Gewinner und wer die Verlierer dieser Transformation sein werden — und wie Sie auf der richtigen Seite stehen.
+
+
+Eine These. Keine Sammlung von Meinungen, keine Parade von Möglichkeiten, sondern eine klare, argumentierte These: Die Konvergenz von Künstlicher Intelligenz, Robotik und Kryptowährungen erschafft eine neue ökonomische Ordnung. Eine Ökonomie, in der Maschinen produzieren, entscheiden, handeln und bezahlen. Diese Ökonomie kommt nicht irgendwann. Sie entsteht jetzt. Und sie wird die größte Vermögenstransformation unserer Lebenszeit auslösen.
+
+
+Das Buch ist in vier Teile gegliedert:
+
+
+Teil I entwickelt die These. Was ist Künstliche Intelligenz wirklich, jenseits des Hypes? Warum brauchen autonome Maschinen eigenes Geld, und warum sind Kryptowährungen die Antwort auf ein Problem, das die meisten Menschen noch nicht einmal als Problem erkannt haben? Was passiert, wenn nicht nur Geld, sondern alle Vermögenswerte der Welt in digitale Token umgewandelt werden, die Maschinen lesen, handeln und besitzen können? Und was bedeutet es, wenn Maschinen nicht nur bezahlen, sondern eigene Unternehmen gründen, die ohne menschliche Geschäftsführung funktionieren?
+
+
+Teil II kartiert die Landschaft. Wer gewinnt und wer verliert, geopolitisch, energiepolitisch, regulatorisch, gesellschaftlich? Warum kaufen Microsoft und Amazon gerade Atomkraftwerke? Und warum reguliert sich Europa ins Abseits?
+
+
+Teil III blickt nach vorne. Wie sieht die Welt in zehn Jahren aus, im wahrscheinlichsten Szenario? Was passiert, wenn Brain-Computer-Interfaces unsere Gedanken direkt mit KI verbinden? Und wem gehört eigentlich die Produktivität, wenn Maschinen die Arbeit übernehmen?
+
+
+Teil IV liefert das Playbook. Wie übersetzt man diese These in Investmententscheidungen? Mit Nassim Talebs Barbell-Strategie, mit konkreten Portfolios, mit einer ehrlichen Analyse der Risiken und mit einem Aktionsplan für die nächsten 30 Tage.
+  
+Abbildung 1: Die Konvergenz-These — KI, Robotik und Krypto verschmelzen zur Maschinenökonomie
+
+
+Was Sie in diesem Buch nicht finden werden:
+
+
+Keine Anlageberatung. Keine Garantien. Keinen „Diesen einen Trick"-Unsinn.
+
+
+Was Sie finden werden, ist ein Rahmen zum Denken. Ein Framework, das Ihnen hilft, die nächsten zehn Jahre einzuordnen. Nicht nur als Investor, sondern als jemand, der in einer Welt lebt, die sich gerade verändert.
+
+
+Ob die Konvergenz, die ich beschreibe, genau so eintritt, wie ich sie mir vorstelle, weiß ich nicht. Niemand weiß das. Aber ich bin überzeugt, dass die Richtung stimmt, und dass diejenigen, die die Richtung früh genug erkennen, in zehn Jahren froh sein werden, dass sie es getan haben.
+
+
+Peter Thiel hat einmal gesagt, die wertvollsten Unternehmen bauen auf Überzeugungen auf, die fast niemand teilt, die aber richtig sind. Ich glaube, das gilt auch für Investmententscheidungen.
+
+
+Dieses Buch ist meine Überzeugung. Prüfen Sie sie. Hinterfragen Sie sie. Und dann entscheiden Sie selbst.
+
+
+Thomas Huhn, Februar 2026

@@ -1,0 +1,186 @@
+Kapitel 4: Die geopolitische Dimension — USA, China und Europas Schweigen
+
+
+Investitionen finden nicht im Vakuum statt. Die KI-Revolution hat eine geopolitische Dimension, die man verstehen muss, um kluge Entscheidungen zu treffen. Und die geopolitische Realität ist unbequem — besonders für Europäer.
+
+
+Es gibt genau zwei KI-Supermächte: die USA und China. Punkt.
+
+
+Wer das nicht akzeptiert, trifft falsche Investmententscheidungen. Also lassen Sie mich die Landkarte zeichnen, wie sie ist — nicht wie wir sie gerne hätten.
+America First in AI: Das US-Ökosystem
+Die Vereinigten Staaten dominieren die KI-Revolution auf eine Weise, die in der Technologiegeschichte nahezu beispiellos ist. Und zwar nicht in einem einzelnen Bereich, sondern in jedem relevanten gleichzeitig.
+
+
+Grundlagenforschung: OpenAI, Anthropic, Google DeepMind, Meta AI — die vier wichtigsten KI-Labore der Welt sitzen alle in den USA. Ihre Modelle definieren den Stand der Technik. Ihre Veröffentlichungen setzen die Agenda der globalen KI-Forschung. Ihre Forscher, oft abgeworben von den besten Universitäten der Welt, bilden die größte Konzentration von KI-Talent auf dem Planeten.
+
+
+Hardware: NVIDIA kontrolliert über 80 Prozent des Marktes für KI-Trainingschips. NVIDIAs Umsatz ist von 27 Milliarden Dollar im Geschäftsjahr 2023 auf über 130 Milliarden im Geschäftsjahr 2025 explodiert — eine Verfünffachung in zwei Jahren, getrieben von der unstillbaren Nachfrage nach KI-Rechenleistung. NVIDIAs H100- und Blackwell-Chips sind die Grundlage, auf der die gesamte KI-Revolution läuft. Ohne NVIDIA keine modernen Sprachmodelle, keine Bild-KI, keine Agenten, keine Roboter-Intelligenz.
+
+
+AMD und Intel versuchen aufzuholen, bleiben aber weit hinter NVIDIA zurück. Und dann gibt es die Custom-Chip-Initiativen der Hyperscaler: Google mit TPU, Amazon mit Trainium und Inferentia, Microsoft mit Maia. Sie alle versuchen, ihre Abhängigkeit von NVIDIA zu reduzieren — was paradoxerweise die Gesamtinvestitionen in KI-Hardware noch weiter steigert.
+
+
+Infrastruktur: AWS, Azure und Google Cloud kontrollieren zusammen über 65 Prozent des globalen Cloud-Computing-Marktes. Die Cloud ist die Fabrik der KI-Ära — hier werden Modelle trainiert, hier laufen Inferenz-Workloads, hier werden die Dienste bereitgestellt, die Unternehmen weltweit nutzen. Wer die Cloud kontrolliert, kontrolliert den Zugang zur KI.
+
+
+Kapital: Allein 2024 flossen über 100 Milliarden Dollar in amerikanische KI-Startups. Das ist mehr als die gesamten Risikokapitalinvestitionen der meisten europäischen Länder — über alle Branchen hinweg. OpenAI wurde mit über 150 Milliarden Dollar bewertet. Anthropic mit über 60 Milliarden. xAI, Elon Musks KI-Unternehmen, sammelte 6 Milliarden in einer einzigen Runde. Das Kapital fließt in einem Ausmaß, das historisch nur mit dem Manhattan-Projekt oder dem Apollo-Programm vergleichbar ist — nur dass es diesmal privates Kapital ist, nicht staatliches.
+
+
+Die Konzentration ist atemberaubend — und sie verstärkt sich selbst: Die besten Forscher gehen dorthin, wo das meiste Geld ist. Das meiste Geld fließt dorthin, wo die besten Forscher sind. Die besten Modelle kommen von den besten Forschern mit dem meisten Geld. Und die besten Modelle ziehen die meisten Nutzer an, was die meisten Daten generiert, was die nächste Generation noch besser macht.
+
+
+Das ist kein Kreislauf, aus dem man leicht ausbricht.
+China: Der unterschätzte Rivale
+China ist die zweite KI-Supermacht, und wer sie unterschätzt, macht einen teuren Fehler.
+
+
+Die chinesische KI-Strategie unterscheidet sich fundamental von der amerikanischen. Die USA dominieren bei den Grundlagenmodellen — den massiven Sprachmodellen, die alles antreiben. China dominiert bei der Anwendung und der Hardware-Lieferkette.
+
+
+ByteDance, der Mutterkonzern von TikTok, betreibt eines der fortschrittlichsten KI-Systeme der Welt — nicht für Sprachverarbeitung, sondern für Recommendation Engines. Der Algorithmus, der entscheidet, welches Video Sie als Nächstes auf TikTok sehen, ist ein KI-System von atemberaubender Komplexität und Effektivität. Baidu, Alibaba und Tencent investieren Milliarden in eigene Foundation-Modelle.
+
+
+Und dann kam DeepSeek, und damit   der Moment, in dem China zeigte, dass es nicht nur bei Anwendungen konkurrieren kann, sondern auch bei den Grundlagen. Mit effizienterer Architektur und weniger Rechenleistung ein Modell zu bauen, das mit den besten amerikanischen Modellen mithalten kann — das war nicht nur ein technischer Durchbruch. Es war ein strategisches Signal: Exportkontrollen werden China nicht stoppen. Sie werden China zwingen, eigene Wege zu finden. Und diese Wege könnten am Ende effizienter sein als die amerikanischen.
+
+
+Bei der Robotik ist China bereits heute der größte Markt und zunehmend der führende Produzent. Unitree liefert humanoide Roboter für unter 20.000 Dollar — ein Bruchteil dessen, was Figure AI oder Tesla für Optimus verlangen werden. China hat etwas, das westliche Robotik-Startups nicht haben: jahrzehntelange Erfahrung in der Massenproduktion von Elektronik, etablierte Lieferketten für Motoren, Sensoren und Batterien, und eine Regierung, die Robotik als strategische Priorität betrachtet und entsprechend subventioniert.
+
+
+BYD, der mittlerweile größte Automobilhersteller der Welt nach Stückzahlen, integriert KI und Robotik in seine Fertigungslinien mit einer Geschwindigkeit, die westliche Industriekonzerne beschämt. Während deutsche Automobilhersteller noch über „Digitalisierungstrategien" diskutieren, hat BYD bereits Fabriken, in denen KI-gesteuerte Roboter weite Teile der Produktion autonom abwickeln.
+
+
+Die wichtigste Erkenntnis für Investoren: Der KI-Wettbewerb zwischen USA und China ist kein Nullsummenspiel. Beide Märkte werden wachsen. Aber die Wege divergieren: Die USA dominieren bei Software und Modellen, China bei Hardware und Massenproduktion. Wer ein diversifiziertes KI-Portfolio aufbauen will, muss beide Seiten im Blick haben.
+Europa: Ein Kontinent reguliert sich ins Abseits
+Ich sage das, was folgt, als Europäer. Als Deutscher. Mit dem Schmerz dessen, der zusehen muss, wie sein Kontinent eine historische Chance verspielt.
+
+
+Europa hat kein einziges führendes Foundation-Modell hervorgebracht. Kein europäisches Unternehmen steht in den Top 20 der wertvollsten KI-Firmen. Europas größter Beitrag zur KI-Revolution ist bisher die Bürokratie, die sie verlangsamt.
+
+
+Der EU AI Act ist das ambitionierteste KI-Regulierungswerk der Welt — und möglicherweise auch das schädlichste. Es klassifiziert KI-Systeme nach Risikostufen und legt für jede Stufe Compliance-Anforderungen fest. Hochrisiko-KI-Systeme (und die Definition ist breit) müssen umfangreiche Dokumentation, Risikobewertungen, menschliche Aufsicht und Transparenzberichte vorweisen. Die Strafen bei Verstößen: bis zu 35 Millionen Euro oder 7 Prozent des weltweiten Jahresumsatzes.
+
+
+Das ist nicht grundsätzlich falsch. Regulierung hat ihren Platz. KI-Systeme, die über die Kreditwürdigkeit von Menschen entscheiden oder medizinische Diagnosen stellen, sollten reguliert werden. Niemand mit Verstand argumentiert dagegen.
+
+
+Aber die Art, wie Europa reguliert, verrät ein tieferes Problem. Europa reguliert nicht mit der Industrie, sondern gegen sie. Der EU AI Act wurde geschrieben, bevor die meisten europäischen Unternehmen überhaupt KI einsetzten. Er reguliert eine Technologie, die Europa nicht kontrolliert und kaum versteht. Er bestraft Innovation mit Compliance-Kosten, die kleine und mittlere Unternehmen — das Rückgrat der europäischen Wirtschaft — überproportional belasten. Und er erzeugt genau den regulatorischen Overhead, der große, etablierte Tech-Konzerne bevorzugt, weil nur sie die Ressourcen haben, um die Compliance-Maschine zu bedienen.
+
+
+Die Ironie ist bitter: Die Regulierung, die angeblich europäische Bürger vor den Exzessen amerikanischer und chinesischer Tech-Konzerne schützen soll, zementiert deren Dominanz, weil sie die Eintrittsbarrieren für europäische Konkurrenten erhöht.
+
+
+Der Brain Drain verschärft das Problem. Die besten KI-Forscher Europas arbeiten in San Francisco, New York oder London, nicht in Berlin, Paris oder München. Nicht weil sie Europa nicht mögen, sondern weil die Labore dort sind, das Kapital dort ist, die Möglichkeiten dort sind. Yann LeCun, einer der Väter des Deep Learning, ist Franzose — er arbeitet für Meta in New York. Demis Hassabis, Gründer von DeepMind, ist Brite — er arbeitet für Google in London (technisch noch Europa, aber post-Brexit und mit Silicon-Valley-Kapital). Die Liste ließe sich beliebig fortsetzen.
+
+
+Was bedeutet das für Investoren? Es bedeutet, dass ein KI-fokussiertes Portfolio überwiegend in US-amerikanische und selektiv in asiatische Assets investiert sein sollte. Europäische Aktien können Teil eines diversifizierten Portfolios sein — europäische Industrieunternehmen wie Siemens oder SAP werden KI nutzen und davon profitieren — aber Europa ist kein Ort, an dem die Renditen der KI-Revolution erwirtschaftet werden. Die Innovation passiert anderswo.
+
+
+Europas Regulierung als Eigentor: Drei persönliche Erfahrungen
+
+
+Ich bin kein Theoretiker der Regulierungskritik. Ich erlebe sie am eigenen Leib.
+
+
+Erstes Beispiel: Mein Unternehmen accessibleAI entwickelt KI-gestützte Software für Barrierefreiheits-Compliance. Wir wollten Metas Open-Source-Modell Llama nutzen, selbst gehostet, auf europäischen Servern, mit voller Kontrolle über die Daten. Im Juli 2024 gab Meta bekannt, dass es seine multimodalen KI-Modelle in der EU nicht veröffentlichen werde. Der Grund: "die unberechenbare Natur des europäischen Regulierungsumfelds". Im September 2024 wurde die Sperre in der Lizenz verankert. EU-Bürger und EU-Unternehmen dürfen die Vision-Modelle von Llama 3.2 nicht nutzen. Als im April 2025 Llama 4 erschien, komplett multimodal, waren alle Versionen für die EU gesperrt.
+
+
+Wir konnten keinen europäischen Hoster finden, der das Modell legal betreiben konnte. Die leistungsfähigste Open-Source-KI der Welt, entwickelt von einem US-Konzern, der sie kostenlos zur Verfügung stellt, ist für europäische Unternehmen nicht verfügbar. Nicht weil sie gefährlich wäre oder nicht funktionieren würde, sondern schlicht, weil Meta das regulatorische Risiko nicht eingehen will.
+
+
+Apple hat Ähnliches getan. Apple Intelligence wurde in der EU verzögert, unter Berufung auf den Digital Markets Act. Google hat KI-Features für die EU später ausgerollt. Es entsteht ein Muster: US-Unternehmen behandeln Europa als Markt zweiter Klasse, weil die Compliance-Kosten den Aufwand nicht rechtfertigen.
+
+
+Zweites Beispiel: Ich halte Stablecoins. USDC, den Dollar-Stablecoin von Circle. Bis November 2024 zahlte mir Coinbase darauf 4,7 Prozent Zinsen pro Jahr. Passive Rendite auf digitale Dollar, komplett automatisch. Am 1. Dezember 2024 war das vorbei. Coinbase stellte das USDC Rewards Programm für alle Kunden im Europäischen Wirtschaftsraum ein. Ein Coinbase-Sprecher erklärte, MiCA erfordere die Einstellung. Artikel 50 der Markets in Crypto-Assets Regulation verbietet die Gewährung von Zinsen auf E-Money-Tokens.
+
+
+Meine amerikanischen Freunde bekommen weiterhin ihre 4,7 Prozent. Ich bekomme null. Nicht weil ich ein höheres Risiko eingänge oder Coinbase in Europa weniger sicher operierte — sondern weil europäische Regulierer entschieden haben, dass Stablecoins Zahlungsmittel sein sollen, keine Sparanlage. Die Absicht mag gut sein. Das Ergebnis ist, dass europäische Bürger systematisch schlechter gestellt werden als amerikanische.
+
+
+Das Gleiche passiert mit Tether, dem größten Stablecoin der Welt. Tether hat keine MiCA-Lizenz beantragt. Mehrere europäische Börsen haben USDT delistet. Ab Juli 2025 ist USDT auf regulierten europäischen Börsen faktisch verboten. Ein Stablecoin mit einer Marktkapitalisierung von über 139 Milliarden Dollar, der 58 Prozent des europäischen Krypto-Transaktionsvolumens ausmachte, ist in Europa nicht mehr handelbar.
+
+
+Drittes Beispiel, und das frustrierendste: Ich hatte die Idee, Open-Source-Mitarbeitern an einem Projekt Tokens zu geben. Keine Spekulation, kein Pump-and-Dump. Einfach ein Weg, Menschen zu belohnen, die Code beitragen, Dokumentation schreiben, Bugs melden. Tokens als Anerkennung und als Governance-Instrument, damit die Community über die Richtung des Projekts mitentscheiden kann.
+
+
+Unter MiCA muss jeder, der Tokens ausgibt, ein Krypto-Asset-Whitepaper erstellen, das den Anforderungen von Artikel 6 entspricht. Der Emittent haftet für die Richtigkeit der Angaben. Das Whitepaper muss der nationalen Aufsichtsbehörde 20 Tage vor Veröffentlichung vorgelegt werden. Für Asset-Referenced Tokens braucht man eine regulatorische Lizenz mit Eigenkapitalanforderungen von mindestens 350.000 Euro.
+
+
+Für ein Open-Source-Projekt mit ehrenamtlichen Entwicklern ist das nicht machbar. Die Compliance-Kosten übersteigen den Wert des gesamten Projekts. Die Gefahr, in das Minenfeld von MiCA zu geraten, ist zu groß. Also lässt man es bleiben. Und damit stirbt eine Idee, die in den USA oder in der Schweiz problemlos umsetzbar wäre.
+
+
+Das Europa-Paradox ist real: Regulierung, die Bürger schützen soll, benachteiligt sie. Europäer sind "geschützt" vor multimodalen KI-Modellen, können dafür aber die leistungsfähigsten offenen Modelle nicht nutzen. Europäer sind "geschützt" vor unregulierten Finanzprodukten, verlieren dafür 4 bis 5 Prozent Rendite pro Jahr. Europäer sind "geschützt" vor unseriösen Token-Emissionen, dafür wandern innovative Projekte ab. Die Frage ist nicht, ob diese Regulierung gute Absichten hat. Die Frage ist, ob Europa sich mit diesen Absichten aus der Zukunft reguliert.
+Der Chip-Krieg
+Halbleiter sind das neue Öl. Wer die Chips kontrolliert, kontrolliert die KI. Und wer die KI kontrolliert, kontrolliert die Wirtschaft des 21. Jahrhunderts.
+
+
+Die gesamte KI-Revolution hängt an einer erstaunlich fragilen Lieferkette. NVIDIA designt die Chips — aber baut sie nicht. Die Produktion liegt fast ausschließlich bei TSMC, der Taiwan Semiconductor Manufacturing Company, in Fabriken auf einer Insel, die 130 Kilometer vor der chinesischen Küste liegt und von der Volksrepublik China als Teil ihres Staatsgebiets betrachtet wird.
+
+
+TSMC produziert über 90 Prozent der weltweit fortschrittlichsten Halbleiter — die Chips unter 7 Nanometer, die für KI-Training und -Inferenz benötigt werden. Es gibt auf dem Planeten kein zweites Unternehmen, das Chips mit vergleichbarer Qualität und Stückzahl liefern kann. Samsung kommt am nächsten, liegt aber deutlich zurück. Intel versucht aufzuholen, hat aber den Anschluss an die Spitze verloren.
+  
+Abbildung 13: Der Chip-Krieg — TSMCs Nadelöhr in der globalen KI-Lieferkette
+
+
+Und dann gibt es ASML — das niederländische Unternehmen, das die Lithografie-Maschinen baut, ohne die TSMC seine Chips nicht produzieren kann. ASMLs EUV-Maschinen (Extreme Ultraviolet Lithography) kosten über 300 Millionen Dollar pro Stück und sind so komplex, dass es auf der Welt nur eine Handvoll Ingenieure gibt, die sie warten können. ASML hat ein de-facto-Monopol auf diese Technologie. Kein ASML, kein TSMC. Kein TSMC, kein NVIDIA. Kein NVIDIA, keine KI-Revolution.
+
+
+Die geopolitischen Implikationen sind offensichtlich und beunruhigend. Wenn China Taiwan militärisch bedroht oder gar besetzt, steht die globale Chipversorgung still. Die USA haben reagiert, indem sie TSMC dazu gebracht haben, Fabriken in Arizona zu bauen, und Intel mit dem CHIPS Act Milliarden an Subventionen zugesagt haben. Aber der Aufbau einer Chipfabrik dauert Jahre, und das Know-how von TSMCs Ingenieuren lässt sich nicht kopieren wie Software.
+
+
+Für Investoren ist der Chip-Krieg ein zweischneidiges Schwert. Einerseits bieten NVIDIA, TSMC und ASML außergewöhnliche Investmentchancen — sie sitzen an der engsten Stelle der gesamten Wertschöpfungskette. Andererseits ist genau diese Konzentration ein systemisches Risiko. Ein Erdbeben in Taiwan, ein Krieg in der Straße von Taiwan, oder auch nur verschärfte Exportkontrollen können die gesamte Branche erschüttern.
+Der Chip-Krieg wird härter
+Der Kampf um die Vorherrschaft in der Halbleiterfertigung hat sich seit dem CHIPS Act verschärft. Und die Ergebnisse sind ernüchternder als erwartet.
+
+
+TSMC baut in Arizona die teuerste Chipfabrik der Geschichte. Die Gesamtinvestition ist von ursprünglich 12 Milliarden auf 165 Milliarden Dollar angeschwollen. Sechs Fabriken, finanziert mit 6,6 Milliarden Dollar aus dem CHIPS Act. Die erste Fabrik produziert seit Anfang 2025 Chips im 4-Nanometer-Verfahren. Aber die Kosten sind 30 bis 50 Prozent höher als in Taiwan. Amerikanische Techniker haben weniger Erfahrung mit den komplexen Fertigungsprozessen. TSMCs berüchtigte 12-Stunden-Schichten stießen auf kulturellen Widerstand. Die Fabrik funktioniert, aber sie ist teuer.
+
+
+Intel, einst der unumstrittene Chipkönig, ist zum Patienten geworden. CEO Pat Gelsinger wurde im Dezember 2024 zum Rücktritt gedrängt, eine Woche nachdem Intel die größte Einzelförderung des CHIPS Act erhalten hatte: 7,86 Milliarden Dollar. Sein Nachfolger Lip-Bu Tan strich weitere 20 Prozent der Belegschaft, darunter 10.000 Foundry-Arbeiter, ohne Abfindung. Intels Foundry-Sparte generierte 2025 rund 4,5 Milliarden Dollar Umsatz bei 2,5 Milliarden Verlust. Die Zukunft der gesamten Fertigungsstrategie steht in Frage.
+
+
+Samsung strauchelt ebenfalls. Obwohl Samsung als erster Hersteller 3-Nanometer-Chips in Serie fertigte, liegt die Ausbeute bei etwa 50 Prozent. Bei TSMC sind es über 90. Von jedem Samsung-Wafer ist jeder zweite Chip defekt. Qualcomm, Nvidia und Google sind alle zu TSMC gewechselt. Samsungs Foundry-Marktanteil ist auf 9,3 Prozent gefallen, TSMC liegt bei 60. Eine überraschende Ausnahme: Elon Musk hat sich für Samsung entschieden, mit einem 16,5-Milliarden-Dollar-Vertrag für KI-Chips, vermutlich weil er bei TSMC nicht die gewünschte Kontrolle über den Fertigungsprozess bekommt.
+
+
+China versucht, den Chip-Rückstand aufzuholen, und scheitert an der Physik. Huawei und SMIC produzieren Chips im 7-Nanometer-Verfahren, aber ohne Zugang zu den EUV-Lithographie-Maschinen von ASML kommen sie nicht weiter. Sie verwenden stattdessen DUV-Multi-Patterning, eine Methode, die langsamer ist, schlechtere Ausbeuten liefert und physikalische Grenzen bei etwa 5 Nanometern hat. Huaweis Kirin-9030-Chip im neuesten Mate-Smartphone ist eine verbesserte 7-Nanometer-Variante, kein echtes 5-Nanometer wie behauptet. China liegt 3 bis 5 Jahre hinter TSMC, und die Lücke schließt sich langsamer als Peking hofft.
+
+
+Für die These dieses Buches ist der Chip-Krieg aus einem Grund relevant: Wer die Chips kontrolliert, kontrolliert die KI. Und die Kontrolle liegt bei TSMC in Taiwan, einer Insel, die China als eigenes Territorium betrachtet. 60 Prozent der weltweiten Auftragsfertigung fortschrittlicher Chips laufen über ein einziges Unternehmen auf einer Insel, die im Zentrum des gefährlichsten geopolitischen Konflikts der Welt liegt. Das ist kein Risiko, das man ignorieren kann.
+
+
+Indien: Der stille dritte Spieler
+
+
+In der KI-Geopolitik wird meist über zwei Pole gesprochen: die USA und China. Indien taucht in der Debatte selten auf. Das ist ein Fehler.
+
+
+Indien hat 100 Millionen wöchentlich aktive ChatGPT-Nutzer. Mehr als jedes andere Land außer den USA. Die Hälfte der Nachrichten kommt von 18- bis 24-Jährigen. Indien hat über 4 Millionen Software-Ingenieure, den zweitgrößten Pool nach den USA, und produziert 500.000 neue IT-Absolventen pro Jahr. Das Medianalter liegt bei 28 Jahren. In der EU liegt es bei 44.
+
+
+Im März 2024 startete die indische Regierung die IndiaAI Mission mit einem Budget von 1,24 Milliarden Dollar über fünf Jahre. Das klingt nach viel, ist aber ein Rundungsfehler verglichen mit den Hunderten Milliarden, die US-Tech-Konzerne jährlich in KI-Infrastruktur stecken. Interessanter als das Budget ist der Ansatz: Indien baut multilinguale KI-Modelle für 22 offizielle Sprachen. Krutrim, Indiens erstes KI-Unicorn, arbeitet an Modellen, die Hindi, Tamil, Bengali und 19 weitere Sprachen verstehen. Kein westliches Modell kann das.
+
+
+Indiens Rolle in der KI-Wertschöpfungskette ist schon heute enorm, wenn auch unsichtbar. Hunderte indischer Unternehmen annotieren die Daten, mit denen die großen Sprachmodelle trainiert werden. Indische Arbeiter labeln Bilder, transkribieren Audio, kategorisieren Text. Die Daten-Annotation, die menschliche Handarbeit hinter der maschinellen Intelligenz, ist zu einem erheblichen Teil indisch.
+
+
+Ob Indien zum dritten KI-Pol wird, hängt davon ab, welche Art von Pol man meint. Ein eigenständiges KI-Forschungs-Ökosystem auf Augenhöhe mit OpenAI oder DeepSeek? Wahrscheinlich nicht. Dazu fehlen die Compute-Ressourcen und die Grundlagenforschung. Aber ein KI-Anwendungsmarkt mit 1,45 Milliarden Menschen, ein Talent-Exporteur, der die Forschungslabore der Welt bestückt, und ein KI-Dienstleistungssektor, der die Infrastruktur der Branche baut? Das ist Indien bereits.
+
+
+Für Investoren ist Indien ein Thema, das man im Auge behalten muss. Nicht wegen eines einzelnen Unternehmens, sondern wegen der Demografie. 500.000 neue Ingenieure pro Jahr, in einem Land mit einem Medianalter von 28, in dem 100 Millionen Menschen wöchentlich KI nutzen. Wenn die USA die KI-Modelle bauen und China sie kontrolliert, dann wird Indien sie anwenden, in einer Breite und Tiefe, die kein anderes Land erreichen kann.
+Krypto als geopolitischer Hedge
+In diesem geopolitischen Spannungsfeld hat Krypto eine Eigenschaft, die oft übersehen wird: Jurisdiktionsunabhängigkeit.
+
+
+Bitcoin gehört keinem Land. Ethereum wird von keiner Regierung kontrolliert. Stablecoins können von jedem Menschen und jeder Maschine auf der Welt genutzt werden, unabhängig davon, welche Regierung gerade welche Sanktionen verhängt, welche Handelsblöcke sich gegenüberstehen oder welche Währung gerade abwertet.
+
+
+Das ist kein Bug. Das ist ein Feature.
+
+
+Wenn die USA und China einen technologischen Kalten Krieg führen und Europa sich mit Regulierung beschäftigt, dann ist ein Finanzsystem, das keinem dieser Blöcke gehört, für Investoren nicht nur eine ideologische Position — es ist ein pragmatischer Hedge. Wer Bitcoin und Ethereum besitzt, besitzt Assets, die von keiner einzelnen Regierung konfisziert, entwertet oder sanktioniert werden können.
+
+
+In einer Welt, die sich in technologische Blöcke aufspaltet — ein US-Ökosystem, ein chinesisches Ökosystem, möglicherweise weitere regionale Systeme — wird ein neutrales, grenzüberschreitendes Wertaufbewahrungsmittel nicht weniger wichtig. Es wird wichtiger.
+
+
+Das bedeutet nicht, dass man sein gesamtes Portfolio in Krypto stecken sollte. Es bedeutet, dass Krypto in einem geopolitisch diversifizierten Portfolio eine Funktion hat, die kein anderes Asset erfüllen kann: die Absicherung gegen das Risiko, dass die Regeln des Spiels sich ändern — und zwar von Spielern, deren Interessen nicht mit den eigenen übereinstimmen.

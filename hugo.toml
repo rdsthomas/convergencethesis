@@ -1,17 +1,22 @@
 baseURL = "https://convergencethesis.com/"
-languageCode = "en"
-title = "The Convergence Thesis"
+languageCode = "de"
+title = "Maschinengeld — Thomas Huhn"
 theme = "convergence"
 
 [params]
-  description = "AI, Robotics, and Crypto Will Reshape the Global Economy. Here's the Investment Map."
+  description = "Investieren, bevor die Maschinen übernehmen — KI, Robotik und Krypto verschmelzen zur größten Investmentchance unserer Lebenszeit"
   author = "Thomas Huhn"
-  tagline = "The Machine Economy Is Coming. Position Yourself Now."
+  tagline = "KI · Robotik · Krypto — Die Maschinenökonomie kommt. Wer sie versteht, investiert richtig."
+  ogImage = "/images/cover.png"
+  # Newsletter signup (Buttondown)
   newsletterEnabled = true
   newsletterProvider = "buttondown"
   newsletterHandle = "convergencethesis"
+  # Social
   linkedin = "https://www.linkedin.com/in/thomashuhn/"
   twitter = ""
+  # Analytics (add later)
+  # googleAnalytics = ""
 
 [markup]
   [markup.goldmark]
@@ -30,27 +35,27 @@ theme = "convergence"
 
 [menu]
   [[menu.main]]
-    name = "The Thesis"
-    url = "/"
+    name = "Das Buch"
+    url = "/#buch"
     weight = 1
   [[menu.main]]
-    name = "Book"
-    url = "/book/"
+    name = "Leseprobe"
+    url = "/thesis/"
     weight = 2
   [[menu.main]]
-    name = "Watchlist"
-    url = "/watchlist/"
+    name = "Über den Autor"
+    url = "/about/"
     weight = 3
   [[menu.main]]
     name = "Blog"
     url = "/blog/"
     weight = 4
   [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Watchlist"
+    url = "/watchlist/"
     weight = 5
   [[menu.main]]
-    name = "Subscribe"
+    name = "Newsletter"
     url = "/subscribe/"
     weight = 6
 

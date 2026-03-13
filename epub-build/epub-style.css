@@ -154,12 +154,15 @@ p img { text-indent: 0; }
 }
 
 /* Bibliography / Literaturverzeichnis */
-.bib-section p, .bib-entry {
+.bib-section p, .bib-section .bib-entry {
     text-indent: 0 !important;
+    padding-left: 0 !important;
+    margin-left: 0 !important;
     margin: 0.4em 0;
     line-height: 1.5;
 }
-.bib-section h3, .bib-section h4 {
+.bib-section h2, .bib-section h3, .bib-section h4 {
+    text-indent: 0 !important;
     margin-top: 1.2em;
     margin-bottom: 0.3em;
 }
@@ -205,4 +208,40 @@ p img { text-indent: 0; }
     font-weight: bold;
     border-top: 2px solid #1a3a5c;
     background-color: #f0f4f8;
+}
+
+/* Endnotes: hanging indent — number flush left, text indented */
+.endnote-entry {
+    text-indent: 0 !important;
+    padding-left: 2.5em;
+    text-indent: -2.5em !important;
+    margin: 0.4em 0;
+    line-height: 1.5;
+    font-size: 0.9em;
+}
+
+/* Abbildungsverzeichnis */
+.abbildung-entry {
+    text-indent: 0 !important;
+    margin: 0.3em 0;
+}
+.abbildung-source {
+    text-indent: 0 !important;
+    margin: 0 0 0.8em 0;
+    font-size: 0.85em;
+    color: #666;
+}
+
+/* Stichwortverzeichnis */
+.stichwort-entry {
+    text-indent: 0 !important;
+    margin: 0.3em 0;
+    line-height: 1.5;
+}
+.stichwort-letter {
+    text-indent: 0 !important;
+    font-weight: bold;
+    font-size: 1.1em;
+    color: #1a3a5c;
+    margin: 0.8em 0 0.2em 0;
 }

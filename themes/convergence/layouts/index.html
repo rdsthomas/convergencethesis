@@ -2,18 +2,204 @@
 
 <!-- Hero Section -->
 <section class="hero">
-  <div class="hero-inner">
-    <div class="hero-badge reveal-fade">An Investment Thesis by Thomas Huhn</div>
-    <h1 class="hero-title reveal-fade">The Convergence Thesis</h1>
-    <p class="hero-subtitle reveal-fade">AI, Robotics, and Crypto are merging into a single machine economy.<br>This is the investment map.</p>
-    <div class="hero-scroll reveal-fade">
-      <span>Scroll to begin</span>
-      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 5v14M5 12l7 7 7-7"/></svg>
+  <!-- Convergence Lines Animation -->
+  <div class="convergence-lines">
+    <svg viewBox="0 0 1200 600" preserveAspectRatio="xMidYMid slice">
+      <defs>
+        <radialGradient id="orbGlow" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stop-color="#fffde0" stop-opacity="0.8"/>
+          <stop offset="30%" stop-color="#c9a84c" stop-opacity="0.4"/>
+          <stop offset="100%" stop-color="#c9a84c" stop-opacity="0"/>
+        </radialGradient>
+      </defs>
+      <!-- KI Line (Blue) — left to center -->
+      <path class="conv-line conv-line-ki" d="M 50,500 C 200,400 400,350 600,300"/>
+      <!-- Robotik Line (Cyan) — top to center -->
+      <path class="conv-line conv-line-robotik" d="M 600,50 C 600,120 600,200 600,300"/>
+      <!-- Crypto Line (Gold) — right to center -->
+      <path class="conv-line conv-line-crypto" d="M 1150,500 C 1000,400 800,350 600,300"/>
+
+      <!-- Dots along lines -->
+      <circle class="conv-dot" cx="150" cy="460" r="2" style="color:var(--accent-blue);animation-delay:1s"/>
+      <circle class="conv-dot" cx="300" cy="390" r="1.5" style="color:var(--accent-blue);animation-delay:1.3s"/>
+      <circle class="conv-dot" cx="450" cy="340" r="2" style="color:var(--accent-blue);animation-delay:1.6s"/>
+
+      <circle class="conv-dot" cx="600" cy="100" r="1.5" style="color:var(--accent-cyan);animation-delay:1.2s"/>
+      <circle class="conv-dot" cx="600" cy="180" r="2" style="color:var(--accent-cyan);animation-delay:1.5s"/>
+
+      <circle class="conv-dot" cx="1050" cy="460" r="2" style="color:var(--accent-amber);animation-delay:1.4s"/>
+      <circle class="conv-dot" cx="900" cy="390" r="1.5" style="color:var(--accent-amber);animation-delay:1.7s"/>
+      <circle class="conv-dot" cx="750" cy="340" r="2" style="color:var(--accent-amber);animation-delay:2s"/>
+
+      <!-- Central Orb -->
+      <circle class="conv-orb-glow" cx="600" cy="300" r="40"/>
+      <circle class="conv-orb" cx="600" cy="300" r="6" style="animation: orbAppear 1s ease forwards 2.5s, orbPulse 3s ease-in-out infinite 3.5s;"/>
+    </svg>
+  </div>
+
+  <div class="container">
+    <div class="hero-inner">
+      <div class="hero-cover">
+        <img src="/images/cover.png" alt="Maschinengeld — Buchcover" width="380" height="570">
+      </div>
+      <div class="hero-content">
+        <span class="hero-badge">✦ Bald erhältlich</span>
+        <h1 class="hero-title">
+          <span class="title-maschinen">Maschinen</span>
+          <span class="title-geld">Geld</span>
+        </h1>
+        <p class="hero-subtitle">Investieren, bevor die Maschinen übernehmen — in die kommende Ökonomie ohne Menschen</p>
+        <p class="hero-author">Thomas Huhn</p>
+        <p class="hero-author-role">Unternehmer • KI-Experte • Investor</p>
+        <div class="hero-cta">
+          <a href="/subscribe/" class="btn btn-primary">Newsletter abonnieren</a>
+          <a href="/thesis/" class="btn btn-secondary">Leseprobe lesen</a>
+        </div>
+      </div>
     </div>
   </div>
 </section>
 
-<!-- Chapters -->
-{{ .Content }}
+<!-- Über das Buch -->
+<section id="buch" class="about-book section">
+  <div class="container">
+    <h2 class="section-title gold-text">Über das Buch</h2>
+    <hr class="gold-divider">
+    <div class="book-pitch">
+      <p>Drei technologische Revolutionen — Künstliche Intelligenz, Robotik und Kryptowährungen — verschmelzen gerade zur größten wirtschaftlichen Transformation seit der Industrialisierung. <em>Maschinengeld</em> zeigt, warum diese Konvergenz die Investmentchance unserer Lebenszeit darstellt, welche Risiken sie birgt und wie Anleger sich jetzt positionieren können.</p>
+    </div>
+
+    <div class="pillars-grid">
+      <div class="pillar pillar-ki">
+        <div class="pillar-icon">🧠</div>
+        <h3>Künstliche Intelligenz</h3>
+        <p>Vom Werkzeug zum autonomen Agenten. KI ist kein Software-Trend — sie ist eine kognitive Revolution, die jede Branche neu definiert.</p>
+      </div>
+      <div class="pillar pillar-robotik">
+        <div class="pillar-icon">🤖</div>
+        <h3>Robotik</h3>
+        <p>Wenn KI einen Körper bekommt. Humanoide Roboter werden Fabriken, Logistik und Gesundheitswesen transformieren — zu einem Bruchteil heutiger Kosten.</p>
+      </div>
+      <div class="pillar pillar-crypto">
+        <div class="pillar-icon">₿</div>
+        <h3>Krypto</h3>
+        <p>Das Geldsystem, das Maschinen brauchen. Programmierbares Geld, Smart Contracts und erlaubnisfreie Zahlungen — die Infrastruktur der autonomen Ökonomie.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Inhaltsübersicht -->
+<section class="toc-section section">
+  <div class="container">
+    <h2 class="section-title gold-text">Inhaltsübersicht</h2>
+    <hr class="gold-divider">
+    <p class="section-subtitle">18 Kapitel in vier Teilen — vom großen Bild zur konkreten Anlagestrategie</p>
+
+    <div class="toc-grid">
+      <div class="toc-part">
+        <p class="toc-part-label">Teil I</p>
+        <h3 class="toc-part-title">Die These</h3>
+        <ul class="toc-chapters">
+          <li><span class="ch-num">01</span> Die größte Transformation seit 250 Jahren</li>
+          <li><span class="ch-num">02</span> Die KI-Revolution in vier Phasen</li>
+          <li><span class="ch-num">03</span> Warum Maschinen Krypto brauchen</li>
+          <li><span class="ch-num">04</span> Geopolitik der Maschinenökonomie</li>
+        </ul>
+      </div>
+      <div class="toc-part">
+        <p class="toc-part-label">Teil II</p>
+        <h3 class="toc-part-title">Die Landschaft</h3>
+        <ul class="toc-chapters">
+          <li><span class="ch-num">05</span> Energie — Der limitierende Faktor</li>
+          <li><span class="ch-num">06</span> Der menschliche Preis</li>
+          <li><span class="ch-num">07</span> Regulierung — Bremse oder Leitplanke?</li>
+          <li><span class="ch-num">08</span> Szenario 2026–2035</li>
+        </ul>
+      </div>
+      <div class="toc-part">
+        <p class="toc-part-label">Teil III</p>
+        <h3 class="toc-part-title">Die Konsequenzen</h3>
+        <ul class="toc-chapters">
+          <li><span class="ch-num">09</span> Das Interface — Mensch trifft Maschine</li>
+          <li><span class="ch-num">10</span> Ethik der autonomen Ökonomie</li>
+          <li><span class="ch-num">11</span> Longevity trifft Smart Money</li>
+        </ul>
+      </div>
+      <div class="toc-part">
+        <p class="toc-part-label">Teil IV</p>
+        <h3 class="toc-part-title">Der Investor</h3>
+        <ul class="toc-chapters">
+          <li><span class="ch-num">12</span> Die Barbell-Strategie</li>
+          <li><span class="ch-num">13</span> Risiken — Was schiefgehen kann</li>
+          <li><span class="ch-num">14</span> Warum jetzt?</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Leseprobe / Zitat -->
+<section class="quote-section section">
+  <div class="container">
+    <div class="quote-content">
+      <h2 class="section-title gold-text">Leseprobe</h2>
+      <hr class="gold-divider">
+      <blockquote>
+        Es gibt Momente in der Geschichte, in denen sich die tektonischen Grundlagen der Wirtschaft verschieben. Die Dampfmaschine war ein solcher Moment. Die Elektrifizierung. Das Internet. Wer in diesen Phasen investiert hat — nicht in die Technologie selbst, sondern in die richtige Wertschöpfungsebene — hat Vermögen aufgebaut, das Generationen überdauerte. Wir stehen gerade an einem solchen Punkt. Und diesmal ist die Transformation radikaler als alles, was wir je erlebt haben.
+      </blockquote>
+      <p class="quote-source">— Aus dem Vorwort</p>
+      <a href="/thesis/" class="btn btn-secondary">Die vollständige Thesis lesen →</a>
+    </div>
+  </div>
+</section>
+
+<!-- Über den Autor -->
+<section class="author-section section">
+  <div class="container">
+    <h2 class="section-title gold-text">Über den Autor</h2>
+    <hr class="gold-divider">
+    <div class="author-inner">
+      <div class="author-photo">TH</div>
+      <div class="author-text">
+        <h3>Thomas Huhn</h3>
+        <p class="author-credentials">Unternehmer • KI-Experte • Investor</p>
+        <p>Thomas Huhn schreibt nicht über KI vom Seitenrand. Er baut KI-Produkte. Mit <a href="https://accessibleai.eu">accessibleAI</a> entwickelt er Software, die Unternehmen hilft, regulatorische Compliance mit KI zu automatisieren. Daneben führt er <a href="https://rockstardevelopers.de">Rockstardevelopers</a>, eine Software-Agentur, und <a href="https://consensus.ventures">Consensus Ventures</a>, sein Investment-Vehikel. Diese Kombination — Technologie bauen, Unternehmen führen und Kapital investieren — gibt ihm eine Perspektive, die den meisten Kommentatoren fehlt.</p>
+        <p style="margin-top: 1rem;"><a href="/about/">Mehr erfahren →</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Newsletter Section -->
+<section class="newsletter-section section">
+  <div class="container">
+    {{ partial "newsletter-form.html" . }}
+  </div>
+</section>
+
+<!-- Latest Posts -->
+{{ $posts := where .Site.RegularPages "Section" "blog" }}
+{{ if $posts }}
+<section class="latest-posts section">
+  <div class="container">
+    <h2 class="section-title gold-text">Aktuelles</h2>
+    <hr class="gold-divider">
+    <div class="posts-grid">
+      {{ range first 3 $posts }}
+      <article class="post-card">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02. January 2006" }}</time>
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <p>{{ .Summary | truncate 160 }}</p>
+        <a href="{{ .Permalink }}" class="read-more">Weiterlesen →</a>
+      </article>
+      {{ end }}
+    </div>
+    {{ if gt (len $posts) 3 }}
+    <p class="view-all"><a href="/blog/">Alle Beiträge →</a></p>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
 
 {{ end }}

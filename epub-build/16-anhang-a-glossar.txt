@@ -1,0 +1,150 @@
+Anhang A — Glossar
+Die wichtigsten Begriffe aus der Welt von Krypto, Blockchain und Künstlicher Intelligenz — erklärt für Menschen, die wissen, wie eine Bank funktioniert, aber nicht, wie eine Blockchain tickt.
+
+
+
+
+
+
+AGI (Artificial General Intelligence): Eine Künstliche Intelligenz, die alles kann, was ein Mensch kann — denken, lernen, Probleme lösen, kreativ sein. Heute gibt es das noch nicht; aktuelle KI ist eher wie ein hochspezialisierter Sachbearbeiter, der nur eine Aufgabe beherrscht. AGI wäre der Allrounder, der jeden Schalter in der Bank besetzen könnte.
+
+
+Alignment: Die Kunst, einer KI beizubringen, das zu tun, was Menschen wirklich wollen — und nicht nur das, was man ihr buchstäblich gesagt hat. Stellen Sie sich einen neuen Azubi vor, der Anweisungen wortwörtlich befolgt, statt den Sinn dahinter zu verstehen. Alignment sorgt dafür, dass die KI den Sinn versteht.
+
+
+Autonomer Agent: Ein KI-Programm, das selbständig Aufgaben erledigt, Entscheidungen trifft und Aktionen ausführt — ohne dass ein Mensch jeden Schritt absegnen muss. Wie ein Vermögensverwalter mit Vollmacht, der eigenständig kauft und verkauft, statt bei jeder Transaktion anzurufen.
+
+
+BCI (Brain-Computer Interface): Eine direkte Verbindung zwischen Gehirn und Computer. Statt Tastatur oder Maus steuern Sie Geräte mit Ihren Gedanken. Klingt nach Science-Fiction, wird aber bereits bei gelähmten Patienten eingesetzt.
+
+
+Bitcoin: Die erste und bekannteste Kryptowährung — digitales Geld ohne Zentralbank. Stellen Sie sich Gold vor, das nur digital existiert: begrenzt auf 21 Millionen Einheiten, fälschungssicher und weltweit übertragbar, ohne dass eine Bank dazwischensitzt.
+
+
+Blockchain: Ein digitales Kassenbuch, das auf tausenden Computern gleichzeitig gespeichert wird. Jede neue Seite (Block) wird an die vorherige gekettet und kann nachträglich nicht mehr verändert werden. Als würden alle Filialen einer Bank dasselbe Kassenbuch führen — und jeder Eintrag wäre in Stein gemeißelt.
+
+
+Bridge: Eine technische Brücke zwischen zwei verschiedenen Blockchains. Da Blockchains normalerweise nicht miteinander reden können, ist eine Bridge wie ein Währungsschalter am Flughafen: Sie tauschen Ihre Token von einem Netzwerk ins andere.
+
+
+CBDC (Central Bank Digital Currency): Digitales Zentralbankgeld — der digitale Euro, an dem die EZB arbeitet. Anders als Bitcoin wird eine CBDC von der Zentralbank herausgegeben und kontrolliert. Im Grunde Ihr Girokonto-Guthaben, aber direkt bei der Zentralbank statt bei Ihrer Hausbank.
+
+
+Cold Storage: Die sicherste Art, Kryptowährungen aufzubewahren — auf einem Gerät, das nicht mit dem Internet verbunden ist. Wie ein Schließfach im Tresorraum: Niemand kommt online dran, Sie müssen physisch hin.
+
+
+DAO (Decentralized Autonomous Organization): Eine Organisation, die von ihren Mitgliedern per Abstimmung gesteuert wird, ohne Vorstand oder Geschäftsführer. Die Regeln sind in Software festgeschrieben. Wie eine Genossenschaft, deren Satzung automatisch ausgeführt wird.
+
+
+DApp (Decentralized Application): Eine App, die nicht auf einem einzelnen Server läuft, sondern auf einer Blockchain. Kein Unternehmen kann sie abschalten, kein Admin kann Ihre Daten löschen. Stellen Sie sich Online-Banking vor, das keiner Bank gehört.
+
+
+DeFi (Decentralized Finance): Finanzdienstleistungen ohne Bank. Statt dass eine Sparkasse Ihren Kredit verwaltet, macht das ein Computerprogramm auf einer Blockchain. Gleiche Funktion, keine Mittelsmänner.
+
+
+DePIN (Decentralized Physical Infrastructure Networks): Reale Infrastruktur — wie WLAN-Hotspots, Wetterstationen oder Speicherplatz — die von einer Community statt einem Konzern betrieben wird. Jeder Teilnehmer stellt Hardware bereit und wird mit Token bezahlt.
+
+
+Digital Twin: Eine digitale Kopie eines realen Objekts oder Prozesses. Ihre Bank hat ein IT-System, das alle Konten abbildet — ein Digital Twin der gesamten Fabrik oder Stadt geht noch weiter: Er simuliert die Realität in Echtzeit.
+
+
+Em-Dash (—): Der lange Gedankenstrich, den Sie in diesem Buch häufig sehen. Kein Krypto-Begriff, aber ein typographisches Zeichen, das im Deutschen seltener vorkommt als im Englischen. Im Buch wird er als Stilmittel eingesetzt.
+
+
+ETP/ETN (Exchange Traded Product / Exchange Traded Note): Börsengehandelte Wertpapiere, die den Kurs von Kryptowährungen abbilden — ohne dass Sie selbst Bitcoin kaufen und verwahren müssen. Wie ein Gold-ETC: Sie besitzen nicht den Barren, aber profitieren vom Goldpreis. Für Sie als Banker ein vertrautes Konzept, nur der Basiswert ist neu.
+
+
+Ethereum: Die zweitgrößte Blockchain nach Bitcoin — aber mit einem entscheidenden Unterschied: Auf Ethereum laufen Programme (Smart Contracts). Wenn Bitcoin digitales Gold ist, dann ist Ethereum ein programmierbarer Weltcomputer, auf dem ganze Finanzsysteme gebaut werden können.
+
+
+Foundation Model: Ein riesiges KI-Modell, das mit enormen Datenmengen trainiert wurde und als Basis für viele verschiedene Anwendungen dient. Wie ein Generalist mit Doppelstudium, der sich dann auf jeden beliebigen Fachbereich spezialisieren kann.
+
+
+Gas Fees: Transaktionsgebühren auf einer Blockchain — vor allem Ethereum. Jede Aktion auf der Blockchain kostet „Gas", ähnlich wie jede Überweisung bei Ihrer Bank eine Buchungsgebühr hat. In Stoßzeiten steigen die Gas Fees, wie Taxipreise zur Rush Hour.
+
+
+GPU (Graphics Processing Unit): Ursprünglich für Computergrafik entwickelt, sind GPUs heute die Arbeitspferde der KI. Sie können tausende Berechnungen parallel ausführen — perfekt für das Training großer KI-Modelle. Die GPU-Knappheit ist einer der Engpässe der KI-Revolution.
+
+
+Halluzination: Wenn eine KI überzeugend klingende, aber frei erfundene Antworten gibt. Sie lügt nicht absichtlich — sie „halluziniert", weil sie Muster fortsetzt, statt Fakten zu prüfen. Wie ein Kollege, der lieber eine Antwort erfindet, als „Weiß ich nicht" zu sagen.
+
+
+Hash Rate: Die Rechenleistung, die ein Mining-Netzwerk aufbringt, gemessen in Hashes pro Sekunde. Je höher die Hash Rate, desto sicherer das Netzwerk. Wie die Anzahl der Sicherheitsschlösser an einem Tresor — mehr ist besser.
+
+
+Inference: Wenn eine bereits trainierte KI ihre Arbeit tut — Texte schreiben, Bilder erkennen, Entscheidungen treffen. Das Training ist die Ausbildung, die Inference ist der Arbeitstag danach.
+
+
+KYC/AML (Know Your Customer / Anti-Money Laundering): Identitätsprüfung und Geldwäscheprävention — das kennen Sie aus Ihrem Berufsalltag. In der Krypto-Welt gelten zunehmend dieselben Regeln: Börsen müssen wissen, wer ihre Kunden sind.
+
+
+Layer-1 / Layer-2: Layer-1 ist die Haupt-Blockchain (z. B. Ethereum), Layer-2 ist eine Ebene darüber, die Transaktionen schneller und günstiger macht. Vergleich: Layer-1 ist die Autobahn, Layer-2 sind Schnellstraßen, die den Verkehr entlasten und auf die Autobahn zurückführen.
+
+
+LLM (Large Language Model): Die KI-Modelle hinter ChatGPT und Co. — trainiert mit riesigen Textmengen, um menschliche Sprache zu verstehen und zu erzeugen. Kein echtes Denken, aber beeindruckend gute Mustererkennung. Wie ein Mitarbeiter, der jedes Buch der Welt gelesen hat, aber trotzdem kein eigenes Urteilsvermögen besitzt.
+
+
+Loitering Munition: Bewaffnete Drohnen, die über einem Gebiet kreisen und selbständig Ziele angreifen können. Im Buch erwähnt als Beispiel für die Verschmelzung von KI und Militärtechnologie.
+
+
+MiCA (Markets in Crypto-Assets Regulation): Das EU-Regelwerk für Kryptowerte, seit 2024 in Kraft. MiCA ist für Krypto das, was MiFID II für Wertpapiere ist: ein einheitlicher europäischer Regulierungsrahmen mit Lizenzpflichten und Verbraucherschutz.
+
+
+Mining: Der Prozess, bei dem Computer komplexe Rechenaufgaben lösen, um neue Blöcke zur Blockchain hinzuzufügen und dafür Kryptowährungen als Belohnung erhalten. Wie Goldschürfen, nur mit Strom statt Schaufel.
+
+
+NFT (Non-Fungible Token): Ein digitales Echtheitszertifikat auf der Blockchain — einzigartig und nicht austauschbar. Jeder Euro ist gleich (fungibel), aber ein NFT ist wie ein nummerierter Kunstdruck: Es gibt nur dieses eine Exemplar mit dieser Nummer.
+
+
+Node: Ein Computer im Blockchain-Netzwerk, der eine Kopie des gesamten Kassenbuchs speichert und Transaktionen überprüft. Je mehr Nodes, desto dezentraler und sicherer das Netzwerk. Wie eine Filiale, die eigenständig Buchungen validiert.
+
+
+On-Chain: Alles, was direkt auf der Blockchain passiert und dort für jeden sichtbar gespeichert wird. On-Chain-Daten sind wie notariell beglaubigte Einträge: öffentlich, unveränderlich, nachprüfbar.
+
+
+Oracle: Ein Dienst, der reale Daten (Aktienkurse, Wetter, Sportergebnisse) in eine Blockchain einspeist. Blockchains leben in ihrer eigenen Welt und brauchen Oracles als Fenster zur Außenwelt. Wie ein Kurier, der der Bank die aktuellen Börsenkurse bringt.
+
+
+Private Key / Public Key: Ihr Private Key ist das Passwort zu Ihrem Krypto-Vermögen — verlieren Sie ihn, ist das Geld weg. Für immer. Der Public Key ist wie Ihre IBAN: Den dürfen alle kennen, damit man Ihnen Geld schicken kann. Den Private Key zeigen Sie niemandem — wie Ihre TAN-Liste.
+
+
+Proof of Work / Proof of Stake: Zwei Verfahren, mit denen Blockchains Transaktionen absichern. Proof of Work (Bitcoin) löst das per Rechenleistung — energieintensiv wie ein Tresorknacken im Wettbewerb. Proof of Stake (Ethereum seit 2022) setzt auf hinterlegtes Kapital — wer betrügt, verliert seinen Einsatz. Wie eine Kaution statt einer Prüfung.
+
+
+RWA (Real World Assets): Reale Vermögenswerte — Immobilien, Anleihen, Gold — die als Token auf einer Blockchain abgebildet werden. Statt einen ganzen Büroturm zu kaufen, besitzen Sie einen Token, der einem Tausendstel entspricht. Wie Fondsanteile, nur auf der Blockchain.
+
+
+Self-Custody: Sie verwahren Ihre Kryptowährungen selbst, ohne Bank oder Börse dazwischen. Volle Kontrolle, volle Verantwortung. Wie Bargeld im Haustresor statt auf dem Bankkonto: Niemand kann es einfrieren, aber bei Verlust hilft keine Hotline.
+
+
+Smart Contract: Ein Programm auf der Blockchain, das automatisch ausgeführt wird, wenn bestimmte Bedingungen erfüllt sind. Kein Vertrag im juristischen Sinne, sondern eher ein Automat: Geld rein, Bedingung erfüllt, Aktion ausgeführt. Wie ein Dauerauftrag, nur dass er beliebig komplex sein kann.
+
+
+SMR (Small Modular Reactor): Kleine, modulare Kernreaktoren — eine neue Generation von Atomkraftwerken, die kleiner, billiger und schneller zu bauen sind. Im Buch relevant, weil Bitcoin-Mining und KI-Rechenzentren enorme Mengen Strom brauchen.
+
+
+Stablecoin: Eine Kryptowährung, die an einen stabilen Wert gekoppelt ist — meist den US-Dollar. Während Bitcoin wie eine Achterbahn schwankt, bleibt ein Stablecoin bei ca. 1 Dollar. Das digitale Äquivalent eines Geldmarktfonds: langweilig, aber zuverlässig.
+
+
+Staking: Sie „parken" Ihre Kryptowährungen im Netzwerk, um es abzusichern, und erhalten dafür Zinsen. Wie eine Festgeldanlage: Ihr Geld arbeitet, solange es gebunden ist.
+
+
+SWU (Separative Work Unit): Maßeinheit für den Aufwand bei der Urananreicherung. Im Buch erwähnt im Zusammenhang mit Energieversorgung für Mining und KI. Kein Krypto-Begriff, aber Teil des Energie-Kontexts.
+
+
+Token: Ein digitaler Vermögenswert auf einer Blockchain. Kann alles repräsentieren — Geld, Stimmrechte, Kunstwerke, Firmenanteile. Bitcoin ist ein Token, aber nicht jeder Token ist Bitcoin. Denken Sie an Wertmarken: gleiche Form, verschiedener Wert.
+
+
+Tokenisierung: Der Prozess, reale Vermögenswerte in digitale Token umzuwandeln. Eine Immobilie wird in 10.000 Token aufgeteilt, die an einer Blockchain-Börse handelbar sind. Wie eine Verbriefung (ABS), nur transparenter und rund um die Uhr handelbar.
+
+
+TVL (Total Value Locked): Der Gesamtwert aller Vermögenswerte, die in einem DeFi-Protokoll hinterlegt sind — die wichtigste Kennzahl der DeFi-Welt. Vergleichbar mit der Bilanzsumme einer Bank: zeigt, wie viel Vertrauen das System genießt.
+
+
+Wallet: Ihre digitale Geldbörse für Kryptowährungen. Genauer gesagt speichert ein Wallet nicht die Coins selbst, sondern die Schlüssel dazu. Wie ein Schlüsselbund: Die Wertgegenstände liegen in der Blockchain, das Wallet öffnet die Tür.
+
+
+Yield Farming: Eine DeFi-Strategie, bei der Sie Ihre Kryptowährungen zwischen verschiedenen Protokollen hin- und herschieben, um die höchsten Zinsen zu ergattern. Wie Tagesgeld-Hopping zwischen Banken — nur automatisiert und mit deutlich höheren Risiken.
+
+
+Zero-Knowledge Proof: Ein kryptographisches Verfahren, mit dem Sie etwas beweisen können, ohne die Information selbst preiszugeben. Beispiel: Sie beweisen, dass Sie über 18 sind, ohne Ihr Geburtsdatum zu verraten. Relevant für Datenschutz auf Blockchains.

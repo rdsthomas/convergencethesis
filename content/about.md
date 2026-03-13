@@ -1,35 +1,32 @@
 ---
-title: "About"
-subtitle: "Practitioner, Not Pundit"
+title: "Über den Autor"
+description: "Thomas Huhn — Unternehmer, KI-Experte und Investor. Der Autor von Maschinengeld."
 layout: "single"
 ---
 
-## Thomas Huhn
+## Über den Autor
 
-I've been building software companies for over 25 years. I've been investing for over 30. I've survived the dot-com crash, the financial crisis of 2008, and the crypto winter of 2018 — where I watched my portfolio collapse by more than 80% and held anyway. Not out of stubbornness, but out of conviction.
+Ich bin Thomas Huhn — Unternehmer, KI-Praktiker und Autor von *Maschinengeld*.
 
-Today I run two companies: one in AI-powered compliance technology, another in software development. I'm not a financial analyst. I'm not a crypto influencer. I'm not a journalist covering tech from the outside.
+Ich schreibe nicht von der Seitenlinie über KI. Ich baue KI-Produkte. Mit [accessibleAI](https://accessibleai.eu) entwickle ich Software, die Unternehmen hilft, regulatorische Compliance mithilfe von Large Language Models zu automatisieren. Jeden Tag sehe ich aus erster Hand, wie schnell sich diese Technologie bewegt — und wie die meisten Menschen immer noch unterschätzen, was kommt.
 
-I'm a practitioner. I build the things I write about.
+Ich führe außerdem [Consensus Ventures](https://consensus.ventures), mein Investmentvehikel. Diese Kombination — Technologie bauen, Unternehmen führen und Kapital investieren — gibt mir eine Perspektive, die den meisten Kommentatoren fehlt. Ich analysiere die Maschinenökonomie nicht nur. Ich baue sie mit auf.
 
-In early 2026, I discovered an open-source project that let me deploy my own AI agent — an autonomous assistant running on my own server, 24/7. I named her Jeannie. Today, she triages my emails, handles outreach, reviews contracts, files invoices, and delivers regular market and competitive reports. Every day I find new tasks to delegate. My work hasn't just become more convenient — it has become dramatically more efficient.
+### Warum dieses Buch
 
-This is not a future vision. This is my Tuesday.
+Die meisten KI-Analysen fallen in eine von drei Kategorien: Techniker diskutieren Transformer-Architekturen (zu eng), Futuristen philosophieren über AGI (zu vage), oder Finanzleute empfehlen KI-Aktien (zu oberflächlich).
 
-That personal experience — watching AI transform my own workflow and business in real time — is what drove me to write *The Convergence Thesis*. Not as a theoretical exercise, but as a practical framework for anyone who senses that something fundamental is changing and doesn't yet know what to do about it.
+Ich wollte die Punkte verbinden, die andere isoliert betrachten: **KI + Robotik + Krypto** — drei Säulen, die zu einem einzigen Investment-Framework für die Maschinenökonomie konvergieren. Und ich wollte ehrlich sein über die Implikationen — auch über die unbequemen.
 
-## The Thesis in One Paragraph
+### Der Newsletter
 
-Artificial intelligence, robotics, and cryptocurrency are converging into a machine economy — a system where autonomous agents perform cognitive work, robots perform physical work, and crypto provides the financial rails for machine-to-machine transactions. Those who own the infrastructure of this new economy will be on the right side of the greatest wealth transfer in history. Those who don't will find their labor income shrinking faster than they can adapt.
+Ich schreibe einen regelmäßigen Newsletter, der Entwicklungen an der Schnittstelle von KI, Robotik und Krypto durch die Linse der Konvergenz-These analysiert. Neue Daten, neue Entwicklungen, aktualisierte Überzeugung — oder aktualisierte Skepsis.
 
-## Skin in the Game
+Kein Hype. Keine Finanzberatung. Nur die ehrliche Perspektive eines Praktikers.
 
-I have money in Bitcoin, in Ethereum, in AI stocks, and in robotics. I build AI products myself. I have skin in the game.
+[Jetzt abonnieren →](/subscribe/)
 
-Whether that is a conflict of interest or proof of conviction, you'll have to decide for yourself. I side with Nassim Taleb: anyone not willing to put their own money behind their thesis shouldn't have a thesis.
+### Kontakt
 
-## Contact
-
-Reach me on [LinkedIn](https://www.linkedin.com/in/thomashuhn/).
-
-For updates on the thesis and the book, [subscribe to the newsletter](/subscribe/).
+- **LinkedIn:** [linkedin.com/in/thomashuhn](https://www.linkedin.com/in/thomashuhn/)
+- **E-Mail:** thomas@convergencethesis.com
