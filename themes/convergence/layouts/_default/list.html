@@ -1,24 +1,15 @@
 {{ define "main" }}
-<section class="page-header">
-  <div class="container">
+<section class="page-content">
+  <div class="page-header reveal">
     <h1>{{ .Title }}</h1>
-    {{ with .Description }}<p class="page-description">{{ . }}</p>{{ end }}
   </div>
-</section>
-
-<section class="posts-list">
-  <div class="container container-narrow">
+  <div class="page-body">
+    {{ .Content }}
     {{ range .Pages }}
-    <article class="post-item">
-      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "02. January 2006" }}</time>
+    <article class="post-summary reveal">
       <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-      <p>{{ .Summary | truncate 200 }}</p>
-      <a href="{{ .Permalink }}" class="read-more">Weiterlesen →</a>
+      {{ with .Summary }}<p>{{ . }}</p>{{ end }}
     </article>
-    {{ end }}
-
-    {{ if not .Pages }}
-    <p class="no-posts">Noch keine Beiträge. <a href="/subscribe/">Abonniere den Newsletter</a>, um benachrichtigt zu werden.</p>
     {{ end }}
   </div>
 </section>

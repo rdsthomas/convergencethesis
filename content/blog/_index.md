@@ -1,4 +1,4 @@
 ---
 title: "Blog"
-description: "Analysen und Einblicke zur Konvergenz von KI, Robotik und Krypto — das Investment-Framework für die Maschinenökonomie."
+subtitle: "Weekly analysis at the intersection of AI, Robotics, and Crypto"
 ---
