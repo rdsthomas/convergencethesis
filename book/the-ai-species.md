@@ -1823,31 +1823,45 @@ Noch alarmierender: Während die Gesamtarbeitslosigkeit in KI-exponierten Berufe
 ---
 
 
+### Wissensarbeiter als die neuen Bauern
+*Die bitterste Ironie: Diese Revolution trifft genau die Schicht, die sich am sichersten fühlte.*
+In den letzten Jahrzehnten wurde Wissensarbeitern erzählt, sie seien die Zukunft. Lernt programmieren. Studiert BWL. Macht euren MBA. Die Fabrikarbeiter mögen ihren Job an Maschinen verloren haben, aber ihr seid sicher, eure Arbeit erfordert Kreativität, Urteilsvermögen, menschliche Interaktion.
+
+KI stellt genau diese Erzählung in Frage. Wenn ein KI-System juristische Dokumente schneller analysiert als ein Anwalt, eine Finanzanalyse präziser erstellt als ein Analyst, einen Marketingtext verfasst, der besser konvertiert als der eines Texters, was genau ist dann der Wettbewerbsvorteil der menschlichen Wissensarbeit?
+
+
+Die ehrliche Antwort: Er schrumpft. Er verschwindet nicht über Nacht, KI hat Schwächen, macht Fehler, braucht Aufsicht. Aber er schrumpft mit jedem Modell-Update, jedem neuen Benchmark-Ergebnis, jedem Unternehmen, das entdeckt, dass es drei Mitarbeiter durch einen Mitarbeiter plus KI ersetzen kann.
+
+Wissensarbeiter sind in den meisten westlichen Gesellschaften die Mittelschicht. Sie sind die Konsumenten, die Steuerzahler, die Wähler. Wenn diese Schicht unter Druck gerät, hat das Konsequenzen, die weit über den Arbeitsmarkt hinausgehen.
+
+Sie werden, im schlimmsten Fall, zu den neuen Bauern: Menschen, deren Humankapital (ihre Ausbildung, ihre Erfahrung) an eine Wirtschaftsstruktur gebunden ist, die gerade obsolet wird. Genau wie die Bauern im 18. Jahrhundert, die Experten für eine Welt waren, die verschwand.
+
+### Warum unser Wohlstandskompass kaputt ist
+
+Es gibt ein tieferes Problem, das die Debatte um Arbeitsplätze und Grundeinkommen überlagert: Wir messen Wohlstand mit einem Instrument, das Fortschritt als Katastrophe registriert.
+
+Das Bruttoinlandsprodukt, die Zahl, an der sich Regierungen, Zentralbanken und Märkte orientieren, hat eine strukturelle Schwäche: Es ist blind für Überfluss. Wenn Wikipedia das Wissen einer Enzyklopädie kostenlos verfügbar macht, registriert GDP den Umsatzverlust der Verlage, aber nicht den Wissenszugewinn der Menschheit. Wenn ein KI-Agent die Arbeit eines Rechtsanwalts in Minuten erledigt und die Kosten auf einen Bruchteil fallen, dann schrumpft das BIP, während der tatsächliche Nutzen explodiert.
+
+Emad Mostaque formuliert das in "The Last Economy" prägnant: "We are about to achieve post-scarcity in the realm of intelligence, and our scarcity-based economic system is going to process this abundance as poverty." Wir stehen kurz davor, im Bereich der Intelligenz den Man. Und überwinden. Und unser auf Knappheit gebautes Wirtschaftssystem wird diese Fülle als Armut verbuchen.
+
+
+Das ist kein abstraktes Problem. Es hat reale Konsequenzen. Wenn KI die Kosten für Rechtsberatung, Diagnosen, Übersetzungen, Finanzanalysen und Programmierung auf einen Bruchteil drückt, wird sich das in sinkenden Umsatzzahlen niederschlagen, in sinkenden Gehältern in diesen Branchen, in sinkenden BIP-Beiträgen. Politisch wird das als Krise gelesen. Die Reflexantwort wird Regulierung sein, Verlangsamung, Protektionismus. Aber die eigentliche Krise ist nicht, dass die Dinge billiger werden. Die Krise ist, dass unser Messinstrument nicht zwischen Verfall und Fortschritt unterscheiden kann.
+
+Gleichzeitig zählt GDP Dinge als Wachstum, die niemand als Fortschritt bezeichnen würde: Naturkatastrophen, die Wiederaufbau erfordern, Scheidungen, die Anwälte beschäftigen, Krankheiten, die Behandlungen generieren. Je mehr kaputt geht, desto besser die Zahl. Je mehr Fülle entsteht, desto schlechter die Zahl. Das ist kein Bug in der Formel. Es ist ein Konstruktionsfehler, der in einer Welt der Knappheit nicht auffiel und in einer Welt der KI-getriebenen Abundanz zum grundlegenden Orientierungsproblem wird.
+
+Mostaque geht noch weiter und beschreibt, was er "nicht-metabolische Arbeit" nennt: KI und Roboter brauchen keinen Schlaf, kein Essen, keine Krankenversicherung, keine Rente. Sie brauchen Strom. In einer rein ökonomischen Kalkulation, die nur Produktivität pro Kosteneinheit misst, kann der Wert menschlicher Arbe, negativ werden, weil die Kosten für Versicherung, Arbeitsrecht, Krankheitstage und Fehlerquoten den Output übersteigen, den ein Mensch gegenüber einer Maschine noch liefern kann. Das klingt brutal. Es ist brutal. Was ist der menschliche Preis, wenn die Maschinen nicht nur billiger arbeiten, sondern wenn die gesamte Metrik, mit der wir Arbeit messen, zu ihren Gunsten konstruiert ist?
+
+
+### Was die Forschung über Grundeinkommen wirklich sagt
+Wenn die Arbeit verschwindet, muss jemand zahlen. Die naheliegende Idee heißt Universal Basic Income, und sie wird von genau den Leuten propagiert, die am meisten von der Automatisierung profitieren. Sam Altman, CEO von OpenAI, hat sich für UBI ausgesprochen. Elon Musk geht weiter und spricht von einem "Universal High Income". Die Frage ist: Funktioniert das?
+
+*Die Forschung gibt eine differenzierte Antwort.*
 ::: {.infobox}
 ### Finnlands UBI-Experiment
 
-*Wissensarbeiter als die neuen Bauern*
-*Die bitterste Ironie: Diese Revolution trifft genau die Schicht, die sich am sichersten fühlte.*
-*In den letzten Jahrzehnten wurde Wissensarbeitern erzählt, sie seien die Zukunft. Lernt programmieren. Studiert BWL. Macht euren MBA. Die Fabrikarbeiter mögen ihren Job an Maschinen verloren haben, aber ihr seid sicher, eure Arbeit erfordert Kreativität, Urteilsvermögen, menschliche Interaktion.*
-*KI stellt genau diese Erzählung in Frage. Wenn ein KI-System juristische Dokumente schneller analysiert als ein Anwalt, eine Finanzanalyse präziser erstellt als ein Analyst, einen Marketingtext verfasst, der besser konvertiert als der eines Texters, was genau ist dann der Wettbewerbsvorteil der menschlichen Wissensarbeit?*
-
-*Die ehrliche Antwort: Er schrumpft. Er verschwindet nicht über Nacht, KI hat Schwächen, macht Fehler, braucht Aufsicht. Aber er schrumpft mit jedem Modell-Update, jedem neuen Benchmark-Ergebnis, jedem Unternehmen, das entdeckt, dass es drei Mitarbeiter durch einen Mitarbeiter plus KI ersetzen kann.*
-*Wissensarbeiter sind in den meisten westlichen Gesellschaften die Mittelschicht. Sie sind die Konsumenten, die Steuerzahler, die Wähler. Wenn diese Schicht unter Druck gerät, hat das Konsequenzen, die weit über den Arbeitsmarkt hinausgehen.*
-*Sie werden, im schlimmsten Fall, zu den neuen Bauern: Menschen, deren Humankapital (ihre Ausbildung, ihre Erfahrung) an eine Wirtschaftsstruktur gebunden ist, die gerade obsolet wird. Genau wie die Bauern im 18. Jahrhundert, die Experten für eine Welt waren, die verschwand.*
-*Warum unser Wohlstandskompass kaputt ist*
-
-*Es gibt ein tieferes Problem, das die Debatte um Arbeitsplätze und Grundeinkommen überlagert: Wir messen Wohlstand mit einem Instrument, das Fortschritt als Katastrophe registriert.*
-*Das Bruttoinlandsprodukt, die Zahl, an der sich Regierungen, Zentralbanken und Märkte orientieren, hat eine strukturelle Schwäche: Es ist blind für Überfluss. Wenn Wikipedia das Wissen einer Enzyklopädie kostenlos verfügbar macht, registriert GDP den Umsatzverlust der Verlage, aber nicht den Wissenszugewinn der Menschheit. Wenn ein KI-Agent die Arbeit eines Rechtsanwalts in Minuten erledigt und die Kosten auf einen Bruchteil fallen, dann schrumpft das BIP, während der tatsächliche Nutzen explodiert.*
-*Emad Mostaque formuliert das in "The Last Economy" prägnant: "We are about to achieve post-scarcity in the realm of intelligence, and our scarcity-based economic system is going to process this abundance as poverty." Wir stehen kurz davor, im Bereich der Intelligenz den Man. Und überwinden. Und unser auf Knappheit gebautes Wirtschaftssystem wird diese Fülle als Armut verbuchen.*
-
-*Das ist kein abstraktes Problem. Es hat reale Konsequenzen. Wenn KI die Kosten für Rechtsberatung, Diagnosen, Übersetzungen, Finanzanalysen und Programmierung auf einen Bruchteil drückt, wird sich das in sinkenden Umsatzzahlen niederschlagen, in sinkenden Gehältern in diesen Branchen, in sinkenden BIP-Beiträgen. Politisch wird das als Krise gelesen. Die Reflexantwort wird Regulierung sein, Verlangsamung, Protektionismus. Aber die eigentliche Krise ist nicht, dass die Dinge billiger werden. Die Krise ist, dass unser Messinstrument nicht zwischen Verfall und Fortschritt unterscheiden kann.*
-*Gleichzeitig zählt GDP Dinge als Wachstum, die niemand als Fortschritt bezeichnen würde: Naturkatastrophen, die Wiederaufbau erfordern, Scheidungen, die Anwälte beschäftigen, Krankheiten, die Behandlungen generieren. Je mehr kaputt geht, desto besser die Zahl. Je mehr Fülle entsteht, desto schlechter die Zahl. Das ist kein Bug in der Formel. Es ist ein Konstruktionsfehler, der in einer Welt der Knappheit nicht auffiel und in einer Welt der KI-getriebenen Abundanz zum grundlegenden Orientierungsproblem wird.*
-*Mostaque geht noch weiter und beschreibt, was er "nicht-metabolische Arbeit" nennt: KI und Roboter brauchen keinen Schlaf, kein Essen, keine Krankenversicherung, keine Rente. Sie brauchen Strom. In einer rein ökonomischen Kalkulation, die nur Produktivität pro Kosteneinheit misst, kann der Wert menschlicher Arbe, negativ werden, weil die Kosten für Versicherung, Arbeitsrecht, Krankheitstage und Fehlerquoten den Output übersteigen, den ein Mensch gegenüber einer Maschine noch liefern kann. Das klingt brutal. Es ist brutal. Was ist der menschliche Preis, wenn die Maschinen nicht nur billiger arbeiten, sondern wenn die gesamte Metrik, mit der wir Arbeit messen, zu ihren Gunsten konstruiert ist?*
-
-*Was die Forschung über Grundeinkommen wirklich sagt*
-*Wenn die Arbeit verschwindet, muss jemand zahlen. Die naheliegende Idee heißt Universal Basic Income, und sie wird von genau den Leuten propagiert, die am meisten von der Automatisierung profitieren. Sam Altman, CEO von OpenAI, hat sich für UBI ausgesprochen. Elon Musk geht weiter und spricht von einem "Universal High Income". Die Frage ist: Funktioniert das?*
-*Die Forschung gibt eine differenzierte Antwort.*
 Finnland hat von 2017 bis 2018 das bekannteste nationale UBI-Experiment durchgeführt. 2.000 zufällig ausgewählte Arbeitslose bekamen monatlich 560 Euro, bedingungslos, steuerfrei. Das Ergebnis überraschte beide Seiten der Debatte. Die Empfänger wurden nicht faul. Sie arbeiteten im Messzeitraum sogar sechs Tage mehr als die Kontrollgruppe. Aber sie wurden auch nicht zu Unternehmern oder Innovatoren. Der wirkliche Effekt war psychologisch: weniger Depression, weniger Einsamkeit, mehr Lebenszufriedenheit. UBI wirkte nicht als Beschäftigungsprogramm, sondern als Gesundheitsmaßnahme.
+
+:::
 
 Sam Altmans eigene Studie, finanziert über sein Projekt OpenResearch, war die größte in der US-Geschichte. 3.000 Teilnehmer in Illinois und Texas erhielten drei Jahre lang 1.000 Dollar monatlich. Das Ergebnis: Die Empfänger arbeiteten 1,3 bis 1,4 Stunden weniger pro Woche. Nicht dramatisch, aber messbar. Die Forscher hatten gehofft, dass das finanzielle Polster die Teilnehmer befähigen würde, bessere Jobs zu finden. Das trat nicht ein. Was eintrat: Die Menschen nutzten die Zeit für das, was sie für wichtiger hielten als Arbeit. Ob man das als Fortschritt oder als Problem sieht, hängt davon ab, ob man Arbeit als moralischen Wert oder als Mittel zum Zweck betrachtet.
 
@@ -1869,27 +1883,35 @@ Drittens: Die Saudi-Lektion. Materieller Wohlstand löst nicht die Sinn-Frage. U
 
 *Aber es gibt noch ein tieferes Problem, das die UBI-Diskussion übersieht.*
 *UBI macht abhängig. Von dem, der zahlt.*
-*Wer sein Einkommen vom Staat bezieht, kann keine unabhängigen Entscheidungen treffen. Nicht wirklich. Du bist dankbar, nicht souverän. Du wartest, statt zu gestalten. Du lebst von dem, was andere dir geben, nicht von dem, was du selbst aufgebaut hast.*
-*"You'll own nothing and be happy" - das ist die Formel der neuen Feudalherren. Universelles Grundeinkommen ist die Ration, die man den Bauern gibt, damit sie nicht revoltieren.*
+Wer sein Einkommen vom Staat bezieht, kann keine unabhängigen Entscheidungen treffen. Nicht wirklich. Du bist dankbar, nicht souverän. Du wartest, statt zu gestalten. Du lebst von dem, was andere dir geben, nicht von dem, was du selbst aufgebaut hast.
+
+"You'll own nothing and be happy" - das ist die Formel der neuen Feudalherren. Universelles Grundeinkommen ist die Ration, die man den Bauern gibt, damit sie nicht revoltieren.
+
 *Ich will keine Ration. Ich will Anteil.*
 
-*Die Antwort auf die Maschinenökonomie ist nicht, auf Transfers zu hoffen. Die Antwort ist, die Maschinen zu besitzen. Oder zumindest einen Anteil an ihnen.*
+Die Antwort auf die Maschinenökonomie ist nicht, auf Transfers zu hoffen. Die Antwort ist, die Maschinen zu besitzen. Oder zumindest einen Anteil an ihnen.
+
 *Das ist der Unterschied zwischen Überleben und Wohlstand.*
 *Was passiert, wenn Arbeit aufhört, Sinn zu stiften*
-*Viktor Frankl, der österreichische Psychiater und Holocaust-Überlebende, nannte es das "existentielle Vakuum": das Gefühl der Sinnlosigkeit, das entsteht, wenn der Mensch keine Aufgabe hat. Frankls Grundthese war einfach. Der Mensch wird nicht primär von Lust getrieben wie bei Freud, und nicht von Macht wie bei Adler. Er wird von der Suche nach Sinn getrieben. Nimmt man ihm den Sinn, wird er krank.*
+Viktor Frankl, der österreichische Psychiater und Holocaust-Überlebende, nannte es das "existentielle Vakuum": das Gefühl der Sinnlosigkeit, das entsteht, wenn der Mensch keine Aufgabe hat. Frankls Grundthese war einfach. Der Mensch wird nicht primär von Lust getrieben wie bei Freud, und nicht von Macht wie bei Adler. Er wird von der Suche nach Sinn getrieben. Nimmt man ihm den Sinn, wird er krank.
 
-*Die psychologische Forschung bestätigt das in beeindruckender Breite. Langzeitarbeitslose haben ein signifikant höheres Risiko für Depression, Substanzmissbrauch und Suizid. Nicht wegen des Geldmangels allein. Auch Menschen, die finanziell abgesichert sind, aber keine Aufgabe haben, leiden. Studien zum "retired husband syndrome" zeigen, dass Männer nach der Pensionierung messbar häufiger krank werden, wenn sie keine alternative Beschäftigung finden.*
-*Anne Case und Angus Deaton, beide Princeton-Ökonomen und Deaton Nobelpreisträger, haben das Phänomen der "Deaths of Despair" dokumentiert. In den USA ist die Lebenserwartung weißer Amerikaner ohne College-Abschluss seit den späten 1990er Jahren gesunken, nicht gestiegen. Gesunken. In einem der reichsten Länder der Welt. Die Ursachen: Opioid-Sucht, Alkoholismus, Suizid. Die Gemeinsamkeit der Betroffenen: Sie haben ihre wirtschaftliche Funktion verloren. Ihre Jobs wurden automatisiert oder outgesourct. Ihre Gemeinden zerfielen. Ihr Sinn verschwand.*
-*Japans Hikikomori-Phänomen zeigt eine andere Variante. Mehr als eine Million junger Japaner haben sich aus der Gesellschaft zurückgezogen. Sie verlassen ihre Zimmer nicht mehr, arbeiten nicht, pflegen keine sozialen Kontakte. Die Ursachen sind komplex, aber ein Faktor sticht hervor: In einer Gesellschaft, die Identität stark über berufliche Leistung definiert, bedeutet Scheitern im Beruf Scheitern als Mensch. Wer keinen akzeptablen Platz im System findet, zieht sich ganz zurück.*
 
-*Wenn KI und Robotik tatsächlich einen erheblichen Teil der Wissensarbeit und der physischen Arbeit übernehmen, was die These dieses Buches ist, dann stehen wir vor einer Sinn-Krise, die in ihrer Dimension beispiellos ist. Nicht weil die Menschen hungern; UBI, Transfers, soziale Sicherungssysteme können das materielle Problem lösen, sondern weil der Mensch eine Aufgabe braucht, etwas, das ihn fordert, bei dem er sich kompetent fühlt, das morgens den Wecker stellt.*
+Die psychologische Forschung bestätigt das in beeindruckender Breite. Langzeitarbeitslose haben ein signifikant höheres Risiko für Depression, Substanzmissbrauch und Suizid. Nicht wegen des Geldmangels allein. Auch Menschen, die finanziell abgesichert sind, aber keine Aufgabe haben, leiden. Studien zum "retired husband syndrome" zeigen, dass Männer nach der Pensionierung messbar häufiger krank werden, wenn sie keine alternative Beschäftigung finden.
 
-*Es gibt positive Szenarien. Eine Renaissance der Kreativität. Menschen, die von Routine-Arbeit befreit sind, entdecken Kunst, Musik, Handwerk, Gemeinschaft, Pflege. Die griechische Polis kannte keinen Unterschied zwischen "Arbeit" und "Leben". Arbeit war das, was Sklaven taten. Freie Bürger philosophierten, debattierten, schufen Kunst. Vielleicht ist die KI-Revolution der Moment, in dem die Menschheit wieder zu diesem Zustand zurückkehrt, ohne die Sklaverei, weil die Maschinen die Rolle der Sklaven übernehmen.*
-*Vielleicht. Aber die bisherige Evidenz ist weniger optimistisch. Die Menschen, die durch Automatisierung ihre Jobs verloren haben, in Ohio, in Nordengland, in den französischen Banlieues, haben keine Renaissance erlebt. Sie haben Opioid-Epidemien erlebt. Sie haben Brexit gewählt. Sie haben Trump gewählt. Nicht aus Dummheit. Aus Verzweiflung.*
+Anne Case und Angus Deaton, beide Princeton-Ökonomen und Deaton Nobelpreisträger, haben das Phänomen der "Deaths of Despair" dokumentiert. In den USA ist die Lebenserwartung weißer Amerikaner ohne College-Abschluss seit den späten 1990er Jahren gesunken, nicht gestiegen. Gesunken. In einem der reichsten Länder der Welt. Die Ursachen: Opioid-Sucht, Alkoholismus, Suizid. Die Gemeinsamkeit der Betroffenen: Sie haben ihre wirtschaftliche Funktion verloren. Ihre Jobs wurden automatisiert oder outgesourct. Ihre Gemeinden zerfielen. Ihr Sinn verschwand.
 
-*Die Sinn-Krise ist für dieses Buch relevant, weil sie ein Risiko für die gesamte Investmentthese darstellt. Eine Gesellschaft, die unter einer massiven Sinnkrise leidet, ist keine stabile Gesellschaft. Und instabile Gesellschaften sind schlechte Umgebungen für Investitionen, egal wie beeindruckend die Technologie ist. Das ist der Grund, warum im Risiko-Kapitel die gesellschaftliche Instabilität als eigenständiges Risiko aufgeführt wird.*
+Japans Hikikomori-Phänomen zeigt eine andere Variante. Mehr als eine Million junger Japaner haben sich aus der Gesellschaft zurückgezogen. Sie verlassen ihre Zimmer nicht mehr, arbeiten nicht, pflegen keine sozialen Kontakte. Die Ursachen sind komplex, aber ein Faktor sticht hervor: In einer Gesellschaft, die Identität stark über berufliche Leistung definiert, bedeutet Scheitern im Beruf Scheitern als Mensch. Wer keinen akzeptablen Platz im System findet, zieht sich ganz zurück.
 
-:::
+
+Wenn KI und Robotik tatsächlich einen erheblichen Teil der Wissensarbeit und der physischen Arbeit übernehmen, was die These dieses Buches ist, dann stehen wir vor einer Sinn-Krise, die in ihrer Dimension beispiellos ist. Nicht weil die Menschen hungern; UBI, Transfers, soziale Sicherungssysteme können das materielle Problem lösen, sondern weil der Mensch eine Aufgabe braucht, etwas, das ihn fordert, bei dem er sich kompetent fühlt, das morgens den Wecker stellt.
+
+
+Es gibt positive Szenarien. Eine Renaissance der Kreativität. Menschen, die von Routine-Arbeit befreit sind, entdecken Kunst, Musik, Handwerk, Gemeinschaft, Pflege. Die griechische Polis kannte keinen Unterschied zwischen "Arbeit" und "Leben". Arbeit war das, was Sklaven taten. Freie Bürger philosophierten, debattierten, schufen Kunst. Vielleicht ist die KI-Revolution der Moment, in dem die Menschheit wieder zu diesem Zustand zurückkehrt, ohne die Sklaverei, weil die Maschinen die Rolle der Sklaven übernehmen.
+
+Vielleicht. Aber die bisherige Evidenz ist weniger optimistisch. Die Menschen, die durch Automatisierung ihre Jobs verloren haben, in Ohio, in Nordengland, in den französischen Banlieues, haben keine Renaissance erlebt. Sie haben Opioid-Epidemien erlebt. Sie haben Brexit gewählt. Sie haben Trump gewählt. Nicht aus Dummheit. Aus Verzweiflung.
+
+
+Die Sinn-Krise ist für dieses Buch relevant, weil sie ein Risiko für die gesamte Investmentthese darstellt. Eine Gesellschaft, die unter einer massiven Sinnkrise leidet, ist keine stabile Gesellschaft. Und instabile Gesellschaften sind schlechte Umgebungen für Investitionen, egal wie beeindruckend die Technologie ist. Das ist der Grund, warum im Risiko-Kapitel die gesellschaftliche Instabilität als eigenständiges Risiko aufgeführt wird.
 
 
 ---
@@ -4576,7 +4598,10 @@ Kapitel 4 (Fortsetzung): Stablecoins, Dollar-Dominanz und Schulden
 
 157. "Viktor Frankl, der österreichische Psychiater und Holocaust-Überlebende, nannte es das 'existentielle Vakuum'" - Viktor Frankl, Man's Search for Meaning (dt.: ...trotzdem Ja zum Leben sagen), 1946.
 
-158. "Finnland hat von 2017 bis 2018 das bekannteste nationale UBI-Experiment durchgeführt. 2.000 zufällig ausgewählte Arbeitslose bekamen monatlich 560 Euro" - Kela (Finnische Sozialversicherung), UBI-Experiment Final Report, 2020.
+158. "::: {.infobox}
+### Finnlands UBI-Experiment
+
+Finnland hat von 2017 bis 2018 das bekannteste nationale UBI-Experiment durchgeführt. 2.000 zufällig ausgewählte Arbeitslose bekamen monatlich 560 Euro" - Kela (Finnische Sozialversicherung), UBI-Experiment Final Report, 2020.
 
 159. "Sam Altmans eigene Studie [...] OpenResearch [...] 3.000 Teilnehmer in Illinois und Texas erhielten drei Jahre lang 1.000 Dollar monatlich." - OpenResearch, "Unconditional Cash Study", 2024.
 
