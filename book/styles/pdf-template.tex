@@ -69,25 +69,29 @@ $endif$
 \setlength{\parskip}{0.5em}
 
 % --- Chapter and Section Formatting ---
-% H1 = \chapter (TEIL markers become \part via Pandoc)
-% H2 = \section (Kapitel X: ...)
+% H1 = \chapter (TEIL I-IV)
+% H2 = \section (Kapitel 1-20) — with page break!
 % H3 = \subsection (Abschnitte)
 
 \titleformat{\chapter}[display]
+    {\normalfont\Large\scshape\color{chapterblue}\centering}
+    {}
+    {0pt}
+    {}
+\titlespacing*{\chapter}{0pt}{40pt}{30pt}
+
+\titleformat{\section}[display]
     {\normalfont\huge\bfseries\color{chapterblue}}
     {}
     {0pt}
-    {\Huge}
-\titlespacing*{\chapter}{0pt}{-20pt}{20pt}
+    {}
+\titlespacing*{\section}{0pt}{0pt}{20pt}
 
-\titleformat{\section}
-    {\normalfont\large\bfseries\color{sectionblue}}
-    {}
-    {0em}
-    {}
+% Page break before every \section (= Kapitel)
+\newcommand{\sectionbreak}{\clearpage}
 
 \titleformat{\subsection}
-    {\normalfont\normalsize\bfseries}
+    {\normalfont\large\bfseries\color{sectionblue}}
     {}
     {0em}
     {}
@@ -137,7 +141,7 @@ $endif$
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[LE]{\small\itshape The AI Species}
-\fancyhead[RO]{\small\itshape\truncate{0.85\headwidth}{\nouppercase{\leftmark}}}
+\fancyhead[RO]{\small\itshape\truncate{0.85\headwidth}{\nouppercase{\rightmark}}}
 \fancyfoot[C]{\small\thepage}
 \renewcommand{\headrulewidth}{0.4pt}
 \usepackage{truncate}
@@ -149,7 +153,7 @@ $endif$
 
 % --- No section numbering, but keep marks for headers ---
 \setcounter{secnumdepth}{-1}
-\renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
 \renewcommand{\sectionmark}[1]{\markright{#1}}
 
 % --- Hyperlinks ---
