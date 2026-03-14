@@ -277,7 +277,7 @@ Dieses Buch ist für Menschen geschrieben, die spüren, dass sich etwas verände
 > *Die Maschinen kommen. Und sie bringen ihr eigenes Geld mit.*
 
 
-> **📌 Auf einen Blick:**
+> **Auf einen Blick:**
 >
 > ◆ KI, Robotik und Kryptowährungen konvergieren zur größten wirtschaftlichen Transformation seit der Dampfmaschine.
 > ◆ Anders als frühere Transformationen laufen alle drei gleichzeitig und beschleunigen sich gegenseitig.
@@ -460,7 +460,7 @@ Phase 4 betrifft die physische Welt: Fabriken, Logistik, Pflege, Landwirtschaft,
 Das Muster ist klar: Mit jeder Phase wächst der adressierbare Markt um ungefähr eine Größenordnung. Und mit jeder Phase wächst die Dringlichkeit, auf der richtigen Seite dieser Veränderung zu stehen.
 
 
-> **📌 Auf einen Blick:**
+> **Auf einen Blick:**
 >
 > ◆ Vier Phasen: Werkzeug → Mitarbeiter → Agent → Roboter.
 > ◆ Jede Phase vergrößert den adressierbaren Markt um eine Größenordnung.
@@ -725,7 +725,7 @@ Man muss Mostaques konkreten Entwurf nicht für den endgültigen halten. Aber di
 Und diese Praxis hat bereits begonnen. In der Welt der tokenisierten Vermögenswerte.
 
 
-> **📌 Auf einen Blick:**
+> **Auf einen Blick:**
 >
 > ◆ Maschinen brauchen eigenes Geld, weil das traditionelle Bankensystem sie ausschließt.
 > ◆ Krypto und Smart Contracts sind der native Zahlungskanal für autonome Agenten.
@@ -1066,7 +1066,7 @@ Und beachten Sie die regulatorische Arbitrage. Japan und Singapur sind für Reta
 Die Tokenisierung aller Vermögenswerte dieser Welt ist keine Frage des Ob. Sie ist eine Frage des Wann, des Wie, und vor allem: des Für Wen. Die nächsten zehn Jahre werden darüber entscheiden. Und ich habe ein ungutes Gefühl, dass die Antwort komplizierter sein wird, als die Optimisten hoffen und die Pessimisten befürchten.
 
 
-> **📌 Auf einen Blick:**
+> **Auf einen Blick:**
 >
 > ◆ Tokenisierung demokratisiert den Zugang zu bisher illiquiden Assets.
 > ◆ BlackRock, JPMorgan und Goldman Sachs sind bereits aktiv - das ist kein Krypto-Hype mehr.
@@ -1234,7 +1234,7 @@ Wir haben jetzt die gesamte These aufgebaut. Maschinen, die denken. Maschinen, d
 Im nächsten Teil des Buches verlassen wir die These und schauen uns an, was das für die reale Welt bedeutet. Geopolitisch, energiepolitisch, gesellschaftlich. Denn eine Ökonomie, in der Maschinen wirtschaftliche Akteure sind, verändert alles. Und "alles" ist keine Übertreibung.
 
 
-> **📌 Auf einen Blick:**
+> **Auf einen Blick:**
 >
 > ◆ DAOs ermöglichen Unternehmen ohne menschliche Führung.
 > ◆ Smart Contracts + KI-Agenten = autonome Wirtschaftseinheiten.
@@ -1379,7 +1379,7 @@ Das bedeutet nicht, dass man sein gesamtes Portfolio in Krypto stecken sollte. E
 Aber selbst das beste Hedge-Asset nützt nichts ohne Energie. KI-Systeme verbrauchen Strom in einem Ausmaß, das unsere gesamte Infrastruktur herausfordert. Wer die Maschinenökonomie verstehen will, muss verstehen, woher ihr Treibstoff kommt.
 
 
-> **📌 Auf einen Blick:**
+> **Auf einen Blick:**
 >
 > ◆ Die USA dominieren das KI-Ökosystem: Hardware, Cloud, Venture Capital.
 > ◆ China holt auf, Europa reguliert sich ins Abseits.
@@ -1546,7 +1546,7 @@ Die KI-Revolution ist nicht nur eine Software-Revolution. Sie ist eine physische
 Aber es gibt noch eine andere Hälfte, die nicht in Gigawatt und Kubikmetern gemessen wird: Was passiert mit den Menschen, deren Arbeit die Maschinen übernehmen? Die Energiefrage ist ein Ingenieursproblem. Die Arbeitsfrage ist eine gesellschaftliche.
 
 
-> **📌 Auf einen Blick:**
+> **Auf einen Blick:**
 >
 > ◆ Der Energieverbrauch von KI wächst exponentiell.
 > ◆ Kernenergie ist die einzige skalierbare Lösung für den Baseload-Bedarf.
@@ -1795,7 +1795,7 @@ Erstens: Lernen Sie, mit KI-Werkzeugen umzugehen. Das muss kein Informatikstudiu
 Die Frage, wie Gesellschaften mit dieser Transformation umgehen, führt unweigerlich zur Regulierung. Und hier wird es politisch.
 
 
-> **📌 Auf einen Blick:**
+> **Auf einen Blick:**
 >
 > ◆ 30 bis 50 Prozent der Wissensarbeit könnten automatisiert werden.
 > ◆ Die Sinnkrise ist das größere Risiko als der reine Jobverlust.
@@ -1940,7 +1940,7 @@ Aber die Landschaft zeigt auch: Die Transformation lässt sich nicht mehr aufhal
 Im nächsten Teil verlassen wir die Gegenwart und schauen in die Zukunft. Was ist das wahrscheinlichste Szenario für die nächsten zehn Jahre? Wie werden wir mit Maschinen interagieren, wenn die Tastatur verschwindet? Und die unbequemste Frage von allen: Wer entscheidet eigentlich, was richtig ist, wenn Maschinen alles können?
 
 
-> **📌 Auf einen Blick:**
+> **Auf einen Blick:**
 >
 > ◆ Der EU AI Act bremst europäische KI-Innovation.
 > ◆ Die Roboter-Steuer-Debatte greift zu kurz.
@@ -2064,7 +2064,7 @@ Die nächsten langfristigen Trends könnten allerdings alles übertreffen, was w
 :::
 
 
-> **📌 Auf einen Blick:**
+> **Auf einen Blick:**
 >
 > ◆ 2026-2028: Stille Revolution - KI-Agenten senken Kosten um 90 Prozent.
 > ◆ 2028-2031: Der Wendepunkt - physische Robotik erreicht die Massenproduktion.
@@ -2158,7 +2158,7 @@ Die Compute-Anforderungen dieses Szenarios sind atemberaubend. Individualisierte
 Die Progression ist klar: von der Tastatur zur Sprache zum Gedanken. Jeder Schritt entfernt eine Reibungsschicht zwischen menschlicher Intention und maschineller Ausführung. Und wenn dieser Gedanke ganze Welten heraufbeschwören kann, Welten, die sich so real anfühlen wie diese, dann sind die Implikationen nicht nur technologisch. Sie sind zivilisatorisch.
 
 
-> **📌 Auf einen Blick:**
+> **Auf einen Blick:**
 >
 > ◆ Voice und Gesten ersetzen Tastatur und Maus als primäre Interfaces.
 > ◆ Brain-Computer Interfaces erreichen in den 2030ern klinische Reife.
@@ -2290,7 +2290,7 @@ Die Maschinenökonomie wird kommen. Verhindern lässt sie sich nicht. Aber gesta
 Es gibt allerdings eine Konvergenz, die noch radikaler ist als alles bisher Besprochene. Was passiert, wenn die Maschinen nicht nur unsere Arbeit verändern, sondern unser Altern?
 
 
-> **📌 Auf einen Blick:**
+> **Auf einen Blick:**
 >
 > ◆ Bewusstsein ist wissenschaftlich nicht definiert - weder bei Menschen noch bei Maschinen.
 > ◆ Eigentumsfragen bei KI-generierten Werken sind rechtlich ungelöst.
@@ -2448,7 +2448,7 @@ Die Frage ist nicht mehr nur: Kann ich es mir leisten, zu investieren?
 Die Frage ist: Kann ich es mir leisten, zu sterben, bevor die Rendite eintritt?
 
 
-> **📌 Auf einen Blick:**
+> **Auf einen Blick:**
 >
 > ◆ Altern ist kein unausweichliches Schicksal, sondern ein biologischer Prozess.
 > ◆ Smart Money investiert Milliarden in Longevity-Forschung.
@@ -3085,21 +3085,21 @@ Die Barbell funktioniert. Nicht weil sie perfekt ist, sondern weil sie die richt
 Aber was, wenn ich falsch liege? Jede ehrliche Investmentthese muss ihre eigenen Schwachstellen benennen. Genau das tun wir jetzt.
 
 
-> **📌 Auf einen Blick:**
+> **Auf einen Blick:**
 >
 > ◆ Barbell-Strategie: 60-70% sicherer Kern plus 30-40% asymmetrische Wetten.
 > ◆ Konkretes Beispiel-Portfolio mit 100.000 Euro Ausgangsbasis.
 > ◆ Regel Nr. 1: Nie mehr riskieren, als man bereit ist zu verlieren.
 
-✅ Was Sie jetzt tun können
+Erledigt: Was Sie jetzt tun können
 
-☐ Portfolio-Allokation festlegen: Kern / Asymmetrisch / Cash
+[ ] Portfolio-Allokation festlegen: Kern / Asymmetrisch / Cash
 
-☐ Krypto-Wallet einrichten - Self-Custody!
+[ ] Krypto-Wallet einrichten - Self-Custody!
 
-☐ Erste Positionen aufbauen: ETFs und Bitcoin
+[ ] Erste Positionen aufbauen: ETFs und Bitcoin
 
-☐ Rebalancing-Termine im Kalender eintragen (quartalsweise)
+[ ] Rebalancing-Termine im Kalender eintragen (quartalsweise)
 
 
 ## Kapitel 18: Risiken und Gegenargumente - Was schiefgehen kann
@@ -3329,21 +3329,21 @@ Das unterscheidet dieses Buch von einer Prognose. Eine Prognose sagt: So wird es
 Das ist kein Hedge. Das ist Ehrlichkeit.
 
 
-> **📌 Auf einen Blick:**
+> **Auf einen Blick:**
 >
 > ◆ Eine KI-Blase ist möglich, aber die Infrastruktur-Investitionen haben reale Gegenwerte.
 > ◆ Bitcoin-Volatilität sinkt historisch mit jeder Marktkapitalisierungsstufe.
 > ◆ Die Barbell-Strategie schützt vor allen Szenarien - auch dem Worst Case.
 
-✅ Was Sie jetzt tun können
+Erledigt: Was Sie jetzt tun können
 
-☐ Persönliche Risikotoleranz ehrlich definieren
+[ ] Persönliche Risikotoleranz ehrlich definieren
 
-☐ Stop-Loss-Strategie festlegen - und daran halten
+[ ] Stop-Loss-Strategie festlegen - und daran halten
 
-☐ Worst-Case-Szenario durchrechnen: Können Sie den Verlust aushalten?
+[ ] Worst-Case-Szenario durchrechnen: Können Sie den Verlust aushalten?
 
-☐ Cash-Reserve sicherstellen (mindestens 6 Monate Lebenshaltung)
+[ ] Cash-Reserve sicherstellen (mindestens 6 Monate Lebenshaltung)
 
 
 ## Kapitel 20: Warum jetzt - Und warum Zögern der größte Fehler ist
@@ -3471,21 +3471,21 @@ Warum ich das tue? Weil die Konvergenz nicht aufhört, nur weil das Buch gedruck
 Wir sehen uns auf der anderen Seite.
 
 
-> **📌 Auf einen Blick:**
+> **Auf einen Blick:**
 >
 > ◆ Das Zeitfenster für asymmetrische Renditen schließt sich - in Jahren, nicht Jahrzehnten.
 > ◆ Warten bis der "Beweis" da ist bedeutet, die höchsten Preise zu zahlen.
 > ◆ Definiter Optimismus: Aktiv handeln, statt passiv hoffen.
 
-✅ Was Sie jetzt tun können
+Erledigt: Was Sie jetzt tun können
 
-☐ Dieses Buch nicht weglegen - handeln
+[ ] Dieses Buch nicht weglegen - handeln
 
-☐ TheAiSpecies.world besuchen für laufende Updates
+[ ] TheAiSpecies.world besuchen für laufende Updates
 
-☐ Eigene Recherche starten mit den Quellen im Anhang
+[ ] Eigene Recherche starten mit den Quellen im Anhang
 
-☐ Ersten Schritt innerhalb von 48 Stunden machen
+[ ] Ersten Schritt innerhalb von 48 Stunden machen
 
 
 ## Epilog: Für Mila
@@ -3677,7 +3677,7 @@ Breitere Krypto-Exposure: Der 21Shares Crypto Basket Index ETP (ISIN: CH04456892
 
 Für direkte Krypto-Investments jenseits von ETPs: Regulierte Börsen wie Bitstamp (MiCA-Lizenz beantragt) oder Kraken bieten Zugang zu Token wie OLAS, FET oder RENDER. Beachten Sie die Steuerpflicht: Kryptowährungen, die länger als ein Jahr gehalten werden, sind in Deutschland nach aktueller Rechtslage steuerfrei. Bei kürzerer Haltedauer fällt der persönliche Einkommensteuersatz an.
 
-⚠️ Wichtiger Hinweis
+[!] Wichtiger Hinweis
 
 Dieses Buch ist keine Anlageberatung. Die genannten Produkte dienen der Illustration, nicht der Empfehlung. Jede Investmententscheidung sollte auf der eigenen Risikobereitschaft, finanziellen Situation und idealerweise der Beratung eines zugelassenen Finanzberaters basieren.
 
