@@ -181,13 +181,15 @@ Wer gewann? Samuel Insull, ein ehemaliger Edison-Assistent, der verstand, dass n
 
 Beim Internet sehen wir dasselbe. In der Dotcom-Blase um 2000 verloren Investoren Billionen. Pets.com, Webvan, Kozmo.com, all die gehypten Startups, die auf dem Internet aufbauten, verschwanden. Aber die Infrastruktur überlebte. Cisco, das die Router und Switches baute, durch die das Internet floss, verlor 80 Prozent seines Börsenwerts im Crash, erholte sich aber und ist heute ein profitables Unternehmen. Amazon fiel von 113 Dollar auf 5,97 Dollar, überlebte und wurde zum wertvollsten Unternehmen der Welt. Google ging erst 2004 an die Börse, nach dem Crash, und baute seine Dominanz auf der Infrastruktur auf, die andere gebaut und bezahlt hatten.
 
-Was lehrt uns das für die aktuelle Konvergenz? Drei Dinge.
+### Was lehrt uns das für die aktuelle Konvergenz?
 
-Erstens: Die Technologie ist fast immer real. Die Eisenbahnen kamen. Die Elektrifizierung kam. Das Internet kam. KI, Robotik und Krypto kommen auch. Daran zu zweifeln wäre, wie 1995 zu bezweifeln, ob das Internet sich durchsetzt.
+**Drei Dinge.**
 
-Zweitens: Die meisten frühen Investments scheitern trotzdem. Nicht weil die Technologie falsch war, sondern weil der Preis zu hoch war, die Firma zu schlecht oder das Timing daneben. Von tausend KI-Startups, die 2025 existieren, werden 2035 vielleicht fünfzig noch relevant sein.
+**Erstens:** Die Technologie ist fast immer real. Die Eisenbahnen kamen. Die Elektrifizierung kam. Das Internet kam. KI, Robotik und Krypto kommen auch. Daran zu zweifeln wäre, wie 1995 zu bezweifeln, ob das Internet sich durchsetzt.
 
-Drittens: Das Geld fließt zur Infrastruktur, nicht zur Anwendung. Vanderbilt, nicht Eisenbahnaktionäre. Insull, nicht Edison. Amazon und Google, nicht Pets.com. In unserer These: NVIDIA, nicht das hundertste KI-Startup. Ethereum, nicht der hundertste Token. Das ist der Grund, warum die Barbell-Strategie in Teil IV die Infrastrukturschicht betont.
+**Zweitens:** Die meisten frühen Investments scheitern trotzdem. Nicht weil die Technologie falsch war, sondern weil der Preis zu hoch war, die Firma zu schlecht oder das Timing daneben. Von tausend KI-Startups, die 2025 existieren, werden 2035 vielleicht fünfzig noch relevant sein.
+
+**Drittens:** Das Geld fließt zur Infrastruktur, nicht zur Anwendung. Vanderbilt, nicht Eisenbahnaktionäre. Insull, nicht Edison. Amazon und Google, nicht Pets.com. In unserer These: NVIDIA, nicht das hundertste KI-Startup. Ethereum, nicht der hundertste Token. Das ist der Grund, warum die Barbell-Strategie in Teil IV die Infrastrukturschicht betont.
 
 
 ![Abbildung 3: Infrastruktur schlägt Anwendung: das wiederkehrende Muster](images/abb-03.png)
