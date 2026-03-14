@@ -3020,7 +3020,7 @@ Was ich Ihnen geben kann, ist ein Denkrahmen.
 
 ### Variante A: Der Konservative (Kapital 100K–500K€)
 
-**Sichere Seite (70%)**
+#### Sichere Seite (70%)
 
 | Sektor | Allokation | Anteil |
 |-------|-----------|--------|
@@ -3030,7 +3030,7 @@ Was ich Ihnen geben kann, ist ein Denkrahmen.
 | Robotik | Intuitive Surgical, ABB, Fanuc | 10% |
 | Cash | Tagesgeld / Geldmarkt | 5% |
 
-**Asymmetrische Seite (30%)**
+#### Asymmetrische Seite (30%)
 
 | Sektor | Allokation | Anteil |
 |-------|-----------|--------|
@@ -3057,7 +3057,7 @@ Was ich Ihnen geben kann, ist ein Denkrahmen.
 
 ### Variante B: Der Ausgewogene (Kapital 500K–2M€)
 
-**Sichere Seite (60%)**
+#### Sichere Seite (60%)
 
 | Sektor | Allokation | Anteil |
 |-------|-----------|--------|
@@ -3067,7 +3067,7 @@ Was ich Ihnen geben kann, ist ein Denkrahmen.
 | Energie | Cameco, Constellation, NuScale, Oklo, Uran-ETF | 10% |
 | Cash | Cash-Reserve | 5% |
 
-**Asymmetrische Seite (40%)**
+#### Asymmetrische Seite (40%)
 
 | Sektor | Allokation | Anteil |
 |-------|-----------|--------|
@@ -3095,7 +3095,7 @@ Was ich Ihnen geben kann, ist ein Denkrahmen.
 
 ### Variante C: Der Aggressive (Kapital 2M€+, hohe Risikotoleranz)
 
-**Sichere Seite (50%)**
+#### Sichere Seite (50%)
 
 | Sektor | Allokation | Anteil |
 |-------|-----------|--------|
@@ -3104,7 +3104,7 @@ Was ich Ihnen geben kann, ist ein Denkrahmen.
 | Robotik | Tesla, Intuitive Surgical + Venture-Positionen | 10% |
 | Cash / Treasuries | Tokenisierte Treasuries, yield-generierend | 10% |
 
-**Asymmetrische Seite (50%)**
+#### Asymmetrische Seite (50%)
 
 | Sektor | Allokation | Anteil |
 |-------|-----------|--------|
