@@ -96,10 +96,13 @@ $endif$
 \newtcolorbox{infobox}[1][]{
     colback=infoboxbg,
     colframe=infoboxborder,
-    fonttitle=\bfseries\color{sectionblue},
+    coltitle=sectionblue,
+    fonttitle=\bfseries,
+    attach boxed title to top left={yshift=-2mm, xshift=4mm},
+    boxed title style={colback=infoboxbg, colframe=infoboxborder, boxrule=1pt},
     left=8pt,
     right=8pt,
-    top=6pt,
+    top=12pt,
     bottom=6pt,
     boxrule=1pt,
     arc=2pt,
@@ -163,6 +166,9 @@ $endif$
 
 \begin{document}
 
+\frontmatter
+\pagestyle{plain}
+
 $if(title)$
 \maketitle
 $endif$
@@ -176,6 +182,7 @@ $if(toc)$
 \newpage
 $endif$
 
+\mainmatter
 \pagestyle{fancy}
 $body$
 
