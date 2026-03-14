@@ -84,7 +84,7 @@ $endif$
 \titlespacing*{\chapter}{0pt}{40pt}{30pt}
 
 \titleformat{\section}[display]
-    {\sffamily\huge\bfseries\color{chapterblue}}
+    {\needspace{6\baselineskip}\sffamily\huge\bfseries\color{chapterblue}}
     {}
     {0pt}
     {}
@@ -94,7 +94,7 @@ $endif$
 \newcommand{\sectionbreak}{\clearpage}
 
 \titleformat{\subsection}
-    {\sffamily\large\bfseries\color{sectionblue}}
+    {\needspace{4\baselineskip}\sffamily\large\bfseries\color{sectionblue}}
     {}
     {0em}
     {}
@@ -180,10 +180,11 @@ $endif$
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
-% --- Widow/Orphan protection: no heading alone at page bottom ---
+% --- Widow/Orphan + Heading protection ---
 \widowpenalty=10000
 \clubpenalty=10000
 \raggedbottom
+\usepackage{needspace}
 
 % --- Tables: smaller font, wrapping cells ---
 \let\oldlongtable\longtable
