@@ -1868,6 +1868,7 @@ Mostaque geht noch weiter und beschreibt, was er "nicht-metabolische Arbeit" nen
 Wenn die Arbeit verschwindet, muss jemand zahlen. Die naheliegende Idee heißt Universal Basic Income, und sie wird von genau den Leuten propagiert, die am meisten von der Automatisierung profitieren. Sam Altman, CEO von OpenAI, hat sich für UBI ausgesprochen. Elon Musk geht weiter und spricht von einem "Universal High Income". Die Frage ist: Funktioniert das?
 
 *Die Forschung gibt eine differenzierte Antwort.*
+
 ::: {.infobox}
 ### Finnlands UBI-Experiment
 
@@ -4620,8 +4621,7 @@ Kapitel 4 (Fortsetzung): Stablecoins, Dollar-Dominanz und Schulden
 
 157. "Viktor Frankl, der österreichische Psychiater und Holocaust-Überlebende, nannte es das 'existentielle Vakuum'" - Viktor Frankl, Man's Search for Meaning (dt.: ...trotzdem Ja zum Leben sagen), 1946.
 
-158. "::: {.infobox}
-### Finnlands UBI-Experiment
+158. "Finnlands UBI-Experiment
 
 Finnland hat von 2017 bis 2018 das bekannteste nationale UBI-Experiment durchgeführt. 2.000 zufällig ausgewählte Arbeitslose bekamen monatlich 560 Euro" - Kela (Finnische Sozialversicherung), UBI-Experiment Final Report, 2020.
 
