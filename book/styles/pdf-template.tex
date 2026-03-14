@@ -101,8 +101,7 @@ $endif$
     right=8pt,
     top=6pt,
     bottom=6pt,
-    boxrule=0pt,
-    leftrule=4pt,
+    boxrule=1pt,
     arc=2pt,
     breakable,
     title={#1}
@@ -167,7 +166,11 @@ $if(title)$
 $endif$
 
 $if(toc)$
+{
+\hypersetup{linkcolor=black}
+\setcounter{tocdepth}{2}
 \tableofcontents
+}
 \newpage
 $endif$
 

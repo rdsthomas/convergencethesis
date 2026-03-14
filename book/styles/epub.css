@@ -83,8 +83,7 @@ blockquote p {
 /* --- Infoboxen --- */
 .infobox {
     background-color: #edf2f7;
-    border: 1px solid #cbd5e0;
-    border-left: 4px solid #2c5282;
+    border: 1px solid #2c5282;
     border-radius: 4px;
     padding: 1em 1.2em;
     margin: 1.5em 0;
@@ -96,7 +95,6 @@ blockquote p {
     color: #2c5282;
     margin-top: 0;
     margin-bottom: 0.6em;
-    border-bottom: 1px solid #cbd5e0;
     padding-bottom: 0.4em;
 }
 
