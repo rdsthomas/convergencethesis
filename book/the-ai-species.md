@@ -3179,51 +3179,47 @@ Theorie ist wertlos, wenn sie nicht zu einer Handlung führt. Also lassen Sie mi
 
 Ich nenne es das AI-Species-Musterportfolio. Nicht weil es perfekt ist, sondern weil es ehrlich ist.
 
+::: {.infobox}
+### Hinweis: Dieses Portfolio ist ein Snapshot
+
+Die folgenden Allokationen, Kurse und Empfehlungen entsprechen dem Stand zum Zeitpunkt der Veröffentlichung (März 2026). Märkte verändern sich — Kurse, Bewertungen und Chancen verschieben sich laufend.
+
+Auf **TheAiSpecies.world/leser** finden registrierte Leser ein **wöchentlich aktualisiertes Musterportfolio** mit aktuellen Gewichtungen, Performance-Tracking und Anpassungen an neue Marktentwicklungen. Ihr Zugangscode: **AISPECIES-2026**
+:::
+
 Ausgangsbasis: 100.000 Euro. Wenn Sie mehr haben, skalieren Sie die Prozentsätze. Wenn Sie weniger haben, beginnen Sie mit dem Kern und bauen die asymmetrische Seite schrittweise auf.
 
-Der sichere Kern, 65.000 Euro
+### Der sichere Kern: 65.000 Euro
 
-25.000 Euro in einen Nasdaq-100-ETF (Invesco EQQQ, ISIN: IE00BFZXGZ54, Kosten: 0,30% pro Jahr). Das ist Ihre Basisposition. Sie besitzen damit indirekt NVIDIA, Microsoft, Apple, Alphabet, Amazon, Meta und Broadcom, die Unternehmen, die die Infrastruktur der KI-Revolution bauen. Ein einziges Produkt, breit gestreut, über jeden deutschen Broker kaufbar.
+| Betrag | Position |
+|-------:|----------|
+| 25.000 € | **Nasdaq-100-ETF** (Invesco EQQQ, ISIN: IE00BFZXGZ54, 0,30%/Jahr). Basisposition: NVIDIA, Microsoft, Apple, Alphabet, Amazon, Meta, Broadcom. Breit gestreut, über jeden deutschen Broker kaufbar. |
+| 15.000 € | **MSCI-World-ETF** (iShares, ISIN: IE00B4L5Y983, 0,20%). Der Fallschirm. 1.500 Unternehmen aus 23 Ländern. Wenn die KI-These langsamer kommt als erwartet, fängt dieser ETF den Schlag ab. |
+| 5.000 € | **Robotik-ETF** (iShares Automation & Robotics, ISIN: IE00BYZK4552, 0,40%). NVIDIA, Intuitive Surgical, Keyence, ABB, Fanuc. Profitiert überproportional wenn Phase 4 eintritt. |
+| 5.000 € | **NVIDIA** (ISIN: US67066G1040). Zusätzlich zum ETF. Jensen Huang baut das Betriebssystem der Robotik: GR00T, Cosmos, Omniverse. Standard Oil der Maschinenökonomie. |
+| 3.000 € | **Microsoft** (ISIN: US5949181045). 49% an OpenAI, Copilot in jedem Produkt, Azure als KI-Cloud. Die sicherste Wette im KI-Universum. |
+| 3.000 € | **Alphabet** (ISIN: US02079K3059). DeepMind (Nobelpreis für AlphaFold), Waymo, Gemini. Angetrieben durch die größte Datenbasis der Menschheitsgeschichte. |
+| 2.000 € | **Amazon** (ISIN: US0231351067). AWS, 8 Mrd.$ in Anthropic, eigene KI-Chips, 750.000 Lager-Roboter. Die Infrastrukturschicht der Infrastrukturschicht. |
+| 2.000 € | **Tesla** (ISIN: US88160R1014). Riskanteste Kern-Position. Optimus, FSD, Energiespeicher — eine Wette auf Robotik, Autonomie und Energie gleichzeitig. Musk ist ein Risikofaktor. |
+| 3.000 € | **Uran-ETF** (Global X Uranium, ISIN: IE000NDWFGA5, 0,65%). KI-Rechenzentren brauchen Grundlaststrom. Uranpreis seit 2020 verdreifacht, Nachfrage wächst schneller als Angebot. |
+| 2.000 € | **Cameco** (ISIN: CA13321L1085). Weltgrößter Uranproduzent. Picks-and-Shovels-Strategie, angewendet auf Energie. |
 
-15.000 Euro in einen MSCI-World-ETF (iShares, ISIN: IE00B4L5Y983, Kosten: 0,20%). Der Fallschirm. 1.500 Unternehmen aus 23 Ländern. Wenn die KI-These langsamer kommt als erwartet, fängt dieser ETF den Schlag ab. Ray Dalio würde nicken.
+### Die asymmetrische Seite: 28.000 Euro
 
-5.000 Euro in einen Robotik-ETF (iShares Automation & Robotics, ISIN: IE00BYZK4552, Kosten: 0,40%). NVIDIA, Intuitive Surgical, Keyence, ABB, Fanuc. Wenn Phase 4 eintritt (Roboter in der physischen Welt) profitiert dieses Produkt überproportional.
+| Betrag | Position |
+|-------:|----------|
+| 10.000 € | **Bitcoin** (Direktkauf: Kraken/Bitstamp/Coinbase → Hardware-Wallet, nach 1 Jahr steuerfrei. Oder als ETP: CoinShares Physical BTC, ISIN: GB00BLD4ZL17). Versicherung gegen Fiat-Entwertung. Tudor Jones, Dalio, Druckenmiller halten es. Empfehlung: Direktkauf wegen Steuerersparnis. |
+| 5.000 € | **Ethereum** (gleiche Kaufwege wie BTC). Das Betriebssystem der tokenisierten Wirtschaft. Smart Contracts, DeFi, tokenisierte Vermögenswerte. |
+| 3.000 € | **Krypto-Basket-ETP** (21Shares Crypto Basket, ISIN: CH0445689208). BTC, ETH, SOL und weitere. Ein Produkt, über Xetra handelbar. Diversifikation innerhalb Krypto. |
+| 5.000 € | **Spekulative Token** (je 1.250 €): OLAS (autonome KI-Agenten), FET (ASI Alliance), RENDER (dezentrale GPU), SOL (Solana). Riskanteste Positionen — Totalverlust möglich. Zugang über Kraken/Coinbase. |
+| 3.000 € | **ARK Genomic Revolution ETF** (ISIN: US00214Q5009). CRISPR, Recursion, Twist Bioscience. Wenn KI die Grenzen des Alterns verschiebt → nächster Billionen-Markt. Via Interactive Brokers. |
+| 2.000 € | **Recursion Pharmaceuticals** (ISIN: US75629V1044). KI-gestützte Medikamentenentwicklung mit NVIDIA-Partnerschaft. Hochspekulativ, aber KI + Biotech materialisiert sich hier. |
 
-5.000 Euro in NVIDIA direkt (ISIN: US67066G1040). Ja, zusätzlich zum ETF. Jensen Huang baut nicht nur Chips. Er baut das Betriebssystem der Robotik. GR00T, Cosmos, Omniverse. NVIDIA ist für die Maschinenökonomie, was Standard Oil für das Ölzeitalter war.
+### Die Reserve: 7.000 Euro
 
-3.000 Euro in Microsoft (ISIN: US5949181045). 49% an OpenAI, Copilot in jedem Produkt, Azure als KI-Cloud. Die sicherste Wette im KI-Universum.
-
-3.000 Euro in Alphabet (ISIN: US02079K3059). DeepMind hat den Nobelpreis für AlphaFold gewonnen. Waymo fährt autonom durch San Francisco. Gemini wird besser. Und das alles wird durch die größte Datenbasis der Menschheitsgeschichte (die Google-Suche) angetrieben.
-
-2.000 Euro in Amazon (ISIN: US0231351067). AWS ist die größte Cloud, 8 Milliarden Dollar in Anthropic investiert, eigene KI-Chips, 750.000 Roboter in den Lagern. Die Infrastrukturschicht der Infrastrukturschicht.
-
-2.000 Euro in Tesla (ISIN: US88160R1014). Die riskanteste Position im Kern. Aber Optimus, FSD und die Energiespeicher-Sparte machen Tesla zu mehr als einem Autobauer. Es ist eine Wette auf Robotik, Autonomie und Energie gleichzeitig. Und ja, Musk ist ein Risikofaktor.
-
-3.000 Euro in einen Uran-ETF (Global X Uranium, ISIN: IE000NDWFGA5, Kosten: 0,65%). KI-Rechenzentren brauchen Grundlaststrom. Kernenergie ist die einzige CO₂-arme Quelle, die das liefern kann. Der Uranpreis hat sich seit 2020 verdreifacht, und die Nachfrage wächst schneller als das Angebot.
-
-2.000 Euro in Cameco (ISIN: CA13321L1085). Der weltgrößte Uranproduzent. Jeder neue Reaktor, ob SMR oder konventionell, braucht Cameco. Das ist die Picks-and-Shovels-Strategie, angewendet auf Energie.
-
-Die asymmetrische Seite, 28.000 Euro
-
-10.000 Euro in Bitcoin. Das ist die größte Einzelposition auf der spekulativen Seite, und das ist Absicht. Bitcoin ist nicht Spekulation. Bitcoin ist eine Versicherung gegen die Entwertung des Geldsystems, das wir in Kapitel 1 beschrieben haben. Tudor Jones hält es, Dalio hält es, Druckenmiller hat es gehandelt, BlackRock hat den erfolgreichsten ETF-Launch der Geschichte damit hingelegt.
-
-Für deutsche Anleger gibt es zwei Wege: Direktkauf über eine regulierte Krypto-Börse (Kraken, Bitstamp, Coinbase) mit anschließender Verwahrung auf einem Hardware-Wallet (Ledger Nano X, circa 79 Euro). Vorteil: Nach einem Jahr Haltedauer steuerfrei. Oder als ETP über das normale Depot (CoinShares Physical Bitcoin, ISIN: GB00BLD4ZL17; oder 21Shares Bitcoin ETP, ISIN: CH0454664001). Einfacher, aber ohne Steuerfreiheit nach einem Jahr, hier greift die Abgeltungssteuer.
-
-Meine Empfehlung: Direktkauf. Die Steuerersparnis nach einem Jahr ist den Aufwand wert.
-
-5.000 Euro in Ethereum. Das programmierbare Geld, das Betriebssystem der tokenisierten Wirtschaft. Wenn Smart Contracts, DeFi und tokenisierte Vermögenswerte Realität werden. Und die Infrastruktur existiert bereits, dann ist Ethereum die Plattform, auf der das gebaut wird. Gleiche Kaufwege wie Bitcoin.
-
-3.000 Euro in einen Krypto-Basket-ETP (21Shares Crypto Basket Index, ISIN: CH0445689208). Bitcoin, Ethereum, Solana und weitere nach Marktkapitalisierung, in einem einzigen Produkt, über Xetra handelbar. Diversifikation innerhalb der Krypto-Allokation.
-
-5.000 Euro in spekulative Token: OLAS (Autonolas, Governance für autonome KI-Agenten), FET (ASI Alliance, fusioniert aus Fetch.ai, SingularityNET und Ocean Protocol), RENDER (dezentrale GPU-Rechenleistung) und SOL (Solana, die schnellste Layer-1-Blockchain). Je 1.250 Euro pro Token. Das sind die riskantesten Positionen im gesamten Portfolio. Totalverlust möglich. Aber wenn die Machine Economy kommt, wie sie in diesem Buch beschrieben wird, dann sind das die Infrastruktur-Token, die davon profitieren. Zugang über Kraken oder Coinbase.
-
-3.000 Euro in den ARK Genomic Revolution ETF (ISIN: US00214Q5009). Wenn Kapitel 15 richtig liegt, wenn KI die Grenzen des Alterns verschiebt, dann ist Genomik der nächste Billionen-Dollar-Markt. CRISPR Therapeutics, Recursion Pharmaceuticals, Twist Bioscience. Handelbar über Interactive Brokers.
-
-2.000 Euro in Recursion Pharmaceuticals (ISIN: US75629V1044). KI-gestützte Medikamentenentwicklung mit NVIDIA-Partnerschaft. Hochspekulativ, aber die Verbindung von KI und Biotech, die wir im Longevity-Kapitel beschrieben haben, materialisiert sich hier.
-
-Die Reserve, 7.000 Euro
-
-7.000 Euro in Tagesgeld oder einen Geldmarkt-ETF. Trockenes Pulver. Howard Marks sagt: "Die besten Investments fühlen sich am unbequemsten an." Und die unbequemsten Momente sind Crashs. Wer in einem Crash kein Cash hat, kann nur zuschauen, wie andere die Schnäppchen kaufen.
+| Betrag | Position |
+|-------:|----------|
+| 7.000 € | **Tagesgeld / Geldmarkt-ETF**. Trockenes Pulver. Howard Marks: "Die besten Investments fühlen sich am unbequemsten an." Wer im Crash kein Cash hat, kann nur zuschauen. |
 
 Was kann passieren?
 
