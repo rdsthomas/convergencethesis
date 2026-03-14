@@ -3581,8 +3581,6 @@ Erledigt: Was Sie jetzt tun können
 Howard Marks schreibt in "The Most Important Thing", dass die besten Investments oft die sind, die sich am unbequemsten anfühlen. Heute in KI, Robotik und Krypto zu investieren, fühlt sich unbequem an. Die Kurse sind hoch. Die Technologie ist komplex. Die Zukunft ist unsicher.
 
 
-::: {.infobox}
-
 ### Die zwei Arten von Skeptikern
 
 Ich bin der erste Entwickler in meiner eigenen Firma. Nicht weil ich programmieren gelernt habe, sondern weil ich eine KI habe, die programmiert. Das klingt nach Zukunft. Es ist Gegenwart. Und wenn ich das erzähle, stoße ich auf zwei Arten von Reaktionen.
@@ -3611,13 +3609,17 @@ Die KI-Revolution befindet sich in einer merkwürdigen Zwischenphase. Einerseits
 
 Wer wartet, bis die These "bewiesen" ist, bis humanoide Roboter in jeder Fabrik stehen und KI-Agenten auf Blockchains Billionen umsetzen, wird Preise bezahlen, die den Großteil der Rendite bereits eingepreist haben. Die asymmetrische Chance existiert jetzt, in der Phase der Unsicherheit, in der die meisten Menschen noch nicht verstanden haben, was kommt.
 
-Was ich bei accessibleAI jeden Tag sehe
+
+### Was ich bei accessibleAI jeden Tag sehe
+
 
 Ich sehe das jeden Tag in meiner Arbeit. Die Unternehmen, die heute KI adoptieren, sind in der Minderheit. Die meisten warten ab, sind skeptisch, haben Angst vor der Komplexität. In zwei bis drei Jahren werden dieselben Unternehmen verzweifelt versuchen aufzuholen und einen Vielfachen des heutigen Preises für die Transformation bezahlen.
 
 Was für Unternehmen gilt, gilt für Investoren. Die Lernkurve, die heute noch ein Wettbewerbsvorteil ist (sich mit KI, Krypto und Robotik auszukennen), wird in fünf Jahren Allgemeinwissen sein. Und Allgemeinwissen erzeugt keine überproportionalen Renditen.
 
-Peter Thiels "Definite Optimism"
+
+### Peter Thiels "Definite Optimism"
+
 
 Thiel hat ein Konzept beschrieben, das er "definite optimism" nennt: die Überzeugung, dass die Zukunft gut wird und dass man aktiv daran arbeiten kann, sie zu gestalten. Es ist das Gegenteil von vier alternativen Haltungen: blindem Optimismus (die Zukunft wird schon irgendwie gut), resigniertem Pessimismus (es wird schlimmer, man kann nichts tun), definitem Pessimismus (es wird schlimmer, und man bereitet sich darauf vor), und indefinitem Optimismus (es wird besser, aber man weiß nicht wie).
 
@@ -3671,8 +3673,6 @@ Die Frage ist nicht: Kann ich es mir leisten, jetzt zu investieren?
 
 Die Frage ist: Kann ich es mir leisten, es nicht zu tun?
 
-
-:::
 
 ---
 
