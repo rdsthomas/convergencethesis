@@ -135,7 +135,7 @@ Warum ich das alles aufgeschrieben habe (der eigentliche Grund) steht am Ende di
 
 *Thomas Huhn, März 2026*
 
-TEIL I: DIE THESE
+# TEIL I: DIE THESE
 
 
 ## Kapitel 1: Am Anfang der größten Transformation seit 250 Jahren
