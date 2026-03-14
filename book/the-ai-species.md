@@ -4678,7 +4678,102 @@ Prompt Engineering for Everyone - DeepLearning.AI.
 
 ## Abbildungsverzeichnis
 
-*Dieses Verzeichnis wird automatisch generiert.*
+Abbildung 1: Die Konvergenz-These - KI, Robotik und Krypto verschmelzen zur Maschinenökonomie
+
+Kapitel 1  |  Eigene Darstellung
+
+Abbildung 2: 250 Jahre technologische Umbrüche - von der Dampfmaschine zur Maschinenökonomie
+
+Kapitel 1  |  Eigene Darstellung
+
+Abbildung 3: Infrastruktur schlägt Anwendung: das wiederkehrende Muster
+
+Kapitel 1  |  Eigene Darstellung
+
+Abbildung 4: Die vier Phasen der KI - vom Werkzeug zur autonomen Maschine
+
+Kapitel 2  |  Eigene Darstellung
+
+Abbildung 5: Das KI-Ökosystem - Labore, Hyperscaler und ihre Verflechtungen
+
+Kapitel 2  |  Eigene Darstellung, basierend auf öffentlichen Unternehmensdaten (u.a. Anthropic, OpenAI, Google, Microsoft, NVIDIA)
+
+Abbildung 6: DeepSeek - Der Sputnik-Moment der KI (Trainingskosten im Vergleich)
+
+Kapitel 2  |  Eigene Darstellung, basierend auf öffentlichen Angaben von DeepSeek und branchenüblichen Schätzungen
+
+Abbildung 7: Warum Maschinen kein Bankkonto eröffnen können
+
+Kapitel 3  |  Eigene Darstellung
+
+Abbildung 8: Stablecoin-Volumen überholt Visa (2024: $27,6 Billionen)
+
+Kapitel 3  |  Eigene Darstellung, basierend auf Daten von Visa Annual Report 2024 und Artemis/DefiLlama
+
+Abbildung 9: Von der physischen zur tokenisierten Welt
+
+Kapitel 4  |  Eigene Darstellung
+
+Abbildung 10: Wer tokenisiert was? Die Wall-Street-Giganten steigen ein
+
+Kapitel 4  |  Eigene Darstellung, basierend auf öffentlichen Unternehmensankündigungen (BlackRock, JPMorgan, Goldman Sachs u.a.)
+
+Abbildung 11: Anatomie einer Maschinen-Firma (DAO)
+
+Kapitel 9  |  Eigene Darstellung
+
+Abbildung 12: Die KI-Weltkarte - USA dominiert, China rivalisiert, Europa reguliert
+
+Kapitel 10  |  Eigene Darstellung
+
+Abbildung 13: Der Chip-Krieg - TSMCs Nadelöhr in der globalen KI-Lieferkette
+
+Kapitel 10  |  Eigene Darstellung
+
+Abbildung 14: Tech-Giganten werden Energiekonzerne
+
+Kapitel 11  |  Eigene Darstellung, basierend auf öffentlichen Unternehmensankündigungen
+
+Abbildung 15: Energiehunger der KI - Rechenzentren fressen immer mehr Strom
+
+Kapitel 11  |  Eigene Darstellung, basierend auf IEA World Energy Outlook 2025 und Goldman Sachs Research
+
+Abbildung 16: Welche Jobs verschwinden, welche entstehen
+
+Kapitel 12  |  Eigene Darstellung, basierend auf WEF Future of Jobs Report 2025
+
+Abbildung 17: Die Geschichte der Arbeit - vier Epochen und der aktuelle Umbruch
+
+Kapitel 12  |  Eigene Darstellung
+
+Abbildung 18: Regulierungs-Geschwindigkeiten - USA, China und Europa im Vergleich
+
+Kapitel 13  |  Eigene Darstellung
+
+Abbildung 19: Szenario 2026-2035 - Die drei Phasen der Maschinenökonomie
+
+Kapitel 14  |  Eigene Darstellung
+
+Abbildung 20: Von der Tastatur zum Gedanken - Interface-Evolution
+
+Kapitel 15  |  Eigene Darstellung
+
+Abbildung 21: Das Smart Money wettet auf Unsterblichkeit
+
+Kapitel 18  |  Eigene Darstellung, basierend auf öffentlichen Finanzierungsdaten (Crunchbase, PitchBook)
+
+Abbildung 22: Die Barbell-Strategie - Kern (60-70%) vs. asymmetrische Wetten (30-40%)
+
+Kapitel 20  |  Eigene Darstellung
+
+Abbildung 23: Drei Portfolio-Varianten - konservativ, ausgewogen, aggressiv
+
+Kapitel 20  |  Eigene Darstellung
+
+Abbildung 24: Risiko-Matrix - Wahrscheinlichkeit vs. Impact
+
+Kapitel 18  |  Eigene Darstellung
+
 
 
 ## Stichwortverzeichnis
