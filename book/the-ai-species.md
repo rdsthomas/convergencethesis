@@ -1970,7 +1970,7 @@ Trotzdem ist es notwendig. Nicht um eine präzise Prognose zu liefern, die man i
 
 ::: {.infobox}
 
-*2026-2028: Die stille Revolution*
+### 2026-2028: Die stille Revolution
 *KI-Agenten werden zum Standard in der Wissensarbeit. Nicht in allen Unternehmen, aber in allen Unternehmen, die überleben wollen. Jedes größere Unternehmen hat KI-Systeme, die autonom E-Mails beantworten, Reports erstellen, Daten analysieren, Code schreiben und Entscheidungen vorbereiten.*
 *Ich erlebe das selbst. Anfang 2026 entdeckte ich ein Open-Source-Projekt namens OpenClaw. Es war gerade mal zwei Tage veröffentlicht, und ich hatte bereits meine erste KI-Assistentin am Start. Ich nannte sie Jeannie, nach dem Geist aus der Flasche.*
 *OpenClaw erreichte 200.000 GitHub-Stars innerhalb weniger Wochen und wurde zum am schnellsten wachsenden Open-Source-Projekt in der Geschichte der KI.*
@@ -2349,7 +2349,7 @@ Beachten Sie ein Muster: Die CEOs von OpenAI, Coinbase und Google investieren pa
 
 ::: {.infobox}
 
-*Zombie-Zellen und die Impfung gegen das Altern*
+### Zombie-Zellen und die Impfung gegen das Altern
 *Aber es gibt einen anderen Ansatz, der möglicherweise noch radikaler ist als alles, was Sinclair, Altman oder Bezos bisher finanziert haben. Und er beginnt mit einer unbequemen Wahrheit über Ihren eigenen Körper.*
 *In diesem Moment, während Sie das lesen, sitzen Millionen von Zellen in Ihrem Körper, die eigentlich tot sein sollten. Sie haben aufgehört, sich zu teilen. Sie tun nichts Nützliches mehr. Aber anstatt zu sterben und vom Immunsystem entsorgt zu werden, wie es vorgesehen ist, hocken sie da und vergiften ihre Umgebung. Forscher nennen sie seneszente Zellen. Im Volksmund heißen sie Zombie-Zellen, und der Name trifft es ziemlich gut.*
 *Nach etwa 50 bis 70 Teilungen sind die Telomere einer Zelle, die Schutzkappen am Ende der DNA, aufgebraucht. Die Zelle geht in den Notfallmodus: Sie hört auf, sich zu teilen, damit sie nicht zur Krebszelle mutiert. Das ist ein Sicherheitsmechanismus, und er funktioniert. Das Problem ist, was danach passiert. Ein Teil dieser Zellen wird nicht ordnungsgemäß entsorgt. Stattdessen pumpen sie einen toxischen Cocktail aus Entzündungsmolekülen in ihre Umgebung, den sogenannten SASP (Senescence-Associated Secretory Phenotype). Stellen Sie sich einen Nachbarn vor, dessen Haus abbruchreif ist, der aber nicht auszieht, sondern jeden Tag seinen Müll in Ihren Garten wirft.*
