@@ -67,7 +67,7 @@ Ich halte das für die größte Lüge unserer Zeit.
 
 Ohne Besitz wirst du nicht glücklich sein. Ohne Besitz hast du keine Sicherheit. Ohne Besitz hast du keine Verhandlungsmacht. Ohne Besitz bist du abhängig von denen, die besitzen. Das war im Feudalismus so, das war in der Industriegesellschaft so, und das wird in der Maschinenökonomie erst recht so sein.
 
-Die Kausalkette ist brutal einfach:
+### Die Kausalkette ist brutal einfach
 
 > *Maschinen ersetzen Arbeit. Kein Arbeitseinkommen. Kein Kapital zum Investieren. Kein Wohlstand. Game Over.*
 
@@ -197,7 +197,7 @@ Beim Internet sehen wir dasselbe. In der Dotcom-Blase um 2000 verloren Investore
 *Abbildung 3: Infrastruktur schlägt Anwendung: das wiederkehrende Muster*
 
 
-Wir stehen jetzt an einem solchen Punkt. Und diesmal ist die Transformation radikaler als alles, was wir kennen.
+> Wir stehen jetzt an einem solchen Punkt. Und diesmal ist die Transformation radikaler als alles, was wir kennen.
 
 
 ---
@@ -541,7 +541,7 @@ Balaji Srinivasan, der ehemalige CTO von Coinbase, hat dieses Konzept in seinem 
 
 Permissionless, erlaubnisfrei, ist das Schlüsselwort. Im traditionellen Finanzsystem funktioniert jede Transaktion wie ein Türsteher-System: Jeder Teilnehmer braucht die Erlaubnis einer Institution, einer Bank, einer Aufsichtsbehörde, eines Kreditkartenunternehmens. Im Krypto-System gibt es keinen Türsteher. Ein KI-Agent kann ein Wallet erstellen und innerhalb von Millisekunden wirtschaftlich handeln. Keine Wartezeit. Kein Antrag. Kein Mensch, der "genehmigen" klickt.
 
-Das ist nicht Anarchie. Es ist Effizienz. Und in einer Welt, in der Milliarden von Maschinen Milliarden von Transaktionen pro Tag durchführen müssen, ist diese Effizienz nicht optional.
+> Das ist nicht Anarchie. Es ist Effizienz. Und in einer Welt, in der Milliarden von Maschinen Milliarden von Transaktionen pro Tag durchführen müssen, ist diese Effizienz nicht optional.
 
 ---
 
@@ -555,7 +555,7 @@ Smart Contracts auf Ethereum oder Solana lösen dieses Problem. Ein Smart Contra
 
 Das ist programmierbare Ökonomie. Maschinen können keinen juristischen Text interpretieren, aber sie können Code ausführen. Smart Contracts sind Verträge in einer Sprache, die Maschinen verstehen.
 
-Die Stablecoin-Ökonomie
+### Die Stablecoin-Ökonomie
 
 Eines der hartnäckigsten Missverständnisse über Kryptowährungen ist, dass sie zu volatil für den wirtschaftlichen Einsatz seien. Bitcoin schwankt an einem Tag um fünf Prozent. Ethereum kann in einer Woche 20 Prozent verlieren. Wie soll ein KI-Agent damit Geschäfte machen?
 
@@ -696,7 +696,7 @@ DIMO macht heute den ersten Schritt: 180.000 Fahrzeuge mit Blockchain-Identität
 
 Aber sie wird entstehen. Denn die Wirtschaftslogik ist unausweichlich: Maschinen, die autonom handeln können, werden autonom handeln. Maschinen, die eigenständig bezahlen können, werden eigenständig bezahlen. Und wenn sie einmal anfangen, gibt es keinen Grund, damit aufzuhören.
 
-Bitcoin als Anker, Ethereum als Betriebssystem
+### Bitcoin als Anker, Ethereum als Betriebssystem
 
 In dieser Ökonomie spielen Bitcoin und Ethereum grundlegend unterschiedliche Rollen. Beide zu verstehen ist wichtig, weil die Verwechslung der beiden zu falschen Investmententscheidungen führt.
 
@@ -774,7 +774,7 @@ Aber die Wachstumsrate lässt aufhorchen. Seit 2020 hat sich der Markt um über 
 
 Die Spannbreite allein, von 2 bis 30 Billionen, zeigt, dass niemand wirklich weiß, wie schnell das geht. Trotzdem bewegt sich Kapital in diese Richtung. Und dass die Wachstumskurve nicht linear sein wird, sondern exponentiell, wie bei jeder anderen Technologie in diesem Buch.
 
-Was wird heute bereits tokenisiert?
+### Was wird heute bereits tokenisiert?
 
 ::: {.infobox}
 ### Wie BlackRock die Finanzwelt tokenisiert
@@ -790,7 +790,7 @@ Private Credit, also Unternehmenskredite außerhalb des Bankensystems, wird übe
 
 Und dann die Nischen, die zusammen kein Nischenmarkt mehr sind. Tokenisiertes Gold über Paxos und Tether Gold, zusammen über eine Milliarde Dollar. Musik-Royalties über Royal.io, wo Fans Anteile an den Einnahmen ihrer Lieblingskünstler kaufen können. Ackerland über AcreTrader. Patente über IPwe auf der IBM-Blockchain. Fraktionierte Blue-Chip-Kunst über Masterworks.
 
-Wenn die Giganten kommen
+### Wenn die Giganten kommen
 
 Dass Krypto-Startups tokenisierte Assets verkaufen, ist eine Sache. Dass BlackRock, JPMorgan und Goldman Sachs es tun, eine ganz andere.
 
@@ -812,7 +812,7 @@ Goldman Sachs hat mit GS DAP eine Plattform für tokenisierte Anleihen aufgebaut
 
 HSBC hat tokenisierte Gold-Token live geschaltet, die rund um die Uhr handelbar sind. Franklin Templeton betreibt BENJI auf Stellar und Polygon. Fidelity entwickelt tokenisierte Geldmarktprodukte. Und die Citibank prognostiziert, dass Tokenisierung bis 2030 4 bis 5 Billionen Dollar erreicht.
 
-Was heißt es, wenn diese Firmen einsteigen?
+### Was heißt es, wenn diese Firmen einsteigen?
 
 Es heißt Legitimität. Kein CFO wird gefeuert, weil er in ein BlackRock-Produkt investiert hat, auch wenn es auf einer Blockchain läuft. Die Reputationsbarriere fällt.
 
@@ -822,7 +822,7 @@ Und es heißt regulatorische Zugkraft. BlackRock und JPMorgan haben mehr Lobbyis
 
 Gesetzgebung: Warum ein Token ohne Recht nur eine Quittung auf einer Serviette ist
 
-Hier kommen wir zum härtesten Punkt. Und zum wichtigsten.
+> Hier kommen wir zum härtesten Punkt. Und zum wichtigsten.
 
 Ein tokenisierter Anteil an einem Gebäude ist genau so viel wert wie das Recht, das dahintersteht. Wenn Sie einen Token kaufen, der behauptet, Ihnen 0,01 Prozent eines Bürogebäudes in Frankfurt zu gehören, aber kein Gericht diesen Anspruch durchsetzen wird, dann haben Sie eine Quittung auf einer Serviette gekauft. Kein Investment.
 
@@ -1195,7 +1195,7 @@ Jeder einzelne Baustein existiert. Was noch fehlt, ist die Integration. Und das 
 
 Meine Schätzung: Ein funktionierender Prototyp einer selbstverwaltenden Fahrzeugflotte als DAO irgendwann zwischen 2028 und 2031. Skalierung ab 2031.
 
-Die Fragen, die noch niemand beantwortet hat
+### Die Fragen, die noch niemand beantwortet hat
 
 Wenn Sie bis hierhin gelesen haben, denken Sie vermutlich an Probleme. Das ist gut, denn auch ich sehe Probleme. Hier sind die größten.
 
@@ -1438,11 +1438,11 @@ Und jetzt skalieren Sie das: Was passiert, wenn KI-Agenten rund um die Uhr auton
 
 OpenAI hat die US-Regierung aufgefordert, 100 Gigawatt zusätzliche Stromerzeugungskapazität pro Jahr zu bauen: das Äquivalent von 100 Kernkraftwerken jährlich. Das klingt wie eine absurde Forderung. Es ist die logische Konsequenz der Zahlen.
 
-Warum Solar und Wind nicht reichen
+### Warum Solar und Wind nicht reichen
 
 Jetzt kommt ein Punkt, an dem ich Leute regelmäßig verliere. Sobald ich sage, dass Kernenergie der Schlüssel zur Energieversorgung der KI-Revolution ist, höre ich: "Aber Solar und Wind sind doch viel billiger geworden!" Und das stimmt. Die Baukosten für Solaranlagen sind in den letzten zehn Jahren um über 80 Prozent gefallen. Onshore-Wind ist konkurrenzfähig mit Erdgas. Auf Basis der sogenannten Levelized Cost of Energy (LCOE, also der Gesamtkosten pro erzeugter Megawattstunde über die Lebensdauer einer Anlage) kostet Solar 38 bis 78 Dollar pro Megawattstunde, Onshore-Wind 27 bis 73 Dollar, Erdgas 48 bis 107 Dollar, ein neues Kernkraftwerk dagegen 141 bis 220 Dollar.
 
-Fall abgeschlossen? Erneuerbare gewinnen?
+### Fall abgeschlossen? Erneuerbare gewinnen?
 
 Nein. Denn diese Zahlen lügen. Nicht absichtlich, aber sie verschweigen etwas Entscheidendes: Erneuerbare Energien produzieren Strom, wenn die Sonne scheint und der Wind weht. Nicht wenn man ihn braucht. Und ein KI-Rechenzentrum braucht Strom rund um die Uhr, 365 Tage im Jahr, mit einer Zuverlässigkeit von 99,99 Prozent. Keine Pause, kein Wochenende, kein "heute war leider bewölkt".
 
@@ -1520,7 +1520,7 @@ COP28 hat das Problem offiziell anerkannt: Über 20 Länder haben sich zur Verdr
 
 Ein Detail verdeutlicht die Energie-Dichte von Kernkraft: Ein einzelnes Uran-Brennstoff-Pellet, so groß wie eine Fingerkuppe, erzeugt so viel Energie wie eine Tonne Kohle. Das ist der Grund, warum Kernkraftwerke auf 3,4 Quadratkilometern betrieben werden können und nicht auf der Fläche des Saarlands.
 
-Das Ausmaß der Investitionen
+### Das Ausmaß der Investitionen
 
 Wir haben gesehen, welche konkreten Deals Microsoft, Amazon, Google und Meta bei Kernkraftwerken und SMRs abgeschlossen haben. Aber die Dimension geht weit darüber hinaus.
 
@@ -1607,13 +1607,21 @@ Die Begriffe "White Collar" und "Blue Collar" sind Erfindungen des 20. Jahrhunde
 
 Marx hat das 1848 so formuliert: "Die moderne bürgerliche Gesellschaft hat die Klassengegensätze nicht aufgehoben. Sie hat nur neue Klassen, neue Bedingungen der Unterdrückung an die Stelle der alten gesetzt." Man muss kein Marxist sein, um die Struktur zu erkennen: Der Feudalherr wird zum Fabrikbesitzer, dann zum CEO. Die Abgabe heißt nicht mehr "Zehnt", sondern "Gewinnmarge". Aber die Grundstruktur, eine Klasse besitzt die Produktionsmittel, eine andere arbeitet damit, ist dieselbe.
 
-Die neuen Feudalherren
+### Die neuen Feudalherren
 
 Und jetzt stehen wir vor dem nächsten Übergang. Und die Frage ist: Wer werden die neuen Feudalherren sein?
 
 Im Feudalsystem kontrollierte, wer das Land besaß. In der Industriegesellschaft kontrollierte, wer die Fabriken besaß. In der Wissensökonomie kontrollierte, wer die Plattformen und Daten besaß. Google, Amazon, Meta, sie sind die Lehnsherren des digitalen Zeitalters, und ihre "Bauern" sind die Milliarden von Nutzern, die ihre Daten als Abgabe liefern, ohne dafür bezahlt zu werden.
 
-In der Maschinenökonomie wird kontrollieren, wer drei Dinge besitzt: die KI-Modelle (die Intelligenz), die Roboter (die physische Arbeitskraft), und die Krypto-Infrastruktur (das Zahlungssystem). Das sind die neuen Produktionsmittel. Und ihre Besitzer werden die neuen Feudalherren sein.
+### Die drei Säulen der Maschinenökonomie
+
+In der Maschinenökonomie wird kontrollieren, wer drei Dinge besitzt:
+
+- **Die KI-Modelle** (die Intelligenz)
+- **Die Roboter** (die physische Arbeitskraft)
+- **Die Krypto-Infrastruktur** (das Zahlungssystem)
+
+Das sind die neuen Produktionsmittel. Und ihre Besitzer werden die neuen Feudalherren sein.
 
 NVIDIA baut die Hardware, auf der die Intelligenz läuft. OpenAI, Anthropic und Google bauen die Intelligenz selbst. Tesla, Figure AI und Unitree bauen die Roboter. Und die Krypto-Protokolle, Bitcoin, Ethereum, die Stablecoin-Herausgeber, bilden das Finanzsystem, in dem die Maschinen operieren.
 
@@ -1639,13 +1647,13 @@ Das ist kein Dystopie-Roman. Das ist die logische Konsequenz von Passivität in 
 
 Aber es muss nicht dein Schicksal sein.
 
-Die Schulsystem-Frage
+### Die Schulsystem-Frage
 
 Und das Schulsystem? Das System, das vor 200 Jahren entworfen wurde, um Fabrikarbeiter zu produzieren, bildet heute noch immer Kinder für eine Welt aus, die nicht mehr existiert. Pünktlichkeit, Gehorsam, standardisiertes Wissen, Prüfungen unter Zeitdruck: All das waren Anforderungen der Industriegesellschaft. In einer Welt, in der KI jedes Faktenwissen in Sekunden abrufen kann, in der Kreativität, kritisches Denken und die Fähigkeit, mit Maschinen zusammenzuarbeiten, die relevanten Kompetenzen sind, ist unser Schulsystem ein Anachronismus.
 
 Aber das ist eine Debatte für ein anderes Buch. Für dieses Buch genügt die Erkenntnis: Die Art, wie wir arbeiten, ist keine Naturkonstante. Sie wurde erfunden, von Menschen, für bestimmte Zwecke, und sie wird gerade neu erfunden. Wer das versteht, hat einen Vorsprung.
 
-Welche Jobs verschwinden, welche entstehen
+### Welche Jobs verschwinden, welche entstehen
 
 Mit diesem historischen Kontext können wir die aktuelle Umwälzung nüchterner betrachten. Wir trauern nicht um eine ewige Ordnung. Wir sehen den nächsten in einer langen Reihe von Übergängen.
 
@@ -1782,7 +1790,7 @@ Die Kausalkette läuft bereits: Maschinen ersetzen Arbeit. Wer heute nicht hande
 
 Das ist keine Panikmache. Das ist Mathematik.
 
-Was das für Berufe bedeutet, am Beispiel Banken
+### Was das für Berufe bedeutet, am Beispiel Banken
 
 Die abstrakten Trends aus diesem Kapitel werden sofort greifbar, wenn man sie auf eine konkrete Branche projiziert. Die Bankenwelt eignet sich dafür besonders gut, weil sie gleichzeitig hochreguliert, datenintensiv und personalstark ist. Was dort passiert, wird in abgewandelter Form jede Branche treffen, in der Menschen mit Informationen arbeiten.
 
@@ -2111,7 +2119,7 @@ Jede technologische Revolution kam mit einer Revolution in der Art, wie Menschen
 
 Wir nähern uns jetzt den nächsten zwei Übergängen in schneller Folge. Und der zweite wird nicht nur verändern, wie wir arbeiten, sondern wie wir Realität erleben.
 
-Sprache als Übergangs-Interface
+### Sprache als Übergangs-Interface
 
 Der erste Übergang ist bereits im Gange. Tools wie Wispr Flow ermöglichen es, den gesamten Computer durch natürliche Sprache zu steuern. Nicht durch klobige Sprachbefehle, sondern durch flüssige, kontextuelle Sprache, die das System versteht. Man sagt nicht "Öffne Anwendung Mail, neue Nachricht, Empfänger Doppelpunkt." Man sagt: "Schreib Sarah eine Mail, dass ich zum Abendessen zu spät komme."
 
@@ -2299,7 +2307,7 @@ Self-Custody, die Möglichkeit, die eigenen digitalen Assets selbst zu verwahren
 
 Das ist kein anarchistisches Manifest. Es ist die Anerkennung, dass die Konzentration finanzieller Macht in den Händen weniger Institutionen, seien es Banken, seien es Tech-Konzerne, Risiken birgt, die sich mit zunehmender Automatisierung verschärfen.
 
-Der philosophische Rahmen
+### Der philosophische Rahmen
 
 Im Kern stellt die Maschinenökonomie eine Frage, die so alt ist wie die Werkzeugnutzung selbst: Sind wir die Schöpfer unserer Werkzeuge, oder werden wir von unseren Werkzeugen geformt?
 
@@ -2509,7 +2517,9 @@ Bevor ich mein eigenes Playbook vorstelle, müssen wir reden. Über Ray Dalio, d
 
 Und über Warren Buffett, der Bitcoin immer noch "Rattengift zum Quadrat" nennt, aber 23 Prozent seines Berkshire-Portfolios in Apple, Amazon und anderen Unternehmen hält, deren Zukunft auf KI gebaut ist.
 
-Diese Menschen sind sich in vielem uneinig. Aber in drei Punkten stimmen sie überein. Und diese drei Punkte sind der Ausgangspunkt für alles, was folgt.
+Diese Menschen sind sich in vielem uneinig. ### Drei Punkte des Konsens
+
+Aber in drei Punkten stimmen sie überein. Und diese drei Punkte sind der Ausgangspunkt für alles, was folgt.
 
 Erkenntnis 1: Das Geldsystem hat ein Problem
 
@@ -2543,7 +2553,7 @@ Nassim Taleb geht noch weiter. Er nennt Bitcoin eine "elektronische Tulpe" und w
 
 Benjamin Graham, der Vater des Value Investing, hat in den 1930er Jahren den "Mr. Market" erfunden: einen emotionalen Geschäftspartner, der Ihnen jeden Tag anbietet, seine Anteile zu kaufen oder zu verkaufen, mal euphorisch, mal deprimiert. Grahams Rat: Nutzen Sie seine Emotionen, lassen Sie sich nicht von ihnen steuern. 90 Jahre später gilt das unvermindert, für KI-Aktien genauso wie für tokenisierte Assets.
 
-Die drei Lager und warum keines allein reicht
+### Die drei Lager und warum keines allein reicht
 
 Aus all diesen Stimmen kristallisieren sich drei Lager heraus. Jedes hat Recht. Und keines reicht allein.
 
@@ -3282,7 +3292,17 @@ Was kann man tun? Ehrlich gesagt: wenig. Geopolitisches Risiko lässt sich nicht
 ::: {.infobox}
 ### Ein konkretes Worst-Case-Szenario
 
-Damit das nicht abstrakt bleibt, spielen wir es durch. Stellen Sie sich vor, es ist 2027 und drei Dinge passieren gleichzeitig: NVIDIA fällt um 60 Prozent, weil ein Konkurrent einen Durchbruch bei KI-Chips erzielt. Bitcoin crasht um 80 Prozent in einem regulatorischen Krypto-Winter. Und die EU verschärft den AI Act so drastisch, dass europäische Tech-Portfolios zusätzlich unter Druck geraten.
+Damit das nicht abstrakt bleibt, spielen wir es durch.
+
+### Das Worst-Case-Szenario: Drei simultane Schocks
+
+Stellen Sie sich vor, es ist 2027 und drei Dinge passieren gleichzeitig:
+
+**Erstens:** NVIDIA fällt um 60 Prozent, weil ein Konkurrent einen Durchbruch bei KI-Chips erzielt.
+
+**Zweitens:** Bitcoin crasht um 80 Prozent in einem regulatorischen Krypto-Winter.
+
+**Drittens:** Die EU verschärft den AI Act so drastisch, dass europäische Tech-Portfolios zusätzlich unter Druck geraten.
 
 :::
 
@@ -3994,13 +4014,13 @@ Gesamt
 
 Variante C - Die aggressive Kinderbarbell: 50 Prozent MSCI World (100 Euro), 20 Prozent Nasdaq-100 (40 Euro), 10 Prozent Robotik-ETF (20 Euro), 15 Prozent Bitcoin (30 Euro), 5 Prozent Ethereum (10 Euro). Krypto kann nicht im Junior-Depot gekauft werden - den Anteil kaufe ich im eigenen Namen und übertrage ihn zum 18. Geburtstag. Bei konservativ geschätzter Rendite: circa 141.000 Euro. Bei optimistischer Krypto-Entwicklung: bis zu 195.000 Euro.
 
-Die Steuer-Strategie
+### Die Steuer-Strategie
 
 Jedes Kind hat einen eigenen Sparerpauschbetrag von 1.000 Euro und einen Grundfreibetrag von 12.348 Euro (Stand 2026). Mit einer Nichtveranlagungsbescheinigung vom Finanzamt bleiben Kapitalerträge bis circa 13.348 Euro pro Jahr steuerfrei. Die NV-Bescheinigung ist kostenlos und drei Jahre gültig.
 
 Für den Krypto-Anteil gilt: Im eigenen Depot halten, die 1-Jahres-Haltefrist nutzen (danach steuerfrei), und zum 18. Geburtstag übertragen. Der Schenkungsfreibetrag von Großeltern an Enkel beträgt 200.000 Euro über zehn Jahre - bei den hier genannten Summen kein Problem.
 
-Was ich für Mila und Malou wähle
+### Was ich für Mila und Malou wähle
 
 Variante C. 200 Euro pro Monat pro Kind. 400 Euro gesamt.
 
