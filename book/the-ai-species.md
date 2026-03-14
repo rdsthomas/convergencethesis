@@ -962,7 +962,7 @@ Die Human Rights Foundation, die seit 2024 einen CBDC-Tracker betreibt, formulie
 ✦
 
 
-## Kapitel 10: Die toxische Dreifaltigkeit — CBDC, UBI und digitaler Feudalismus
+## Kapitel 6: Die toxische Dreifaltigkeit — CBDC, UBI und digitaler Feudalismus
 
 Aber es wird schlimmer. Denn CBDCs existieren nicht im Vakuum. Sie konvergieren mit zwei anderen Megatrends, die dieses Buch ausführlich beschreibt: der Massenarbeitslosigkeit durch KI und Robotik, und dem unvermeidlichen Aufstieg des Universal Basic Income.
 
@@ -1168,7 +1168,7 @@ Die Tokenisierung aller Vermögenswerte dieser Welt ist keine Frage des Ob. Sie 
 > ◆ Self-Custody wird in einer CBDC-Welt zum Menschenrecht.
 
 
-## Kapitel 6: Wenn Maschinen Unternehmen gründen
+## Kapitel 7: Wenn Maschinen Unternehmen gründen
 
 „Das Netz kennt keinen Schlaf."
 
@@ -1340,7 +1340,7 @@ Im nächsten Teil des Buches verlassen wir die These und schauen uns an, was das
 # TEIL II: DIE LANDSCHAFT
 
 
-## Kapitel 7: Die geopolitische Dimension — USA, China und Europas Schweigen
+## Kapitel 8: Die geopolitische Dimension — USA, China und Europas Schweigen
 
 „Wer die Chips kontrolliert, kontrolliert die Zukunft."
 
@@ -1506,7 +1506,7 @@ Aber selbst das beste Hedge-Asset nützt nichts ohne Energie. KI-Systeme verbrau
 > ◆ TSMC in Taiwan ist das geopolitische Nadelöhr der gesamten KI-Revolution.
 
 
-## Kapitel 8: Energie — Der unsichtbare Engpass
+## Kapitel 9: Energie — Der unsichtbare Engpass
 
 „Zivilisation ist im Wesentlichen ein Wettlauf um Energie."
 
@@ -1664,7 +1664,7 @@ Aber es gibt noch eine andere Hälfte, die nicht in Gigawatt und Kubikmetern gem
 > ◆ Tech-Giganten kaufen Kernkraftwerke — Uran wird zum strategischen Asset.
 
 
-## Kapitel 9: Der menschliche Preis — Arbeit, Sinn und gesellschaftliche Verwerfungen
+## Kapitel 10: Der menschliche Preis — Arbeit, Sinn und gesellschaftliche Verwerfungen
 
 „Wer einen Sinn zu leben hat, erträgt fast jedes Wie."
 
@@ -2584,7 +2584,7 @@ Unendliche Langeweile
 
 Und dann die Frage, die niemand stellt: Was tun Menschen mit unendlich viel Zeit?
 
-In Kapitel 9 haben wir beschrieben, wie die Maschinenökonomie zu einer Sinnkrise führt, weil Arbeit als identitätsstiftendes Element wegfällt. Jetzt multiplizieren Sie diese Krise mit der Unendlichkeit.
+In Kapitel 10 haben wir beschrieben, wie die Maschinenökonomie zu einer Sinnkrise führt, weil Arbeit als identitätsstiftendes Element wegfällt. Jetzt multiplizieren Sie diese Krise mit der Unendlichkeit.
 
 Ein 80-jähriges Leben ist kurz genug, dass die meisten Menschen nie wirklich mit existenzieller Langeweile konfrontiert werden. Es gibt immer noch etwas zu tun: Karriere, Familie, Hobbys, die Bucket List. Aber ein 500-jähriges Leben? Ein 1.000-jähriges? Was tut man, wenn man alles gelesen, alles gereist, jeden Sport gemeistert, jedes Instrument gelernt hat?
 
@@ -2751,7 +2751,7 @@ Buffett investiert in Burggraben-Unternehmen: Firmen mit dauerhaften Wettbewerbs
 
 In der Maschinenökonomie gibt es neue Burggraben.
 
-NVIDIA hat den Compute-Burggraben: Die in Kapitel 7 beschriebene Marktdominanz bei KI-Chips, verstärkt durch das CUDA-Software-Ökosystem, das so tief eingebettet ist, dass ein Wechsel Jahre dauert. Ein Buffett-Burggraben in Reinform.
+NVIDIA hat den Compute-Burggraben: Die in Kapitel 8 beschriebene Marktdominanz bei KI-Chips, verstärkt durch das CUDA-Software-Ökosystem, das so tief eingebettet ist, dass ein Wechsel Jahre dauert. Ein Buffett-Burggraben in Reinform.
 
 Ethereum hat den Netzwerk-Burggraben: Die meisten Smart Contracts, die meiste DeFi-Aktivität, die meisten Entwickler. Netzwerkeffekte, die mit jedem neuen Teilnehmer stärker werden. 65 Prozent aller tokenisierten Real-World Assets laufen auf Ethereum.
 
@@ -2797,7 +2797,7 @@ Wolfram ist das Extrembeispiel. China kontrolliert über 80 Prozent der weltweit
 
 Titan erzählt die gleiche Geschichte. VSMPO-Avisma in Russland und eine Handvoll chinesischer Produzenten dominieren den Markt. Boeing hatte 2022 bereits eine Titanknappheit, die die 737-MAX-Produktion störte. Die Aerospace-Industrie konkurriert jetzt mit der Verteidigungsindustrie und den Rechenzentren um dasselbe Material. Die Lieferketten-Experten sind sich einig: Es gibt keine Lösung für 2026. Die Diversifizierung nach Japan, Kasachstan oder Saudi-Arabien ist eine langfristige Option, keine kurzfristige Antwort.
 
-Und dann die Nuklear-Lieferkette, die wir in Kapitel 8 angerissen haben. Zwischen dem Uranerz und dem Brennstab liegt ein Flaschenhals, den fast niemand kennt: die Konversion. Uranerz muss erst in Uranhexafluorid umgewandelt werden, bevor es angereichert werden kann. Weltweit gibt es dafür vier relevante Anlagen: Cameco in Kanada, Orano in Frankreich, Rosatom in Russland und eine einzige in den USA, das Metropolis-Werk in Illinois, Baujahr 1958. Dieses Werk wurde 2017 stillgelegt, weil sich der Betrieb nicht lohnte. 2023 ging es wieder ans Netz, mitten in den stärksten Konversionsmarkt der Geschichte. Die Altverträge, die noch zu 20 Dollar pro Kilogramm Uran laufen, werden in den nächsten Jahren durch Neuverträge zu über 60 Dollar ersetzt. Die Kosten bleiben gleich, die Marge verdreifacht sich mechanisch. Das ist keine Spekulation. Das sind Verträge, die auslaufen und durch bessere ersetzt werden.
+Und dann die Nuklear-Lieferkette, die wir in Kapitel 9 angerissen haben. Zwischen dem Uranerz und dem Brennstab liegt ein Flaschenhals, den fast niemand kennt: die Konversion. Uranerz muss erst in Uranhexafluorid umgewandelt werden, bevor es angereichert werden kann. Weltweit gibt es dafür vier relevante Anlagen: Cameco in Kanada, Orano in Frankreich, Rosatom in Russland und eine einzige in den USA, das Metropolis-Werk in Illinois, Baujahr 1958. Dieses Werk wurde 2017 stillgelegt, weil sich der Betrieb nicht lohnte. 2023 ging es wieder ans Netz, mitten in den stärksten Konversionsmarkt der Geschichte. Die Altverträge, die noch zu 20 Dollar pro Kilogramm Uran laufen, werden in den nächsten Jahren durch Neuverträge zu über 60 Dollar ersetzt. Die Kosten bleiben gleich, die Marge verdreifacht sich mechanisch. Das ist keine Spekulation. Das sind Verträge, die auslaufen und durch bessere ersetzt werden.
 
 Beryllium ist das Material, von dem Sie wahrscheinlich noch nie gehört haben. Es wird in Halbleitern, in Satelliten und in Kernwaffen verwendet. In den USA wird es von genau einem Unternehmen produziert: Materion, mit Sitz in Ohio. Hallgarten, ein unabhängiges Research-Haus, nennt es ein Monopol und warnt: "Das ist keine gesunde Situation." Materion hatte 2025 einen Umsatz von 1,79 Milliarden Dollar und investiert gerade in neue Kapazitäten für Verteidigung und Halbleiter. Wenn die Nachfrage steigt und es nur einen Anbieter gibt, bestimmt dieser Anbieter den Preis.
 
@@ -3167,7 +3167,7 @@ Weil es um mehr geht als Rendite.
 
 Es geht um die Frage, wer du in zehn Jahren sein wirst. Ein Besitzer oder ein Bittsteller. Jemand, der von seiner Arbeit lebt, in einer Welt, in der Maschinen die Arbeit übernehmen. Oder jemand, der von seinen Assets lebt, in einer Welt, in der Assets die Arbeit der Maschinen einfangen.
 
-Die Kausalkette aus Kapitel 9 bleibt unerbittlich. Die Barbell-Strategie ist meine Antwort darauf: Der sichere Kern schützt, was du hast. Die asymmetrischen Wetten verschaffen dir Anteil an dem, was kommt.
+Die Kausalkette aus Kapitel 10 bleibt unerbittlich. Die Barbell-Strategie ist meine Antwort darauf: Der sichere Kern schützt, was du hast. Die asymmetrischen Wetten verschaffen dir Anteil an dem, was kommt.
 
 Das ist keine Geldanlage. Das ist Selbstverteidigung.
 
@@ -3376,13 +3376,13 @@ Ich nehme das existenzielle Risiko ernst, aber ich sehe die größere Gefahr woa
 
 Die größte Gefahr der Maschinenökonomie ist nicht der Kontrollverlust über KI. Es ist der Verlust des Antriebs bei den Menschen.
 
-Die Kausalkette aus Kapitel 9 endet nicht nur bei Armut. Sie endet bei Resignation — dem Weg in die „useless class“, von der Harari spricht.
+Die Kausalkette aus Kapitel 10 endet nicht nur bei Armut. Sie endet bei Resignation — dem Weg in die „useless class“, von der Harari spricht.
 
 Ich weigere mich, diesen Weg zu akzeptieren. Nicht für mich. Nicht für meine Familie. Nicht für jeden, der dieses Buch liest.
 
 Das klingt dramatisch, aber die Daten sind eindeutig. Die Geburtenraten fallen weltweit. Japan und Südkorea schrumpfen bereits. In Europa erreichen immer mehr Länder Fertilitätsraten, die für den Erhalt der Bevölkerung zu niedrig sind. Und KI wird diesen Trend nicht umkehren — sie wird ihn beschleunigen.
 
-Wenn Arbeit nicht mehr identitätsstiftend ist (Kapitel 9 hat das ausführlich behandelt) verlieren Menschen ihren Antrieb. Ein großer Teil der Menschheit ist es gewohnt, Befehlsempfänger zu sein. Aufgaben zu bekommen, sie abzuarbeiten, dafür bezahlt zu werden. Diese Menschen werden in einer Welt, in der KI-Agenten die Aufgaben besser und schneller erledigen, keinen Platz mehr finden. Nicht weil die Technologie sie ausschließt, sondern weil sie nie gelernt haben, proaktiv zu denken, selbst zu gestalten, ihrem Leben aktiv Richtung zu geben.
+Wenn Arbeit nicht mehr identitätsstiftend ist (Kapitel 10 hat das ausführlich behandelt) verlieren Menschen ihren Antrieb. Ein großer Teil der Menschheit ist es gewohnt, Befehlsempfänger zu sein. Aufgaben zu bekommen, sie abzuarbeiten, dafür bezahlt zu werden. Diese Menschen werden in einer Welt, in der KI-Agenten die Aufgaben besser und schneller erledigen, keinen Platz mehr finden. Nicht weil die Technologie sie ausschließt, sondern weil sie nie gelernt haben, proaktiv zu denken, selbst zu gestalten, ihrem Leben aktiv Richtung zu geben.
 
 Ich glaube, dass die Fähigkeit zur Selbststeuerung, die Fähigkeit, ohne äußere Anweisung Sinn zu finden und produktiv zu sein, in Zukunft die wichtigste Kompetenz überhaupt sein wird. Nicht Programmieren, nicht Prompt Engineering, nicht Datenanalyse, sondern die grundlegende menschliche Fähigkeit, sich selbst zu motivieren, wenn es niemand von Ihnen verlangt.
 
@@ -3390,7 +3390,7 @@ Beeinflusst das meine Investmententscheidungen? Ja, indirekt. Ich investiere in 
 
 Regulierung: Immer nur eine Bremse
 
-Wie in den Kapiteln 7 und 9 ausführlich dargelegt, reguliert sich Europa mit dem AI Act und MiCA ins Abseits, während die USA und China auf Förderung statt Einschränkung setzen.
+Wie in den Kapiteln 8 und 9 ausführlich dargelegt, reguliert sich Europa mit dem AI Act und MiCA ins Abseits, während die USA und China auf Förderung statt Einschränkung setzen.
 
 Meine Position als Unternehmer: Regulierung wird immer nur eine Bremse sein. Es wird weltweit genug Regierungen geben, die KI fördern statt einschränken — China, Indien, die Emirate, Saudi-Arabien. Und die USA werden die unter der Trump-Administration geschaffenen Fakten (Spot-Bitcoin-ETFs, KI-Förderung, Big-Tech-Pentagon-Partnerschaften) nicht zurückdrehen. Nicht wenn China ohne jede Bremse beschleunigt.
 
@@ -3840,7 +3840,7 @@ Breite Marktabdeckung: Wer weniger Tech-Konzentration möchte, wählt den iShare
 
 Robotik und Automation: Der iShares Automation & Robotics UCITS ETF (ISIN: IE00BYZK4552) investiert gezielt in Unternehmen, die von der Automatisierung profitieren, darunter NVIDIA, Intuitive Surgical, Keyence und ABB.
 
-Energie und Uran: Der Global X Uranium ETF (ISIN: IE000NDWFGA5) investiert in Uranproduzenten und Versorger. Für die Nuklear-These aus Kapitel 8 eine gezielte Wette.
+Energie und Uran: Der Global X Uranium ETF (ISIN: IE000NDWFGA5) investiert in Uranproduzenten und Versorger. Für die Nuklear-These aus Kapitel 9 eine gezielte Wette.
 
 Die asymmetrische Seite: Krypto-Zugang
 
@@ -4395,7 +4395,7 @@ Kapitel 4 (Fortsetzung): Stablecoins, Dollar-Dominanz und Schulden
 106. „Canton Network Report von 2026 dokumentiert Preisunterschiede von 1 bis 3 Prozent für identische tokenisierte Assets auf verschiedenen Blockchains" — Canton Network, „State of RWA Tokenization 2026", Dezember 2025.
 
 
-### Kapitel 6: Wenn Maschinen Unternehmen gründen
+### Kapitel 7: Wenn Maschinen Unternehmen gründen
 
 107. „Vitalik Buterin, der Mitgründer von Ethereum, hat das Konzept 2013 entwickelt." — Vitalik Buterin, Ethereum Whitepaper, 2013.
 
@@ -4414,7 +4414,7 @@ Kapitel 4 (Fortsetzung): Stablecoins, Dollar-Dominanz und Schulden
 114. „Wyoming hat 2021 als erster US-Bundesstaat Gesetze verabschiedet, die es erlauben, DAOs als LLCs zu registrieren." — Wyoming Legislature, DAO LLC Act, 2021.
 
 
-### Kapitel 7: Die geopolitische Dimension
+### Kapitel 8: Die geopolitische Dimension
 
 115. „NVIDIAs Umsatz ist von 27 Milliarden Dollar im Geschäftsjahr 2023 auf über 130 Milliarden im Geschäftsjahr 2025 explodiert" — NVIDIA Corp., Annual Reports, FY2023 und FY2025.
 
@@ -4443,7 +4443,7 @@ Kapitel 4 (Fortsetzung): Stablecoins, Dollar-Dominanz und Schulden
 127. „Elon Musk hat sich für Samsung entschieden, mit einem 16,5-Milliarden-Dollar-Vertrag" — Bloomberg / Reuters, 2025.
 
 
-### Kapitel 8: Energie — Der unsichtbare Engpass
+### Kapitel 9: Energie — Der unsichtbare Engpass
 
 128. „Das Training von GPT-4 hat schätzungsweise 50 Gigawattstunden verbraucht." — MIT Technology Review / Epoch AI, 2024/2025.
 
@@ -4488,7 +4488,7 @@ Kapitel 4 (Fortsetzung): Stablecoins, Dollar-Dominanz und Schulden
 148. „In The Dalles, Oregon [...] bezahlte Google 100.000 Dollar, um die Klage der Stadt gegen die Zeitung zu finanzieren." — The Oregonian, investigative Recherche, 2023/2024.
 
 
-### Kapitel 9: Der menschliche Preis
+### Kapitel 10: Der menschliche Preis
 
 149. „Marx hat das 1848 so formuliert: ‚Die moderne bürgerliche Gesellschaft [...]'" — Karl Marx und Friedrich Engels, Das Kommunistische Manifest, 1848.
 
@@ -4795,31 +4795,31 @@ Kapitel 4  |  Eigene Darstellung, basierend auf öffentlichen Unternehmensankün
 
 Abbildung 11: Anatomie einer Maschinen-Firma (DAO)
 
-Kapitel 6  |  Eigene Darstellung
+Kapitel 7  |  Eigene Darstellung
 
 Abbildung 12: Die KI-Weltkarte — USA dominiert, China rivalisiert, Europa reguliert
 
-Kapitel 7  |  Eigene Darstellung
+Kapitel 8  |  Eigene Darstellung
 
 Abbildung 13: Der Chip-Krieg — TSMCs Nadelöhr in der globalen KI-Lieferkette
 
-Kapitel 7  |  Eigene Darstellung
+Kapitel 8  |  Eigene Darstellung
 
 Abbildung 14: Tech-Giganten werden Energiekonzerne
 
-Kapitel 8  |  Eigene Darstellung, basierend auf öffentlichen Unternehmensankündigungen
+Kapitel 9  |  Eigene Darstellung, basierend auf öffentlichen Unternehmensankündigungen
 
 Abbildung 15: Energiehunger der KI — Rechenzentren fressen immer mehr Strom
 
-Kapitel 8  |  Eigene Darstellung, basierend auf IEA World Energy Outlook 2025 und Goldman Sachs Research
+Kapitel 9  |  Eigene Darstellung, basierend auf IEA World Energy Outlook 2025 und Goldman Sachs Research
 
 Abbildung 16: Welche Jobs verschwinden, welche entstehen
 
-Kapitel 9  |  Eigene Darstellung, basierend auf WEF Future of Jobs Report 2025
+Kapitel 10  |  Eigene Darstellung, basierend auf WEF Future of Jobs Report 2025
 
 Abbildung 17: Die Geschichte der Arbeit — vier Epochen und der aktuelle Umbruch
 
-Kapitel 9  |  Eigene Darstellung
+Kapitel 10  |  Eigene Darstellung
 
 Abbildung 18: Regulierungs-Geschwindigkeiten — USA, China und Europa im Vergleich
 
