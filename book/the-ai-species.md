@@ -156,7 +156,7 @@ Es gibt Momente, in denen sich die ökonomische Ordnung verschiebt - nicht sanft
 Die Dampfmaschine war so ein Moment. Als James Watt 1769 seinen verbesserten Motor patentierte, war die unmittelbare Anwendung klar: Wasser aus Kohleminen pumpen. Was niemand vorhersah, war die Kaskade, die folgte. Die Dampfmaschine ermöglichte Fabriken, Fabriken ermöglichten Massenproduktion, die wiederum Eisenbahnen für den Transport erforderte. Die Eisenbahnen schufen nationale Märkte, und nationale Märkte erforderten Banken und Versicherungen. Innerhalb von zwei Generationen hatte eine einzige Erfindung die gesamte ökonomische und soziale Ordnung Europas umgeschrieben.
 
 
-![Abbildung 2: 250 Jahre technologische Umbrüche - von der Dampfmaschine zur Maschinenökonomie](images/abb-02.png)
+![250 Jahre technologische Umbrüche - von der Dampfmaschine zur Maschinenökonomie](images/abb-02.png)
 
 
 Die Elektrifizierung war der nächste Bruch. In den 1880er Jahren beleuchtete Thomas Edison die Pearl Street Station in Manhattan, den ersten kommerziellen Stromgenerator der Welt. Dreißig Jahre später war die gesamte industrielle Welt elektrisch. Aber die wahre Revolution war nicht das Licht. Es war die Möglichkeit, Energie zu verteilen. Plötzlich mussten Fabriken nicht mehr an Flüssen stehen, um Wasserkraft zu nutzen. Maschinen konnten überall laufen. Das veränderte die Geografie der Produktion, die Struktur der Städte, den Rhythmus des menschlichen Tages. Die elektrische Glühbirne machte die Nacht zum Tag und die Nachtschicht zum Standard.
@@ -190,7 +190,7 @@ Beim Internet sehen wir dasselbe. In der Dotcom-Blase um 2000 verloren Investore
 **Drittens:** Das Geld fließt zur Infrastruktur, nicht zur Anwendung. Vanderbilt, nicht Eisenbahnaktionäre. Insull, nicht Edison. Amazon und Google, nicht Pets.com. In unserer These: NVIDIA, nicht das hundertste KI-Startup. Ethereum, nicht der hundertste Token. Das ist der Grund, warum die Barbell-Strategie in Teil IV die Infrastrukturschicht betont.
 
 
-![Abbildung 3: Infrastruktur schlägt Anwendung: das wiederkehrende Muster](images/abb-03.png)
+![Infrastruktur schlägt Anwendung: das wiederkehrende Muster](images/abb-03.png)
 
 
 > Wir stehen jetzt an einem solchen Punkt. Und diesmal ist die Transformation radikaler als alles, was wir kennen.
@@ -293,7 +293,7 @@ Dieses Buch ist für Menschen geschrieben, die spüren, dass sich etwas verände
 Um zu verstehen, wohin die Reise geht, muss man verstehen, wo wir stehen. Die Evolution der künstlichen Intelligenz lässt sich in vier Phasen beschreiben. Jede vergrößert den adressierbaren Markt um eine Größenordnung. Jede verändert die Rolle des Menschen in der Wirtschaft. Und jede baut auf der vorherigen auf, nicht linear, sondern exponentiell.
 
 
-![Abbildung 4: Die vier Phasen der KI - vom Werkzeug zur autonomen Maschine](images/abb-04.png)
+![Die vier Phasen der KI - vom Werkzeug zur autonomen Maschine](images/abb-04.png)
 
 
 Wir befinden uns gerade am Übergang von Phase zwei zu Phase drei. Das ist der Moment, in dem die meisten Menschen die Bedeutung dessen, was passiert, noch unterschätzen. In fünf Jahren werden sie es nicht mehr tun.
@@ -366,7 +366,7 @@ Apple geht einen komplett anderen Weg. Statt Hunderte Milliarden in KI-Training 
 Microsoft hat 13,75 Milliarden in OpenAI investiert und 27 Prozent des Unternehmens erhalten. Gleichzeitig integriert Satya Nadella KI in alles: Windows, Office, GitHub, Azure. GitHub Copilot, der KI-Programmierassistent, der mittlerweile fast die Hälfte des neuen Codes auf der Plattform generiert, das haben wir schon besprochen. Aber Microsoft hedgt auch: In Azure laufen mittlerweile Modelle von Anthropic, Meta, xAI und DeepSeek neben OpenAI. Nadella will nicht von einem einzelnen Modell abhängig sein.
 
 
-![Abbildung 5: Das KI-Ökosystem - Labore, Hyperscaler und ihre Verflechtungen](images/abb-05.png)
+![Das KI-Ökosystem - Labore, Hyperscaler und ihre Verflechtungen](images/abb-05.png)
 
 
 Amazon schließlich kontrolliert mit AWS die größte Cloud-Infrastruktur der Welt und hat 8 Milliarden in Anthropic investiert. Das Besondere: Amazon baut eigene KI-Chips, die Trainium-Serie, und Anthropic ist der größte Nutzer. Damit reduziert Amazon seine Abhängigkeit von NVIDIA, das bei Trainingschips über 80 Prozent Marktanteil hat.
@@ -409,7 +409,7 @@ Die konkreten Robotik-Player, von Tesla über Boston Dynamics bis zu chinesische
 ### DeepSeek und das Ende des Compute-Monopols
 
 
-![Abbildung 6: DeepSeek - Der Sputnik-Moment der KI (Trainingskosten im Vergleich)](images/abb-06.png)
+![DeepSeek - Der Sputnik-Moment der KI (Trainingskosten im Vergleich)](images/abb-06.png)
 
 
 Im Januar 2025 passierte etwas, das die gesamte KI-Branche erschütterte. Und es kam nicht aus San Francisco.
@@ -474,7 +474,7 @@ Das Muster ist klar: Mit jeder Phase wächst der adressierbare Markt um ungefäh
 - Ayn Rand
 
 
-![Abbildung 7: Warum Maschinen kein Bankkonto eröffnen können](images/abb-07.png)
+![Warum Maschinen kein Bankkonto eröffnen können](images/abb-07.png)
 
 
 Hier wird es interessant. Und hier liegt die These, die die meisten Investoren noch nicht verstanden haben.
@@ -554,7 +554,7 @@ USDC und USDT sind die prominentesten Beispiele. Ein USDC ist immer ungefähr ei
 Die Zahlen sind bereits beeindruckend. Stablecoins haben 2024 ein Transaktionsvolumen von über 27 Billionen Dollar abgewickelt und damit Visa übertroffen. 27 Billionen Dollar an realem Wert, bewegt über Blockchain-Netzwerke, grenzüberschreitend, ohne Korrespondenzbanken, ohne SWIFT-Nachrichten, ohne Verzögerungen.
 
 
-![Abbildung 8: Stablecoin-Volumen überholt Visa (2024: $27,6 Billionen)](images/abb-08.png)
+![Stablecoin-Volumen überholt Visa (2024: $27,6 Billionen)](images/abb-08.png)
 
 
 Das Wachstum wird nicht von Spekulanten getrieben. Es wird von Nutzen getrieben. Unternehmen in Lateinamerika, Afrika und Südostasien nutzen Stablecoins für internationale Überweisungen, weil das traditionelle Bankensystem zu langsam, zu teuer oder schlicht nicht vorhanden ist. Ein Freiberufler in Nigeria kann Stablecoins in Sekunden empfangen, während eine Banküberweisung Tage dauert und 5 bis 10 Prozent Gebühren kostet.
@@ -739,7 +739,7 @@ Und diese Praxis hat bereits begonnen. In der Welt der tokenisierten Vermögensw
 - Frei nach "In God We Trust"
 
 
-![Abbildung 9: Von der physischen zur tokenisierten Welt](images/abb-09.png)
+![Von der physischen zur tokenisierten Welt](images/abb-09.png)
 
 
 Die Demokratisierung der Vermögenswerte und ihre Grenzen Stellen Sie sich vor, Sie könnten ein Stück vom Burj Khalifa kaufen. Nicht eine Eigentumswohnung für Millionen, sondern ein Zehntausendstel des Gebäudes. Für hundert Euro. Mit Ihrem Smartphone. Um 3 Uhr nachts. Und morgen, wenn Sie das Geld für etwas anderes brauchen, verkaufen Sie Ihren Anteil wieder. In Sekunden.
@@ -783,7 +783,7 @@ Dass Krypto-Startups tokenisierte Assets verkaufen, ist eine Sache. Dass BlackRo
 BlackRock verwaltet über 10 Billionen Dollar. Wenn Larry Fink sagt, "Tokenisierung wird die nächste Generation der Märkte sein", dann ist das keine Marketing-Aussage eines Krypto-Enthusiasten. Es ist eine strategische Ankündigung des mächtigsten Mannes im globalen Finanzsystem.
 
 
-![Abbildung 10: Wer tokenisiert was? Die Wall-Street-Giganten steigen ein](images/abb-10.png)
+![Wer tokenisiert was? Die Wall-Street-Giganten steigen ein](images/abb-10.png)
 
 
 BUIDL, BlackRocks tokenisierter Geldmarktfonds, startete im März 2024 auf Ethereum. Innerhalb eines Jahres expandierte er auf sieben Blockchains. Und dann passierte im Februar 2026 etwas, das man vor fünf Jahren für unmöglich gehalten hätte: BUIDL wurde auf Uniswap gelistet. Uniswap, die größte dezentrale Börse der Welt. BlackRock, der Inbegriff von Wall Street, betritt DeFi.
@@ -1080,7 +1080,7 @@ Die Tokenisierung aller Vermögenswerte dieser Welt ist keine Frage des Ob. Sie 
 - Kevin Kelly
 
 
-![Abbildung 11: Anatomie einer Maschinen-Firma (DAO)](images/abb-11.png)
+![Anatomie einer Maschinen-Firma (DAO)](images/abb-11.png)
 
 
 ---
@@ -1251,7 +1251,7 @@ Im nächsten Teil des Buches verlassen wir die These und schauen uns an, was das
 - Frei nach Jensen Huang
 
 
-![Abbildung 12: Die KI-Weltkarte - USA dominiert, China rivalisiert, Europa reguliert](images/abb-12.png)
+![Die KI-Weltkarte - USA dominiert, China rivalisiert, Europa reguliert](images/abb-12.png)
 
 
 Investitionen finden nicht im Vakuum statt. Die KI-Revolution hat eine geopolitische Dimension, die man verstehen muss, um kluge Entscheidungen zu treffen. Und die geopolitische Realität ist unbequem, besonders für Europäer.
@@ -1330,7 +1330,7 @@ Die gesamte KI-Revolution hängt an einer erstaunlich fragilen Lieferkette. NVID
 TSMC produziert über 90 Prozent der weltweit fortschrittlichsten Halbleiter, die Chips unter 7 Nanometer, die für KI-Training und -Inferenz benötigt werden. Es gibt auf dem Planeten kein zweites Unternehmen, das Chips mit vergleichbarer Qualität und Stückzahl liefern kann. Samsung kommt am nächsten, liegt aber deutlich zurück. Intel versucht aufzuholen, hat aber den Anschluss an die Spitze verloren.
 
 
-![Abbildung 13: Der Chip-Krieg - TSMCs Nadelöhr in der globalen KI-Lieferkette](images/abb-13.png)
+![Der Chip-Krieg - TSMCs Nadelöhr in der globalen KI-Lieferkette](images/abb-13.png)
 
 
 Und dann gibt es ASML: das niederländische Unternehmen, das die Lithografie-Maschinen baut, ohne die TSMC seine Chips nicht produzieren kann. ASMLs EUV-Maschinen (Extreme Ultraviolet Lithography) kosten über 300 Millionen Dollar pro Stück und sind so komplex, dass es auf der Welt nur eine Handvoll Ingenieure gibt, die sie warten können. ASML hat ein de-facto-Monopol auf diese Technologie. Kein ASML, kein TSMC. Kein TSMC, kein NVIDIA. Kein NVIDIA, keine KI-Revolution.
@@ -1409,7 +1409,7 @@ Und das Training ist nur der Anfang. Die Inferenz, also der laufende Betrieb des
 Rechenzentren, die den Großteil dieser Rechenarbeit leisten, verbrauchen bereits heute geschätzt 4,4 Prozent des gesamten US-Stroms. Die Internationale Energieagentur (IEA) prognostiziert, dass sich der Energieverbrauch von Rechenzentren bis 2030 mehr als verdoppeln wird. Diese Prognose basiert auf aktuellen KI-Workloads, also primär Textgenerierung und Bildverarbeitung für Unternehmensanwendungen.
 
 
-![Abbildung 15: Energiehunger der KI - Rechenzentren fressen immer mehr Strom](images/abb-15.png)
+![Energiehunger der KI - Rechenzentren fressen immer mehr Strom](images/abb-15.png)
 
 
 Und jetzt skalieren Sie das: Was passiert, wenn KI-Agenten rund um die Uhr autonom arbeiten? Wenn Millionen von Robotern in Echtzeit gesteuert werden? Wenn (wie wir im BCI-Kapitel sehen werden) KI personalisierte, physik-simulierte 3D-Welten für Millionen von Nutzern gleichzeitig generiert. Die Energieanforderungen steigen nicht linear. Sie steigen exponentiell.
@@ -1451,7 +1451,7 @@ Genau deshalb wenden sich Google, Microsoft, Amazon und Meta jetzt der Kernenerg
 ### Warum die Tech-Giganten Atomkraftwerke kaufen
 
 
-![Abbildung 14: Tech-Giganten werden Energiekonzerne](images/abb-14.png)
+![Tech-Giganten werden Energiekonzerne](images/abb-14.png)
 
 
 Hier wird es für Investoren relevant. Denn die Tech-Unternehmen haben das Energieproblem nicht nur erkannt - sie haben begonnen, es selbst zu lösen. Und die Art, wie sie es lösen, sagt viel über die Zukunft der Energiemärkte aus.
@@ -1560,13 +1560,13 @@ Aber es gibt noch eine andere Hälfte, die nicht in Gigawatt und Kubikmetern gem
 - Viktor Frankl
 
 
-![Abbildung 16: Welche Jobs verschwinden, welche entstehen](images/abb-16.png)
+![Welche Jobs verschwinden, welche entstehen](images/abb-16.png)
 
 
 ### Von Stammesführern zu CEOs: Eine kurze Geschichte der Arbeit
 
 
-![Abbildung 17: Die Geschichte der Arbeit - vier Epochen und der aktuelle Umbruch](images/abb-17.png)
+![Die Geschichte der Arbeit - vier Epochen und der aktuelle Umbruch](images/abb-17.png)
 
 
 Bevor wir über die Zukunft der Arbeit sprechen, müssen wir verstehen, wie kurz die Geschichte der Arbeit ist, die wir kennen. Was wir heute für "normal" halten, den Achtstundentag, das Büro, den Lebenslauf, die Karriereleiter, ist ein Arrangement, das jünger ist als die meisten Bäume in einem deutschen Wald.
@@ -1807,7 +1807,7 @@ Die Frage, wie Gesellschaften mit dieser Transformation umgehen, führt unweiger
 "Regulierung ist der Versuch, mit den Werkzeugen von gestern die Probleme von morgen zu lösen."
 
 
-![Abbildung 18: Regulierungs-Geschwindigkeiten - USA, China und Europa im Vergleich](images/abb-18.png)
+![Regulierungs-Geschwindigkeiten - USA, China und Europa im Vergleich](images/abb-18.png)
 
 
 Keine Technologie existiert im luftleeren Raum. Jede Transformation, die mächtig genug ist, um die Wirtschaft umzuschreiben, ruft den Staat auf den Plan. Das war bei der Eisenbahn so, bei der Elektrizität, beim Telefon, beim Internet. Und es wird bei KI nicht anders sein.
@@ -1957,7 +1957,7 @@ Im nächsten Teil verlassen wir die Gegenwart und schauen in die Zukunft. Was is
 - Lord Kelvin, 1895
 
 
-![Abbildung 19: Szenario 2026-2035 - Die drei Phasen der Maschinenökonomie](images/abb-19.png)
+![Szenario 2026-2035 - Die drei Phasen der Maschinenökonomie](images/abb-19.png)
 
 
 Prognosen sind ein undankbares Geschäft. Die Geschichte ist voll von Experten, die spektakulär daneben lagen, von Lord Kelvins "Schwerer-als-Luft-Flugmaschinen sind unmöglich" bis zu Steve Ballmers "There's no chance that the iPhone is going to get any significant market share." Wer die Zukunft vorhersagt, wird fast immer falsch liegen, zumindest in den Details.
@@ -2078,7 +2078,7 @@ Die nächsten langfristigen Trends könnten allerdings alles übertreffen, was w
 - Arthur C. Clarke
 
 
-![Abbildung 20: Von der Tastatur zum Gedanken - Interface-Evolution](images/abb-20.png)
+![Von der Tastatur zum Gedanken - Interface-Evolution](images/abb-20.png)
 
 
 Jede technologische Revolution kam mit einer Revolution in der Art, wie Menschen mit Maschinen interagieren. Der Mainframe verlangte Lochkarten. Der Personal Computer brachte Tastatur und Maus. Das Smartphone führte den Touchscreen ein. Jeder Übergang erhöhte die Bandbreite, die Menge an Information, die ein Mensch pro Zeiteinheit in eine Maschine einspeisen konnte, und reduzierte die Reibung. Je natürlicher das Interface, desto schneller die Adoption.
@@ -2307,7 +2307,7 @@ Es gibt allerdings eine Konvergenz, die noch radikaler ist als alles bisher Besp
 - Aubrey de Grey
 
 
-![Abbildung 21: Das Smart Money wettet auf Unsterblichkeit](images/abb-21.png)
+![Das Smart Money wettet auf Unsterblichkeit](images/abb-21.png)
 
 
 Die radikalste Konvergenz steht noch aus., die Gedanken in Welten verwandeln.
@@ -2462,7 +2462,7 @@ Die Frage ist: Kann ich es mir leisten, zu sterben, bevor die Rendite eintritt?
 - Warren Buffett
 
 
-![Abbildung 22: Die Barbell-Strategie - Kern (60-70%) vs. asymmetrische Wetten (30-40%)](images/abb-22.png)
+![Die Barbell-Strategie - Kern (60-70%) vs. asymmetrische Wetten (30-40%)](images/abb-22.png)
 
 
 Es gibt einen Moment, den jeder kennt, der sich ernsthaft mit Investieren beschäftigt hat. Den Moment, in dem man alles verstanden zu haben glaubt und trotzdem nicht weiß, was man morgen früh kaufen soll.
@@ -2615,7 +2615,7 @@ Das ist der Teil der Maschinenökonomie, über den niemand twittert. Aber es ist
 Auf Basis dieser Prinzipien habe ich drei Modellportfolios entworfen. Sie sind keine Anlageberatung. Ich sage das nicht als rechtlicher Disclaimer, sondern weil ich es ernst meine. Was für mich funktioniert, muss nicht für Sie funktionieren. Ihre Risikotoleranz, Ihr Zeithorizont, Ihre Lebenssituation, das alles spielt eine Rolle, die kein Buch für Sie beantworten kann.
 
 
-![Abbildung 23: Drei Portfolio-Varianten - konservativ, ausgewogen, aggressiv](images/abb-23.png)
+![Drei Portfolio-Varianten - konservativ, ausgewogen, aggressiv](images/abb-23.png)
 
 
 Was ich Ihnen geben kann, ist ein Denkrahmen.
@@ -3109,7 +3109,7 @@ Erledigt: Was Sie jetzt tun können
 - Niels Bohr (zugeschrieben)
 
 
-![Abbildung 24: Risiko-Matrix - Wahrscheinlichkeit vs. Impact](images/abb-24.png)
+![Risiko-Matrix - Wahrscheinlichkeit vs. Impact](images/abb-24.png)
 
 
 Jede Investmentthese, die keine Gegenargumente nennt, ist keine These. Sie ist Propaganda. Also nehmen wir die Risiken ernst. Nicht als rhetorische Pflichtübung, sondern weil das Ignorieren von Risiken der schnellste Weg ist, Geld zu verlieren.
