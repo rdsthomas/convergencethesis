@@ -58,9 +58,15 @@ $endif$
 
 % --- Fonts ---
 \usepackage{fontspec}
-\setmainfont{DejaVu Serif}
-\setsansfont{DejaVu Sans}
-\setmonofont{DejaVu Sans Mono}
+\setmainfont{EB Garamond}[
+    Path=/usr/share/fonts/truetype/ebgaramond/,
+    Extension=.ttf,
+    UprightFont=EBGaramond12-Regular,
+    BoldFont=EBGaramond12-Bold,
+    ItalicFont=EBGaramond12-Italic
+]
+\setsansfont[Scale=0.9]{Open Sans}
+\setmonofont[Scale=0.8]{DejaVu Sans Mono}
 
 % --- Line spacing ---
 \setstretch{1.15}
@@ -75,14 +81,14 @@ $endif$
 % H3 = \subsection (Abschnitte)
 
 \titleformat{\chapter}[display]
-    {\normalfont\Large\scshape\color{chapterblue}\centering}
+    {\sffamily\Large\scshape\color{chapterblue}\centering}
     {}
     {0pt}
     {}
 \titlespacing*{\chapter}{0pt}{40pt}{30pt}
 
 \titleformat{\section}[display]
-    {\normalfont\huge\bfseries\color{chapterblue}}
+    {\sffamily\huge\bfseries\color{chapterblue}}
     {}
     {0pt}
     {}
@@ -92,7 +98,7 @@ $endif$
 \newcommand{\sectionbreak}{\clearpage}
 
 \titleformat{\subsection}
-    {\normalfont\large\bfseries\color{sectionblue}}
+    {\sffamily\large\bfseries\color{sectionblue}}
     {}
     {0em}
     {}
