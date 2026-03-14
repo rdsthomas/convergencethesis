@@ -19,6 +19,7 @@ $endif$
 \usepackage[breakable,skins]{tcolorbox}
 \usepackage{fancyhdr}
 \usepackage{titlesec}
+\usepackage{titletoc}
 \usepackage{setspace}
 \usepackage{microtype}
 \usepackage{hyperref}
@@ -199,6 +200,26 @@ $if(toc)$
 {
 \hypersetup{linkcolor=black}
 \setcounter{tocdepth}{2}
+
+% --- TOC Styling: hierarchical sizes ---
+% \chapter = TEIL (large, bold, no dots)
+\titlecontents{chapter}[0em]
+    {\addvspace{1.5em}\large\bfseries\color{chapterblue}}
+    {}{}
+    {\hfill\contentspage}
+
+% \section = Kapitel (medium, bold)
+\titlecontents{section}[0em]
+    {\addvspace{0.8em}\normalsize\bfseries}
+    {}{}
+    {\titlerule*[0.5em]{.}\contentspage}
+
+% \subsection = Abschnitte (small, normal weight, indented)
+\titlecontents{subsection}[1.5em]
+    {\addvspace{0.1em}\small}
+    {}{}
+    {\titlerule*[0.5em]{.}\contentspage}
+
 \tableofcontents
 }
 \newpage
