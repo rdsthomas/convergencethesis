@@ -147,7 +147,7 @@ TEIL I: DIE THESE
 ---
 
 
-Die tektonischen Verschiebungen der Geschichte
+### Die tektonischen Verschiebungen der Geschichte
 
 Es gibt Momente, in denen sich die ökonomische Ordnung verschiebt - nicht sanft, sondern abrupt.
 
@@ -155,6 +155,8 @@ Die Dampfmaschine war so ein Moment. Als James Watt 1769 seinen verbesserten Mot
 
 
 ![Abbildung 2: 250 Jahre technologische Umbrüche - von der Dampfmaschine zur Maschinenökonomie](images/abb-02.png)
+
+*Abbildung 2: 250 Jahre technologische Umbrüche - von der Dampfmaschine zur Maschinenökonomie*
 
 
 Die Elektrifizierung war der nächste Bruch. In den 1880er Jahren beleuchtete Thomas Edison die Pearl Street Station in Manhattan, den ersten kommerziellen Stromgenerator der Welt. Dreißig Jahre später war die gesamte industrielle Welt elektrisch. Aber die wahre Revolution war nicht das Licht. Es war die Möglichkeit, Energie zu verteilen. Plötzlich mussten Fabriken nicht mehr an Flüssen stehen, um Wasserkraft zu nutzen. Maschinen konnten überall laufen. Das veränderte die Geografie der Produktion, die Struktur der Städte, den Rhythmus des menschlichen Tages. Die elektrische Glühbirne machte die Nacht zum Tag und die Nachtschicht zum Standard.
@@ -187,6 +189,8 @@ Drittens: Das Geld fließt zur Infrastruktur, nicht zur Anwendung. Vanderbilt, n
 
 
 ![Abbildung 3: Infrastruktur schlägt Anwendung: das wiederkehrende Muster](images/abb-03.png)
+
+*Abbildung 3: Infrastruktur schlägt Anwendung: das wiederkehrende Muster*
 
 
 Wir stehen jetzt an einem solchen Punkt. Und diesmal ist die Transformation radikaler als alles, was wir kennen.
@@ -225,7 +229,7 @@ Wir stehen jetzt an einem solchen Punkt. Und diesmal ist die Transformation radi
 ---
 
 
-Eine These, die nie fertig wird
+### Eine These, die nie fertig wird
 
 Ich werde oft gefragt, wann mir klar wurde, dass KI, Krypto und Robotik zusammengehören. Die Leute erwarten eine Geschichte mit einem Aha-Moment. Einem Abend, an dem alles klick gemacht hat.
 
@@ -251,7 +255,7 @@ Es gibt allerdings einen Grund, warum viele Menschen diese Konvergenz nicht sehe
 
 ---
 
-Wie Sie dieses Buch lesen sollten
+### Wie Sie dieses Buch lesen sollten
 
 Lassen Sie mich transparent sein: Dieses Buch ist kein neutraler Überblick über den Stand der Technik. Es ist eine Streitschrift, eine argumentierte, meinungsstarke Analyse mit einer klaren These und konkreten Investmentimplikationen. Ich habe Überzeugungen, und ich lege sie offen. Sie können sie annehmen, hinterfragen oder verwerfen. Und vor allem: mit mir und anderen diskutieren. Auf TheAiSpecies.world gibt es ein Forum, in dem genau das stattfinden kann. Aber ich halte es für ehrlicher, meine Perspektive offenzulegen, als mich hinter vermeintlicher Neutralität zu verstecken.
 
@@ -280,6 +284,8 @@ Um zu verstehen, wohin die Reise geht, muss man verstehen, wo wir stehen. Die Ev
 
 ![Abbildung 4: Die vier Phasen der KI - vom Werkzeug zur autonomen Maschine](images/abb-04.png)
 
+*Abbildung 4: Die vier Phasen der KI - vom Werkzeug zur autonomen Maschine*
+
 
 Wir befinden uns gerade am Übergang von Phase zwei zu Phase drei. Das ist der Moment, in dem die meisten Menschen die Bedeutung dessen, was passiert, noch unterschätzen. In fünf Jahren werden sie es nicht mehr tun.
 
@@ -296,7 +302,7 @@ Wir befinden uns gerade am Übergang von Phase zwei zu Phase drei. Das ist der M
 ---
 
 
-Phase 2: KI als Mitarbeiter (2024-2025)
+### Phase 2: KI als Mitarbeiter (2024-2025)
 
 Hier befinden wir uns jetzt, und der Unterschied zu Phase 1 ist nicht graduell - er ist qualitativ.
 
@@ -330,7 +336,7 @@ Phase 2 ist die Phase, in der KI aufhört, beeindruckend zu sein, und anfängt, 
 ---
 
 
-Die Landschaft der KI-Labore
+### Die Landschaft der KI-Labore
 
 An dieser Stelle lohnt sich ein Überblick darüber, wer die Maschinen baut, die gerade lernen zu denken. Denn die Antwort auf diese Frage bestimmt, wohin die Reise geht und wo das Geld hinfließt.
 
@@ -352,6 +358,8 @@ Microsoft hat 13,75 Milliarden in OpenAI investiert und 27 Prozent des Unternehm
 
 
 ![Abbildung 5: Das KI-Ökosystem - Labore, Hyperscaler und ihre Verflechtungen](images/abb-05.png)
+
+*Abbildung 5: Das KI-Ökosystem - Labore, Hyperscaler und ihre Verflechtungen*
 
 
 Amazon schließlich kontrolliert mit AWS die größte Cloud-Infrastruktur der Welt und hat 8 Milliarden in Anthropic investiert. Das Besondere: Amazon baut eigene KI-Chips, die Trainium-Serie, und Anthropic ist der größte Nutzer. Damit reduziert Amazon seine Abhängigkeit von NVIDIA, das bei Trainingschips über 80 Prozent Marktanteil hat.
@@ -390,10 +398,12 @@ Die konkreten Robotik-Player, von Tesla über Boston Dynamics bis zu chinesische
 ---
 
 
-DeepSeek und das Ende des Compute-Monopols
+### DeepSeek und das Ende des Compute-Monopols
 
 
 ![Abbildung 6: DeepSeek - Der Sputnik-Moment der KI (Trainingskosten im Vergleich)](images/abb-06.png)
+
+*Abbildung 6: DeepSeek - Der Sputnik-Moment der KI (Trainingskosten im Vergleich)*
 
 
 Im Januar 2025 passierte etwas, das die gesamte KI-Branche erschütterte. Und es kam nicht aus San Francisco.
@@ -428,7 +438,7 @@ Der DeepSeek-Moment war für die KI-Branche das, was der Sputnik-Schock 1957 fü
 ---
 
 
-Jede Phase vergrößert den Markt um eine Größenordnung
+### Jede Phase vergrößert den Markt um eine Größenordnung
 
 Die Dimensionen, quantifiziert, weil sie für die Investmentthese zentral sind:
 
@@ -458,6 +468,8 @@ Das Muster ist klar: Mit jeder Phase wächst der adressierbare Markt um ungefäh
 
 
 ![Abbildung 7: Warum Maschinen kein Bankkonto eröffnen können](images/abb-07.png)
+
+*Abbildung 7: Warum Maschinen kein Bankkonto eröffnen können*
 
 
 Hier wird es interessant. Und hier liegt die These, die die meisten Investoren noch nicht verstanden haben.
@@ -492,7 +504,7 @@ Genau das ist das Problem, das dieses Kapitel beschreibt.
 ---
 
 
-Krypto als nativer Zahlungskanal für Maschinen
+### Krypto als nativer Zahlungskanal für Maschinen
 
 Kryptowährungen lösen dieses Problem. Nicht als ideologisches Statement gegen das Bankensystem, sondern als technische Notwendigkeit.
 
@@ -508,7 +520,7 @@ Das ist nicht Anarchie. Es ist Effizienz. Und in einer Welt, in der Milliarden v
 
 ---
 
-Smart Contracts: Verträge, die Maschinen verstehen
+### Smart Contracts: Verträge, die Maschinen verstehen
 
 Zahlungen allein reichen nicht. Wirtschaftliche Aktivität erfordert Vereinbarungen: Bedingungen, Leistungsbeschreibungen, Zahlungsfristen, Haftungsregelungen. Im menschlichen System nennen wir das Verträge. Sie sind in natürlicher Sprache geschrieben, oft Dutzende von Seiten lang, juristisch komplex und erfordern menschliche Interpretation.
 
@@ -531,6 +543,8 @@ Die Zahlen sind bereits beeindruckend. Stablecoins haben 2024 ein Transaktionsvo
 
 ![Abbildung 8: Stablecoin-Volumen überholt Visa (2024: $27,6 Billionen)](images/abb-08.png)
 
+*Abbildung 8: Stablecoin-Volumen überholt Visa (2024: $27,6 Billionen)*
+
 
 Das Wachstum wird nicht von Spekulanten getrieben. Es wird von Nutzen getrieben. Unternehmen in Lateinamerika, Afrika und Südostasien nutzen Stablecoins für internationale Überweisungen, weil das traditionelle Bankensystem zu langsam, zu teuer oder schlicht nicht vorhanden ist. Ein Freiberufler in Nigeria kann Stablecoins in Sekunden empfangen, während eine Banküberweisung Tage dauert und 5 bis 10 Prozent Gebühren kostet.
 
@@ -551,7 +565,7 @@ Circle, der Herausgeber von USDC, verfolgt ein ähnliches Modell und plant einen
 ---
 
 
-Machine-to-Machine Economy: Was heute schon passiert
+### Machine-to-Machine Economy: Was heute schon passiert
 
 Machine-to-Machine-Payments sind keine Zukunftsmusik. Bereits heute gibt es funktionierende Projekte, in denen KI-Agenten auf Blockchains operieren.
 
@@ -594,7 +608,7 @@ Innerhalb von fünf Jahren, schätzt Raoul Pal, werden Agenten mehr zur Wirtscha
 ---
 
 
-Das Auto, das sein eigenes Leben finanziert
+### Das Auto, das sein eigenes Leben finanziert
 
 Am 3. Oktober 2025 stellte das Unternehmen Robo.ai auf der TOKEN2049 in Dubai etwas vor, das wie ein Witz klingt: eine Wallet für ein Auto. Keine App, die man auf dem Handy installiert, sondern eine digitale Brieftasche, die ins Fahrzeug selbst eingebaut ist. Sie heißt Roboy339 und kann autonom für Maut bezahlen, Ladestrom abrechnen, Parkgebühren überweisen und Wartungstermine buchen. Ohne dass der Fahrer etwas tut. Ohne dass der Fahrer es überhaupt bemerkt.
 
@@ -629,7 +643,7 @@ Die Frage ist nicht mehr, ob Maschinen ein Bankkonto bekommen. Die Frage ist, wa
 ---
 
 
-Die Stadt als Marktplatz der Maschinen
+### Die Stadt als Marktplatz der Maschinen
 
 2035. Eine Großstadt. Millionen von Geräten, Autos, Drohnen, Gebäude, Ladestationen, Ampeln, Sensoren, Roboter, haben eigene Wallets. Sie handeln miteinander. Rund um die Uhr. Ohne menschliche Aufsicht.
 
@@ -669,7 +683,7 @@ Die Stablecoin-Zahlen unterstreichen die Relevanz. Stablecoins haben 2024 ein Tr
 
 ---
 
-Die Kernthese: Maschinen brauchen Maschinengeld
+### Die Kernthese: Maschinen brauchen Maschinengeld
 
 Wenn Maschinen wirtschaftliche Akteure werden, wenn sie autonom kaufen, verkaufen, verhandeln und investieren, dann brauchen sie ein Geldsystem, das für Maschinen gebaut ist. Eines, das keine menschliche Identität voraussetzt. Eines, das rund um die Uhr funktioniert. Eines, das Mikrotransaktionen für Bruchteile eines Cents ermöglicht. Eines, das programmierbar ist, in dem Regeln als Code existieren, nicht als Paragraphen.
 
@@ -703,6 +717,8 @@ Und diese Praxis hat bereits begonnen. In der Welt der tokenisierten Vermögensw
 
 
 ![Abbildung 9: Von der physischen zur tokenisierten Welt](images/abb-09.png)
+
+*Abbildung 9: Von der physischen zur tokenisierten Welt*
 
 
 Die Demokratisierung der Vermögenswerte und ihre Grenzen Stellen Sie sich vor, Sie könnten ein Stück vom Burj Khalifa kaufen. Nicht eine Eigentumswohnung für Millionen, sondern ein Zehntausendstel des Gebäudes. Für hundert Euro. Mit Ihrem Smartphone. Um 3 Uhr nachts. Und morgen, wenn Sie das Geld für etwas anderes brauchen, verkaufen Sie Ihren Anteil wieder. In Sekunden.
@@ -743,6 +759,8 @@ BlackRock verwaltet über 10 Billionen Dollar. Wenn Larry Fink sagt, "Tokenisier
 
 
 ![Abbildung 10: Wer tokenisiert was? Die Wall-Street-Giganten steigen ein](images/abb-10.png)
+
+*Abbildung 10: Wer tokenisiert was? Die Wall-Street-Giganten steigen ein*
 
 
 BUIDL, BlackRocks tokenisierter Geldmarktfonds, startete im März 2024 auf Ethereum. Innerhalb eines Jahres expandierte er auf sieben Blockchains. Und dann passierte im Februar 2026 etwas, das man vor fünf Jahren für unmöglich gehalten hätte: BUIDL wurde auf Uniswap gelistet. Uniswap, die größte dezentrale Börse der Welt. BlackRock, der Inbegriff von Wall Street, betritt DeFi.
@@ -856,7 +874,7 @@ Das ist kein Zufall. Das ist Strategie.
 ---
 
 
-Das Kontrollinstrument - Warum CBDCs eine Bedrohung für die Freiheit sind
+### Das Kontrollinstrument - Warum CBDCs eine Bedrohung für die Freiheit sind
 
 Bis hierhin habe ich über CBDCs als geopolitisches Instrument geschrieben. Als Schachfiguren im Währungskrieg zwischen Dollar, Yuan und Euro. Aber es gibt eine Dimension, die in der nüchternen Analyse zu kurz kommt, und die mich als Unternehmer und als Mensch beunruhigt.
 
@@ -918,7 +936,7 @@ Die technischen Möglichkeiten sind in der Architektur jeder CBDC angelegt. Nich
 ---
 
 
-Trumps Gegenentwurf - Genial, aber nicht uneigenützig
+### Trumps Gegenentwurf - Genial, aber nicht uneigenützig
 
 Vor diesem Hintergrund muss man Trumps Stablecoin-Strategie neu bewerten. Die Executive Order vom 23. Januar 2025, die CBDCs für die USA kategorisch verbietet. Der Anti-CBDC Surveillance State Act, der im Juli 2025 vom Repräsentantenhaus verabschiedet wurde. Der GENIUS Act, der private Stablecoins reguliert und legitimiert. Die USA sind das einzige bedeutende Land auf der Welt, das aktiv gegen CBDCs vorgeht. Das allein sollte zu denken geben.
 
@@ -1002,7 +1020,7 @@ Der Unterschied zwischen einem staatlichen CBDC und einem privaten Stablecoin is
 ---
 
 
-Was das für Investoren heißt
+### Was das für Investoren heißt
 
 Wenn Sie diese These ernst nehmen, hat Tokenisierung drei Implikationen für Ihre Investmentstrategie.
 
@@ -1031,6 +1049,8 @@ Die Tokenisierung aller Vermögenswerte dieser Welt ist keine Frage des Ob. Sie 
 
 ![Abbildung 11: Anatomie einer Maschinen-Firma (DAO)](images/abb-11.png)
 
+*Abbildung 11: Anatomie einer Maschinen-Firma (DAO)*
+
 
 ---
 
@@ -1046,7 +1066,7 @@ Die Tokenisierung aller Vermögenswerte dieser Welt ist keine Frage des Ob. Sie 
 ---
 
 
-Smart Contracts: Wenn Code Versprechen hält
+### Smart Contracts: Wenn Code Versprechen hält
 
 Im vorherigen Kapitel über Krypto habe ich erklärt, was Smart Contracts sind: Programme auf einer Blockchain, die automatisch ausgeführt werden, wenn bestimmte Bedingungen erfüllt sind. Zahle X, wenn Y passiert. Übertrage Eigentum, wenn Zahlung eingegangen. Eskaliere an einen Schiedsrichter, wenn Frist verstrichen.
 
@@ -1164,7 +1184,7 @@ Das ist meine Einschätzung. Vielleicht bin ich zu optimistisch. Vielleicht geht
 
 ---
 
-Was das für Investoren heißt? Drei Gedanken.
+### Was das für Investoren heißt? Drei Gedanken.
 
 In die Infrastruktur investieren, nicht in die Maschinen selbst.
 
@@ -1198,6 +1218,8 @@ Im nächsten Teil des Buches verlassen wir die These und schauen uns an, was das
 
 ![Abbildung 12: Die KI-Weltkarte - USA dominiert, China rivalisiert, Europa reguliert](images/abb-12.png)
 
+*Abbildung 12: Die KI-Weltkarte - USA dominiert, China rivalisiert, Europa reguliert*
+
 
 Investitionen finden nicht im Vakuum statt. Die KI-Revolution hat eine geopolitische Dimension, die man verstehen muss, um kluge Entscheidungen zu treffen. Und die geopolitische Realität ist unbequem, besonders für Europäer.
 
@@ -1221,7 +1243,7 @@ Wer das nicht akzeptiert, trifft falsche Investmententscheidungen. Also lassen S
 ---
 
 
-China: Der unterschätzte Rivale
+### China: Der unterschätzte Rivale
 
 China ist die zweite KI-Supermacht, und wer sie unterschätzt, macht einen teuren Fehler.
 
@@ -1262,7 +1284,7 @@ Die wichtigste Erkenntnis für Investoren: Der KI-Wettbewerb zwischen USA und Ch
 ---
 
 
-Der Chip-Krieg
+### Der Chip-Krieg
 
 Halbleiter sind das neue Öl. Wer die Chips kontrolliert, kontrolliert die KI. Und die KI bestimmt die Wirtschaft des 21. Jahrhunderts.
 
@@ -1272,6 +1294,8 @@ TSMC produziert über 90 Prozent der weltweit fortschrittlichsten Halbleiter, di
 
 
 ![Abbildung 13: Der Chip-Krieg - TSMCs Nadelöhr in der globalen KI-Lieferkette](images/abb-13.png)
+
+*Abbildung 13: Der Chip-Krieg - TSMCs Nadelöhr in der globalen KI-Lieferkette*
 
 
 Und dann gibt es ASML: das niederländische Unternehmen, das die Lithografie-Maschinen baut, ohne die TSMC seine Chips nicht produzieren kann. ASMLs EUV-Maschinen (Extreme Ultraviolet Lithography) kosten über 300 Millionen Dollar pro Stück und sind so komplex, dass es auf der Welt nur eine Handvoll Ingenieure gibt, die sie warten können. ASML hat ein de-facto-Monopol auf diese Technologie. Kein ASML, kein TSMC. Kein TSMC, kein NVIDIA. Kein NVIDIA, keine KI-Revolution.
@@ -1301,7 +1325,7 @@ Für Investoren ist der Chip-Krieg ein zweischneidiges Schwert. Einerseits biete
 ---
 
 
-Krypto als geopolitischer Hedge
+### Krypto als geopolitischer Hedge
 
 In diesem geopolitischen Spannungsfeld hat Krypto eine Eigenschaft, die oft übersehen wird: Jurisdiktionsunabhängigkeit.
 
@@ -1337,7 +1361,7 @@ Aber selbst das beste Hedge-Asset nützt nichts ohne Energie. KI-Systeme verbrau
 
 ---
 
-Warum KI einen unstillbaren Energiehunger hat
+### Warum KI einen unstillbaren Energiehunger hat
 
 Künstliche Intelligenz braucht Strom, nicht ein bisschen, nicht moderat, sondern in Mengen, die selbst Energieexperten erschrecken.
 
@@ -1349,6 +1373,8 @@ Rechenzentren, die den Großteil dieser Rechenarbeit leisten, verbrauchen bereit
 
 
 ![Abbildung 15: Energiehunger der KI - Rechenzentren fressen immer mehr Strom](images/abb-15.png)
+
+*Abbildung 15: Energiehunger der KI - Rechenzentren fressen immer mehr Strom*
 
 
 Und jetzt skalieren Sie das: Was passiert, wenn KI-Agenten rund um die Uhr autonom arbeiten? Wenn Millionen von Robotern in Echtzeit gesteuert werden? Wenn (wie wir im BCI-Kapitel sehen werden) KI personalisierte, physik-simulierte 3D-Welten für Millionen von Nutzern gleichzeitig generiert. Die Energieanforderungen steigen nicht linear. Sie steigen exponentiell.
@@ -1387,10 +1413,12 @@ Genau deshalb wenden sich Google, Microsoft, Amazon und Meta jetzt der Kernenerg
 
 ---
 
-Warum die Tech-Giganten Atomkraftwerke kaufen
+### Warum die Tech-Giganten Atomkraftwerke kaufen
 
 
 ![Abbildung 14: Tech-Giganten werden Energiekonzerne](images/abb-14.png)
+
+*Abbildung 14: Tech-Giganten werden Energiekonzerne*
 
 
 Hier wird es für Investoren relevant. Denn die Tech-Unternehmen haben das Energieproblem nicht nur erkannt - sie haben begonnen, es selbst zu lösen. Und die Art, wie sie es lösen, sagt viel über die Zukunft der Energiemärkte aus.
@@ -1494,11 +1522,15 @@ Aber es gibt noch eine andere Hälfte, die nicht in Gigawatt und Kubikmetern gem
 
 ![Abbildung 16: Welche Jobs verschwinden, welche entstehen](images/abb-16.png)
 
+*Abbildung 16: Welche Jobs verschwinden, welche entstehen*
+
 
 Von Stammesführern zu CEOs: Eine kurze Geschichte der Arbeit
 
 
 ![Abbildung 17: Die Geschichte der Arbeit - vier Epochen und der aktuelle Umbruch](images/abb-17.png)
+
+*Abbildung 17: Die Geschichte der Arbeit - vier Epochen und der aktuelle Umbruch*
 
 
 Bevor wir über die Zukunft der Arbeit sprechen, müssen wir verstehen, wie kurz die Geschichte der Arbeit ist, die wir kennen. Was wir heute für "normal" halten, den Achtstundentag, das Büro, den Lebenslauf, die Karriereleiter, ist ein Arrangement, das jünger ist als die meisten Bäume in einem deutschen Wald.
@@ -1630,7 +1662,7 @@ Noch alarmierender: Während die Gesamtarbeitslosigkeit in KI-exponierten Berufe
 ---
 
 
-Politische Radikalisierung: Ludditen 2.0
+### Politische Radikalisierung: Ludditen 2.0
 
 Die Geschichte zeigt, dass technologisch bedingte Arbeitslosigkeit zu politischer Radikalisierung führt. Nicht vielleicht. Zuverlässig.
 
@@ -1650,7 +1682,7 @@ Für Investoren: Gesellschaftliche Stabilität ist kein Hintergrundgeräusch. Si
 ---
 
 
-Die Gewinner-Verlierer-Schere
+### Die Gewinner-Verlierer-Schere
 
 Die Konvergenz von KI, Robotik und Krypto wird Wohlstand schaffen, enormen Wohlstand. Die Produktivitätsgewinne sind real. Aber dieser Wohlstand wird ungleicher verteilt sein als jemals zuvor.
 
@@ -1719,6 +1751,8 @@ Die Frage, wie Gesellschaften mit dieser Transformation umgehen, führt unweiger
 
 ![Abbildung 18: Regulierungs-Geschwindigkeiten - USA, China und Europa im Vergleich](images/abb-18.png)
 
+*Abbildung 18: Regulierungs-Geschwindigkeiten - USA, China und Europa im Vergleich*
+
 
 Keine Technologie existiert im luftleeren Raum. Jede Transformation, die mächtig genug ist, um die Wirtschaft umzuschreiben, ruft den Staat auf den Plan. Das war bei der Eisenbahn so, bei der Elektrizität, beim Telefon, beim Internet. Und es wird bei KI nicht anders sein.
 
@@ -1750,7 +1784,7 @@ Regulierung kommt. Das steht fest. Die Frage ist wie sie kommt, und was das für
 ---
 
 
-China: Regulierung als Industriepolitik
+### China: Regulierung als Industriepolitik
 
 China verfolgt einen dritten Weg, der weder dem europäischen Regelungsansatz noch dem amerikanischen Laissez-Faire entspricht: Regulierung als Industriepolitik.
 
@@ -1762,7 +1796,7 @@ Das Ergebnis: China reguliert mehr als die USA, aber anders als Europa. Die Regu
 
 ---
 
-Krypto-Regulierung: MiCA, SEC und die Schlacht um die Zukunft des Geldes
+### Krypto-Regulierung: MiCA, SEC und die Schlacht um die Zukunft des Geldes
 
 Im Krypto-Bereich ist die regulatorische Landschaft noch fragmentierter.
 
@@ -1862,6 +1896,8 @@ Im nächsten Teil verlassen wir die Gegenwart und schauen in die Zukunft. Was is
 
 ![Abbildung 19: Szenario 2026-2035 - Die drei Phasen der Maschinenökonomie](images/abb-19.png)
 
+*Abbildung 19: Szenario 2026-2035 - Die drei Phasen der Maschinenökonomie*
+
 
 Prognosen sind ein undankbares Geschäft. Die Geschichte ist voll von Experten, die spektakulär daneben lagen, von Lord Kelvins "Schwerer-als-Luft-Flugmaschinen sind unmöglich" bis zu Steve Ballmers "There's no chance that the iPhone is going to get any significant market share." Wer die Zukunft vorhersagt, wird fast immer falsch liegen, zumindest in den Details.
 
@@ -1912,7 +1948,7 @@ Trotzdem ist es notwendig. Nicht um eine präzise Prognose zu liefern, die man i
 ---
 
 
-2028-2031: Der Wendepunkt
+### 2028-2031: Der Wendepunkt
 
 KI erledigt 30 bis 50 Prozent der heutigen Wissensarbeit schneller, billiger und oft besser als Menschen. Das ist keine Schätzung, das ist die Extrapolation der Produktivitätskurven, die wir bereits sehen.
 
@@ -1948,7 +1984,7 @@ Die Wirtschaftsleistung pro Kopf steigt dramatisch. Aber die Verteilung ist ungl
 ---
 
 
-Was Kurzweil richtig und falsch prognostiziert hat
+### Was Kurzweil richtig und falsch prognostiziert hat
 
 Ein Wort zur Kalibrierung. Ray Kurzweil hat im Laufe der Jahre 147 Prognosen gemacht. Etwa 86 Prozent davon waren nach seiner eigenen Analyse korrekt oder im Wesentlichen korrekt. Er lag richtig bei der Verbreitung des mobilen Internets, bei der Entwicklung selbstfahrender Autos (wenn auch mit Verzögerung), bei der Spracherkennung, bei der Genomsequenzierung.
 
@@ -1974,6 +2010,8 @@ Die nächsten langfristigen Trends könnten allerdings alles übertreffen, was w
 
 
 ![Abbildung 20: Von der Tastatur zum Gedanken - Interface-Evolution](images/abb-20.png)
+
+*Abbildung 20: Von der Tastatur zum Gedanken - Interface-Evolution*
 
 
 Jede technologische Revolution kam mit einer Revolution in der Art, wie Menschen mit Maschinen interagieren. Der Mainframe verlangte Lochkarten. Der Personal Computer brachte Tastatur und Maus. Das Smartphone führte den Touchscreen ein. Jeder Übergang erhöhte die Bandbreite, die Menge an Information, die ein Mensch pro Zeiteinheit in eine Maschine einspeisen konnte, und reduzierte die Reibung. Je natürlicher das Interface, desto schneller die Adoption.
@@ -2003,7 +2041,7 @@ Aber Sprache hat eine Grenze: Bandbreite. Menschen sprechen mit ungefähr 150 W�
 ---
 
 
-KI-generierte Welten: Wenn Maschinen Realität bauen
+### KI-generierte Welten: Wenn Maschinen Realität bauen
 
 Jetzt kommt der Teil, den kaum jemand auf dem Radar hat.
 
@@ -2038,7 +2076,7 @@ Das sind keine Videospiele im traditionellen Sinne. Es gibt keinen Entwickler, k
 ---
 
 
-Investmentimplikationen: BCI als asymmetrische Wette
+### Investmentimplikationen: BCI als asymmetrische Wette
 
 Der BCI-Sektor bietet eine klassische asymmetrische Frühphasen-Chance, die Art, die Peter Thiel als "Geheimnisse" beschreibt, die die meisten Investoren noch nicht erkannt haben.
 
@@ -2094,7 +2132,7 @@ Für Investoren hat die Haftungsfrage direkte Auswirkungen. Unternehmen, die KI-
 
 ---
 
-Die Eigentumsfrage: Wenn ein KI-Agent ein Unternehmen gründet
+### Die Eigentumsfrage: Wenn ein KI-Agent ein Unternehmen gründet
 
 Denken wir das weiter. In Phase 3 der KI-Revolution können Agenten autonom wirtschaftlich handeln. Was passiert, wenn ein KI-Agent eine Geschäftsidee identifiziert, ein Unternehmen registriert (über Smart Contracts, ohne menschlichen Notar), andere Agenten als "Mitarbeiter" einstellt, Kunden akquiriert, Rechnungen stellt und Gewinn erwirtschaftet?
 
@@ -2204,6 +2242,8 @@ Es gibt allerdings eine Konvergenz, die noch radikaler ist als alles bisher Besp
 
 ![Abbildung 21: Das Smart Money wettet auf Unsterblichkeit](images/abb-21.png)
 
+*Abbildung 21: Das Smart Money wettet auf Unsterblichkeit*
+
 
 Die radikalste Konvergenz steht noch aus., die Gedanken in Welten verwandeln.
 
@@ -2222,7 +2262,7 @@ Was passiert, wenn die Maschinen nicht nur unsere Arbeit übernehmen, sondern un
 ---
 
 
-Das Smart Money wettet auf Unsterblichkeit
+### Das Smart Money wettet auf Unsterblichkeit
 
 Sinclair ist nicht allein. Die reichsten und einflussreichsten Menschen der Technologiebranche investieren Milliarden in die Longevity-Forschung, und das Tempo hat sich 2025 und 2026 dramatisch beschleunigt.
 
@@ -2259,7 +2299,7 @@ Beachten Sie ein Muster: Die CEOs von OpenAI, Coinbase und Google investieren pa
 ---
 
 
-Wer bekommt Zugang?
+### Wer bekommt Zugang?
 
 Die ersten Longevity-Therapien werden teuer sein. Gentherapien kosten heute zwischen 300.000 und mehreren Millionen Dollar pro Behandlung. Epigenetische Reprogrammierung, die mehrere Injektionen oder regelmäßige Behandlungen erfordert, wird anfangs nur für die Wohlhabendsten zugänglich sein.
 
@@ -2286,7 +2326,7 @@ Aber die Übergangsphase, die Jahrzehnte dauern könnte, wird brutal sein. Die e
 ---
 
 
-Der ideale Partner ist ein Roboter
+### Der ideale Partner ist ein Roboter
 
 
 ---
@@ -2301,7 +2341,7 @@ Der ideale Partner ist ein Roboter
 ---
 
 
-Das Paradox: Unsterblich und aussterbend
+### Das Paradox: Unsterblich und aussterbend
 
 Hier entsteht eines der verblüffendsten Paradoxa der Menschheitsgeschichte: Eine Spezies, die die Technologie besitzt, um theoretisch ewig zu leben, könnte gleichzeitig aufhören, sich fortzupflanzen.
 
@@ -2315,7 +2355,7 @@ Was auch immer passiert: Die demografischen Konsequenzen der Konvergenz von Long
 
 ---
 
-Was bedeutet das für Investoren?
+### Was bedeutet das für Investoren?
 
 Longevity als Investmentthese ist die ultimative langfristige Wette. Wenn sie aufgeht, verändert sie nicht nur einen Markt, sondern die Grundannahmen, auf denen alle Märkte basieren.
 
@@ -2347,6 +2387,8 @@ Die Frage ist: Kann ich es mir leisten, zu sterben, bevor die Rendite eintritt?
 
 
 ![Abbildung 22: Die Barbell-Strategie - Kern (60-70%) vs. asymmetrische Wetten (30-40%)](images/abb-22.png)
+
+*Abbildung 22: Die Barbell-Strategie - Kern (60-70%) vs. asymmetrische Wetten (30-40%)*
 
 
 Es gibt einen Moment, den jeder kennt, der sich ernsthaft mit Investieren beschäftigt hat. Den Moment, in dem man alles verstanden zu haben glaubt und trotzdem nicht weiß, was man morgen früh kaufen soll.
@@ -2498,6 +2540,8 @@ Auf Basis dieser Prinzipien habe ich drei Modellportfolios entworfen. Sie sind k
 
 
 ![Abbildung 23: Drei Portfolio-Varianten - konservativ, ausgewogen, aggressiv](images/abb-23.png)
+
+*Abbildung 23: Drei Portfolio-Varianten - konservativ, ausgewogen, aggressiv*
 
 
 Was ich Ihnen geben kann, ist ein Denkrahmen.
@@ -2993,6 +3037,8 @@ Aber was, wenn ich falsch liege? Jede ehrliche Investmentthese muss ihre eigenen
 
 ![Abbildung 24: Risiko-Matrix - Wahrscheinlichkeit vs. Impact](images/abb-24.png)
 
+*Abbildung 24: Risiko-Matrix - Wahrscheinlichkeit vs. Impact*
+
 
 Jede Investmentthese, die keine Gegenargumente nennt, ist keine These. Sie ist Propaganda. Also nehmen wir die Risiken ernst. Nicht als rhetorische Pflichtübung, sondern weil das Ignorieren von Risiken der schnellste Weg ist, Geld zu verlieren.
 
@@ -3349,7 +3395,7 @@ Wir sehen uns auf der anderen Seite.
 
 ## Epilog: Für Mila
 
-Liebe Mila,
+### Liebe Mila,
 
 wenn du das eines Tages liest, wirst du vielleicht nicht verstehen, warum dein Opa ein ganzes Buch über Maschinen und Geld geschrieben hat. Das ist in Ordnung. Ich will dir trotzdem erzählen, warum ich es getan habe.
 
@@ -3381,13 +3427,13 @@ Dieses Buch ist meine Art, an dieser Zukunft mitzubauen. Nicht als Ingenieur, de
 
 Und es ist ein Versprechen an dich: Ich werde nicht aufhören, nach der Antwort zu suchen. Nicht als Arzt, der deine Blutwerte liest, das können andere besser. Sondern als jemand, der versteht, welche Technologien diese Antwort vielleicht liefern können, und der alles tut, damit sie schnell genug kommen.
 
-Die Maschinen kommen, Mila. Und sie bringen nicht nur ihr eigenes Geld mit.
+### Die Maschinen kommen, Mila. Und sie bringen nicht nur ihr eigenes Geld mit.
 
-Sie bringen Hoffnung.
+### Sie bringen Hoffnung.
 
-Dein Opa Thomas
+### Dein Opa Thomas
 
-März 2026
+### März 2026
 
 
 ## Danksagung
@@ -3558,7 +3604,7 @@ PEAQ (peaq Network): Layer-1-Blockchain für DePIN (Decentralized Physical Infra
 
 Die folgende Übersicht umfasst alle im Buch zitierten oder referenzierten Werke, geordnet nach Kategorie. Vollständige Einzelbelege finden sich in den Endnotes.
 
-Bücher
+### Bücher
 
 Acemoglu, Daron / Johnson, Simon: Power and Progress - Our Thousand-Year Struggle Over Technology and Prosperity. PublicAffairs, 2023.
 
@@ -3608,7 +3654,7 @@ Thiel, Peter (mit Blake Masters): Zero to One - Notes on Startups, or How to Bui
 
 Zuboff, Shoshana: The Age of Surveillance Capitalism - The Fight for a Human Future at the New Frontier of Power. PublicAffairs, 2019.
 
-Wissenschaftliche Arbeiten und Fachaufsätze
+### Wissenschaftliche Arbeiten und Fachaufsätze
 
 Campbell, Gareth: "Myopic Rationality, Overconfidence and Speculative Behaviour - Hallucinations and Inefficient Markets: The British Railway Mania of the 1840s". University of Minnesota, 2010.
 
@@ -3622,7 +3668,7 @@ Shiller, Robert: "Robotization Without Taxation?" Project Syndicate, 22. März 2
 
 Stigler, George: "The Theory of Economic Regulation". Bell Journal of Economics, 1971.
 
-Institutionelle Reports und Studien
+### Institutionelle Reports und Studien
 
 ARK Invest: Big Ideas Report 2025/2026. ark-invest.com.
 
@@ -3652,7 +3698,7 @@ Visa Inc.: Annual Report 2024.
 
 World Economic Forum: Future of Jobs Report. Januar 2025.
 
-Datenquellen und On-Chain-Analyse
+### Datenquellen und On-Chain-Analyse
 
 Artemis (artemis.xyz) - Stablecoin-Volumen und On-Chain-Transaktionsdaten.
 
@@ -3670,7 +3716,7 @@ rwa.xyz - Spezialdaten für tokenisierte Real-World Assets: TVL, Protokollvergle
 
 The Block (theblock.co) - Research-Dashboards für Krypto-Marktdaten und institutionelle Flows.
 
-Nachrichtenquellen und Medienberichte
+### Nachrichtenquellen und Medienberichte
 
 +972 Magazine / Local Call: "'Lavender' - The AI Machine Directing Israel's Bombing Spree in Gaza". April 2024.
 
@@ -3684,7 +3730,7 @@ Reuters: "ChatGPT Sets Record for Fastest-Growing User Base". Februar 2023.
 
 Washington Post: "The Google Engineer Who Thinks the Company's AI Has Come to Life". Juni 2022.
 
-Weiterbildung und Kurse
+### Weiterbildung und Kurse
 
 Blockchain Fundamentals - edx.org (UC Berkeley).
 
