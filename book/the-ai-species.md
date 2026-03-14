@@ -3925,13 +3925,13 @@ Dieses Buch ist keine Anlageberatung. Die genannten Produkte dienen der Illustra
 
 Die folgenden Token werden im Buch als Beispiele für die Infrastruktur der Maschinenökonomie genannt. Diese Übersicht gibt einen Snapshot der wichtigsten Kennzahlen. Stand: Februar 2026.
 
-OLAS (Autonolas): Governance-Token für autonome KI-Agenten. Gesamtangebot fixiert bei 526 Millionen Token, davon zum Zeitpunkt dieses Buchs etwa 60 Prozent im Umlauf. Staking möglich mit variablen Renditen. Nutzen: Governance über das Olas-Protokoll, das autonome Agenten-Services koordiniert. Inflationsrate rückläufig durch Token-Burns bei Protokollnutzung.
+**OLAS (Autonolas):** Governance-Token für autonome KI-Agenten. Gesamtangebot fixiert bei 526 Millionen Token, davon zum Zeitpunkt dieses Buchs etwa 60 Prozent im Umlauf. Staking möglich mit variablen Renditen. Nutzen: Governance über das Olas-Protokoll, das autonome Agenten-Services koordiniert. Inflationsrate rückläufig durch Token-Burns bei Protokollnutzung.
 
-FET (Fetch.ai / ASI Alliance): Infrastruktur-Token für KI-Agenten. Gesamtangebot 2,7 Milliarden Token, praktisch vollständig im Umlauf. Teil der Artificial Superintelligence Alliance (fusioniert mit SingularityNET und Ocean Protocol). Staking mit jährlichen Renditen um 7-10 Prozent. Nutzen: Bezahlung von Agent-Services und Compute auf dem Fetch-Netzwerk.
+**FET (Fetch.ai / ASI Alliance):** Infrastruktur-Token für KI-Agenten. Gesamtangebot 2,7 Milliarden Token, praktisch vollständig im Umlauf. Teil der Artificial Superintelligence Alliance (fusioniert mit SingularityNET und Ocean Protocol). Staking mit jährlichen Renditen um 7-10 Prozent. Nutzen: Bezahlung von Agent-Services und Compute auf dem Fetch-Netzwerk.
 
-RENDER (Render Network): Token für dezentrales GPU-Rendering. Gesamtangebot 531 Millionen Token. Burn-and-Mint-Mechanik: Token werden bei Nutzung verbrannt und neue für GPU-Provider geprägt. Kein klassisches Staking. Nutzen: Bezahlung von GPU-Rechenzeit für 3D-Rendering, KI-Training und Inferenz.
+**RENDER (Render Network):** Token für dezentrales GPU-Rendering. Gesamtangebot 531 Millionen Token. Burn-and-Mint-Mechanik: Token werden bei Nutzung verbrannt und neue für GPU-Provider geprägt. Kein klassisches Staking. Nutzen: Bezahlung von GPU-Rechenzeit für 3D-Rendering, KI-Training und Inferenz.
 
-PEAQ (peaq Network): Layer-1-Blockchain für DePIN (Decentralized Physical Infrastructure Networks). Token im Early-Stage-Stadium, Gesamtangebot und Unlock-Schedule noch in Entwicklung. Staking zur Netzwerksicherung. Nutzen: Governance und Transaktionsgebühren für IoT-Geräte und Maschinen-zu-Maschinen-Zahlungen.
+**PEAQ (peaq Network):** Layer-1-Blockchain für DePIN (Decentralized Physical Infrastructure Networks). Token im Early-Stage-Stadium, Gesamtangebot und Unlock-Schedule noch in Entwicklung. Staking zur Netzwerksicherung. Nutzen: Governance und Transaktionsgebühren für IoT-Geräte und Maschinen-zu-Maschinen-Zahlungen.
 
 
 ## Anhang D - Literaturverzeichnis
