@@ -147,8 +147,10 @@ $endif$
 \emergencystretch=1em
 \sloppy
 
-% --- No section numbering ---
+% --- No section numbering, but keep marks for headers ---
 \setcounter{secnumdepth}{-1}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
 
 % --- Hyperlinks ---
 \hypersetup{
