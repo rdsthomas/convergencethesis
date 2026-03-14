@@ -46,6 +46,7 @@ build_pdf() {
         -o "$PDF_OUT" \
         --toc \
         --toc-depth=2 \
+        --top-level-division=chapter \
         --pdf-engine=xelatex \
         --lua-filter "$LUA_FILTER" \
         --template "$LATEX_TEMPLATE" \

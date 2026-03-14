@@ -69,20 +69,25 @@ $endif$
 \setlength{\parskip}{0.5em}
 
 % --- Chapter and Section Formatting ---
+% H1 = \chapter (TEIL markers become \part via Pandoc)
+% H2 = \section (Kapitel X: ...)
+% H3 = \subsection (Abschnitte)
+
 \titleformat{\chapter}[display]
     {\normalfont\huge\bfseries\color{chapterblue}}
-    {\chaptertitlename\ \thechapter}
-    {10pt}
+    {}
+    {0pt}
     {\Huge}
+\titlespacing*{\chapter}{0pt}{-20pt}{20pt}
 
 \titleformat{\section}
-    {\normalfont\Large\bfseries\color{chapterblue}}
-    {\thesection}
-    {1em}
+    {\normalfont\large\bfseries\color{sectionblue}}
+    {}
+    {0em}
     {}
 
 \titleformat{\subsection}
-    {\normalfont\large\bfseries\color{sectionblue}}
+    {\normalfont\normalsize\bfseries}
     {}
     {0em}
     {}
