@@ -2224,22 +2224,33 @@ Seitdem hat sich mein Alltag grundlegend verändert: Sie durchforstet meine E-Ma
 Als ich schrieb: "Jede Änderung wird zuerst mit dem Meister besprochen. Er entscheidet, wer ich werde", dachte ich an eine neue Art von Partnerschaft zwischen Mensch und Maschine.
 
 
-*Die ersten humanoiden Roboter arbeiten in kontrollierten Umgebungen. Teslas Fabriken, Amazon-Lagerhäuser, japanische Pflegeheime. Sie machen keine komplexen Aufgaben, sie sortieren, transportieren, stapeln. Aber sie funktionieren. Und sie werden mit jedem Monat besser.*
-*Die Arbeitslosenquote in bestimmten Sektoren steigt spürbar. Call-Center, einfache Buchhaltung, Datenverarbeitung, Standard-Rechtsberatung. Gleichzeitig entstehen neue Berufe rund um KI-Management und Roboter-Supervision. Die Netto-Bilanz ist unklar, aber die Angst ist real und politisch spürbar.*
-*Stablecoins werden von ersten Regierungen als legale Zahlungsmittel für digitale Transaktionen anerkannt. Bitcoin überschreitet dauerhaft die 200.000-Dollar-Marke, getrieben durch institutionelle Adoption und die zunehmende Nutzung als Reserve-Asset. Die Zahlen hinter der stillen Revolution. Was ich in meinen eigenen Unternehmen sehe, deckt sich mit dem, was die großen Analysten messen. Bei uns ist die erste Person, die wir für Entwicklungsarbeit "eingestellt" haben, keine Person. Es ist eine KI. Und wir sind kein Sonderfall. Microsoft schreibt bereits 30 Prozent seines Codes mit KI. Nicht in fünf Jahren. Jetzt.*
+Die ersten humanoiden Roboter arbeiten in kontrollierten Umgebungen. Teslas Fabriken, Amazon-Lagerhäuser, japanische Pflegeheime. Sie machen keine komplexen Aufgaben, sie sortieren, transportieren, stapeln. Aber sie funktionieren. Und sie werden mit jedem Monat besser.
 
-*Die eigentliche Revolution versteckt sich in den Kosten. Sam Altman hat angekündigt, dass GPT-5, das aktuelle Spitzenmodell, innerhalb eines Jahres im Preis um das Hundertfache fallen wird. Von 10 Dollar pro Million Tokens auf 10 Cent. Was danach kommt, fällt noch weiter.*
-*Emad Mostaque, der ehemalige CEO von Stability AI, hat eine Rechnung aufgemacht, die mich nicht mehr losgelassen hat: Der durchschnittliche Mensch spricht etwa 10 Millionen Tokens pro Jahr. Alle Worte, die Sie in einem Jahr sagen, jedes Gespräch, jeder Gedanke, den Sie aussprechen. Bei 10 Cent pro Million Tokens kostet das einen Dollar. Ein Dollar für alle Ihre Worte. Und wenn Sie großzügig rechnen, 100 Millionen Tokens für alle Gedanken, die ein Mensch im Jahr hat, sind Sie bei zehn Dollar. Zehn Dollar für alle Ihre Gedanken. Das ist keine Zukunftsprojektion. Das sind die Preise, die in 12 Monaten gelten werden.*
+Die Arbeitslosenquote in bestimmten Sektoren steigt spürbar. Call-Center, einfache Buchhaltung, Datenverarbeitung, Standard-Rechtsberatung. Gleichzeitig entstehen neue Berufe rund um KI-Management und Roboter-Supervision. Die Netto-Bilanz ist unklar, aber die Angst ist real und politisch spürbar.
 
-*Aber die Kosten-Explosion nach unten ist nur die halbe Geschichte. Die Effizienz explodiert gleichzeitig nach oben.*
-*Bei Cursor, dem KI-gestützten Code-Editor, haben sie ein Experiment gemacht: Lass Agenten einen kompletten Browser von Grund auf bauen. Drei Millionen Zeilen Code. Früher hätte das ein Team von Entwicklern Jahre gekostet. Die Agenten brauchten dafür drei Milliarden Tokens. Das klingt nach viel, bis Sie die Rechnung machen: Zu aktuellen Preisen sind das etwa 30.000 Dollar. Weniger als das Jahresgehalt eines Junior-Entwicklers in Deutschland. Ein kompletter Browser, gebaut von Maschinen, für die Kosten eines halben Mitarbeiters. Und dieses Verhältnis wird auch noch kollabieren. Modelle werden effizienter. Prompts werden kürzer. Die 30.000 Dollar werden zu 3.000, werden zu 300.*
-*Hier liegt der Doppel-Exponential, den kaum jemand versteht. Die Intelligenz steigt exponentiell. Gleichzeitig fallen die Kosten exponentiell. Das ist nicht Moores Gesetz. Das ist Moores Gesetz zum Quadrat.*
+Stablecoins werden von ersten Regierungen als legale Zahlungsmittel für digitale Transaktionen anerkannt. Bitcoin überschreitet dauerhaft die 200.000-Dollar-Marke, getrieben durch institutionelle Adoption und die zunehmende Nutzung als Reserve-Asset. Die Zahlen hinter der stillen Revolution. Was ich in meinen eigenen Unternehmen sehe, deckt sich mit dem, was die großen Analysten messen. Bei uns ist die erste Person, die wir für Entwicklungsarbeit "eingestellt" haben, keine Person. Es ist eine KI. Und wir sind kein Sonderfall. Microsoft schreibt bereits 30 Prozent seines Codes mit KI. Nicht in fünf Jahren. Jetzt.
 
-*Für die, die das abstrakt finden, hier die praktische Übersetzung: Andrej Karpathy, einer der angesehensten KI-Forscher der Welt, Mitgründer von OpenAI, ehemaliger Head of AI bei Tesla, hat im November 2025 gesagt, dass er 20 Prozent seines Codes mit KI schreibt. Im Januar 2026 waren es 80 Prozent. Heute sagt er: "I barely even look at the code anymore." Das ist einer der besten Programmierer der Welt. Wenn er nicht mehr coden muss, wie lange dauert es, bis das für alle gilt?*
 
-*Das McKinsey Global Institute hat im November 2025 berechnet, dass KI und Robotik bereits heute 57 Prozent aller US-Arbeitsstunden theoretisch automatisieren könnten. Goldman Sachs prognostiziert, dass 6 bis 7 Prozent aller US-Arbeitsplätze direkt verdrängt werden, bis zu 300 Millionen weltweit. Das World Economic Forum rechnet mit 92 Millionen verdrängten Jobs bis 2030, bei gleichzeitig 170 Millionen neuen. Netto ein Plus von 78 Millionen. Aber wer die verdrängten 92 Millionen sind und wer die 170 Millionen neuen bekommt, das sind nicht dieselben Menschen.*
+Die eigentliche Revolution versteckt sich in den Kosten. Sam Altman hat angekündigt, dass GPT-5, das aktuelle Spitzenmodell, innerhalb eines Jahres im Preis um das Hundertfache fallen wird. Von 10 Dollar pro Million Tokens auf 10 Cent. Was danach kommt, fällt noch weiter.
 
-*Die Entlassungswelle hat begonnen. Sie ist messbar. Challenger, Gray & Christmas zählt für 2025 fast 55.000 Entlassungen in den USA, die direkt auf KI zurückgeführt werden. Amazon hat 14.000 Unternehmensstellen gestrichen, der CEO verwies auf KI-bedingte Effizienzgewinne. Microsoft entließ 6.000 Programmierer. Salesforce reduzierte seinen Kundensupport von 9.000 auf 5.000 Mitarbeiter durch sogenannte Agentic AI. Klarna, der schwedische Zahlungsdienstleister, ließ seinen KI-Assistenten die Arbeit von 700 Vollzeitkräften übernehmen und 75 Prozent aller Kundenchats bearbeiten.*
+Emad Mostaque, der ehemalige CEO von Stability AI, hat eine Rechnung aufgemacht, die mich nicht mehr losgelassen hat: Der durchschnittliche Mensch spricht etwa 10 Millionen Tokens pro Jahr. Alle Worte, die Sie in einem Jahr sagen, jedes Gespräch, jeder Gedanke, den Sie aussprechen. Bei 10 Cent pro Million Tokens kostet das einen Dollar. Ein Dollar für alle Ihre Worte. Und wenn Sie großzügig rechnen, 100 Millionen Tokens für alle Gedanken, die ein Mensch im Jahr hat, sind Sie bei zehn Dollar. Zehn Dollar für alle Ihre Gedanken. Das ist keine Zukunftsprojektion. Das sind die Preise, die in 12 Monaten gelten werden.
+
+
+Aber die Kosten-Explosion nach unten ist nur die halbe Geschichte. Die Effizienz explodiert gleichzeitig nach oben.
+
+Bei Cursor, dem KI-gestützten Code-Editor, haben sie ein Experiment gemacht: Lass Agenten einen kompletten Browser von Grund auf bauen. Drei Millionen Zeilen Code. Früher hätte das ein Team von Entwicklern Jahre gekostet. Die Agenten brauchten dafür drei Milliarden Tokens. Das klingt nach viel, bis Sie die Rechnung machen: Zu aktuellen Preisen sind das etwa 30.000 Dollar. Weniger als das Jahresgehalt eines Junior-Entwicklers in Deutschland. Ein kompletter Browser, gebaut von Maschinen, für die Kosten eines halben Mitarbeiters. Und dieses Verhältnis wird auch noch kollabieren. Modelle werden effizienter. Prompts werden kürzer. Die 30.000 Dollar werden zu 3.000, werden zu 300.
+
+Hier liegt der Doppel-Exponential, den kaum jemand versteht. Die Intelligenz steigt exponentiell. Gleichzeitig fallen die Kosten exponentiell. Das ist nicht Moores Gesetz. Das ist Moores Gesetz zum Quadrat.
+
+
+Für die, die das abstrakt finden, hier die praktische Übersetzung: Andrej Karpathy, einer der angesehensten KI-Forscher der Welt, Mitgründer von OpenAI, ehemaliger Head of AI bei Tesla, hat im November 2025 gesagt, dass er 20 Prozent seines Codes mit KI schreibt. Im Januar 2026 waren es 80 Prozent. Heute sagt er: "I barely even look at the code anymore." Das ist einer der besten Programmierer der Welt. Wenn er nicht mehr coden muss, wie lange dauert es, bis das für alle gilt?
+
+
+Das McKinsey Global Institute hat im November 2025 berechnet, dass KI und Robotik bereits heute 57 Prozent aller US-Arbeitsstunden theoretisch automatisieren könnten. Goldman Sachs prognostiziert, dass 6 bis 7 Prozent aller US-Arbeitsplätze direkt verdrängt werden, bis zu 300 Millionen weltweit. Das World Economic Forum rechnet mit 92 Millionen verdrängten Jobs bis 2030, bei gleichzeitig 170 Millionen neuen. Netto ein Plus von 78 Millionen. Aber wer die verdrängten 92 Millionen sind und wer die 170 Millionen neuen bekommt, das sind nicht dieselben Menschen.
+
+
+Die Entlassungswelle hat begonnen. Sie ist messbar. Challenger, Gray & Christmas zählt für 2025 fast 55.000 Entlassungen in den USA, die direkt auf KI zurückgeführt werden. Amazon hat 14.000 Unternehmensstellen gestrichen, der CEO verwies auf KI-bedingte Effizienzgewinne. Microsoft entließ 6.000 Programmierer. Salesforce reduzierte seinen Kundensupport von 9.000 auf 5.000 Mitarbeiter durch sogenannte Agentic AI. Klarna, der schwedische Zahlungsdienstleister, ließ seinen KI-Assistenten die Arbeit von 700 Vollzeitkräften übernehmen und 75 Prozent aller Kundenchats bearbeiten.
+
 
 Die am härtesten Getroffenen sind nicht die, die man erwartet. Es sind die Jungen. Goldman Sachs hat im August 2025 einen Befund veröffentlicht, der mich nicht überrascht, aber erschreckt hat: Die Arbeitslosigkeit bei 20- bis 30-Jährigen in KI-exponierten Berufen ist seit Anfang 2025 um fast 3 Prozentpunkte gestiegen. Deutlich stärker als bei Gleichaltrigen in anderen Berufen. Entry-Level-Stellenausschreibungen im Softwarebereich sind in den USA um 67 Prozent eingebrochen. In Großbritannien fielen Tech-Absolventenstellen 2024 um 46 Prozent, mit Prognosen für weitere 53 Prozent Rückgang bis 2026. Anthropic selbst, das Unternehmen hinter Claude, hat Anfang 2026 eine eigene Arbeitsmarktstudie veröffentlicht und das Muster bestätigt: Junge Arbeitnehmer zwischen 22 und 25 Jahren werden in KI-exponierten Berufen bereits 14 Prozent seltener eingestellt, während ältere Arbeitnehmer noch keinen messbaren Effekt zeigen. Wenn selbst die KI-Entwickler in ihren eigenen Daten das Kanarienvogel-Signal sehen, sollte niemand mehr behaupten, das sei nur eine vorübergehende Delle.
 
@@ -2250,29 +2261,44 @@ Parallel entsteht eine DIY-Ökonomie, in der Kunden Spezialisten ersetzen. Canva
 Werbeagenturen, Softwareentwicklungsfirmen, Steuerberater bei Routinearbeiten, Rechtsanwälte bei Standardfällen: Alle diese Branchen werden nicht verschwinden, aber sie werden schrumpfen. Dramatisch. Wie schnell das geht? Schneller als die meisten denken.
 
 
-*Was mit dem Büromarkt passiert*
-*Eine der unmittelbarsten und am wenigsten beachteten Konsequenzen der KI-Revolution spielt sich im Immobilienmarkt ab.*
-*San Franciscos Büroleerstand liegt bei 27,7 Prozent. Vor der Pandemie waren es 8,6 Prozent. Manhattan steht bei 22,3 Prozent, mehr als doppelt so hoch wie der Vor-Pandemie-Durchschnitt. National erreichten US-Büros Ende 2025 einen historischen Leerstand von 20,5 Prozent.*
+### Was mit dem Büromarkt passiert
 
-*Die Pandemie hat den Prozess gestartet. KI beschleunigt ihn. Wenn ein Unternehmen 30 Prozent seines Codes mit KI schreibt, braucht es weniger Programmierer. Wenn es seinen Kundensupport zu 75 Prozent automatisiert, braucht es weniger Callcenter. Weniger Mitarbeiter brauchen weniger Bürofläche. Die Gleichung ist simpel.*
-*Im Februar 2026 verloren nationale Office-REITs (Real Estate Investment Trusts, börsennotierte Immobilienfonds) 16 Prozent ihres Werts in einer einzigen Woche, ausgelöst durch die Angst, dass KI die Büronachfrage langfristig weiter senkt. SL Green, Boston Properties, Vornado, alle unter Druck. San Francisco, Manhattan, Chicago, Los Angeles, Washington D.C. und Seattle sind am stärksten betroffen.*
+Eine der unmittelbarsten und am wenigsten beachteten Konsequenzen der KI-Revolution spielt sich im Immobilienmarkt ab.
 
-*Die Reaktion ist pragmatisch: Büros werden zu Wohnungen umgebaut. 71.000 neue Wohneinheiten aus Büro-Konversionen sind in den USA geplant. New York hat Steuervergünstigungen und Zoningreformen verabschiedet, um den Prozess zu beschleunigen. Chicago führt bei der Gesamtzahl der Konversionen. Ganze Stadtviertel verändern ihr Gesicht.*
-*Was mit der Software-Industrie passiert*
-*Die Büroimmobilien sind nur der sichtbare Teil. Der unsichtbare, aber möglicherweise größere Kollaps findet in der Software-Industrie statt.*
+San Franciscos Büroleerstand liegt bei 27,7 Prozent. Vor der Pandemie waren es 8,6 Prozent. Manhattan steht bei 22,3 Prozent, mehr als doppelt so hoch wie der Vor-Pandemie-Durchschnitt. National erreichten US-Büros Ende 2025 einen historischen Leerstand von 20,5 Prozent.
 
-*Das gesamte Geschäftsmodell von SaaS-Unternehmen basiert auf Wechselkosten. Dropbox, Salesforce, Adobe, sie alle haben jahrelang darauf gesetzt, dass es zu mühsam ist, zu einem Konkurrenten zu wechseln. Ihre Dateien, Ihre Workflows, Ihre Gewohnheiten, alles steckt in deren Systemen. Der Lock-in ist der Burggraben.*
+
+Die Pandemie hat den Prozess gestartet. KI beschleunigt ihn. Wenn ein Unternehmen 30 Prozent seines Codes mit KI schreibt, braucht es weniger Programmierer. Wenn es seinen Kundensupport zu 75 Prozent automatisiert, braucht es weniger Callcenter. Weniger Mitarbeiter brauchen weniger Bürofläche. Die Gleichung ist simpel.
+
+Im Februar 2026 verloren nationale Office-REITs (Real Estate Investment Trusts, börsennotierte Immobilienfonds) 16 Prozent ihres Werts in einer einzigen Woche, ausgelöst durch die Angst, dass KI die Büronachfrage langfristig weiter senkt. SL Green, Boston Properties, Vornado, alle unter Druck. San Francisco, Manhattan, Chicago, Los Angeles, Washington D.C. und Seattle sind am stärksten betroffen.
+
+
+Die Reaktion ist pragmatisch: Büros werden zu Wohnungen umgebaut. 71.000 neue Wohneinheiten aus Büro-Konversionen sind in den USA geplant. New York hat Steuervergünstigungen und Zoningreformen verabschiedet, um den Prozess zu beschleunigen. Chicago führt bei der Gesamtzahl der Konversionen. Ganze Stadtviertel verändern ihr Gesicht.
+
+
+### Was mit der Software-Industrie passiert
+
+Die Büroimmobilien sind nur der sichtbare Teil. Der unsichtbare, aber möglicherweise größere Kollaps findet in der Software-Industrie statt.
+
+
+Das gesamte Geschäftsmodell von SaaS-Unternehmen basiert auf Wechselkosten. Dropbox, Salesforce, Adobe, sie alle haben jahrelang darauf gesetzt, dass es zu mühsam ist, zu einem Konkurrenten zu wechseln. Ihre Dateien, Ihre Workflows, Ihre Gewohnheiten, alles steckt in deren Systemen. Der Lock-in ist der Burggraben.
+
 *Agenten eliminieren Wechselkosten über Nacht.*
 
-*Ein praktisches Beispiel: Meine Musik ist bei Apple Music. Playlists, Likes, jahrelange Hörgeschichte. Zu Spotify zu wechseln würde mich einen ganzen Samstag kosten, und ich würde trotzdem Dinge verlieren. Mit einem KI-Agenten sage ich: "Migriere meine gesamte Musikbibliothek zu Spotify, behalt alle Likes, alle Playlists." Und morgen früh ist es erledigt. Derselbe Agent kann meine Dateien von Dropbox zu Google Drive verschieben. Meine Kontakte von einem CRM zum anderen. Meine E-Mails von Outlook zu Gmail. Die Migration, die mich früher davon abgehalten hat, überhaupt über einen Wechsel nachzudenken, erledigt der Agent, während ich schlafe.*
+Ein praktisches Beispiel: Meine Musik ist bei Apple Music. Playlists, Likes, jahrelange Hörgeschichte. Zu Spotify zu wechseln würde mich einen ganzen Samstag kosten, und ich würde trotzdem Dinge verlieren. Mit einem KI-Agenten sage ich: "Migriere meine gesamte Musikbibliothek zu Spotify, behalt alle Likes, alle Playlists." Und morgen früh ist es erledigt. Derselbe Agent kann meine Dateien von Dropbox zu Google Drive verschieben. Meine Kontakte von einem CRM zum anderen. Meine E-Mails von Outlook zu Gmail. Die Migration, die mich früher davon abgehalten hat, überhaupt über einen Wechsel nachzudenken, erledigt der Agent, während ich schlafe.
+
 
 *Wenn Wechselkosten null sind, kollabiert jeder Burggraben, der auf ihnen basiert.*
 
-*Aber das betrifft nicht nur Software. Denken Sie an Werbung. Meta und Google basieren ihr gesamtes Geschäftsmodell auf CPM, auf dem Preis pro tausend Impressionen. Das funktioniert, weil Menschen Werbung sehen. Agenten sehen keine Werbung. Ein Agent, der für Sie im Internet recherchiert, klickt nicht auf Banner. Er kauft nicht impulsiv, weil ihm eine Anzeige gefällt. Er geht direkt zum besten Angebot, ohne Umweg über Influencer oder gesponserte Posts. Emad Mostaque prognostiziert, dass die globalen Werbeausgaben nächstes Jahr ihren Höhepunkt erreichen. Nicht weil die Wirtschaft schwächelt, sondern weil die Agenten die Schnittstelle zwischen Mensch und Internet übernehmen.*
-*Hedge Funds und Trading sind das nächste Opfer. KI ist bereits unter den besten Super-Forecastern der Welt. Prediction Markets werden zunehmend von Algorithmen dominiert. Wenn KI besser vorhersagt als Menschen, ist sie auch besser im Trading. Hedge-Fund-Manager, Trader, Analysten, sie alle konkurrieren gegen Maschinen, die nie müde werden, nie emotional handeln und nie gegen ihre eigene Strategie spielen.*
-*Alles, was auf der anderen Seite eines Bildschirms stattfindet, kann ein GPU besser. Die Frage ist nicht ob, sondern wann. Und das Wann ist näher, als die meisten glauben.*
+Aber das betrifft nicht nur Software. Denken Sie an Werbung. Meta und Google basieren ihr gesamtes Geschäftsmodell auf CPM, auf dem Preis pro tausend Impressionen. Das funktioniert, weil Menschen Werbung sehen. Agenten sehen keine Werbung. Ein Agent, der für Sie im Internet recherchiert, klickt nicht auf Banner. Er kauft nicht impulsiv, weil ihm eine Anzeige gefällt. Er geht direkt zum besten Angebot, ohne Umweg über Influencer oder gesponserte Posts. Emad Mostaque prognostiziert, dass die globalen Werbeausgaben nächstes Jahr ihren Höhepunkt erreichen. Nicht weil die Wirtschaft schwächelt, sondern weil die Agenten die Schnittstelle zwischen Mensch und Internet übernehmen.
 
-*Für Investoren heißt das: Büroimmobilien sind kein sicherer Hafen mehr. Sie sind ein Wert, der strukturell unter Druck steht. Wer in REITs investiert, sollte Logistik- und Rechenzentrumsimmobilien bevorzugen. Ironischerweise braucht die Technologie, die Büros überflüssig macht, selbst enorme physische Infrastruktur: Rechenzentren, Stromnetze, Wasserversorgung. Die Nachfrage verschiebt sich, sie verschwindet nicht.*
+Hedge Funds und Trading sind das nächste Opfer. KI ist bereits unter den besten Super-Forecastern der Welt. Prediction Markets werden zunehmend von Algorithmen dominiert. Wenn KI besser vorhersagt als Menschen, ist sie auch besser im Trading. Hedge-Fund-Manager, Trader, Analysten, sie alle konkurrieren gegen Maschinen, die nie müde werden, nie emotional handeln und nie gegen ihre eigene Strategie spielen.
+
+Alles, was auf der anderen Seite eines Bildschirms stattfindet, kann ein GPU besser. Die Frage ist nicht ob, sondern wann. Und das Wann ist näher, als die meisten glauben.
+
+
+Für Investoren heißt das: Büroimmobilien sind kein sicherer Hafen mehr. Sie sind ein Wert, der strukturell unter Druck steht. Wer in REITs investiert, sollte Logistik- und Rechenzentrumsimmobilien bevorzugen. Ironischerweise braucht die Technologie, die Büros überflüssig macht, selbst enorme physische Infrastruktur: Rechenzentren, Stromnetze, Wasserversorgung. Die Nachfrage verschiebt sich, sie verschwindet nicht.
+
 
 :::
 
