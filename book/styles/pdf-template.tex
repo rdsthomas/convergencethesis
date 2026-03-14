@@ -136,15 +136,19 @@ $endif$
 % --- Headers and Footers ---
 \pagestyle{fancy}
 \fancyhf{}
-\fancyhead[LE]{\small\itshape\nouppercase{\leftmark}}
-\fancyhead[RO]{\small\itshape\nouppercase{\rightmark}}
+\fancyhead[LE]{\small\itshape The AI Species}
+\fancyhead[RO]{\small\itshape\truncate{0.85\headwidth}{\nouppercase{\leftmark}}}
 \fancyfoot[C]{\small\thepage}
 \renewcommand{\headrulewidth}{0.4pt}
+\usepackage{truncate}
 
 % --- Hyphenation and overflow prevention ---
 \tolerance=1000
 \emergencystretch=1em
 \sloppy
+
+% --- No section numbering ---
+\setcounter{secnumdepth}{-1}
 
 % --- Hyperlinks ---
 \hypersetup{
