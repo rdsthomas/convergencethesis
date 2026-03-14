@@ -680,6 +680,7 @@ Sieben Transaktionen. Drei physische Dienstleister. Null menschliche Freigaben. 
 
 ### Die Stadt als Marktplatz der Maschinen
 
+::: {.szene}
 2035. Eine Großstadt. Millionen von Geräten, Autos, Drohnen, Gebäude, Ladestationen, Ampeln, Sensoren, Roboter, haben eigene Wallets. Sie handeln miteinander. Rund um die Uhr. Ohne menschliche Aufsicht.
 
 Die Ampel an der Kreuzung Schillerstraße verkauft ihre Verkehrsdaten an vorbeifahrende Robotaxis. 0,0001 USDC pro Datenpunkt: aktuelle Rotphase, prognostizierter Grünstart, Staulänge in alle Richtungen. Die Taxis nutzen die Daten, um ihre Routen zu optimieren. Sie zahlen d, Ampel, oder genauer: dem dezentralen Infrastrukturnetzwerk, das die Ampel betreibt.
@@ -691,6 +692,7 @@ Die Solaranlage auf dem Nachbardach hat heute mehr Strom produziert, als das Hau
 In dieser Stadt gibt es keinen Moment, in dem nicht Maschinen miteinander handeln. Die Straße berechnet dem Auto eine Nutzungsgebühr pro Kilometer, nicht pauschal über Steuern, sondern in Echtzeit, abhängig von Gewicht, Uhrzeit und Straßenzustand. Der Müllroboter bezahlt den Aufzug für die Fahrt in die Tiefgarage. Das autonome Warenhaus bestellt Nachschub bei einer Fabrik 200 Kilometer entfernt. Und die Fabrik beauftragt einen autonomen Lastwagen für die Lieferung.
 
 Das alles passiert nicht neben der menschlichen Wirtschaft. Es passiert in ihr. Die Maschinen sind keine separate Ökonomie. Sie sind eine Schicht, die sich unter die menschliche Wirtschaft legt, unsichtbar, effizient, permanent. So wie das Internet sich unter den Handel gelegt hat, ohne dass wir heute noch "online shoppen" sagen, wird sich die Maschinenökonomie unter den Alltag legen, ohne dass wir sie bemerken.
+:::
 
 DIMO macht heute den ersten Schritt: 180.000 Fahrzeuge mit Blockchain-Identität, die ihre Daten eigenständig verkaufen. peaq hostet 6 Millionen Maschinen-Adressen über 60 dezentrale Infrastrukturprojekte in 22 Industrien. Die Bausteine sind da. Die Stadt, die ich gerade beschrieben habe, wird nicht auf einmal entstehen. Sie wird Stück für Stück zusammenwachsen, ein Auto, eine Drohne, eine Ladestation auf einmal.
 
@@ -944,6 +946,7 @@ Die Human Rights Foundation, die seit 2024 einen CBDC-Tracker betreibt, formulie
 
 Aber es wird schlimmer. Denn CBDCs existieren nicht im Vakuum. Sie konvergieren mit zwei anderen Megatrends, die dieses Buch ausführlich beschreibt: der Massenarbeitslosigkeit durch KI und Robotik, und dem unvermeidlichen Aufstieg des Universal Basic Income.
 
+::: {.szene}
 Stellen Sie sich die Welt von 2032 vor. KI-Agenten und Roboter haben 30 bis 50 Prozent der Wissensarbeit und einen erheblichen Teil der physischen Arbeit übernommen. Regierungen weltweit haben unter dem Druck sozialer Unruhen irgendeine Form von Grundeinkommen eingeführt. Das Geld dafür wird in CBDCs ausgezahlt.
 
 Und jetzt halten Sie einen Moment inne und denken das zu Ende.
@@ -957,6 +960,7 @@ Die Regierung kann festlegen, wofür Sie Ihr UBI ausgeben dürfen: Lebensmittel 
 Die Regierung kann Ihr UBI kürzen oder einfrieren, wenn Sie sich "falsch verhalten": Teilnahme an einer Demonstration? Wallet gesperrt. Social-Media-Post, der der Regierung nicht gefällt? Zahlungsfähigkeit eingeschränkt. Das ist keine Fantasie. China praktiziert Teile davon bereits mit dem Social Credit System.
 
 Die technischen Möglichkeiten sind in der Architektur jeder CBDC angelegt. Nicht jede Regierung wird sie nutzen. Aber jede Regierung wird sie haben.
+:::
 
 
 ---
