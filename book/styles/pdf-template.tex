@@ -138,6 +138,8 @@ $endif$
     urlcolor=sectionblue,
     citecolor=chapterblue,
 }
+% URL line breaks
+\PassOptionsToPackage{hyphens}{url}
 
 % --- Images ---
 \makeatletter
@@ -174,6 +176,7 @@ $if(toc)$
 \newpage
 $endif$
 
+\pagestyle{fancy}
 $body$
 
 \end{document}
