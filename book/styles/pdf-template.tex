@@ -178,6 +178,17 @@ $endif$
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
+% --- Widow/Orphan protection: no heading alone at page bottom ---
+\widowpenalty=10000
+\clubpenalty=10000
+\raggedbottom
+
+% --- Tables: smaller font, wrapping cells ---
+\let\oldlongtable\longtable
+\renewcommand{\longtable}{\footnotesize\oldlongtable}
+\setlength{\LTpre}{0.5em}
+\setlength{\LTpost}{0.5em}
+
 % --- Document Info ---
 $if(title)$
 \title{$title$}

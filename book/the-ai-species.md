@@ -3020,7 +3020,7 @@ Was ich Ihnen geben kann, ist ein Denkrahmen.
 
 ### Variante A: Der Konservative (Kapital 100K–500K€)
 
-| Seite | Allokation | Anteil |
+| Sektor | Allokation | Anteil |
 |-------|-----------|--------|
 | **SICHERE SEITE (70%)** | | |
 | Aktien | Globaler ETF (MSCI World), Tech-Übergewichtung | 30% |
@@ -3053,7 +3053,7 @@ Was ich Ihnen geben kann, ist ein Denkrahmen.
 
 ### Variante B: Der Ausgewogene (Kapital 500K–2M€)
 
-| Seite | Allokation | Anteil |
+| Sektor | Allokation | Anteil |
 |-------|-----------|--------|
 | **SICHERE SEITE (60%)** | | |
 | Aktien | Globaler ETF mit KI-Tilt | 20% |
@@ -3087,7 +3087,7 @@ Was ich Ihnen geben kann, ist ein Denkrahmen.
 
 ### Variante C: Der Aggressive (Kapital 2M€+, hohe Risikotoleranz)
 
-| Seite | Allokation | Anteil |
+| Sektor | Allokation | Anteil |
 |-------|-----------|--------|
 | **SICHERE SEITE (50%)** | | |
 | Big Tech | NVIDIA, Microsoft, Apple | 15% |
