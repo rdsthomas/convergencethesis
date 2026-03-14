@@ -3761,9 +3761,9 @@ Dieses Buch ist meine Art, an dieser Zukunft mitzubauen. Nicht als Ingenieur, de
 
 Und es ist ein Versprechen an dich: Ich werde nicht aufhören, nach der Antwort zu suchen. Nicht als Arzt, der deine Blutwerte liest, das können andere besser. Sondern als jemand, der versteht, welche Technologien diese Antwort vielleicht liefern können, und der alles tut, damit sie schnell genug kommen.
 
-### Die Maschinen kommen, Mila. Und sie bringen nicht nur ihr eigenes Geld mit.
+### Die Maschinen kommen, Mila. Sie verändern alles.
 
-### Sie bringen Hoffnung.
+### Und sie bringen Hoffnung.
 
 ### Dein Opa Thomas
 
