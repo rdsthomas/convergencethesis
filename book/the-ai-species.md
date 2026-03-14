@@ -3018,299 +3018,102 @@ Auf Basis dieser Prinzipien habe ich drei Modellportfolios entworfen. Sie sind k
 
 Was ich Ihnen geben kann, ist ein Denkrahmen.
 
-Variante A: Der Konservative (Kapital 100K-500K€)
-
-Seite
-
-Allokation
-
-Anteil
-
-SICHERE SEITE (70 %)
-
-Aktien
-
-Globaler ETF (MSCI World), Tech-Übergewichtung
-
-30 %
-
-Big Tech
-
-NVIDIA, Microsoft, Apple, Alphabet
-
-15 %
-
-Energie
-
-Cameco, Constellation Energy, NextEra
-
-10 %
-
-Robotik
-
-Intuitive Surgical, ABB, Fanuc
-
-10 %
-
-Cash
-
-Tagesgeld / Geldmarkt
-
-5 %
-
-ASYMMETRISCHE SEITE (30 %)
-
-Bitcoin
-
-DCA über 6-12 Monate
-
-15 %
-
-Ethereum
-
-Layer-2-Ökosystem, Agent-TAM
-
-5 %
-
-RWA
-
-BUIDL, Ondo Finance (Tokenisierte Treasuries)
-
-5 %
-
-Infrastruktur
-
-Coinbase, OLAS, PEAQ, Agent-Payment-Rails
-
-5 %
-
-Gesamt
-
-100 %
-
-Sichere Seite (70%)
-
-30% Globaler Aktien-ETF (MSCI World) mit Übergewichtung USA/Tech
-
-15% NVIDIA, Microsoft, Apple, Alphabet (die Burggraben-Gewinner der KI-Revolution)
-
-Anmerkung: Meta fehlt bewusst in der konservativen Variante. Das Geschäftsmodell ist zu 97 Prozent werbefinanziert. Wenn KI-Agenten die Schnittstelle zwischen Mensch und Internet übernehmen und Werbung nicht mehr sehen, steht Metas Kerngeschäft unter Druck, den Google durch DeepMind, Waymo und Cloud besser abfedern kann.
-
-10% Energie und Nuklear: Cameco (Uran), Constellation Energy, Next Era
-
-10% Robotik-Pure-Plays: Intuitive Surgical, ABB, Fanuc
-
-5% Tagesgeld/Geldmarkt als Cash-Reserve (Graham: Mr. Market macht Angebote, Sie brauchen Cash, um sie zu nutzen)
-
-Asymmetrische Seite (30%)
-
-15% Bitcoin (Sicherheitsnetz gegen Fiat-Entwertung, Tudor Jones Allokation)
-
-5% Ethereum (das Betriebssystem der tokenisierten Wirtschaft)
-
-Ethereum hat hier eine zweite Wachstumsstory, die in der Krypto-Diskussion noch untergeht: den Agent-TAM. Wenn Milliarden von KI-Agenten Transaktionen durchführen, nicht einmal am Tag wie ein Mensch, sondern hunderte Male pro Stunde, dann explodiert die Velocity im Netzwerk. Die fundamentale Gleichung MV = PQ bekommt einen neuen Faktor. Ethereums Layer-2-Netzwerke, Arbitrum, Optimism, Base, sind für genau dieses Volumen gebaut.
-
-5% Tokenisierte Treasuries/RWA (BlackRocks BUIDL, Ondo Finance, yield-generierend)
-
-5% Krypto-Infrastruktur: Coinbase, Securitize (wenn gelistet), Machine-Economy-Token (OLAS, PEAQ)
-
-Eine Position verdient besondere Aufmerksamkeit: Agent-Payment-Rails. Stripe baut mit seiner Chain Tempo die Zahlungsinfrastruktur für die Agent-Economy, und sowohl OpenAI als auch Anthropic sind im ersten Batch von Integrationspartnern. Wenn Stripe 2026 oder 2027 an die Börse geht, gehört die Aktie in diese Kategorie. Bis dahin: PayPal positioniert sich über die X-Money-Integration als Zahlungspartner für Elon Musks Agent-Ökosystem, und Block (ehemals Square) baut seine Bitcoin-Lightning-Infrastruktur aus, die für Mikrotransaktionen zwischen Agenten ideal ist.
-
-Variante B: Der Ausgewogene (Kapital 500K-2M€)
-
-Seite
-
-Allokation
-
-Anteil
-
-SICHERE SEITE (60 %)
-
-Aktien
-
-Globaler ETF mit KI-Tilt
-
-20 %
-
-Big Tech
-
-NVIDIA, Microsoft, Apple, Alphabet, Amazon, Meta
-
-15 %
-
-Robotik
-
-Tesla, Intuitive Surgical, ABB, Figure AI
-
-10 %
-
-Energie
-
-Cameco, Constellation, NuScale, Oklo, Uran-ETF
-
-10 %
-
-Cash
-
-Cash-Reserve
-
-5 %
-
-ASYMMETRISCHE SEITE (40 %)
-
-Bitcoin
-
-DCA über 12 Monate
-
-15 %
-
-Ethereum
-
-Staking, Layer-2-Exposure
-
-8 %
-
-DeFi
-
-Circle (IPO), Aave, Uniswap
-
-7 %
-
-RWA
-
-Maple, Centrifuge, Hamilton Lane tokenisiert
-
-5 %
-
-Machine Economy
-
-Olas, peaq, Fetch.ai/ASI, Render Network
-
-5 %
-
-Gesamt
-
-100 %
-
-Sichere Seite (60%)
-
-20% Globaler Aktien-ETF mit KI-Tilt
-
-15% Big Tech Einzeltitel: NVIDIA, Microsoft, Apple, Alphabet, Amazon, Meta
-
-Ein Wort zu Meta: Meta ist der verwundbarste Titel in dieser Liste. Das Geschäftsmodell basiert fast vollständig auf Werbung, und wie wir im vorherigen Kapitel diskutiert haben, droht den Werbeausgaben ein struktureller Höhepunkt, wenn KI-Agenten die Vermittlerrolle zwischen Konsumenten und Anbietern übernehmen. Google hat durch DeepMind, Waymo und die Cloud-Sparte eine natürliche Absicherung. Meta nicht. Wer hier investiert, wettet auf Zuckerbergs Fähigkeit, das Unternehmen vor dem Ad-Spending-Peak in ein KI-Infrastruktur-Unternehmen umzubauen. Die massiven KI-Infrastrukturinvestitionen 2026 deuten darauf hin, dass er das verstanden hat. Ob es schnell genug geht, ist die Frage.
-
-10% Robotik und Autonomie: Tesla, Intuitive Surgical, ABB, Figure AI (wenn gelistet)
-
-Ergänzung für Investoren, die tiefer in die Robotik-Wertschöpfungskette einsteigen wollen: Die eigentlichen Picks-and-Shovels der Roboterkörper-Produktion sind nicht die Roboterhersteller selbst, sondern ihre Zulieferer. Harmonic Drive Systems aus Japan kontrolliert rund 80 Prozent des Weltmarkts für Präzisionsgetriebe, die in jedem humanoiden Roboter stecken. Nidec, ebenfalls Japan, dominiert bei Servomotoren. Wenn die Roboter-Supply-Chain der Bottleneck der nächsten drei bis fünf Jahre ist, dann sind die Firmen, die die Engpass-Komponenten liefern, die NVIDIA der Robotik.
-
-10% Energie-Superzyklus: Cameco, Constellation, NuScale, Oklo, Uran-ETF
-
-5% Cash-Reserve
-
-Asymmetrische Seite (40%)
-
-15% Bitcoin (DCA über 12 Monate, nicht alles auf einmal; Druckenmillers Timing-Disziplin)
-
-8% Ethereum
-
-7% Stablecoin-Infrastruktur und DeFi: Circle (wenn IPO), Aave, Uniswap Token
-
-5% Tokenisierte RWA und Private Credit (Maple, Centrifuge, Hamilton Lane tokenisiert)
-
-5% Machine-Economy-Infrastruktur: Olas, peaq, Fetch.ai/ASI Alliance, Render Network
-
-Variante C: Der Aggressive (Kapital 2M€+, hohe Risikotoleranz)
-
-Seite
-
-Allokation
-
-Anteil
-
-SICHERE SEITE (50 %)
-
-Big Tech
-
-NVIDIA, Microsoft, Apple
-
-15 %
-
-Energie
-
-Nuklear & Energie breit diversifiziert
-
-15 %
-
-Robotik
-
-Tesla, Intuitive Surgical + Venture-Positionen
-
-10 %
-
-Cash / Treasuries
-
-Tokenisierte Treasuries, yield-generierend
-
-10 %
-
-ASYMMETRISCHE SEITE (50 %)
-
-Bitcoin
-
-Kernposition
-
-20 %
-
-Ethereum
-
-Smart-Contract-Plattform
-
-10 %
-
-KI-Token / DeFi
-
-Render, Filecoin, Olas, ASI Alliance, Aave
-
-8 %
-
-RWA
-
-Private Equity, Immobilien, Private Credit
-
-7 %
-
-Venture / Angel
-
-peaq-Ökosystem, Robotik-DAOs, BCI-nahe Firmen
-
-5 %
-
-Gesamt
-
-100 %
-
-Sichere Seite (50%)
-
-15% Big Tech (NVIDIA, Microsoft, Apple)
-
-15% Energie und Nuklear (breit diversifiziert)
-
-10% Robotik-Portfolio (Tesla, Intuitive Surgical, plus Venture-ähnliche Positionen)
-
-10% Cash und tokenisierte Treasuries (yield-generierend, sofort einsetzbar)
-
-Asymmetrische Seite (50%)
-
-20% Bitcoin
-
-10% Ethereum
-
-8% KI-Infrastruktur-Token und DeFi (Render, Filecoin, Olas, ASI Alliance, Aave)
-
-7% Tokenisierte RWA (Private Equity tokenisiert, Immobilien, Private Credit)
-
-5% Venture/Angel in Machine-Economy-Startups (peaq-Ökosystem, Robotik-DAOs, BCI-nahe Firmen)
+### Variante A: Der Konservative (Kapital 100K–500K€)
+
+| Seite | Allokation | Anteil |
+|-------|-----------|--------|
+| **SICHERE SEITE (70%)** | | |
+| Aktien | Globaler ETF (MSCI World), Tech-Übergewichtung | 30% |
+| Big Tech | NVIDIA, Microsoft, Apple, Alphabet | 15% |
+| Energie | Cameco, Constellation Energy, NextEra | 10% |
+| Robotik | Intuitive Surgical, ABB, Fanuc | 10% |
+| Cash | Tagesgeld / Geldmarkt | 5% |
+| **ASYMMETRISCHE SEITE (30%)** | | |
+| Bitcoin | DCA über 6-12 Monate | 15% |
+| Ethereum | Layer-2-Ökosystem, Agent-TAM | 5% |
+| RWA | BUIDL, Ondo Finance (Tokenisierte Treasuries) | 5% |
+| Infrastruktur | Coinbase, OLAS, PEAQ, Agent-Payment-Rails | 5% |
+| **Gesamt** | | **100%** |
+
+*Anmerkungen zur sicheren Seite:*
+- *30% Globaler Aktien-ETF (MSCI World) mit Übergewichtung USA/Tech*
+- *15% NVIDIA, Microsoft, Apple, Alphabet (die Burggraben-Gewinner der KI-Revolution)*
+- *Anmerkung: Meta fehlt bewusst in der konservativen Variante. Das Geschäftsmodell ist zu 97 Prozent werbefinanziert. Wenn KI-Agenten die Schnittstelle zwischen Mensch und Internet übernehmen und Werbung nicht mehr sehen, steht Metas Kerngeschäft unter Druck, den Google durch DeepMind, Waymo und Cloud besser abfedern kann.*
+- *10% Energie und Nuklear: Cameco (Uran), Constellation Energy, Next Era*
+- *10% Robotik-Pure-Plays: Intuitive Surgical, ABB, Fanuc*
+- *5% Tagesgeld/Geldmarkt als Cash-Reserve (Graham: Mr. Market macht Angebote, Sie brauchen Cash, um sie zu nutzen)*
+
+*Anmerkungen zur asymmetrischen Seite:*
+- *15% Bitcoin (Sicherheitsnetz gegen Fiat-Entwertung, Tudor Jones Allokation)*
+- *5% Ethereum (das Betriebssystem der tokenisierten Wirtschaft)*
+- *Ethereum hat hier eine zweite Wachstumsstory, die in der Krypto-Diskussion noch untergeht: den Agent-TAM. Wenn Milliarden von KI-Agenten Transaktionen durchführen, nicht einmal am Tag wie ein Mensch, sondern hunderte Male pro Stunde, dann explodiert die Velocity im Netzwerk. Die fundamentale Gleichung MV = PQ bekommt einen neuen Faktor. Ethereums Layer-2-Netzwerke, Arbitrum, Optimism, Base, sind für genau dieses Volumen gebaut.*
+- *5% Tokenisierte Treasuries/RWA (BlackRocks BUIDL, Ondo Finance, yield-generierend)*
+- *5% Krypto-Infrastruktur: Coinbase, Securitize (wenn gelistet), Machine-Economy-Token (OLAS, PEAQ)*
+- *Eine Position verdient besondere Aufmerksamkeit: Agent-Payment-Rails. Stripe baut mit seiner Chain Tempo die Zahlungsinfrastruktur für die Agent-Economy, und sowohl OpenAI als auch Anthropic sind im ersten Batch von Integrationspartnern. Wenn Stripe 2026 oder 2027 an die Börse geht, gehört die Aktie in diese Kategorie. Bis dahin: PayPal positioniert sich über die X-Money-Integration als Zahlungspartner für Elon Musks Agent-Ökosystem, und Block (ehemals Square) baut seine Bitcoin-Lightning-Infrastruktur aus, die für Mikrotransaktionen zwischen Agenten ideal ist.*
+
+### Variante B: Der Ausgewogene (Kapital 500K–2M€)
+
+| Seite | Allokation | Anteil |
+|-------|-----------|--------|
+| **SICHERE SEITE (60%)** | | |
+| Aktien | Globaler ETF mit KI-Tilt | 20% |
+| Big Tech | NVIDIA, Microsoft, Apple, Alphabet, Amazon, Meta | 15% |
+| Robotik | Tesla, Intuitive Surgical, ABB, Figure AI | 10% |
+| Energie | Cameco, Constellation, NuScale, Oklo, Uran-ETF | 10% |
+| Cash | Cash-Reserve | 5% |
+| **ASYMMETRISCHE SEITE (40%)** | | |
+| Bitcoin | DCA über 12 Monate | 15% |
+| Ethereum | Staking, Layer-2-Exposure | 8% |
+| DeFi | Circle (IPO), Aave, Uniswap | 7% |
+| RWA | Maple, Centrifuge, Hamilton Lane tokenisiert | 5% |
+| Machine Economy | Olas, peaq, Fetch.ai/ASI, Render Network | 5% |
+| **Gesamt** | | **100%** |
+
+*Anmerkungen zur sicheren Seite:*
+- *20% Globaler Aktien-ETF mit KI-Tilt*
+- *15% Big Tech Einzeltitel: NVIDIA, Microsoft, Apple, Alphabet, Amazon, Meta*
+- *Ein Wort zu Meta: Meta ist der verwundbarste Titel in dieser Liste. Das Geschäftsmodell basiert fast vollständig auf Werbung, und wie wir im vorherigen Kapitel diskutiert haben, droht den Werbeausgaben ein struktureller Höhepunkt, wenn KI-Agenten die Vermittlerrolle zwischen Konsumenten und Anbietern übernehmen. Google hat durch DeepMind, Waymo und die Cloud-Sparte eine natürliche Absicherung. Meta nicht. Wer hier investiert, wettet auf Zuckerbergs Fähigkeit, das Unternehmen vor dem Ad-Spending-Peak in ein KI-Infrastruktur-Unternehmen umzubauen. Die massiven KI-Infrastrukturinvestitionen 2026 deuten darauf hin, dass er das verstanden hat. Ob es schnell genug geht, ist die Frage.*
+- *10% Robotik und Autonomie: Tesla, Intuitive Surgical, ABB, Figure AI (wenn gelistet)*
+- *Ergänzung für Investoren, die tiefer in die Robotik-Wertschöpfungskette einsteigen wollen: Die eigentlichen Picks-and-Shovels der Roboterkörper-Produktion sind nicht die Roboterhersteller selbst, sondern ihre Zulieferer. Harmonic Drive Systems aus Japan kontrolliert rund 80 Prozent des Weltmarkts für Präzisionsgetriebe, die in jedem humanoiden Roboter stecken. Nidec, ebenfalls Japan, dominiert bei Servomotoren. Wenn die Roboter-Supply-Chain der Bottleneck der nächsten drei bis fünf Jahre ist, dann sind die Firmen, die die Engpass-Komponenten liefern, die NVIDIA der Robotik.*
+- *10% Energie-Superzyklus: Cameco, Constellation, NuScale, Oklo, Uran-ETF*
+- *5% Cash-Reserve*
+
+*Anmerkungen zur asymmetrischen Seite:*
+- *15% Bitcoin (DCA über 12 Monate, nicht alles auf einmal; Druckenmillers Timing-Disziplin)*
+- *8% Ethereum*
+- *7% Stablecoin-Infrastruktur und DeFi: Circle (wenn IPO), Aave, Uniswap Token*
+- *5% Tokenisierte RWA und Private Credit (Maple, Centrifuge, Hamilton Lane tokenisiert)*
+- *5% Machine-Economy-Infrastruktur: Olas, peaq, Fetch.ai/ASI Alliance, Render Network*
+
+### Variante C: Der Aggressive (Kapital 2M€+, hohe Risikotoleranz)
+
+| Seite | Allokation | Anteil |
+|-------|-----------|--------|
+| **SICHERE SEITE (50%)** | | |
+| Big Tech | NVIDIA, Microsoft, Apple | 15% |
+| Energie | Nuklear & Energie breit diversifiziert | 15% |
+| Robotik | Tesla, Intuitive Surgical + Venture-Positionen | 10% |
+| Cash / Treasuries | Tokenisierte Treasuries, yield-generierend | 10% |
+| **ASYMMETRISCHE SEITE (50%)** | | |
+| Bitcoin | Kernposition | 20% |
+| Ethereum | Smart-Contract-Plattform | 10% |
+| KI-Token / DeFi | Render, Filecoin, Olas, ASI Alliance, Aave | 8% |
+| RWA | Private Equity, Immobilien, Private Credit | 7% |
+| Venture / Angel | peaq-Ökosystem, Robotik-DAOs, BCI-nahe Firmen | 5% |
+| **Gesamt** | | **100%** |
+
+*Anmerkungen zur sicheren Seite:*
+- *15% Big Tech (NVIDIA, Microsoft, Apple)*
+- *15% Energie und Nuklear (breit diversifiziert)*
+- *10% Robotik-Portfolio (Tesla, Intuitive Surgical, plus Venture-ähnliche Positionen)*
+- *10% Cash und tokenisierte Treasuries (yield-generierend, sofort einsetzbar)*
+
+*Anmerkungen zur asymmetrischen Seite:*
+- *20% Bitcoin*
+- *10% Ethereum*
+- *8% KI-Infrastruktur-Token und DeFi (Render, Filecoin, Olas, ASI Alliance, Aave)*
+- *7% Tokenisierte RWA (Private Equity tokenisiert, Immobilien, Private Credit)*
+- *5% Venture/Angel in Machine-Economy-Startups (peaq-Ökosystem, Robotik-DAOs, BCI-nahe Firmen)*
 
 ### Timing: DCA, nicht FOMO
 
@@ -3430,7 +3233,10 @@ Im besten Fall. Und das ist der Grund, warum wir das tun, verdoppelt sich der Ke
 
 Der ehrliche Mittelweg: Kern plus 60 bis 80 Prozent, Krypto plus 100 bis 200 Prozent, Biotech plus/minus null bis plus 100 Prozent. Gesamtportfolio in fünf Jahren: 180.000 bis 220.000 Euro.
 
-Geplante Börsengänge, die Sie kennen sollten
+
+::: {.infobox}
+### Geplante Börsengänge, die Sie kennen sollten
+
 
 Die AI-Species-These endet nicht bei dem, was heute handelbar ist. Einige der wichtigsten Unternehmen dieser Revolution stehen noch vor ihrem Börsengang:
 
@@ -3452,7 +3258,10 @@ Und CoreWeave (Ticker: CRWV) ist seit März 2025 an der Nasdaq gelistet und hat 
 
 Für alle diese IPOs gilt die gleiche Regel: Maximal 2 bis 3 Prozent des Portfolios pro Einzelwert. Sechs Monate warten. Position langsam aufbauen. Und nur über regulierte Broker. Interactive Brokers bietet den breitesten Zugang für deutsche Anleger.
 
-Wo deutsche Anleger handeln
+:::
+
+### Wo deutsche Anleger handeln
+
 
 Nicht jeder Broker bietet alles an. Hier die Kurzübersicht:
 
@@ -3627,7 +3436,11 @@ Kann gesellschaftlicher Widerstand die Technologie bremsen? Ja. Aufhalten? Nein.
 
 Die Weber, die 1811 in Nottingham die Webstühle zerstörten, konnten die Industrialisierung nicht verhindern. Die Kutscher, die gegen Automobile protestierten, konnten das Auto nicht aufhalten. Die Gewerkschaften, die gegen die Automatisierung in den 1960er Jahren kämpften, konnten die Roboter in den Fabriken nicht verhindern. Gesellschaftlicher Widerstand gegen transformative Technologie hat in der gesamten Menschheitsgeschichte die Adoption verlangsamt, aber niemals verhindert. Nicht ein einziges Mal.
 
-Der Grund ist ökonomisch: Die Produktivitätsgewinne sind zu groß. Jedes Unternehmen, jedes Land, das die Technologie ablehnt, fällt gegenüber denen zurück, die sie annehmen. Die Ludditen von heute werden die gleiche Erfahrung machen wie die Ludditen von 1811: Ihre Wut ist verständlich, ihre Ohnmacht ist unvermeidlich. Taiwan: Das unterschätzte Risiko Ein Risiko, das mich deutlich mehr beunruhigt als gesellschaftlicher Widerstand, ist Taiwan.
+Der Grund ist ökonomisch: Die Produktivitätsgewinne sind zu groß. Jedes Unternehmen, jedes Land, das die Technologie ablehnt, fällt gegenüber denen zurück, die sie annehmen. Die Ludditen von heute werden die gleiche Erfahrung machen wie die Ludditen von 1811: Ihre Wut ist verständlich, ihre Ohnmacht ist unvermeidlich.
+
+### Taiwan: Das unterschätzte Risiko
+
+Ein Risiko, das mich deutlich mehr beunruhigt als gesellschaftlicher Widerstand, ist Taiwan.
 
 TSMC produziert über 90 Prozent der weltweit fortschrittlichsten Halbleiter. Jeder KI-Chip von NVIDIA, jeder Apple-Prozessor, jeder Hochleistungsrechner in jedem Rechenzentrum der Welt hängt von einer einzigen Fabrik auf einer Insel ab, die 130 Kilometer vor der chinesischen Küste liegt. Eine Insel, auf die China einen Souveränitätsanspruch erhebt, den es zunehmend aggressiv durchzusetzen versucht.
 
@@ -4274,119 +4087,37 @@ Die AI-Species-Kinderbarbell
 
 Bei einem Horizont von 15 bis 18 Jahren kann man aggressiver investieren als bei einem Erwachsenen-Portfolio. Korrekturen und Crashs haben genug Zeit, sich zu erholen.
 
-Asset
+#### Variante A - Der einfache Weg (1 ETF)
 
-Produkt / ISIN
+| Asset | Produkt / ISIN | Anteil | Betrag |
+|-------|---------------|---------|--------|
+| MSCI World ETF | IE00B4L5Y983 (TER 0,20%) | 100% | 200€ |
 
-Anteil
+*200 Euro pro Monat in einen MSCI World ETF (ISIN: IE00B4L5Y983, TER: 0,20 Prozent) oder einen Vanguard FTSE All-World (ISIN: IE00BK5BQT80, TER: 0,22 Prozent). Historisch 7 bis 9 Prozent Rendite pro Jahr. Bei 8 Prozent und 18 Jahren: circa 96.000 Euro (eingezahlt: 43.200 Euro).*
 
-Betrag
+#### Variante B - Mit KI-Tilt (3 ETFs)
 
-MSCI World ETF
+| Asset | Produkt / ISIN | Anteil | Betrag |
+|-------|---------------|---------|--------|
+| MSCI World ETF | IE00B4L5Y983 | 60% | 120€ |
+| Nasdaq-100 ETF | IE00BFZXGZ54 | 25% | 50€ |
+| Robotik-ETF | IE00BYZK4552 | 15% | 30€ |
+| **Gesamt** | | **100%** | **200€** |
 
-IE00B4L5Y983 (TER 0,20 %)
+*60 Prozent MSCI World (120 Euro), 25 Prozent Nasdaq-100 (50 Euro, ISIN: IE00BFZXGZ54), 15 Prozent Robotik-ETF (30 Euro, ISIN: IE00BYZK4552). Bei 10 Prozent Rendite: circa 120.000 Euro nach 18 Jahren.*
 
-100 %
+#### Variante C - Die aggressive Kinderbarbell
 
-200 €
+| Asset | Produkt / ISIN | Anteil | Betrag |
+|-------|---------------|---------|--------|
+| MSCI World ETF | IE00B4L5Y983 | 50% | 100€ |
+| Nasdaq-100 ETF | IE00BFZXGZ54 | 20% | 40€ |
+| Robotik-ETF | IE00BYZK4552 | 10% | 20€ |
+| Bitcoin* | Im eigenen Depot | 15% | 30€ |
+| Ethereum* | Im eigenen Depot | 5% | 10€ |
+| **Gesamt** | | **100%** | **200€** |
 
-Variante A - Der einfache Weg (1 ETF): 200 Euro pro Monat in einen MSCI World ETF (ISIN: IE00B4L5Y983, TER: 0,20 Prozent) oder einen Vanguard FTSE All-World (ISIN: IE00BK5BQT80, TER: 0,22 Prozent). Historisch 7 bis 9 Prozent Rendite pro Jahr. Bei 8 Prozent und 18 Jahren: circa 96.000 Euro (eingezahlt: 43.200 Euro).
-
-Asset
-
-Produkt / ISIN
-
-Anteil
-
-Betrag
-
-MSCI World ETF
-
-IE00B4L5Y983
-
-60 %
-
-120 €
-
-Nasdaq-100 ETF
-
-IE00BFZXGZ54
-
-25 %
-
-50 €
-
-Robotik-ETF
-
-IE00BYZK4552
-
-15 %
-
-30 €
-
-Gesamt
-
-100 %
-
-200 €
-
-Variante B - Mit KI-Tilt (3 ETFs): 60 Prozent MSCI World (120 Euro), 25 Prozent Nasdaq-100 (50 Euro, ISIN: IE00BFZXGZ54), 15 Prozent Robotik-ETF (30 Euro, ISIN: IE00BYZK4552). Bei 10 Prozent Rendite: circa 120.000 Euro nach 18 Jahren.
-
-Asset
-
-Produkt / ISIN
-
-Anteil
-
-Betrag
-
-MSCI World ETF
-
-IE00B4L5Y983
-
-50 %
-
-100 €
-
-Nasdaq-100 ETF
-
-IE00BFZXGZ54
-
-20 %
-
-40 €
-
-Robotik-ETF
-
-IE00BYZK4552
-
-10 %
-
-20 €
-
-Bitcoin*
-
-Im eigenen Depot
-
-15 %
-
-30 €
-
-Ethereum*
-
-Im eigenen Depot
-
-5 %
-
-10 €
-
-Gesamt
-
-100 %
-
-200 €
-
-Variante C - Die aggressive Kinderbarbell: 50 Prozent MSCI World (100 Euro), 20 Prozent Nasdaq-100 (40 Euro), 10 Prozent Robotik-ETF (20 Euro), 15 Prozent Bitcoin (30 Euro), 5 Prozent Ethereum (10 Euro). Krypto kann nicht im Junior-Depot gekauft werden - den Anteil kaufe ich im eigenen Namen und übertrage ihn zum 18. Geburtstag. Bei konservativ geschätzter Rendite: circa 141.000 Euro. Bei optimistischer Krypto-Entwicklung: bis zu 195.000 Euro.
+*50 Prozent MSCI World (100 Euro), 20 Prozent Nasdaq-100 (40 Euro), 10 Prozent Robotik-ETF (20 Euro), 15 Prozent Bitcoin (30 Euro), 5 Prozent Ethereum (10 Euro). Krypto kann nicht im Junior-Depot gekauft werden - den Anteil kaufe ich im eigenen Namen und übertrage ihn zum 18. Geburtstag. Bei konservativ geschätzter Rendite: circa 141.000 Euro. Bei optimistischer Krypto-Entwicklung: bis zu 195.000 Euro.*
 
 ### Die Steuer-Strategie
 
