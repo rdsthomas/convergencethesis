@@ -205,11 +205,13 @@ Weil es einen qualitativen Unterschied gibt zwischen einer Technologie, die mens
 Künstliche Intelligenz bricht dieses Muster.
 Zum ersten Mal in der Menschheitsgeschichte bauen wir Systeme, die denken, lernen, entscheiden und handeln können, ohne menschliche Anleitung. Nicht in einem engen, vordefinierten Rahmen wie ein Schachcomputer, der eine Brettposition bewertet, sondern in der offenen, unstrukturierten Welt, von der Vertragsanalyse über die Softwareentwicklung bis zur medizinischen Diagnose.
 Das ist kein inkrementeller Fortschritt, sondern ein Kategoriewechsel.
+
 ::: {.infobox}
 ### Die vier ökonomischen Revolutionen nach Emad Mostaque
 
 Emad Mostaque, der Gründer von Stability AI, nennt das die "Intelligence Inversion": die vierte und letzte ökonomische Umwälzung der Menschheitsgeschichte. Nach Land, Arbeit und Kapital wird jetzt Intelligenz selbst von einer knappen zu einer unbegrenzt verfügbaren Ressource. Die früheren Inversionen ließen immer einen Rückzugsraum: Wer kein Land mehr hatte, konnte seine Arbeitskraft verkaufen. Wer keine Arbeit mehr fand, konnte Kapital einsetzen. Aber wenn Intelligenz abundant wird, ersetzt das den Verstand selbst. "AI replaces the mind itself", schreibt Mostaque in seinem Buch "The Last Economy", "making the Luddite analogy more dire." Die Ludditen zerschlugen Webstühle und fanden andere Arbeit. Wenn die Maschine nicht die Hände ersetzt, sondern den Kopf, gibt es keinen offensichtlichen Ausweg mehr.
 :::
+
 ### Hier liegt die Crux, die die meisten Menschen nicht sehen wollen:
 Arbeit war für die große Mehrheit der Menschen der einzige Weg zu Wohlstand. Du verkaufst deine Zeit, dein Wissen, deine Fähigkeiten. Dafür bekommst du Geld. Mit dem Geld baust du Vermögen auf. Aus Vermögen entsteht Sicherheit, Freiheit, Optionen.
 Wenn Maschinen die Arbeit übernehmen, nicht nur die körperliche, sondern auch die geistige, dann bricht diese Kette.
@@ -663,6 +665,7 @@ Aber hier wird es interessant. Ihr Assistent bezahlt nicht nur das Essen. Er bez
 
 Sieben Transaktionen. Drei physische Dienstleister. Null menschliche Freigaben. Ihr Pad Thai ist in 22 Minuten da.
 :::
+
 > *Was hier passiert ist, verdient einen zweiten Blick. Nicht wegen der Technologie - Drohnenlieferungen und KI-Assistenten gibt es bereits. Sondern wegen der Ökonomie dahinter. In der alten Welt brauchte diese Transaktion eine Plattform wie Lieferando, die 30 Prozent Provision nimmt. Einen Zahlungsdienstleister, der 2,9 Prozent plus 30 Cent kassiert. Einen Vertragsrahmen zwischen Restaurant, Plattform und Lieferdienst. Bankkonten, Kreditkarten, monatliche Abrechnungen.*
 > *In der neuen Welt gibt es nur Agenten und Stablecoins. Jeder Agent hat eine Wallet. Jede Transaktion wird in Millisekunden abgewickelt, für Bruchteile eines Cents Gebühr. Kein Mittelsmann nimmt 30 Prozent, die Wertschöpfung bleibt beim Restaurant und beim Kunden.*
 > *Das ist Maschinengeld in der physischen Welt. Nicht nur Bits bezahlen Bits. Agenten bezahlen für Atome.*
@@ -992,6 +995,7 @@ Self-Custody (die eigene Verwahrung von Kryptowährungen) wird in einer Welt von
 Die Convergence Thesis hat eine Dimension, die über Investmentchancen hinausgeht. Die Konvergenz von KI, Robotik und Krypto bestimmt nicht nur, wer reich wird. Sie bestimmt, wer frei bleibt.
 Der Schulden-Elefant im Raum
 Jetzt kommt der Teil, der alles zusammenhält. Und der alles infrage stellt.
+
 ::: {.infobox}
 ### Warum die USA ihre eigenen Schulden nicht bezahlen können
 
@@ -1005,6 +1009,7 @@ Das Committee for a Responsible Federal Budget hat im Januar 2026 einen Bericht 
 
 Und warum ist das relevant für Stablecoins und Tokenisierung? Weil alles miteinander zusammenhängt.
 :::
+
 ### Das Schulden-Stablecoin-Paradox
 Hier entsteht ein Paradox, das die meisten Kommentatoren übersehen.
 Stablecoins stützen die Dollar-Dominanz, indem sie Nachfrage nach US-Staatsanleihen erzeugen. Das hilft Washington, die Staatsschulden zu finanzieren. Aber genau diese Schulden untergraben langfristig das Vertrauen in den Dollar, das die Stablecoins als Anker brauchen.
