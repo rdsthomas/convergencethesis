@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "130de55d2cc3f9cf",
+        "id": "2d697aae8eac6862",
         "type": "tabs",
         "children": [
           {
-            "id": "8916e5c157555d2a",
+            "id": "e7164ed250162c38",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,6 +184,14 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "8916e5c157555d2a",
-  "lastOpenFiles": []
+  "active": "9b9c681a8f123290",
+  "lastOpenFiles": [
+    "images/abb-24.png",
+    "images/abb-01.png",
+    "images/abb-04.png",
+    "images/abb-03.png",
+    "images/abb-02.png",
+    "CHANGELOG.md",
+    "the-ai-species.md"
+  ]
 }

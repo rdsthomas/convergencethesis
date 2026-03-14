@@ -746,7 +746,7 @@ Und diese Praxis hat bereits begonnen. In der Welt der tokenisierten Vermögensw
 
 ## Kapitel 4: Wenn alles ein Token wird
 
-"In der Kryptographie vertrauen wir."
+"In Kryptographie vertrauen wir."
 
 - Frei nach "In God We Trust"
 
