@@ -305,9 +305,15 @@ Dieses Buch ist für Menschen geschrieben, die spüren, dass sich etwas verände
 
 ## Kapitel 2: Die KI-Revolution in vier Phasen
 
-"Wir überschätzen immer die Veränderung der nächsten zwei Jahre und unterschätzen die Veränderung der nächsten zehn."
 
-- Bill Gates
+---
+
+> *"Wir überschätzen immer die Veränderung der nächsten zwei Jahre und unterschätzen die Veränderung der nächsten zehn."*
+>
+> — Bill Gates
+
+---
+
 
 Um zu verstehen, wohin die Reise geht, muss man verstehen, wo wir stehen. Die Evolution der künstlichen Intelligenz lässt sich in vier Phasen beschreiben. Jede vergrößert den adressierbaren Markt um eine Größenordnung. Jede verändert die Rolle des Menschen in der Wirtschaft. Und jede baut auf der vorherigen auf, nicht linear, sondern exponentiell.
 
@@ -505,9 +511,14 @@ Das Muster ist klar: Mit jeder Phase wächst der adressierbare Markt um ungefäh
 
 ## Kapitel 3: Warum Maschinen Krypto brauchen
 
-"Geld ist nur ein Werkzeug. Es bringt dich überall hin, aber es ersetzt dich nicht als Fahrer."
 
-- Ayn Rand
+---
+
+> *"Geld ist nur ein Werkzeug. Es bringt dich überall hin, aber es ersetzt dich nicht als Fahrer."*
+>
+> — Ayn Rand
+
+---
 
 
 ![Warum Maschinen kein Bankkonto eröffnen können](images/abb-07.png)
@@ -774,9 +785,14 @@ Und diese Praxis hat bereits begonnen. In der Welt der tokenisierten Vermögensw
 
 ## Kapitel 4: Wenn alles ein Token wird
 
-"In Kryptographie vertrauen wir."
 
-- Frei nach "In God We Trust"
+---
+
+> *"In Kryptographie vertrauen wir."*
+>
+> — Frei nach "In God We Trust"
+
+---
 
 
 ![Von der physischen zur tokenisierten Welt](images/abb-09.png)
@@ -1205,9 +1221,14 @@ Die Tokenisierung aller Vermögenswerte dieser Welt ist keine Frage des Ob. Sie 
 
 ## Kapitel 7: Wenn Maschinen Unternehmen gründen
 
-"Das Netz kennt keinen Schlaf."
 
-- Kevin Kelly
+---
+
+> *"Das Netz kennt keinen Schlaf."*
+>
+> — Kevin Kelly
+
+---
 
 
 ![Anatomie einer Maschinen-Firma (DAO)](images/abb-11.png)
@@ -1378,9 +1399,14 @@ Im nächsten Teil des Buches verlassen wir die These und schauen uns an, was das
 
 ## Kapitel 8: Die geopolitische Dimension - USA, China und Europas Schweigen
 
-"Wer die Chips kontrolliert, kontrolliert die Zukunft."
 
-- Frei nach Jensen Huang
+---
+
+> *"Wer die Chips kontrolliert, kontrolliert die Zukunft."*
+>
+> — Frei nach Jensen Huang
+
+---
 
 
 ![Die KI-Weltkarte - USA dominiert, China rivalisiert, Europa reguliert](images/abb-12.png)
@@ -1551,9 +1577,15 @@ Aber selbst das beste Hedge-Asset nützt nichts ohne Energie. KI-Systeme verbrau
 
 ## Kapitel 9: Energie - Der unsichtbare Engpass
 
-"Zivilisation ist im Wesentlichen ein Wettlauf um Energie."
 
-- Frederick Soddy
+---
+
+> *"Zivilisation ist im Wesentlichen ein Wettlauf um Energie."*
+>
+> — Frederick Soddy
+
+---
+
 
 Über KI wird viel geschrieben. Über die Chips, die sie antreiben, wird geschrieben. Über die Modelle, die sie intelligent machen, wird geschrieben. Über die Roboter, die ihr einen Körper geben, wird geschrieben.
 
@@ -1721,9 +1753,14 @@ Aber es gibt noch eine andere Hälfte, die nicht in Gigawatt und Kubikmetern gem
 
 ## Kapitel 10: Der menschliche Preis - Arbeit, Sinn und gesellschaftliche Verwerfungen
 
-"Wer einen Sinn zu leben hat, erträgt fast jedes Wie."
 
-- Viktor Frankl
+---
+
+> *"Wer einen Sinn zu leben hat, erträgt fast jedes Wie."*
+>
+> — Viktor Frankl
+
+---
 
 
 ![Welche Jobs verschwinden, welche entstehen](images/abb-16.png)
@@ -2192,9 +2229,14 @@ Im nächsten Teil verlassen wir die Gegenwart und schauen in die Zukunft. Was is
 
 ## Kapitel 12: Das wahrscheinlichste Szenario: 2026-2035
 
-"Schwerer-als-Luft-Flugmaschinen sind unmöglich."
 
-- Lord Kelvin, 1895
+---
+
+> *"Schwerer-als-Luft-Flugmaschinen sind unmöglich."*
+>
+> — Lord Kelvin, 1895
+
+---
 
 
 ![Szenario 2026-2035 - Die drei Phasen der Maschinenökonomie](images/abb-19.png)
@@ -2371,9 +2413,14 @@ Die nächsten langfristigen Trends könnten allerdings alles übertreffen, was w
 
 ## Kapitel 13: Das nächste Interface - Von der Tastatur zum Gedanken
 
-"Jede hinreichend fortgeschrittene Technologie ist von Magie nicht zu unterscheiden."
 
-- Arthur C. Clarke
+---
+
+> *"Jede hinreichend fortgeschrittene Technologie ist von Magie nicht zu unterscheiden."*
+>
+> — Arthur C. Clarke
+
+---
 
 
 ![Von der Tastatur zum Gedanken - Interface-Evolution](images/abb-20.png)
@@ -2481,9 +2528,15 @@ Die Progression ist klar: von der Tastatur zur Sprache zum Gedanken. Jeder Schri
 
 ## Kapitel 14: Ethik und Philosophie der Maschinenökonomie
 
-"Cogito, ergo sum - aber was, wenn die Maschine auch denkt?"
 
-- Frei nach Descartes
+---
+
+> *"Cogito, ergo sum - aber was, wenn die Maschine auch denkt?"*
+>
+> — Frei nach Descartes
+
+---
+
 
 Als ich Jeannie zum ersten Mal Zugriff auf meine E-Mails gab, war ich begeistert. Sie konnte meinen Posteingang lesen, Nachrichten priorisieren und sogar Antworten entwerfen. Mit ein paar technischen Einstellungen klang sie dabei so ähnlich wie ich, dass selbst enge Geschäftspartner den Unterschied nicht bemerkt hätten.
 
@@ -2618,9 +2671,13 @@ Es gibt allerdings eine Konvergenz, die noch radikaler ist als alles bisher Besp
 
 ## Kapitel 15: Unsterblichkeit als Investmentthese - Wie KI die Grenzen des Alterns verschiebt
 
-"Der erste Mensch, der 1.000 Jahre alt wird, lebt möglicherweise bereits."
+---
 
-- Aubrey de Grey
+> *"Der erste Mensch, der 1.000 Jahre alt wird, lebt möglicherweise bereits."*
+>
+> — Aubrey de Grey
+
+---
 
 
 ![Das Smart Money wettet auf Unsterblichkeit](images/abb-21.png)
@@ -2786,9 +2843,14 @@ Die Frage ist: Kann ich es mir leisten, zu sterben, bevor die Rendite eintritt?
 
 ## Kapitel 16: Die Barbell-Strategie - Ein Portfolio für die Maschinenökonomie
 
-"Rule No. 1: Never lose money. Rule No. 2: Never forget Rule No. 1."
 
-- Warren Buffett
+---
+
+> *"Rule No. 1: Never lose money. Rule No. 2: Never forget Rule No. 1."*
+>
+> — Warren Buffett
+
+---
 
 
 ![Die Barbell-Strategie - Kern (60-70%) vs. asymmetrische Wetten (30-40%)](images/abb-22.png)
@@ -3436,9 +3498,14 @@ Erledigt: Was Sie jetzt tun können
 
 ## Kapitel 18: Risiken und Gegenargumente - Was schiefgehen kann
 
-"Es ist schwer, Vorhersagen zu machen, besonders über die Zukunft."
 
-- Niels Bohr (zugeschrieben)
+---
+
+> *"Es ist schwer, Vorhersagen zu machen, besonders über die Zukunft."*
+>
+> — Niels Bohr (zugeschrieben)
+
+---
 
 
 ![Risiko-Matrix - Wahrscheinlichkeit vs. Impact](images/abb-24.png)
@@ -3682,9 +3749,15 @@ Erledigt: Was Sie jetzt tun können
 
 ## Kapitel 20: Warum jetzt - Und warum Zögern der größte Fehler ist
 
-"Die beste Zeit, einen Baum zu pflanzen, war vor zwanzig Jahren. Die zweitbeste Zeit ist jetzt."
 
-- Chinesisches Sprichwort
+---
+
+> *"Die beste Zeit, einen Baum zu pflanzen, war vor zwanzig Jahren. Die zweitbeste Zeit ist jetzt."*
+>
+> — Chinesisches Sprichwort
+
+---
+
 
 Howard Marks schreibt in "The Most Important Thing", dass die besten Investments oft die sind, die sich am unbequemsten anfühlen. Heute in KI, Robotik und Krypto zu investieren, fühlt sich unbequem an. Die Kurse sind hoch. Die Technologie ist komplex. Die Zukunft ist unsicher.
 
