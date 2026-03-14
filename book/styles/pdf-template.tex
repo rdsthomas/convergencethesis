@@ -129,10 +129,15 @@ $endif$
 % --- Headers and Footers ---
 \pagestyle{fancy}
 \fancyhf{}
-\fancyhead[LE]{\small\itshape\leftmark}
-\fancyhead[RO]{\small\itshape\rightmark}
+\fancyhead[LE]{\small\itshape\nouppercase{\leftmark}}
+\fancyhead[RO]{\small\itshape\nouppercase{\rightmark}}
 \fancyfoot[C]{\small\thepage}
 \renewcommand{\headrulewidth}{0.4pt}
+
+% --- Hyphenation and overflow prevention ---
+\tolerance=1000
+\emergencystretch=1em
+\sloppy
 
 % --- Hyperlinks ---
 \hypersetup{
@@ -184,6 +189,8 @@ $endif$
 
 \mainmatter
 \pagestyle{fancy}
+% Reset the marks so "Inhaltsverzeichnis" doesn't persist
+\markboth{}{}
 $body$
 
 \end{document}
