@@ -57,10 +57,11 @@ h4 {
     margin-bottom: 0.4em;
 }
 
-/* --- Paragraphs --- */
+/* --- Paragraphs: no indent, spacing between --- */
 p {
     margin-top: 0;
-    margin-bottom: 0.8em;
+    margin-bottom: 0.6em;
+    text-indent: 0;
     text-align: justify;
     hyphens: auto;
 }
