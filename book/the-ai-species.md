@@ -3663,7 +3663,9 @@ Woche 4: Vertiefen und erweitern. Lesen Sie die Memos von Howard Marks. Lesen Si
 
 Und dann: Halten. Nicht jeden Tag ins Portfolio schauen. Nicht bei jedem Kursrückgang nervös werden. Einmal im Quartal überprüfen, einmal im Jahr rebalancen. Die Barbell-Strategie ist eine Langfriststrategie. Sie funktioniert über Dekaden, nicht über Tage.
 
-Die Schlussfrage
+
+### Die Schlussfrage
+
 
 Die Konvergenz von Künstlicher Intelligenz, Robotik und Kryptowährungen ist nicht eine Möglichkeit unter vielen. Sie ist die wahrscheinlichste Zukunft. KI wird die Intelligenz liefern, Roboter werden die physische Arbeit übernehmen, und Krypto wird das Schmiermittel der Maschinenökonomie sein. Wer diese drei Säulen versteht und in sie investiert, positioniert sich auf der richtigen Seite der größten Vermögenstransformation unserer Lebenszeit.
 
