@@ -3789,7 +3789,78 @@ Starnberger See, im März 2026
 Thomas Huhn
 
 
-## Anhang A - Glossar
+## Anhang A - Das Kinderportfolio: Für Mila und Malou
+
+Dieses Buch endet mit einem Brief an meine Enkelin Mila. Aber ein Brief reicht nicht. Wenn ich an die Welt glaube, die in den vorigen Kapiteln beschrieben wird. Und das tue ich -, dann muss ich auch danach handeln. Für die beiden Menschen, für die es am meisten zählt.
+
+Mila ist drei. Malou wird im April 2026 geboren. Wenn die beiden achtzehn werden - 2041 und 2044 -, wird die Maschinenökonomie Realität sein. Nicht als These, sondern als Alltag.
+
+Die Frage ist: Wie gebe ich meinen Enkelkindern den bestmöglichen finanziellen Start in diese Welt?
+
+Die Antwort: Ein monatlicher Sparplan, der die Barbell-Logik dieses Buches auf einen Kinderhorizont von 15 bis 18 Jahren anwendet.
+
+Das Junior-Depot
+
+Für Kinder gibt es spezielle Wertpapierdepots - sogenannte Junior-Depots. Sie werden auf den Namen des Kindes eröffnet, von den Eltern verwaltet und gehen mit dem 18. Geburtstag in den Besitz des Kindes über.
+
+Die besten Anbieter (Stand März 2026): Trade Republic (kostenlose Sparpläne, ab 1 Euro Sparrate, beide Elternteile müssen Kunden sein), Scalable Capital (alle Sparpläne gebührenfrei, Geldmarktfonds für Verrechnungskonto), ING und Consorsbank (Eltern müssen nicht selbst Kunden sein - ideal, wenn die Großeltern das Depot initiieren).
+
+Als Großvater eröffne ich kein Junior-Depot direkt. Ich bitte die Eltern, es zu eröffnen, und richte einen Dauerauftrag ein, der monatlich den Sparbetrag auf das Verrechnungskonto überweist.
+
+Die AI-Species-Kinderbarbell
+
+Bei einem Horizont von 15 bis 18 Jahren kann man aggressiver investieren als bei einem Erwachsenen-Portfolio. Korrekturen und Crashs haben genug Zeit, sich zu erholen.
+
+#### Variante A - Der einfache Weg (1 ETF)
+
+| Asset | Produkt / ISIN | Anteil | Betrag |
+|-------|---------------|---------|--------|
+| MSCI World ETF | IE00B4L5Y983 (TER 0,20%) | 100% | 200€ |
+
+*200 Euro pro Monat in einen MSCI World ETF (ISIN: IE00B4L5Y983, TER: 0,20 Prozent) oder einen Vanguard FTSE All-World (ISIN: IE00BK5BQT80, TER: 0,22 Prozent). Historisch 7 bis 9 Prozent Rendite pro Jahr. Bei 8 Prozent und 18 Jahren: circa 96.000 Euro (eingezahlt: 43.200 Euro).*
+
+#### Variante B - Mit KI-Tilt (3 ETFs)
+
+| Asset | Produkt / ISIN | Anteil | Betrag |
+|-------|---------------|---------|--------|
+| MSCI World ETF | IE00B4L5Y983 | 60% | 120€ |
+| Nasdaq-100 ETF | IE00BFZXGZ54 | 25% | 50€ |
+| Robotik-ETF | IE00BYZK4552 | 15% | 30€ |
+| **Gesamt** | | **100%** | **200€** |
+
+*60 Prozent MSCI World (120 Euro), 25 Prozent Nasdaq-100 (50 Euro, ISIN: IE00BFZXGZ54), 15 Prozent Robotik-ETF (30 Euro, ISIN: IE00BYZK4552). Bei 10 Prozent Rendite: circa 120.000 Euro nach 18 Jahren.*
+
+#### Variante C - Die aggressive Kinderbarbell
+
+| Asset | Produkt / ISIN | Anteil | Betrag |
+|-------|---------------|---------|--------|
+| MSCI World ETF | IE00B4L5Y983 | 50% | 100€ |
+| Nasdaq-100 ETF | IE00BFZXGZ54 | 20% | 40€ |
+| Robotik-ETF | IE00BYZK4552 | 10% | 20€ |
+| Bitcoin* | Im eigenen Depot | 15% | 30€ |
+| Ethereum* | Im eigenen Depot | 5% | 10€ |
+| **Gesamt** | | **100%** | **200€** |
+
+*50 Prozent MSCI World (100 Euro), 20 Prozent Nasdaq-100 (40 Euro), 10 Prozent Robotik-ETF (20 Euro), 15 Prozent Bitcoin (30 Euro), 5 Prozent Ethereum (10 Euro). Krypto kann nicht im Junior-Depot gekauft werden - den Anteil kaufe ich im eigenen Namen und übertrage ihn zum 18. Geburtstag. Bei konservativ geschätzter Rendite: circa 141.000 Euro. Bei optimistischer Krypto-Entwicklung: bis zu 195.000 Euro.*
+
+### Die Steuer-Strategie
+
+Jedes Kind hat einen eigenen Sparerpauschbetrag von 1.000 Euro und einen Grundfreibetrag von 12.348 Euro (Stand 2026). Mit einer Nichtveranlagungsbescheinigung vom Finanzamt bleiben Kapitalerträge bis circa 13.348 Euro pro Jahr steuerfrei. Die NV-Bescheinigung ist kostenlos und drei Jahre gültig.
+
+Für den Krypto-Anteil gilt: Im eigenen Depot halten, die 1-Jahres-Haltefrist nutzen (danach steuerfrei), und zum 18. Geburtstag übertragen. Der Schenkungsfreibetrag von Großeltern an Enkel beträgt 200.000 Euro über zehn Jahre - bei den hier genannten Summen kein Problem.
+
+### Was ich für Mila und Malou wähle
+
+Variante C. 200 Euro pro Monat pro Kind. 400 Euro gesamt.
+
+Der Grund: Mila und Malou haben 15 bis 18 Jahre Zeit. Das ist lang genug, um den nächsten Krypto-Winter, den nächsten Tech-Crash und den nächsten Bärenmarkt auszusitzen. Und lang genug, um von der Maschinenökonomie zu profitieren, die in diesem Buch beschrieben wird.
+
+Wenn ich Recht habe, werden die beiden mit achtzehn ein Portfolio haben, das ihnen einen Start ins Leben ermöglicht, den die meisten ihrer Altersgenossen nicht haben werden. Und wenn ich falsch liege? Dann haben sie trotzdem ein breit gestreutes ETF-Portfolio, das in 18 Jahren mit an Sicherheit grenzender Wahrscheinlichkeit im Plus ist.
+
+Das ist die Barbell. Begrenztes Risiko. Unbegrenztes Upside. Für die beiden unschuldigen jungen Menschen, die in eine Zukunft hineingeboren werden, die ihnen ohne eigenes Portfolio keine Chance auf ein selbstbestimmtes Leben lassen würde.
+
+
+## Anhang B - Glossar
 
 Die wichtigsten Begriffe aus der Welt von Krypto, Blockchain und Künstlicher Intelligenz - erklärt für Menschen, die wissen, wie eine Bank funktioniert, aber nicht, wie eine Blockchain tickt.
 
@@ -3890,7 +3961,7 @@ Die wichtigsten Begriffe aus der Welt von Krypto, Blockchain und Künstlicher In
 **Zero-Knowledge Proof:** Ein kryptographisches Verfahren, mit dem Sie etwas beweisen können, ohne die Information selbst preiszugeben. Beispiel: Sie beweisen, dass Sie über 18 sind, ohne Ihr Geburtsdatum zu verraten. Relevant für Datenschutz auf Blockchains.
 
 
-## Anhang B - Umsetzung für deutsche Anleger
+## Anhang C - Umsetzung für deutsche Anleger
 
 Dieses Buch beschreibt eine Investmentthese. Dieser Anhang macht sie praktisch umsetzbar - für jeden, der ein Depot bei einer deutschen Direktbank hat. Stand: Februar 2026. Produkte und ISINs können sich ändern. Aktuelle Informationen finden Sie auf der Companion-Website zum Buch: TheAiSpecies.world
 
@@ -3921,7 +3992,7 @@ Für direkte Krypto-Investments jenseits von ETPs: Regulierte Börsen wie Bitsta
 Dieses Buch ist keine Anlageberatung. Die genannten Produkte dienen der Illustration, nicht der Empfehlung. Jede Investmententscheidung sollte auf der eigenen Risikobereitschaft, finanziellen Situation und idealerweise der Beratung eines zugelassenen Finanzberaters basieren.
 
 
-## Anhang C - Tokenomics-Vergleich
+## Anhang D - Tokenomics-Vergleich
 
 Die folgenden Token werden im Buch als Beispiele für die Infrastruktur der Maschinenökonomie genannt. Diese Übersicht gibt einen Snapshot der wichtigsten Kennzahlen. Stand: Februar 2026.
 
@@ -3934,7 +4005,7 @@ Die folgenden Token werden im Buch als Beispiele für die Infrastruktur der Masc
 **PEAQ (peaq Network):** Layer-1-Blockchain für DePIN (Decentralized Physical Infrastructure Networks). Token im Early-Stage-Stadium, Gesamtangebot und Unlock-Schedule noch in Entwicklung. Staking zur Netzwerksicherung. Nutzen: Governance und Transaktionsgebühren für IoT-Geräte und Maschinen-zu-Maschinen-Zahlungen.
 
 
-## Anhang D - Literaturverzeichnis
+## Anhang E - Literaturverzeichnis
 
 Die folgende Übersicht umfasst alle im Buch zitierten oder referenzierten Werke, geordnet nach Kategorie. Vollständige Einzelbelege finden sich in den Endnotes.
 
@@ -4073,77 +4144,6 @@ Google AI Essentials - coursera.org.
 NVIDIA GTC Keynotes - nvidia.com/gtc.
 
 Prompt Engineering for Everyone - DeepLearning.AI.
-
-
-## Anhang E - Das Kinderportfolio: Für Mila und Malou
-
-Dieses Buch endet mit einem Brief an meine Enkelin Mila. Aber ein Brief reicht nicht. Wenn ich an die Welt glaube, die in den vorigen Kapiteln beschrieben wird. Und das tue ich -, dann muss ich auch danach handeln. Für die beiden Menschen, für die es am meisten zählt.
-
-Mila ist drei. Malou wird im April 2026 geboren. Wenn die beiden achtzehn werden - 2041 und 2044 -, wird die Maschinenökonomie Realität sein. Nicht als These, sondern als Alltag.
-
-Die Frage ist: Wie gebe ich meinen Enkelkindern den bestmöglichen finanziellen Start in diese Welt?
-
-Die Antwort: Ein monatlicher Sparplan, der die Barbell-Logik dieses Buches auf einen Kinderhorizont von 15 bis 18 Jahren anwendet.
-
-Das Junior-Depot
-
-Für Kinder gibt es spezielle Wertpapierdepots - sogenannte Junior-Depots. Sie werden auf den Namen des Kindes eröffnet, von den Eltern verwaltet und gehen mit dem 18. Geburtstag in den Besitz des Kindes über.
-
-Die besten Anbieter (Stand März 2026): Trade Republic (kostenlose Sparpläne, ab 1 Euro Sparrate, beide Elternteile müssen Kunden sein), Scalable Capital (alle Sparpläne gebührenfrei, Geldmarktfonds für Verrechnungskonto), ING und Consorsbank (Eltern müssen nicht selbst Kunden sein - ideal, wenn die Großeltern das Depot initiieren).
-
-Als Großvater eröffne ich kein Junior-Depot direkt. Ich bitte die Eltern, es zu eröffnen, und richte einen Dauerauftrag ein, der monatlich den Sparbetrag auf das Verrechnungskonto überweist.
-
-Die AI-Species-Kinderbarbell
-
-Bei einem Horizont von 15 bis 18 Jahren kann man aggressiver investieren als bei einem Erwachsenen-Portfolio. Korrekturen und Crashs haben genug Zeit, sich zu erholen.
-
-#### Variante A - Der einfache Weg (1 ETF)
-
-| Asset | Produkt / ISIN | Anteil | Betrag |
-|-------|---------------|---------|--------|
-| MSCI World ETF | IE00B4L5Y983 (TER 0,20%) | 100% | 200€ |
-
-*200 Euro pro Monat in einen MSCI World ETF (ISIN: IE00B4L5Y983, TER: 0,20 Prozent) oder einen Vanguard FTSE All-World (ISIN: IE00BK5BQT80, TER: 0,22 Prozent). Historisch 7 bis 9 Prozent Rendite pro Jahr. Bei 8 Prozent und 18 Jahren: circa 96.000 Euro (eingezahlt: 43.200 Euro).*
-
-#### Variante B - Mit KI-Tilt (3 ETFs)
-
-| Asset | Produkt / ISIN | Anteil | Betrag |
-|-------|---------------|---------|--------|
-| MSCI World ETF | IE00B4L5Y983 | 60% | 120€ |
-| Nasdaq-100 ETF | IE00BFZXGZ54 | 25% | 50€ |
-| Robotik-ETF | IE00BYZK4552 | 15% | 30€ |
-| **Gesamt** | | **100%** | **200€** |
-
-*60 Prozent MSCI World (120 Euro), 25 Prozent Nasdaq-100 (50 Euro, ISIN: IE00BFZXGZ54), 15 Prozent Robotik-ETF (30 Euro, ISIN: IE00BYZK4552). Bei 10 Prozent Rendite: circa 120.000 Euro nach 18 Jahren.*
-
-#### Variante C - Die aggressive Kinderbarbell
-
-| Asset | Produkt / ISIN | Anteil | Betrag |
-|-------|---------------|---------|--------|
-| MSCI World ETF | IE00B4L5Y983 | 50% | 100€ |
-| Nasdaq-100 ETF | IE00BFZXGZ54 | 20% | 40€ |
-| Robotik-ETF | IE00BYZK4552 | 10% | 20€ |
-| Bitcoin* | Im eigenen Depot | 15% | 30€ |
-| Ethereum* | Im eigenen Depot | 5% | 10€ |
-| **Gesamt** | | **100%** | **200€** |
-
-*50 Prozent MSCI World (100 Euro), 20 Prozent Nasdaq-100 (40 Euro), 10 Prozent Robotik-ETF (20 Euro), 15 Prozent Bitcoin (30 Euro), 5 Prozent Ethereum (10 Euro). Krypto kann nicht im Junior-Depot gekauft werden - den Anteil kaufe ich im eigenen Namen und übertrage ihn zum 18. Geburtstag. Bei konservativ geschätzter Rendite: circa 141.000 Euro. Bei optimistischer Krypto-Entwicklung: bis zu 195.000 Euro.*
-
-### Die Steuer-Strategie
-
-Jedes Kind hat einen eigenen Sparerpauschbetrag von 1.000 Euro und einen Grundfreibetrag von 12.348 Euro (Stand 2026). Mit einer Nichtveranlagungsbescheinigung vom Finanzamt bleiben Kapitalerträge bis circa 13.348 Euro pro Jahr steuerfrei. Die NV-Bescheinigung ist kostenlos und drei Jahre gültig.
-
-Für den Krypto-Anteil gilt: Im eigenen Depot halten, die 1-Jahres-Haltefrist nutzen (danach steuerfrei), und zum 18. Geburtstag übertragen. Der Schenkungsfreibetrag von Großeltern an Enkel beträgt 200.000 Euro über zehn Jahre - bei den hier genannten Summen kein Problem.
-
-### Was ich für Mila und Malou wähle
-
-Variante C. 200 Euro pro Monat pro Kind. 400 Euro gesamt.
-
-Der Grund: Mila und Malou haben 15 bis 18 Jahre Zeit. Das ist lang genug, um den nächsten Krypto-Winter, den nächsten Tech-Crash und den nächsten Bärenmarkt auszusitzen. Und lang genug, um von der Maschinenökonomie zu profitieren, die in diesem Buch beschrieben wird.
-
-Wenn ich Recht habe, werden die beiden mit achtzehn ein Portfolio haben, das ihnen einen Start ins Leben ermöglicht, den die meisten ihrer Altersgenossen nicht haben werden. Und wenn ich falsch liege? Dann haben sie trotzdem ein breit gestreutes ETF-Portfolio, das in 18 Jahren mit an Sicherheit grenzender Wahrscheinlichkeit im Plus ist.
-
-Das ist die Barbell. Begrenztes Risiko. Unbegrenztes Upside. Für die beiden unschuldigen jungen Menschen, die in eine Zukunft hineingeboren werden, die ihnen ohne eigenes Portfolio keine Chance auf ein selbstbestimmtes Leben lassen würde.
 
 
 ## Endnotes
@@ -4962,16 +4962,6 @@ W
 
 Waymo  -  Kap. 2, Kap. 5, Kap. 10, Kap. 14, Kap. 15
 
-Über den Autor
-
-Thomas Huhn, Jahrgang 1963, arbeitet seit über dreißig Jahren an der Schnittstelle von Technologie und Unternehmertum. Nach einem Studium der Physik und Wirtschaftsinformatik stieg er 1994 ins Internet ein, Jahre bevor es Mainstream wurde. Er gründete mehrere Technologieunternehmen und investiert seit 2017 in Kryptowährungen und Blockchain-Infrastruktur.
-
-Sein beruflicher Werdegang hat ihn gelehrt, technologische Umbrüche früh zu erkennen. Und den Mut aufzubringen, darauf zu wetten. In "The AI Species" verbindet er diese Erfahrung mit einer Investmentthese, die drei der mächtigsten Technologietrends unserer Zeit zusammendenkt.
-
-Thomas Huhn lebt am Starnberger See. Er ist Vater zweier Töchter und Großvater von Mila und Malou, begeisterter Gym-Athlet und liebt Musik.
-
-TheAiSpecies.world
-
 Klappentext
 
 "Künstliche Intelligenz ersetzt nicht nur Jobs. Sie verändert die Grundregeln der Wirtschaft."
@@ -4983,4 +4973,14 @@ KI-Agenten, die autonom handeln. Roboter, die in Fabriken und irgendwann unseren
 The AI Species ist die schonungslos ehrliche Analyse eines Praktikers mit Skin in the Game. Von der Geopolitik des Chip-Krieges über den unstillbaren Energiehunger der KI bis zu Brain-Computer Interfaces. Von der Frage, welche Jobs verschwinden, bis zu konkreten Portfolios und einem Aktionsplan für Investoren, die handeln wollen statt zuzuschauen.
 
 Dieses Buch endet mit einem persönlichen Bekenntnis. Und der Widmung an die Enkelkinder des Autors, für die Technologie-Optimismus keine abstrakte Haltung ist, sondern eine Notwendigkeit.
+
+
+## Über den Autor
+Thomas Huhn, Jahrgang 1963, arbeitet seit über dreißig Jahren an der Schnittstelle von Technologie und Unternehmertum. Nach einem Studium der Physik und Wirtschaftsinformatik stieg er 1994 ins Internet ein, Jahre bevor es Mainstream wurde. Er gründete mehrere Technologieunternehmen und investiert seit 2017 in Kryptowährungen und Blockchain-Infrastruktur.
+
+Sein beruflicher Werdegang hat ihn gelehrt, technologische Umbrüche früh zu erkennen. Und den Mut aufzubringen, darauf zu wetten. In "The AI Species" verbindet er diese Erfahrung mit einer Investmentthese, die drei der mächtigsten Technologietrends unserer Zeit zusammendenkt.
+
+Thomas Huhn lebt am Starnberger See. Er ist Vater zweier Töchter und Großvater von Mila und Malou, begeisterter Gym-Athlet und liebt Musik.
+
+TheAiSpecies.world
 
