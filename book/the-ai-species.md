@@ -1407,22 +1407,38 @@ Die wichtigste Erkenntnis für Investoren: Der KI-Wettbewerb zwischen USA und Ch
 
 ### Europa: Ein Kontinent reguliert sich ins Abseits
 Ich sage das als Europäer und Unternehmer, der die Konsequenzen täglich spürt.
+
 Europa hat kein einziges führendes Foundation-Modell hervorgebracht. Kein europäisches Unternehmen steht in den Top 20 der wertvollsten KI-Firmen. Europas größter Beitrag zur KI-Revolution ist bisher die Bürokratie, die sie verlangsamt.
+
 Der EU AI Act ist das ambitionierteste KI-Regulierungswerk der Welt - und möglicherweise auch das schädlichste. Die detaillierte Analyse, wie er die Branche verändert, wer profitiert und wer verliert, folgt in Kapitel 11. Hier die Kurzfassung: Europa reguliert nicht mit der Industrie, sondern gegen sie. Die Compliance-Kosten belasten kleine Unternehmen überproportional und zementieren die Dominanz der US-Tech-Konzerne, die sie mühelos absorbieren können.
+
 Der Brain Drain verschärft das Problem. Die besten KI-Forscher Europas arbeiten in San Francisco, New York oder London, nicht in Berlin, Paris oder München. Nicht weil sie Europa nicht mögen, sondern weil die Labore dort sind, das Kapital dort ist, die Möglichkeiten dort sind. Yann LeCun, einer der Väter des Deep Learning, ist Franzose, er arbeitet für Meta in New York. Demis Hassabis, Gründer von DeepMind, ist Brite, er arbeitet für Google in London (technisch noch Europa, aber post-Brexit und mit Silicon-Valley-Kapital). Die Liste ließe sich beliebig fortsetzen.
 
+
 Was bedeutet das für Investoren? Es bedeutet, dass ein KI-fokussiertes Portfolio überwiegend in US-amerikanische und selektiv in asiatische Assets investiert sein sollte. Europäische Aktien können Teil eines diversifizierten Portfolios sein, europäische Industrieunternehmen wie Siemens oder SAP werden KI nutzen und davon profitieren, aber Europa ist kein Ort, an dem die Renditen der KI-Revolution erwirtschaftet werden. Die Innovation passiert anderswo.
-Europas Regulierung als Eigentor: Drei persönliche Erfahrungen
+
+### Europas Regulierung als Eigentor: Drei persönliche Erfahrungen
+
 Ich bin kein Theoretiker der Regulierungskritik. Ich erlebe sie am eigenen Leib.
+
 Erstes Beispiel: Mein Unternehmen accessibleAI entwickelt KI-gestützte Software für Barrierefreiheits-Compliance. Wir wollten Metas Open-Source-Modell Llama nutzen, selbst gehostet, auf europäischen Servern, mit voller Kontrolle über die Daten. Im Juli 2024 gab Meta bekannt, dass es seine multimodalen KI-Modelle in der EU nicht veröffentlichen werde. Der Grund: "die unberechenbare Natur des europäischen Regulierungsumfelds". Im September 2024 wurde die Sperre in der Lizenz verankert. EU-Bürger und EU-Unternehmen dürfen die Vision-Modelle von Llama 3.2 nicht nutzen. Als im April 2025 Llama 4 erschien, komplett multimodal, waren alle Versionen für die EU gesperrt.
+
 Wir konnten keinen europäischen Hoster finden, der das Modell legal betreiben konnte. Die leistungsfähigste Open-Source-KI der Welt, entwickelt von einem US-Konzern, der sie kostenlos zur Verfügung stellt, ist für europäische Unternehmen nicht verfügbar. Nicht weil sie gefährlich wäre oder nicht funktionieren würde, sondern schlicht, weil Meta das regulatorische Risiko nicht eingehen will.
+
 Apple hat Ähnliches getan. Apple Intelligence wurde in der EU verzögert, unter Berufung auf den Digital Markets Act. Google hat KI-Features für die EU später ausgerollt. Es entsteht ein Muster: US-Unternehmen behandeln Europa als Markt zweiter Klasse, weil die Compliance-Kosten den Aufwand nicht rechtfertigen.
+
 Zweites Beispiel: Ich halte Stablecoins. USDC, den Dollar-Stablecoin von Circle. Bis November 2024 zahlte mir Coinbase darauf 4,7 Prozent Zinsen pro Jahr. Passive Rendite auf digitale Dollar, komplett automatisch. Am 1. Dezember 2024 war das vorbei. Coinbase stellte das USDC Rewards Programm für alle Kunden im Europäischen Wirtschaftsraum ein. Ein Coinbase-Sprecher erklärte, MiCA erfordere die Einstellung. Artikel 50 der Markets in Crypto-Assets Regulation verbietet die Gewährung von Zinsen auf E-Money-Tokens.
+
 Meine amerikanischen Freunde bekommen weiterhin ihre 4,7 Prozent. Ich bekomme null. Nicht weil ich ein höheres Risiko eingänge oder Coinbase in Europa weniger sich, operierte, sondern weil europäische Regulierer entschieden haben, dass Stablecoins Zahlungsmittel sein sollen, keine Sparanlage. Die Absicht mag gut sein. Das Ergebnis ist, dass europäische Bürger systematisch schlechter gestellt werden als amerikanische.
+
 Das Gleiche passiert mit Tether, dem größten Stablecoin der Welt. Tether hat keine MiCA-Lizenz beantragt. Mehrere europäische Börsen haben USDT delistet. Ab Juli 2025 ist USDT auf regulierten europäischen Börsen faktisch verboten. Ein Stablecoin mit einer Marktkapitalisierung von über 139 Milliarden Dollar, der 58 Prozent des europäischen Krypto-Transaktionsvolumens ausmachte, ist in Europa nicht mehr handelbar.
+
 Drittes Beispiel, und das frustrierendste: Ich hatte die Idee, Open-Source-Mitarbeitern an einem Projekt Tokens zu geben. Keine Spekulation, kein Pump-and-Dump. Einfach ein Weg, Menschen zu belohnen, die Code beitragen, Dokumentation schreiben, Bugs melden. Tokens als Anerkennung und als Governance-Instrument, damit die Community über die Richtung des Projekts mitentscheiden kann.
+
 Unter MiCA muss jeder, der Tokens ausgibt, ein Krypto-Asset-Whitepaper erstellen, das den Anforderungen von Artikel 6 entspricht. Der Emittent haftet für die Richtigkeit der Angaben. Das Whitepaper muss der nationalen Aufsichtsbehörde 20 Tage vor Veröffentlichung vorgelegt werden. Für Asset-Referenced Tokens braucht man eine regulatorische Lizenz mit Eigenkapitalanforderungen von mindestens 350.000 Euro.
+
 Für ein Open-Source-Projekt mit ehrenamtlichen Entwicklern ist das nicht machbar. Die Compliance-Kosten übersteigen den Wert des gesamten Projekts. Die Gefahr, in das Minenfeld von MiCA zu geraten, ist zu groß. Also lässt man es bleiben. Und damit stirbt eine Idee, die in den USA oder in der Schweiz problemlos umsetzbar wäre.
+
 Das Europa-Paradox ist real: Regulierung, die Bürger schützen soll, benachteiligt sie. Europäer sind "geschützt" vor multimodalen KI-Modellen, können dafür aber die leistungsfähigsten offenen Modelle nicht nutzen. Europäer sind "geschützt" vor unregulierten Finanzprodukten, verlieren dafür 4 bis 5 Prozent Rendite pro Jahr. Europäer sind "geschützt" vor unseriösen Token-Emissionen, dafür wandern innovative Projekte ab. Niemand bezweifelt die guten Absichten dieser Regulierung. Aber reguliert sich Europa damit aus der Zukunft?
 
 ---
