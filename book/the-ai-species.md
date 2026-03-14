@@ -921,7 +921,11 @@ Denn Stablecoins sind schon jetzt ein Schattenbanken-Dollar-System. 500 Millione
 Und da wird es geopolitisch.
 
 Jeder Mensch, der einen Dollar-Stablecoin hält, erzeugt Nachfrage nach US-Staatsanleihen. Jede Transaktion in USDT oder USDC ist eine Transaktion, die nicht in Yuan, Rupie oder Euro stattfindet. Stablecoins exportieren den Dollar in Regionen, in die das traditionelle Bankensystem nie vorgedrungen ist. Ob gewollt oder nicht: Sie sind das mächtigste Instrument zur Verlängerung der Dollar-Hegemonie seit dem Petrodollar-System der 1970er.
-Die Gegenoffensive: BRICS, digitaler Yuan und mBridge
+
+### 
+
+### Die Gegenoffensive: BRICS, digitaler Yuan und mBridge
+
 
 Die andere Seite des Schachbretts ist nicht untätig.
 
@@ -946,7 +950,11 @@ Das ist keine Theorie. Chinas e-CNY hat diese Funktionen bereits eingebaut. In P
 Der entscheidende Unterschied: Bitcoin und dezentrale Stablecoins auf öffentlichen Blockchains sind zensurresistent. Kein Staat kann eine Bitcoin-Transaktion rückgängig machen. CBDCs sind das Gegenteil: vollständig kontrollierbar durch die herausgebende Zentralbank. Und Stablecoins wie Tether bewegen sich in einer Grauzone. Tether hat auf Anfrage von US-Behörden wiederholt Wallets eingefroren. Das macht USDT zu einem Instrument, das freier ist als ein Bankkonto, aber weniger frei als Bitcoin.
 
 Für Investoren ist das relevant, weil es die These verfeinert: Nicht alles programmierbare Geld ist gleich. Die Frage ist nicht nur, ob Geld digital wird, das wird es. Die Frage ist, wer die Regeln programmiert. Und ob Sie als Besitzer das Recht haben, diese Regeln abzulehnen.
-Europas dritter Weg: Der digitale Euro
+
+### 
+
+### Europas dritter Weg: Der digitale Euro
+
 
 Europa versucht, wie so oft, einen Mittelweg. Die Europäische Zentralbank hat ihre Vorbereitungsphase für den digitalen Euro abgeschlossen und arbeitet an der nächsten Stufe. Falls die EU-Gesetzgeber im Laufe von 2026 die Verordnung verabschieden, könnte ein Pilotbetrieb Mitte 2027 starten. Einführung frühestens 2029.
 Das klingt spät. Ist es auch. Während Tether nach eigenen Angaben 500 Millionen Menschen mit Dollar-Stablecoins versorgt und China seinen digitalen Yuan in dutzenden Städten testet, diskutiert Europa noch über Datenschutzanforderungen und Haltelimits. Gründlichkeit hat ihre Berechtigung. Aber in einem Wettlauf um die Zukunft des Geldes ist sie ein Luxus, den man sich leisten können muss.
@@ -1497,7 +1505,11 @@ Samsung strauchelt ebenfalls. Obwohl Samsung als erster Hersteller 3-Nanometer-C
 
 China versucht, den Chip-Rückstand aufzuholen, und scheitert an der Physik. Huawei und SMIC produzieren Chips im 7-Nanometer-Verfahren, aber ohne Zugang zu den EUV-Lithographie-Maschinen von ASML kommen sie nicht weiter. Sie verwenden stattdessen DUV-Multi-Patterning, eine Methode, die langsamer ist, schlechtere Ausbeuten liefert und physikalische Grenzen bei etwa 5 Nanometern hat. Huaweis Kirin-9030-Chip im neuesten Mate-Smartphone ist eine verbesserte 7-Nanometer-Variante, kein echtes 5-Nanometer wie behauptet. China liegt 3 bis 5 Jahre hinter TSMC, und die Lücke schließt sich langsamer als Peking hofft.
 Für die These dieses Buches ist der Chip-Krieg aus einem Grund relevant: Die Kontrolle über KI beginnt bei den Chips. Und die liegt bei TSMC in Taiwan, einer Insel, die China als eigenes Territorium betrachtet. 60 Prozent der weltweiten Auftragsfertigung fortschrittlicher Chips laufen über ein einziges Unternehmen auf einer Insel, die im Zentrum des gefährlichsten geopolitischen Konflikts der Welt liegt. Das ist kein Risiko, das man ignorieren kann.
-Indien: Der stille dritte Spieler
+
+### 
+
+### Indien: Der stille dritte Spieler
+
 
 In der KI-Geopolitik wird meist über zwei Pole gesprochen: die USA und China. Indien taucht in der Debatte selten auf. Das ist ein Fehler.
 Indien hat 100 Millionen wöchentlich aktive ChatGPT-Nutzer. Mehr als jedes andere Land außer den USA. Die Hälfte der Nachrichten kommt von 18- bis 24-Jährigen. Indien hat über 4 Millionen Software-Ingenieure, den zweitgrößten Pool nach den USA, und produziert 500.000 neue IT-Absolventen pro Jahr. Das Medianalter liegt bei 28 Jahren. In der EU liegt es bei 44.
@@ -2365,7 +2377,12 @@ Regierungen werden mit irgendeiner Form von Grundeinkommen reagieren. Das Buch b
 Brain-Computer Interfaces kombiniert mit KI-generierten Welten werden dieses Vakuum füllen.
 Betrachten wir den Pfad: Heute betrifft Smartphone-Sucht geschätzt 6,3 Prozent der Weltbevölkerung, etwa 500 Millionen Menschen. Verursacht durch kleine, flache Bildschirme, die zweidimensionale Inhalte liefern, die soziale Interaktion oder Unterhaltung nur annähern. In "Frontiers in Virtual Reality" publizierte Forschung zeigt, dass immersive VR-Erfahrungen signifikant stärkere psychologische Belohnungen und höheres Suchtpotenzial erzeugen. Zwischen 2 und 20 Prozent der aktuellen VR-Nutzer zeigen bereits problematische Nutzungsmuster.
 Lassen Sie uns das jetzt extrapolieren: Eine BCI-gesteuerte, KI-generierte Welt, die von der Realität nicht zu unterscheiden ist, in der man jeder sein, alles tun, jede Empfindung erleben kann. Das ist keine inkrementelle Verbesserung gegenüber einem Smartphone. Das ist ein Kategorienwechsel. In der Sprache der Neurowissenschaft: ein Superstimulus, ein Reiz, der übersteigt, was das Gehirn während der Evolution kennengelernt hat, und das Belohnungssystem mit beispielloser Effizienz kapert. Die historische Parallele ist nicht Social Media. Sie ist näher an der Einführung von raffiniertem Zucker oder Opiaten: Substanzen, die neuronale Belohnungspfade weit effektiver ausnutzen als die natürlichen Stimuli, für die das Gehirn gebaut ist.
-Die Hardware-Player: Wer baut die Brücke zum Gedanken?
+
+### 
+
+### Die Hardware-Player: Wer baut die Brücke zum Gedanken?
+
+
 Die Konvergenz von BCI und KI-generierten Welten wirft eine Frage auf, die selten gestellt wird: Über welche Hardware läuft das alles?
 
 Apple hat die Vision Pro vorgestellt, ein Mixed-Reality-Headset für 3.500 Dollar. Die Verkaufszahlen sind bescheiden, das gibt sogar Apple zu. Aber die Vision Pro ist kein Produkt. Sie ist ein Infrastruktur-Investment. Apple testet damit die Fertigungsprozesse, die Software-Plattform und die Nutzungsszenarien für das, was danach kommt.
@@ -2374,7 +2391,12 @@ Die strategische Logik ist offensichtlich: Apple hat den Übergang von der Tasta
 
 Meta geht den anderen Weg. Mark Zuckerberg hat das Unternehmen 2021 in Meta umbenannt, Milliarden in Metaverse-Forschung investiert und dafür Spott geerntet. Dann kam die KI-Welle und Zuckerberg hat umgeschwenkt, "AI First" statt "Metaverse First". Aber die Hardware ist geblieben. Die Quest-Headsets. Reality Labs. Die Forschung an AR-Brillen.
 Was wenige sehen: Metas Infrastruktur-Investitionen in KI, die 135 Milliarden Dollar für 2026, bauen genau die Compute-Kapazität auf, die man braucht, um KI-generierte Welten in Echtzeit für Hunderte Millionen Nutzer zu rendern. Genie 3 von Google DeepMind generiert heute interaktive 3D-Umgebungen aus Text in 720p bei 24 Bildern pro Sekunde. Meta hat die Modelle (Llama), die Hardware (Quest) und bald die Rechenleistung (über eine Million GPUs), um so etwas für seine drei Milliarden Nutzer auszurollen.
-Der Wettlauf um das nächste Interface hat also drei Fronten:
+
+### 
+
+### Der Wettlauf um das nächste Interface hat also drei Fronten:
+
+
 Front eins: die Software. OpenAI, Anthropic und Google bauen die Agenten, die Welten generieren, Sprache verstehen und irgendwann neuronale Signale interpretieren.
 Front zwei: die Chips. NVIDIA liefert die GPUs, die alles antreiben. Apple baut eigene Neural-Engine-Chips, die auf dem Gerät laufen. Amazon und Google haben mit Trainium und TPU eigene Alternativen.
 Front drei: der Kontakt zum Menschen. Heute sind das Bildschirme und Mikrofone. Morgen Headsets und AR-Brillen. Übermorgen Implantate, die neuronale Signale lesen und schreiben. Neuralink, Synchron, Paradromics und Merge Labs arbeiten daran. OpenAI hat eine Viertelmilliarde in Merge Labs investiert, Apple kooperiert mit Synchron.
