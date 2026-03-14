@@ -77,6 +77,7 @@ Denn was passiert, wenn Maschinen nicht nur denken und handeln können, sondern 
 
 Die Antwort auf diese Frage hat Konsequenzen, die weit über Renditetabellen hinausgehen. Sie betrifft, wie wir arbeiten, wie wir investieren, wie wir als Gesellschaft funktionieren und, ja, wie wir die noch unbehandelbaren Krankheiten von heute zu den behandelbaren Krankheiten von morgen machen.
 
+::: {.infobox}
 ### Ein Wort zu meinem Standpunkt
 
 Ich bin kein Analyst, der aus sicherer Entfernung über Technologie schreibt. Ich bin kein Journalist, der Trends recherchiert und wiedergibt. Ich bin Gründer und Investor. Mit Rockstardevelopers baue ich seit Jahren Softwareprodukte. Mit accessibleAI entwickle ich KI-Systeme, die Unternehmen helfen, regulatorische Compliance zu automatisieren. Ich sitze nicht in einem Büro und lese über KI. Ich baue sie. Jeden Tag.
@@ -84,6 +85,7 @@ Ich bin kein Analyst, der aus sicherer Entfernung über Technologie schreibt. Ic
 Das heißt auch: Ich habe *Skin in the Game*. Ich habe in die Technologien investiert, über die ich schreibe. Ich habe Geld in Bitcoin, in Ethereum, in KI-Aktien, in Robotik. Man kann das als Interessenkonflikt lesen oder als Beweis, dass ich meine eigene These ernst genug nehme, um mein Vermögen darauf zu setzen. Ich halte das Zweite für glaubwürdiger.
 
 Nassim Taleb hat geschrieben, dass man niemandem vertrauen sollte, der nicht selbst von dem betroffen ist, worüber er urteilt. Ich bin betroffen.
+:::
 
 ### Was Sie in diesem Buch finden werden
 
@@ -205,7 +207,11 @@ Wir stehen jetzt an einem solchen Punkt. Und diesmal ist die Transformation radi
 > *Künstliche Intelligenz bricht dieses Muster.*
 > *Zum ersten Mal in der Menschheitsgeschichte bauen wir Systeme, die denken, lernen, entscheiden und handeln können, ohne menschliche Anleitung. Nicht in einem engen, vordefinierten Rahmen wie ein Schachcomputer, der eine Brettposition bewertet, sondern in der offenen, unstrukturierten Welt, von der Vertragsanalyse über die Softwareentwicklung bis zur medizinischen Diagnose.*
 > *Das ist kein inkrementeller Fortschritt, sondern ein Kategoriewechsel.*
-> *Emad Mostaque, der Gründer von Stability AI, nennt das die "Intelligence Inversion": die vierte und letzte ökonomische Umwälzung der Menschheitsgeschichte. Nach Land, Arbeit und Kapital wird jetzt Intelligenz selbst von einer knappen zu einer unbegrenzt verfügbaren Ressource. Die früheren Inversionen ließen immer einen Rückzugsraum: Wer kein Land mehr hatte, konnte seine Arbeitskraft verkaufen. Wer keine Arbeit mehr fand, konnte Kapital einsetzen. Aber wenn Intelligenz abundant wird, ersetzt das den Verstand selbst. "AI replaces the mind itself", schreibt Mostaque in seinem Buch "The Last Economy", "making the Luddite analogy more dire." Die Ludditen zerschlugen Webstühle und fanden andere Arbeit. Wenn die Maschine nicht die Hände ersetzt, sondern den Kopf, gibt es keinen offensichtlichen Ausweg mehr.*
+::: {.infobox}
+### Die vier ökonomischen Revolutionen nach Emad Mostaque
+
+Emad Mostaque, der Gründer von Stability AI, nennt das die "Intelligence Inversion": die vierte und letzte ökonomische Umwälzung der Menschheitsgeschichte. Nach Land, Arbeit und Kapital wird jetzt Intelligenz selbst von einer knappen zu einer unbegrenzt verfügbaren Ressource. Die früheren Inversionen ließen immer einen Rückzugsraum: Wer kein Land mehr hatte, konnte seine Arbeitskraft verkaufen. Wer keine Arbeit mehr fand, konnte Kapital einsetzen. Aber wenn Intelligenz abundant wird, ersetzt das den Verstand selbst. "AI replaces the mind itself", schreibt Mostaque in seinem Buch "The Last Economy", "making the Luddite analogy more dire." Die Ludditen zerschlugen Webstühle und fanden andere Arbeit. Wenn die Maschine nicht die Hände ersetzt, sondern den Kopf, gibt es keinen offensichtlichen Ausweg mehr.
+:::
 > *Hier liegt die Crux, die die meisten Menschen nicht sehen wollen:*
 > *Arbeit war für die große Mehrheit der Menschen der einzige Weg zu Wohlstand. Du verkaufst deine Zeit, dein Wissen, deine Fähigkeiten. Dafür bekommst du Geld. Mit dem Geld baust du Vermögen auf. Aus Vermögen entsteht Sicherheit, Freiheit, Optionen.*
 > *Wenn Maschinen die Arbeit übernehmen, nicht nur die körperliche, sondern auch die geistige, dann bricht diese Kette.*
@@ -241,9 +247,16 @@ Als ich anfing, Bitcoin zu verstehen, ging es mir um hartes Geld, um die Frage, 
 
 Die Robotik kam später dazu. Als Tesla Optimus vorstellte und ich anfing zu durchdenken, was passiert, wenn KI einen Körper bekommt, wurde klar: Das ist nicht die dritte Technologie neben den anderen beiden. Das ist die Brücke zwischen der digitalen und der physischen Welt. Eine KI mit einem Roboterkörper und einer Krypto-Wallet ist ein vollständiger wirtschaftlicher Akteur. Denken. Handeln. Bezahlen.
 
+
+::: {.infobox}
+### Mein eigenes KI-Experiment
+
 Und die Konvergenz hört nicht auf. Während ich dieses Buch schreibe, passieren Dinge, die sich nahtlos in die These einfügen und die ich vor einem Jahr nicht vorhergesagt hätte. Ein Beispiel: Im Januar 2026 ging ein Open-Source-Projekt namens OpenClaw viral. Ein einzelner Entwickler in Wien hatte einen persönlichen KI-Agenten gebaut, der auf dem eigenen Rechner läuft, autonom Programme bedient, Recherchen durchführt, Code schreibt und über Messenger-Apps kommuniziert. Innerhalb von wenigen Wochen wurde OpenClaw zum am schnellsten wachsenden Open-Source-Projekt der KI-Geschichte. Mitte Februar 2026 holte OpenAI den Entwickler an Bord.
 
 Warum ist das relevant? Weil OpenClaw genau das zeigt, was dieses Buch beschreibt. Ein KI-Agent, der autonom handelt (Phase 3), der auf eigener Hardware läuft (dezentral, nicht in der Cloud eines Konzerns), und der einen menschlichen Nutzer entlastet, indem er Aufgaben eigenständig erledigt. Der nächste logische Schritt: Dieser Agent braucht Geld. Um APIs zu bezahlen, Rechenzeit zu kaufen, Dienste in Anspruch zu nehmen. Und da sind wir wieder bei Krypto.
+
+:::
+
 
 Ich entdecke ständig neue Konvergenzen, neue Trends, neue Entwicklungen, die in die These hineinpassen. Manche kann ich noch gar nicht benennen. Es gibt mit Sicherheit weiße Schwäne dort draußen, positive Überraschungen, die niemand auf dem Schirm hat, die sich aber nahtlos in das Bild einfügen werden.
 
@@ -398,6 +411,7 @@ Die konkreten Robotik-Player, von Tesla über Boston Dynamics bis zu chinesische
 ---
 
 
+::: {.infobox}
 ### DeepSeek und das Ende des Compute-Monopols
 
 
@@ -423,6 +437,7 @@ Die wichtigste Lektion für Investoren aber ist: Der KI-Markt wird nicht ein Win
 Für Gründer ist das die wichtigste Nachricht seit dem Aufstieg von Cloud Computing. Ein Berliner Startup mit zehn Ingenieuren kann heute ein Open-Source-Modell nehmen, es auf seine Branche feintunen und damit ein Produkt bauen, das vor drei Jahren nur Google oder OpenAI hätten entwickeln können. Die Eintrittsbarriere in den KI-Markt ist von Hunderten Millionen Dollar auf die Kosten eines kleinen Entwicklerteams plus Cloud-Budget gesunken. Das verändert die Startup-Landschaft stärker als jeder Venture-Capital-Trend der letzten Dekade.
 
 Der DeepSeek-Moment war für die KI-Branche das, was der Sputnik-Schock 1957 für die Raumfahrt war: ein Weckruf.
+:::
 
 
 ---
@@ -493,13 +508,21 @@ Genau das ist das Problem, das dieses Kapitel beschreibt.
 
 ---
 
-> *Das Gedankenexperiment: Ein KI-Agent braucht ein Bankkonto*
-> *Denken wir das konkret durch.*
-> *Ein KI-Agent, der für ein mittelständisches Unternehmen arbeitet, soll folgende Aufgabe erledigen: einen Cloud-Server mieten, um zusätzliche Rechenkapazität für ein laufendes Projekt bereitzustellen. Dann einen spezialisierten Datenanalyse-Dienst beauftragen, der bestimmte Marktdaten aufbereitet. Und schließlich eine API-Lizenz erwerben, um auf eine externe Wissensdatenbank zuzugreifen. Drei alltägliche Geschäftsvorgänge, die ein menschlicher Mitarbeiter in einer Stunde erledigen könnte.*
-> *Jetzt stellen Sie sich vor, der KI-Agent versucht das im heutigen Finanzsystem.*
-> *Für den Cloud-Server braucht er eine Kreditkarte, für die Kreditkarte ein Bankkonto, für das Bankkonto eine juristische oder natürliche Person als Kontoinhaber, und für die Kontoeröffnung KYC-Dokumentation. Identitätsprüfung, Adressnachweis, Geschäftszweck-Erklärung. Dazu kommen Öffnungszeiten, Überweisungsdauern von einem bis drei Bankarbeitstagen, Gebühren und die jederzeitige Möglichkeit der Bank, die Transaktion abzulehnen, zu verzögern oder einzufrieren.*
-> *Das System wurde für Menschen gebaut, mit menschlicher Identität, menschlichen Dokumenten, menschlichen Unterschriften und menschlichen Geschäftszeiten. Eine Maschine passt nicht hinein. Nicht weil die Technologie fehlt, sondern weil die institutionelle Architektur des Finanzsystems auf der Grundannahme aufgebaut ist, dass wirtschaftliche Akteure Menschen sind.*
-> *Diese Grundannahme war in den letzten 500 Jahren des modernen Bankwesens korrekt. In den nächsten 10 Jahren wird sie obsolet.*
+::: {.infobox}
+### Das Gedankenexperiment: Ein KI-Agent braucht ein Bankkonto
+
+Denken wir das konkret durch.
+
+Ein KI-Agent, der für ein mittelständisches Unternehmen arbeitet, soll folgende Aufgabe erledigen: einen Cloud-Server mieten, um zusätzliche Rechenkapazität für ein laufendes Projekt bereitzustellen. Dann einen spezialisierten Datenanalyse-Dienst beauftragen, der bestimmte Marktdaten aufbereitet. Und schließlich eine API-Lizenz erwerben, um auf eine externe Wissensdatenbank zuzugreifen. Drei alltägliche Geschäftsvorgänge, die ein menschlicher Mitarbeiter in einer Stunde erledigen könnte.
+
+Jetzt stellen Sie sich vor, der KI-Agent versucht das im heutigen Finanzsystem.
+
+Für den Cloud-Server braucht er eine Kreditkarte, für die Kreditkarte ein Bankkonto, für das Bankkonto eine juristische oder natürliche Person als Kontoinhaber, und für die Kontoeröffnung KYC-Dokumentation. Identitätsprüfung, Adressnachweis, Geschäftszweck-Erklärung. Dazu kommen Öffnungszeiten, Überweisungsdauern von einem bis drei Bankarbeitstagen, Gebühren und die jederzeitige Möglichkeit der Bank, die Transaktion abzulehnen, zu verzögern oder einzufrieren.
+
+Das System wurde für Menschen gebaut, mit menschlicher Identität, menschlichen Dokumenten, menschlichen Unterschriften und menschlichen Geschäftszeiten. Eine Maschine passt nicht hinein. Nicht weil die Technologie fehlt, sondern weil die institutionelle Architektur des Finanzsystems auf der Grundannahme aufgebaut ist, dass wirtschaftliche Akteure Menschen sind.
+
+Diese Grundannahme war in den letzten 500 Jahren des modernen Bankwesens korrekt. In den nächsten 10 Jahren wird sie obsolet.
+:::
 
 ---
 
@@ -608,6 +631,7 @@ Innerhalb von fünf Jahren, schätzt Raoul Pal, werden Agenten mehr zur Wirtscha
 ---
 
 
+::: {.infobox}
 ### Das Auto, das sein eigenes Leben finanziert
 
 Am 3. Oktober 2025 stellte das Unternehmen Robo.ai auf der TOKEN2049 in Dubai etwas vor, das wie ein Witz klingt: eine Wallet für ein Auto. Keine App, die man auf dem Handy installiert, sondern eine digitale Brieftasche, die ins Fahrzeug selbst eingebaut ist. Sie heißt Roboy339 und kann autonom für Maut bezahlen, Ladestrom abrechnen, Parkgebühren überweisen und Wartungstermine buchen. Ohne dass der Fahrer etwas tut. Ohne dass der Fahrer es überhaupt bemerkt.
@@ -616,7 +640,7 @@ Das klingt nach einem netten Feature. Aber denken Sie den Gedanken zu Ende.
 
 Stellen Sie sich ein Robotaxi vor, das morgens um sechs seinen Dienst beginnt. Es hat keinen Fahrer, keinen Besitzer, der im Büro sitzt und Aufträge zuteilt, und keinen Disponenten, der den Tag plant. Es hat eine Wallet.
 
-Das Taxi fährt einen Fahrgast zum Flughafen. 28,40 USDC fließen in seine Wallet. Es fährt zur nächsten Ladestation, nicht weil jemand es hingeschickt hat, sondern weil sein Batteriemanagement-Agent berechnet hat, dass die Preise an der Station in der Industriestraße gerade 22 Prozent unter dem Tagesdurchschnitt liegen. 4,80 USDC für 35 Kilowattstunden. Die Ladestation schickt eine , ttung, nicht per E-Mail, sondern als bestätigte Transaktion auf der Blockchain.
+Das Taxi fährt einen Fahrgast zum Flughafen. 28,40 USDC fließen in seine Wallet. Es fährt zur nächsten Ladestation, nicht weil jemand es hingeschickt hat, sondern weil sein Batteriemanagement-Agent berechnet hat, dass die Preise an der Station in der Industriestraße gerade 22 Prozent unter dem Tagesdurchschnitt liegen. 4,80 USDC für 35 Kilowattstunden. Die Ladestation schickt eine Quittung, nicht per E-Mail, sondern als bestätigte Transaktion auf der Blockchain.
 
 Am Ende des Tages hat das Taxi 340 Dollar verdient. Jetzt beginnt seine Buchhaltung. 80 Dollar fließen an den Besitzer als Leasing-Rate. 12 Dollar an den Reifenservice, ein Sensor hat registriert, dass die Profiltiefe bei 73 Prozent liegt, also bucht der Wartungsagent einen Termin für nächste Woche und überweist die Anzahlung. 5 Dollar wandern in einen Rücklagenfonds für die nächste Hauptuntersuchung. Der Rest wird in einem Stablecoin-Pool geparkt, wo er Zinsen erwirtschaftet, bis er gebraucht wird.
 
@@ -625,17 +649,26 @@ Dieses Auto ist kein Fortbewegungsmittel mehr. Es ist ein wirtschaftlicher Agent
 Das ist keine Science-Fiction. Bosch hat mit dem Projekt moveID auf der Blockchain-Plattform peaq bereits demonstriert, wie Fahrzeuge eine eigene digitale Identität erhalten und autonom mit Ladestationen und Parkplätzen abrechnen. Peer-to-Peer. Ohne Vermittler. DIMO, ein dezentrales Netzwerk mit über 180.000 angeschlossenen Fahrzeugen, geht noch weiter: Die Autos verkaufen ihre Fahrdaten (Standort, Diagnose, Fahrverhalten) direkt an Versicherungen und Stadtplaner, und die Besitzer werden in Token entlohnt.
 
 Die Frage ist nicht mehr, ob Maschinen ein Bankkonto bekommen. Die Frage ist, was passiert, wenn dreihundert Millionen vernetzte Fahrzeuge gleichzeitig anfangen, eigenständig zu wirtschaften.
+:::
 
 
 ---
 
-> *Die Drohne und das Pad Thai*
-> *Mittwoch, 12:30 Uhr. Sie sagen Ihrem KI-Assistenten: "Ich hab Hunger, irgendwas Thailändisches."*
-> *Früher hätten Sie eine App geöffnet, durch Speisekarten gescrollt, Bewertungen gelesen, Ihre Kreditkartendaten eingegeben und vielleicht eine halbe Stunde damit verbracht, zwischen Pad Thai und Massaman Curry zu schwanken. Ihr Assistent macht das in vier Sekunden.*
-> *Er fragt drei Thai-Restaurants in der Nähe per x402 ab. Nicht per Telefonanruf - per HTTP. Die Anfrage kostet 0,001 USDC pro Restaurant, bezahlt in dem Moment, in dem der Server antwortet. Die Restaurants haben eigene KI-Systeme, die in Echtzeit prüfen: Was ist auf Lager? Wie voll ist die Küche? Wie lange dauert die Zubereitung? Was kann in 25 Minuten beim Kunden sein?*
-> *Zwei Angebote kommen zurück. Der Assistent wählt das Pad Thai vom Siam Corner: 16,50 USDC, inklusive einer Anpassung, weil er weiß, dass Sie keine Erdnüsse vertragen. Er zahlt sofort.*
-> *Aber hier wird es interessant. Ihr Assistent bezahlt nicht nur das Essen. Er bezahlt auch die Logistik. Eine autonome Lieferdrohne wird gebucht, 2,80 USDC für den 2,3-Kilometer-Flug. Die Drohne zahlt unterwegs 0,003 USDC Luftraumgebühr an die Stadt und 0,001 USDC an einen Wetterdienst für Echtzeit-Winddaten auf ihrer Route.*
-> *Sieben Transaktionen. Drei physische Dienstleister. Null menschliche Freigaben. Ihr Pad Thai ist in 22 Minuten da.*
+::: {.infobox}
+### Die Drohne und das Pad Thai
+
+Mittwoch, 12:30 Uhr. Sie sagen Ihrem KI-Assistenten: "Ich hab Hunger, irgendwas Thailändisches."
+
+Früher hätten Sie eine App geöffnet, durch Speisekarten gescrollt, Bewertungen gelesen, Ihre Kreditkartendaten eingegeben und vielleicht eine halbe Stunde damit verbracht, zwischen Pad Thai und Massaman Curry zu schwanken. Ihr Assistent macht das in vier Sekunden.
+
+Er fragt drei Thai-Restaurants in der Nähe per x402 ab. Nicht per Telefonanruf - per HTTP. Die Anfrage kostet 0,001 USDC pro Restaurant, bezahlt in dem Moment, in dem der Server antwortet. Die Restaurants haben eigene KI-Systeme, die in Echtzeit prüfen: Was ist auf Lager? Wie voll ist die Küche? Wie lange dauert die Zubereitung? Was kann in 25 Minuten beim Kunden sein?
+
+Zwei Angebote kommen zurück. Der Assistent wählt das Pad Thai vom Siam Corner: 16,50 USDC, inklusive einer Anpassung, weil er weiß, dass Sie keine Erdnüsse vertragen. Er zahlt sofort.
+
+Aber hier wird es interessant. Ihr Assistent bezahlt nicht nur das Essen. Er bezahlt auch die Logistik. Eine autonome Lieferdrohne wird gebucht, 2,80 USDC für den 2,3-Kilometer-Flug. Die Drohne zahlt unterwegs 0,003 USDC Luftraumgebühr an die Stadt und 0,001 USDC an einen Wetterdienst für Echtzeit-Winddaten auf ihrer Route.
+
+Sieben Transaktionen. Drei physische Dienstleister. Null menschliche Freigaben. Ihr Pad Thai ist in 22 Minuten da.
+:::
 > *Was hier passiert ist, verdient einen zweiten Blick. Nicht wegen der Technologie - Drohnenlieferungen und KI-Assistenten gibt es bereits. Sondern wegen der Ökonomie dahinter. In der alten Welt brauchte diese Transaktion eine Plattform wie Lieferando, die 30 Prozent Provision nimmt. Einen Zahlungsdienstleister, der 2,9 Prozent plus 30 Cent kassiert. Einen Vertragsrahmen zwischen Restaurant, Plattform und Lieferdienst. Bankkonten, Kreditkarten, monatliche Abrechnungen.*
 > *In der neuen Welt gibt es nur Agenten und Stablecoins. Jeder Agent hat eine Wallet. Jede Transaktion wird in Millisekunden abgewickelt, für Bruchteile eines Cents Gebühr. Kein Mittelsmann nimmt 30 Prozent, die Wertschöpfung bleibt beim Restaurant und beim Kunden.*
 > *Das ist Maschinengeld in der physischen Welt. Nicht nur Bits bezahlen Bits. Agenten bezahlen für Atome.*
@@ -741,7 +774,11 @@ Die Spannbreite allein, von 2 bis 30 Billionen, zeigt, dass niemand wirklich wei
 
 Was wird heute bereits tokenisiert?
 
+::: {.infobox}
+### Wie BlackRock die Finanzwelt tokenisiert
+
 Staatsanleihen sind die Einstiegsdroge der Institutionellen. BlackRocks BUIDL-Fund, ein tokenisierter Geldmarktfonds auf US-Treasuries, ist von 40 Millionen Dollar bei seinem Start im März 2024 auf fast 3 Milliarden Dollar Ende 2025 gewachsen. In weniger als zwei Jahren. Franklin Templeton hat seinen BENJI-Fund auf der Stellar-Blockchain laufen. Ondo Finance bietet mit USDY tokenisierte Treasury-Renditen für jeden mit einer Wallet an. Über 9 Milliarden Dollar stecken bereits in tokenisierten US-Staatsanleihen.
+:::
 
 Immobilien haben das Ur-Problem, das Tokenisierung löst: Sie sind illiquide, teuer, schwer teilbar und geografisch gebunden. RealT verkauft Anteile an US-Mietimmobilien ab 50 Dollar pro Token. Wöchentliche Mietausschüttungen direkt in die Wallet. Kein Verwalter, kein Papierkram. In Dubai hat Prypco Mint mit dem Land Department einen Piloten durchgeführt, dessen Token-Tranchen innerhalb von Stunden ausverkauft waren. Das Ziel: 7 Prozent des gesamten Dubai-Immobilienmarktes tokenisiert bis 2033, das sind 16 Milliarden Dollar.
 
@@ -961,11 +998,19 @@ Der Unterschied zwischen einem staatlichen CBDC und einem privaten Stablecoin is
 > *Die Convergence Thesis hat eine Dimension, die über Investmentchancen hinausgeht. Die Konvergenz von KI, Robotik und Krypto bestimmt nicht nur, wer reich wird. Sie bestimmt, wer frei bleibt.*
 > *Der Schulden-Elefant im Raum*
 > *Jetzt kommt der Teil, der alles zusammenhält. Und der alles infrage stellt.*
-> *Die Vereinigten Staaten sind mit knapp 39 Billionen Dollar verschuldet. 122 Prozent des BIP. Die Verschuldung steigt um 6,12 Milliarden Dollar pro Tag. Allein die Zinszahlungen auf diese Schulden betrugen im Fiskaljahr 2025 über 1,2 Billionen Dollar. Mehr als die USA für Medicare oder die nationale Verteidigung ausgeben. Das Congressional Budget Office projiziert: die Zinszahlungen werden sich bis 2036 auf 2,1 Billionen verdoppeln. Insgesamt 16,2 Billionen Dollar an Zinsen in den nächsten zehn Jahren.*
-> *Lesen Sie diese Zahl nochmal. 16,2 Billionen Dollar. Nur Zinsen. Kein einziger Dollar davon baut eine Brücke, bezahlt einen Lehrer oder heilt eine Krankheit.*
-> *Die USA sind nicht allein. Japan führt die globale Schuldenliga an mit über 250 Prozent des BIP. Italien steht bei 137 Prozent, Frankreich bei über 110 Prozent, Großbritannien bei 100 Prozent. Die globale Staatsverschuldung nähert sich 100 Billionen Dollar. IMF-Chefin Kristalina Georgieva warnte in Davos: "Die Schulden, die auf unseren Schultern lasten und sich 100 Prozent des globalen BIP nähern, werden eine sehr schwere Last sein."*
-> *Das Committee for a Responsible Federal Budget hat im Januar 2026 einen Bericht veröffentlicht: "What Would a Fiscal Crisis Look Like?" Die Antwort: Es muss kein plötzlicher Crash sein. Es kann ein langsames Ersticken sein. Höhere Zinsen, langsameres Wachstum, weniger fiskalischer Spielraum, steigende Steuern, gekürzte Ausgaben. Tod auf Raten.*
-> *Und warum ist das relevant für Stablecoins und Tokenisierung? Weil alles miteinander zusammenhängt.*
+::: {.infobox}
+### Warum die USA ihre eigenen Schulden nicht bezahlen können
+
+Die Vereinigten Staaten sind mit knapp 39 Billionen Dollar verschuldet. 122 Prozent des BIP. Die Verschuldung steigt um 6,12 Milliarden Dollar pro Tag. Allein die Zinszahlungen auf diese Schulden betrugen im Fiskaljahr 2025 über 1,2 Billionen Dollar. Mehr als die USA für Medicare oder die nationale Verteidigung ausgeben. Das Congressional Budget Office projiziert: die Zinszahlungen werden sich bis 2036 auf 2,1 Billionen verdoppeln. Insgesamt 16,2 Billionen Dollar an Zinsen in den nächsten zehn Jahren.
+
+Lesen Sie diese Zahl nochmal. 16,2 Billionen Dollar. Nur Zinsen. Kein einziger Dollar davon baut eine Brücke, bezahlt einen Lehrer oder heilt eine Krankheit.
+
+Die USA sind nicht allein. Japan führt die globale Schuldenliga an mit über 250 Prozent des BIP. Italien steht bei 137 Prozent, Frankreich bei über 110 Prozent, Großbritannien bei 100 Prozent. Die globale Staatsverschuldung nähert sich 100 Billionen Dollar. IMF-Chefin Kristalina Georgieva warnte in Davos: "Die Schulden, die auf unseren Schultern lasten und sich 100 Prozent des globalen BIP nähern, werden eine sehr schwere Last sein."
+
+Das Committee for a Responsible Federal Budget hat im Januar 2026 einen Bericht veröffentlicht: "What Would a Fiscal Crisis Look Like?" Die Antwort: Es muss kein plötzlicher Crash sein. Es kann ein langsames Ersticken sein. Höhere Zinsen, langsameres Wachstum, weniger fiskalischer Spielraum, steigende Steuern, gekürzte Ausgaben. Tod auf Raten.
+
+Und warum ist das relevant für Stablecoins und Tokenisierung? Weil alles miteinander zusammenhängt.
+:::
 > *Das Schulden-Stablecoin-Paradox*
 > *Hier entsteht ein Paradox, das die meisten Kommentatoren übersehen.*
 > *Stablecoins stützen die Dollar-Dominanz, indem sie Nachfrage nach US-Staatsanleihen erzeugen. Das hilft Washington, die Staatsschulden zu finanzieren. Aber genau diese Schulden untergraben langfristig das Vertrauen in den Dollar, das die Stablecoins als Anker brauchen.*
@@ -1120,9 +1165,13 @@ Fetch.ai, fusioniert mit SingularityNET und Ocean Protocol zur ASI Alliance, bau
 
 Der DePIN-Sektor insgesamt, Decentralized Physical Infrastructure Networks, umfasst mittlerweile rund 300 Projekte mit über 21 Millionen verbundenen Geräten. Helium für IoT-Konnektivität, Filecoin für dezentralen Speicher, Render Network für GPU-Rechenleistung, Hivemapper für dezentrale Kartierung. Das sind die physischen Infrastrukturen, über die Maschinen operieren werden.
 
-Und dann ist da die rechtliche Seite. Wyoming hat 2021 als erster US-Bundesstaat Gesetze verabschiedet, die es erlauben, DAOs als LLCs zu registrieren. Eine DAO kann eine juristische Person sein, mit einem Smart Contract als Gesellschaftsvertrag. Tennessee und Vermont haben nachgezogen. Die Kosten: 15.000 bis 50.000 Dollar. Die Dauer: vier bis acht Wochen.
+::: {.infobox}
+### Wyoming und die ersten Maschinen-Unternehmen
+
+Wyoming hat 2021 als erster US-Bundesstaat Gesetze verabschiedet, die es erlauben, DAOs als LLCs zu registrieren. Eine DAO kann eine juristische Person sein, mit einem Smart Contract als Gesellschaftsvertrag. Tennessee und Vermont haben nachgezogen. Die Kosten: 15.000 bis 50.000 Dollar. Die Dauer: vier bis acht Wochen.
 
 Das ist die erste Brücke zwischen Code und Gesetz. Noch wackelig, noch schmal. Aber sie existiert.
+:::
 
 Das selbstfahrende Auto: Eine Fallstudie
 
@@ -1288,6 +1337,10 @@ Die wichtigste Erkenntnis für Investoren: Der KI-Wettbewerb zwischen USA und Ch
 
 Halbleiter sind das neue Öl. Wer die Chips kontrolliert, kontrolliert die KI. Und die KI bestimmt die Wirtschaft des 21. Jahrhunderts.
 
+
+::: {.infobox}
+### Taiwan — Das unterschätzte Risiko
+
 Die gesamte KI-Revolution hängt an einer erstaunlich fragilen Lieferkette. NVIDIA desig, die Chips, aber baut sie nicht. Die Produktion liegt fast ausschließlich bei TSMC, der Taiwan Semiconductor Manufacturing Company, in Fabriken auf einer Insel, die 130 Kilometer vor der chinesischen Küste liegt und von der Volksrepublik China als Teil ihres Staatsgebiets betrachtet wird.
 
 TSMC produziert über 90 Prozent der weltweit fortschrittlichsten Halbleiter, die Chips unter 7 Nanometer, die für KI-Training und -Inferenz benötigt werden. Es gibt auf dem Planeten kein zweites Unternehmen, das Chips mit vergleichbarer Qualität und Stückzahl liefern kann. Samsung kommt am nächsten, liegt aber deutlich zurück. Intel versucht aufzuholen, hat aber den Anschluss an die Spitze verloren.
@@ -1304,6 +1357,8 @@ Die geopolitischen Implikationen sind offensichtlich und beunruhigend. Wenn Chin
 
 Für Investoren ist der Chip-Krieg ein zweischneidiges Schwert. Einerseits bieten NVIDIA, TSMC und ASML außergewöhnliche Investmentchancen, sie sitzen an der engsten Stelle der gesamten Wertschöpfungskette. Andererseits ist genau diese Konzentration ein systemisches Risiko. Ein Erdbeben in Taiwan, ein Krieg in der Straße von Taiwan, oder auch nur verschärfte Exportkontrollen können die gesamte Branche erschüttern.
 
+
+:::
 
 ---
 
@@ -1489,7 +1544,14 @@ Insgesamt verbrauchte Google 2024 über 8 Milliarden Gallonen Wasser für seine 
 
 KI verschärft das Problem. GPU-Cluster für KI-Training haben eine Leistungsdichte von 40 bis über 100 Kilowatt pro Rack. Bei normalen Cloud-Servern sind es 6 bis 10 Kilowatt. Zehn bis zwanzig Mal mehr Hitze pro Quadratmeter bedeutet zehn bis zwanzig Mal mehr Kühlungsbedarf.
 
+
+::: {.infobox}
+### Googles Wasserproblem in Oregon
+
 Die Konflikte haben bereits begonnen. In The Dalles, Oregon, einer Kleinstadt mit 16.000 Einwohnern, betreibt Google seit 2006 mehrere Rechenzentren. Als die lokale Zeitung "The Oregonian" den Wasserverbrauch recherchierte, bezahlte Google 100.000 Dollar, um die Klage der Stadt gegen die Zeitung zu finanzieren. Die Bewohner nennen Google inzwischen "Voldemort". Google plant weitere Rechenzentren in der Region. Die Stadt will Wasser aus dem Mount-Hood-Nationalwald beziehen, um den wachsenden Bedarf zu decken. Umweltschützer vermuten: Das Wasser ist in erster Linie für Google bestimmt, nicht für die Bevölkerung.
+
+:::
+
 
 In Mesa und Goodyear, Arizona, entstehen neue Rechenzentren in einer Region, die bereits unter Wasserknappheit leidet. Der Colorado River, der den amerikanischen Südwesten versorgt, führt seit zwei Jahrzehnten weniger Wasser als historisch üblich.
 
@@ -1601,7 +1663,14 @@ Weniger betroffen, vorerst: Handwerkliche Berufe mit hoher Variabilität (Sanit�
 
 Neu entstehend: KI-Training und -Supervision, Prompt Engineering und KI-Workflow-Design, Roboter-Wartung, KI-Ethik und -Governance, und Rollen, die wir heute noch nicht benennen können.
 
+
+::: {.infobox}
+### Hararis „useless class"
+
 Yuval Noah Harari geht noch weiter. In "Homo Deus" von 2016 hat der israelische Historiker einen Begriff geprägt, der unbequemer ist als alles, was die WEF-Berichte formulieren: die "useless class". Nicht arbeitslos. Nutzlos. Hararis Argument ist nicht, dass diese Menschen faul oder unfähig wären. Sein Argument ist, dass die Wirtschaft sie schlicht nicht mehr braucht. Nicht als Arbeiter, nicht als Soldaten, nicht einmal als Konsumenten, wenn Maschinen den Konsum unter sich regeln.
+
+:::
+
 
 Das ist härter als die offizielle Prognose. McKinsey redet von Transformation. Harari redet von Überflüssigkeit. Die Frage ist nicht "welchen neuen Job bekomme ich?", sondern "hat die Gesellschaft überhaupt noch eine Verwendung für mich?" Und das ist eine Frage, die kein Umschulungsprogramm beantworten kann. Die WEF-Zahl von 170 Millionen neuen Jobs mag stimmen. Aber sie beantwortet nicht, ob die Menschen, die ihre alten Jobs verlieren, auch die sind, die die neuen bekommen.
 
@@ -1616,48 +1685,55 @@ Noch alarmierender: Während die Gesamtarbeitslosigkeit in KI-exponierten Berufe
 
 ---
 
-> *Wissensarbeiter als die neuen Bauern*
-> *Die bitterste Ironie: Diese Revolution trifft genau die Schicht, die sich am sichersten fühlte.*
-> *In den letzten Jahrzehnten wurde Wissensarbeitern erzählt, sie seien die Zukunft. Lernt programmieren. Studiert BWL. Macht euren MBA. Die Fabrikarbeiter mögen ihren Job an Maschinen verloren haben, aber ihr seid sicher, eure Arbeit erfordert Kreativität, Urteilsvermögen, menschliche Interaktion.*
-> *KI stellt genau diese Erzählung in Frage. Wenn ein KI-System juristische Dokumente schneller analysiert als ein Anwalt, eine Finanzanalyse präziser erstellt als ein Analyst, einen Marketingtext verfasst, der besser konvertiert als der eines Texters, was genau ist dann der Wettbewerbsvorteil der menschlichen Wissensarbeit?*
-> *Die ehrliche Antwort: Er schrumpft. Er verschwindet nicht über Nacht, KI hat Schwächen, macht Fehler, braucht Aufsicht. Aber er schrumpft mit jedem Modell-Update, jedem neuen Benchmark-Ergebnis, jedem Unternehmen, das entdeckt, dass es drei Mitarbeiter durch einen Mitarbeiter plus KI ersetzen kann.*
-> *Wissensarbeiter sind in den meisten westlichen Gesellschaften die Mittelschicht. Sie sind die Konsumenten, die Steuerzahler, die Wähler. Wenn diese Schicht unter Druck gerät, hat das Konsequenzen, die weit über den Arbeitsmarkt hinausgehen.*
-> *Sie werden, im schlimmsten Fall, zu den neuen Bauern: Menschen, deren Humankapital (ihre Ausbildung, ihre Erfahrung) an eine Wirtschaftsstruktur gebunden ist, die gerade obsolet wird. Genau wie die Bauern im 18. Jahrhundert, die Experten für eine Welt waren, die verschwand.*
-> *Warum unser Wohlstandskompass kaputt ist*
-> *Es gibt ein tieferes Problem, das die Debatte um Arbeitsplätze und Grundeinkommen überlagert: Wir messen Wohlstand mit einem Instrument, das Fortschritt als Katastrophe registriert.*
-> *Das Bruttoinlandsprodukt, die Zahl, an der sich Regierungen, Zentralbanken und Märkte orientieren, hat eine strukturelle Schwäche: Es ist blind für Überfluss. Wenn Wikipedia das Wissen einer Enzyklopädie kostenlos verfügbar macht, registriert GDP den Umsatzverlust der Verlage, aber nicht den Wissenszugewinn der Menschheit. Wenn ein KI-Agent die Arbeit eines Rechtsanwalts in Minuten erledigt und die Kosten auf einen Bruchteil fallen, dann schrumpft das BIP, während der tatsächliche Nutzen explodiert.*
-> *Emad Mostaque formuliert das in "The Last Economy" prägnant: "We are about to achieve post-scarcity in the realm of intelligence, and our scarcity-based economic system is going to process this abundance as poverty." Wir stehen kurz davor, im Bereich der Intelligenz den Man. Und überwinden. Und unser auf Knappheit gebautes Wirtschaftssystem wird diese Fülle als Armut verbuchen.*
-> *Das ist kein abstraktes Problem. Es hat reale Konsequenzen. Wenn KI die Kosten für Rechtsberatung, Diagnosen, Übersetzungen, Finanzanalysen und Programmierung auf einen Bruchteil drückt, wird sich das in sinkenden Umsatzzahlen niederschlagen, in sinkenden Gehältern in diesen Branchen, in sinkenden BIP-Beiträgen. Politisch wird das als Krise gelesen. Die Reflexantwort wird Regulierung sein, Verlangsamung, Protektionismus. Aber die eigentliche Krise ist nicht, dass die Dinge billiger werden. Die Krise ist, dass unser Messinstrument nicht zwischen Verfall und Fortschritt unterscheiden kann.*
-> *Gleichzeitig zählt GDP Dinge als Wachstum, die niemand als Fortschritt bezeichnen würde: Naturkatastrophen, die Wiederaufbau erfordern, Scheidungen, die Anwälte beschäftigen, Krankheiten, die Behandlungen generieren. Je mehr kaputt geht, desto besser die Zahl. Je mehr Fülle entsteht, desto schlechter die Zahl. Das ist kein Bug in der Formel. Es ist ein Konstruktionsfehler, der in einer Welt der Knappheit nicht auffiel und in einer Welt der KI-getriebenen Abundanz zum grundlegenden Orientierungsproblem wird.*
-> *Mostaque geht noch weiter und beschreibt, was er "nicht-metabolische Arbeit" nennt: KI und Roboter brauchen keinen Schlaf, kein Essen, keine Krankenversicherung, keine Rente. Sie brauchen Strom. In einer rein ökonomischen Kalkulation, die nur Produktivität pro Kosteneinheit misst, kann der Wert menschlicher Arbe, negativ werden, weil die Kosten für Versicherung, Arbeitsrecht, Krankheitstage und Fehlerquoten den Output übersteigen, den ein Mensch gegenüber einer Maschine noch liefern kann. Das klingt brutal. Es ist brutal. Was ist der menschliche Preis, wenn die Maschinen nicht nur billiger arbeiten, sondern wenn die gesamte Metrik, mit der wir Arbeit messen, zu ihren Gunsten konstruiert ist?*
-> *Was die Forschung über Grundeinkommen wirklich sagt*
-> *Wenn die Arbeit verschwindet, muss jemand zahlen. Die naheliegende Idee heißt Universal Basic Income, und sie wird von genau den Leuten propagiert, die am meisten von der Automatisierung profitieren. Sam Altman, CEO von OpenAI, hat sich für UBI ausgesprochen. Elon Musk geht weiter und spricht von einem "Universal High Income". Die Frage ist: Funktioniert das?*
-> *Die Forschung gibt eine differenzierte Antwort.*
-> *Finnland hat von 2017 bis 2018 das bekannteste nationale UBI-Experiment durchgeführt. 2.000 zufällig ausgewählte Arbeitslose bekamen monatlich 560 Euro, bedingungslos, steuerfrei. Das Ergebnis überraschte beide Seiten der Debatte. Die Empfänger wurden nicht faul. Sie arbeiteten im Messzeitraum sogar sechs Tage mehr als die Kontrollgruppe. Aber sie wurden auch nicht zu Unternehmern oder Innovatoren. Der wirkliche Effekt war psychologisch: weniger Depression, weniger Einsamkeit, mehr Lebenszufriedenheit. UBI wirkte nicht als Beschäftigungsprogramm, sondern als Gesundheitsmaßnahme.*
-> *Sam Altmans eigene Studie, finanziert über sein Projekt OpenResearch, war die größte in der US-Geschichte. 3.000 Teilnehmer in Illinois und Texas erhielten drei Jahre lang 1.000 Dollar monatlich. Das Ergebnis: Die Empfänger arbeiteten 1,3 bis 1,4 Stunden weniger pro Woche. Nicht dramatisch, aber messbar. Die Forscher hatten gehofft, dass das finanzielle Polster die Teilnehmer befähigen würde, bessere Jobs zu finden. Das trat nicht ein. Was eintrat: Die Menschen nutzten die Zeit für das, was sie für wichtiger hielten als Arbeit. Ob man das als Fortschritt oder als Problem sieht, hängt davon ab, ob man Arbeit als moralischen Wert oder als Mittel zum Zweck betrachtet.*
-> *In Stockton, Kalifornien, zeigte sich das Gegenteil. Bürgermeister Michael Tubbs gab 125 Einwohnern zwei Jahre lang 500 Dollar monatlich. Dort stieg die Vollzeitbeschäftigung. Das finanzielle Polster ermöglichte es den Teilnehmern, schlechte Jobs zu kündigen und bessere zu finden. In einer Stadt, die 2012 bankrott gegangen war, brauchten die Menschen zuerst Stabilität, um überhaupt handlungsfähig zu werden.*
-> *In Kenia läuft seit 2016 das größte Langzeit-Experiment der Welt. Rund 6.000 Menschen in ländlichen Dörfern erhalten monatlich etwas über 20 Dollar, begleitet von MIT-Nobelpreisträger Abhijit Banerjee. Die überraschendste Erkenntnis: Eine Einmalzahlung von 500 Dollar wirkte besser als monatliche 20 Dollar über zwei Jahre, obwohl die Gesamtsumme identisch war. 500 Dollar auf einmal liefern Startkapital für ein kleines Geschäft. 20 Dollar pro Monat decken den Alltag, verändern aber nichts.*
-> *Die Golfstaaten sind das nächstgelegene reale Beispiel einer funktionierenden Ressourcen-Rente. Saudi-Arabien, Kuwait, die Emirate finanzieren großzügige Transferleistungen für ihre Staatsbürger aus Öleinnahmen. Kostenlose Gesundheitsversorgung, subventioniertes Wohnen, direkte Barzahlungen. Armut unter Staatsbürgern existiert praktisch nicht. Aber die Regierungen selbst sehen das Problem: Die Bürger sind passiv geworden. Saudi-Arabiens Vision 2030 versucht aktiv, Bürger von "Empfängern" zu "Unternehmern" zu transformieren. Der materielle Wohlstand ist da. Der Antrieb nicht.*
-> *Was sagt uns das für die Maschinenökonomie? Drei Dinge.*
-> *Erstens: UBI macht Menschen nicht faul. Das ist durch mehrere unabhängige Studien belegt. Aber es macht sie auch nicht automatisch produktiver oder unternehmerischer. Es nimmt die Existenzangst, und das ist viel wert.*
-> *Zweitens: Die Struktur der Zahlung ist wichtiger als die Höhe. Startkapital kann Leben verändern. Kleine Monatszahlungen können den Alltag erleichtern, aber keine Sprünge ermöglichen. Sam Altmans radikalster Vorschlag, "Universal Basic Compute", geht in diese Richtung: Statt Geld bekommt jeder Mensch einen Anteil an KI-Rechenleistung, den er nutzen, verkaufen oder bündeln kann. KI-Leistung wird zur Währung. Es klingt verrückt. Es könnte funktionieren.*
-> *Drittens: Die Saudi-Lektion. Materieller Wohlstand löst nicht die Sinn-Frage. Und die Sinn-Frage ist das eigentliche Problem.*
-> *Aber es gibt noch ein tieferes Problem, das die UBI-Diskussion übersieht.*
-> *UBI macht abhängig. Von dem, der zahlt.*
-> *Wer sein Einkommen vom Staat bezieht, kann keine unabhängigen Entscheidungen treffen. Nicht wirklich. Du bist dankbar, nicht souverän. Du wartest, statt zu gestalten. Du lebst von dem, was andere dir geben, nicht von dem, was du selbst aufgebaut hast.*
-> *"You'll own nothing and be happy" - das ist die Formel der neuen Feudalherren. Universelles Grundeinkommen ist die Ration, die man den Bauern gibt, damit sie nicht revoltieren.*
-> *Ich will keine Ration. Ich will Anteil.*
-> *Die Antwort auf die Maschinenökonomie ist nicht, auf Transfers zu hoffen. Die Antwort ist, die Maschinen zu besitzen. Oder zumindest einen Anteil an ihnen.*
-> *Das ist der Unterschied zwischen Überleben und Wohlstand.*
-> *Was passiert, wenn Arbeit aufhört, Sinn zu stiften*
-> *Viktor Frankl, der österreichische Psychiater und Holocaust-Überlebende, nannte es das "existentielle Vakuum": das Gefühl der Sinnlosigkeit, das entsteht, wenn der Mensch keine Aufgabe hat. Frankls Grundthese war einfach. Der Mensch wird nicht primär von Lust getrieben wie bei Freud, und nicht von Macht wie bei Adler. Er wird von der Suche nach Sinn getrieben. Nimmt man ihm den Sinn, wird er krank.*
-> *Die psychologische Forschung bestätigt das in beeindruckender Breite. Langzeitarbeitslose haben ein signifikant höheres Risiko für Depression, Substanzmissbrauch und Suizid. Nicht wegen des Geldmangels allein. Auch Menschen, die finanziell abgesichert sind, aber keine Aufgabe haben, leiden. Studien zum "retired husband syndrome" zeigen, dass Männer nach der Pensionierung messbar häufiger krank werden, wenn sie keine alternative Beschäftigung finden.*
-> *Anne Case und Angus Deaton, beide Princeton-Ökonomen und Deaton Nobelpreisträger, haben das Phänomen der "Deaths of Despair" dokumentiert. In den USA ist die Lebenserwartung weißer Amerikaner ohne College-Abschluss seit den späten 1990er Jahren gesunken, nicht gestiegen. Gesunken. In einem der reichsten Länder der Welt. Die Ursachen: Opioid-Sucht, Alkoholismus, Suizid. Die Gemeinsamkeit der Betroffenen: Sie haben ihre wirtschaftliche Funktion verloren. Ihre Jobs wurden automatisiert oder outgesourct. Ihre Gemeinden zerfielen. Ihr Sinn verschwand.*
-> *Japans Hikikomori-Phänomen zeigt eine andere Variante. Mehr als eine Million junger Japaner haben sich aus der Gesellschaft zurückgezogen. Sie verlassen ihre Zimmer nicht mehr, arbeiten nicht, pflegen keine sozialen Kontakte. Die Ursachen sind komplex, aber ein Faktor sticht hervor: In einer Gesellschaft, die Identität stark über berufliche Leistung definiert, bedeutet Scheitern im Beruf Scheitern als Mensch. Wer keinen akzeptablen Platz im System findet, zieht sich ganz zurück.*
-> *Wenn KI und Robotik tatsächlich einen erheblichen Teil der Wissensarbeit und der physischen Arbeit übernehmen, was die These dieses Buches ist, dann stehen wir vor einer Sinn-Krise, die in ihrer Dimension beispiellos ist. Nicht weil die Menschen hungern; UBI, Transfers, soziale Sicherungssysteme können das materielle Problem lösen, sondern weil der Mensch eine Aufgabe braucht, etwas, das ihn fordert, bei dem er sich kompetent fühlt, das morgens den Wecker stellt.*
-> *Es gibt positive Szenarien. Eine Renaissance der Kreativität. Menschen, die von Routine-Arbeit befreit sind, entdecken Kunst, Musik, Handwerk, Gemeinschaft, Pflege. Die griechische Polis kannte keinen Unterschied zwischen "Arbeit" und "Leben". Arbeit war das, was Sklaven taten. Freie Bürger philosophierten, debattierten, schufen Kunst. Vielleicht ist die KI-Revolution der Moment, in dem die Menschheit wieder zu diesem Zustand zurückkehrt, ohne die Sklaverei, weil die Maschinen die Rolle der Sklaven übernehmen.*
-> *Vielleicht. Aber die bisherige Evidenz ist weniger optimistisch. Die Menschen, die durch Automatisierung ihre Jobs verloren haben, in Ohio, in Nordengland, in den französischen Banlieues, haben keine Renaissance erlebt. Sie haben Opioid-Epidemien erlebt. Sie haben Brexit gewählt. Sie haben Trump gewählt. Nicht aus Dummheit. Aus Verzweiflung.*
-> *Die Sinn-Krise ist für dieses Buch relevant, weil sie ein Risiko für die gesamte Investmentthese darstellt. Eine Gesellschaft, die unter einer massiven Sinnkrise leidet, ist keine stabile Gesellschaft. Und instabile Gesellschaften sind schlechte Umgebungen für Investitionen, egal wie beeindruckend die Technologie ist. Das ist der Grund, warum im Risiko-Kapitel die gesellschaftliche Instabilität als eigenständiges Risiko aufgeführt wird.*
+
+::: {.infobox}
+### Finnlands UBI-Experiment
+
+*Wissensarbeiter als die neuen Bauern*
+*Die bitterste Ironie: Diese Revolution trifft genau die Schicht, die sich am sichersten fühlte.*
+*In den letzten Jahrzehnten wurde Wissensarbeitern erzählt, sie seien die Zukunft. Lernt programmieren. Studiert BWL. Macht euren MBA. Die Fabrikarbeiter mögen ihren Job an Maschinen verloren haben, aber ihr seid sicher, eure Arbeit erfordert Kreativität, Urteilsvermögen, menschliche Interaktion.*
+*KI stellt genau diese Erzählung in Frage. Wenn ein KI-System juristische Dokumente schneller analysiert als ein Anwalt, eine Finanzanalyse präziser erstellt als ein Analyst, einen Marketingtext verfasst, der besser konvertiert als der eines Texters, was genau ist dann der Wettbewerbsvorteil der menschlichen Wissensarbeit?*
+*Die ehrliche Antwort: Er schrumpft. Er verschwindet nicht über Nacht, KI hat Schwächen, macht Fehler, braucht Aufsicht. Aber er schrumpft mit jedem Modell-Update, jedem neuen Benchmark-Ergebnis, jedem Unternehmen, das entdeckt, dass es drei Mitarbeiter durch einen Mitarbeiter plus KI ersetzen kann.*
+*Wissensarbeiter sind in den meisten westlichen Gesellschaften die Mittelschicht. Sie sind die Konsumenten, die Steuerzahler, die Wähler. Wenn diese Schicht unter Druck gerät, hat das Konsequenzen, die weit über den Arbeitsmarkt hinausgehen.*
+*Sie werden, im schlimmsten Fall, zu den neuen Bauern: Menschen, deren Humankapital (ihre Ausbildung, ihre Erfahrung) an eine Wirtschaftsstruktur gebunden ist, die gerade obsolet wird. Genau wie die Bauern im 18. Jahrhundert, die Experten für eine Welt waren, die verschwand.*
+*Warum unser Wohlstandskompass kaputt ist*
+*Es gibt ein tieferes Problem, das die Debatte um Arbeitsplätze und Grundeinkommen überlagert: Wir messen Wohlstand mit einem Instrument, das Fortschritt als Katastrophe registriert.*
+*Das Bruttoinlandsprodukt, die Zahl, an der sich Regierungen, Zentralbanken und Märkte orientieren, hat eine strukturelle Schwäche: Es ist blind für Überfluss. Wenn Wikipedia das Wissen einer Enzyklopädie kostenlos verfügbar macht, registriert GDP den Umsatzverlust der Verlage, aber nicht den Wissenszugewinn der Menschheit. Wenn ein KI-Agent die Arbeit eines Rechtsanwalts in Minuten erledigt und die Kosten auf einen Bruchteil fallen, dann schrumpft das BIP, während der tatsächliche Nutzen explodiert.*
+*Emad Mostaque formuliert das in "The Last Economy" prägnant: "We are about to achieve post-scarcity in the realm of intelligence, and our scarcity-based economic system is going to process this abundance as poverty." Wir stehen kurz davor, im Bereich der Intelligenz den Man. Und überwinden. Und unser auf Knappheit gebautes Wirtschaftssystem wird diese Fülle als Armut verbuchen.*
+*Das ist kein abstraktes Problem. Es hat reale Konsequenzen. Wenn KI die Kosten für Rechtsberatung, Diagnosen, Übersetzungen, Finanzanalysen und Programmierung auf einen Bruchteil drückt, wird sich das in sinkenden Umsatzzahlen niederschlagen, in sinkenden Gehältern in diesen Branchen, in sinkenden BIP-Beiträgen. Politisch wird das als Krise gelesen. Die Reflexantwort wird Regulierung sein, Verlangsamung, Protektionismus. Aber die eigentliche Krise ist nicht, dass die Dinge billiger werden. Die Krise ist, dass unser Messinstrument nicht zwischen Verfall und Fortschritt unterscheiden kann.*
+*Gleichzeitig zählt GDP Dinge als Wachstum, die niemand als Fortschritt bezeichnen würde: Naturkatastrophen, die Wiederaufbau erfordern, Scheidungen, die Anwälte beschäftigen, Krankheiten, die Behandlungen generieren. Je mehr kaputt geht, desto besser die Zahl. Je mehr Fülle entsteht, desto schlechter die Zahl. Das ist kein Bug in der Formel. Es ist ein Konstruktionsfehler, der in einer Welt der Knappheit nicht auffiel und in einer Welt der KI-getriebenen Abundanz zum grundlegenden Orientierungsproblem wird.*
+*Mostaque geht noch weiter und beschreibt, was er "nicht-metabolische Arbeit" nennt: KI und Roboter brauchen keinen Schlaf, kein Essen, keine Krankenversicherung, keine Rente. Sie brauchen Strom. In einer rein ökonomischen Kalkulation, die nur Produktivität pro Kosteneinheit misst, kann der Wert menschlicher Arbe, negativ werden, weil die Kosten für Versicherung, Arbeitsrecht, Krankheitstage und Fehlerquoten den Output übersteigen, den ein Mensch gegenüber einer Maschine noch liefern kann. Das klingt brutal. Es ist brutal. Was ist der menschliche Preis, wenn die Maschinen nicht nur billiger arbeiten, sondern wenn die gesamte Metrik, mit der wir Arbeit messen, zu ihren Gunsten konstruiert ist?*
+*Was die Forschung über Grundeinkommen wirklich sagt*
+*Wenn die Arbeit verschwindet, muss jemand zahlen. Die naheliegende Idee heißt Universal Basic Income, und sie wird von genau den Leuten propagiert, die am meisten von der Automatisierung profitieren. Sam Altman, CEO von OpenAI, hat sich für UBI ausgesprochen. Elon Musk geht weiter und spricht von einem "Universal High Income". Die Frage ist: Funktioniert das?*
+*Die Forschung gibt eine differenzierte Antwort.*
+*Finnland hat von 2017 bis 2018 das bekannteste nationale UBI-Experiment durchgeführt. 2.000 zufällig ausgewählte Arbeitslose bekamen monatlich 560 Euro, bedingungslos, steuerfrei. Das Ergebnis überraschte beide Seiten der Debatte. Die Empfänger wurden nicht faul. Sie arbeiteten im Messzeitraum sogar sechs Tage mehr als die Kontrollgruppe. Aber sie wurden auch nicht zu Unternehmern oder Innovatoren. Der wirkliche Effekt war psychologisch: weniger Depression, weniger Einsamkeit, mehr Lebenszufriedenheit. UBI wirkte nicht als Beschäftigungsprogramm, sondern als Gesundheitsmaßnahme.*
+*Sam Altmans eigene Studie, finanziert über sein Projekt OpenResearch, war die größte in der US-Geschichte. 3.000 Teilnehmer in Illinois und Texas erhielten drei Jahre lang 1.000 Dollar monatlich. Das Ergebnis: Die Empfänger arbeiteten 1,3 bis 1,4 Stunden weniger pro Woche. Nicht dramatisch, aber messbar. Die Forscher hatten gehofft, dass das finanzielle Polster die Teilnehmer befähigen würde, bessere Jobs zu finden. Das trat nicht ein. Was eintrat: Die Menschen nutzten die Zeit für das, was sie für wichtiger hielten als Arbeit. Ob man das als Fortschritt oder als Problem sieht, hängt davon ab, ob man Arbeit als moralischen Wert oder als Mittel zum Zweck betrachtet.*
+*In Stockton, Kalifornien, zeigte sich das Gegenteil. Bürgermeister Michael Tubbs gab 125 Einwohnern zwei Jahre lang 500 Dollar monatlich. Dort stieg die Vollzeitbeschäftigung. Das finanzielle Polster ermöglichte es den Teilnehmern, schlechte Jobs zu kündigen und bessere zu finden. In einer Stadt, die 2012 bankrott gegangen war, brauchten die Menschen zuerst Stabilität, um überhaupt handlungsfähig zu werden.*
+*In Kenia läuft seit 2016 das größte Langzeit-Experiment der Welt. Rund 6.000 Menschen in ländlichen Dörfern erhalten monatlich etwas über 20 Dollar, begleitet von MIT-Nobelpreisträger Abhijit Banerjee. Die überraschendste Erkenntnis: Eine Einmalzahlung von 500 Dollar wirkte besser als monatliche 20 Dollar über zwei Jahre, obwohl die Gesamtsumme identisch war. 500 Dollar auf einmal liefern Startkapital für ein kleines Geschäft. 20 Dollar pro Monat decken den Alltag, verändern aber nichts.*
+*Die Golfstaaten sind das nächstgelegene reale Beispiel einer funktionierenden Ressourcen-Rente. Saudi-Arabien, Kuwait, die Emirate finanzieren großzügige Transferleistungen für ihre Staatsbürger aus Öleinnahmen. Kostenlose Gesundheitsversorgung, subventioniertes Wohnen, direkte Barzahlungen. Armut unter Staatsbürgern existiert praktisch nicht. Aber die Regierungen selbst sehen das Problem: Die Bürger sind passiv geworden. Saudi-Arabiens Vision 2030 versucht aktiv, Bürger von "Empfängern" zu "Unternehmern" zu transformieren. Der materielle Wohlstand ist da. Der Antrieb nicht.*
+*Was sagt uns das für die Maschinenökonomie? Drei Dinge.*
+*Erstens: UBI macht Menschen nicht faul. Das ist durch mehrere unabhängige Studien belegt. Aber es macht sie auch nicht automatisch produktiver oder unternehmerischer. Es nimmt die Existenzangst, und das ist viel wert.*
+*Zweitens: Die Struktur der Zahlung ist wichtiger als die Höhe. Startkapital kann Leben verändern. Kleine Monatszahlungen können den Alltag erleichtern, aber keine Sprünge ermöglichen. Sam Altmans radikalster Vorschlag, "Universal Basic Compute", geht in diese Richtung: Statt Geld bekommt jeder Mensch einen Anteil an KI-Rechenleistung, den er nutzen, verkaufen oder bündeln kann. KI-Leistung wird zur Währung. Es klingt verrückt. Es könnte funktionieren.*
+*Drittens: Die Saudi-Lektion. Materieller Wohlstand löst nicht die Sinn-Frage. Und die Sinn-Frage ist das eigentliche Problem.*
+*Aber es gibt noch ein tieferes Problem, das die UBI-Diskussion übersieht.*
+*UBI macht abhängig. Von dem, der zahlt.*
+*Wer sein Einkommen vom Staat bezieht, kann keine unabhängigen Entscheidungen treffen. Nicht wirklich. Du bist dankbar, nicht souverän. Du wartest, statt zu gestalten. Du lebst von dem, was andere dir geben, nicht von dem, was du selbst aufgebaut hast.*
+*"You'll own nothing and be happy" - das ist die Formel der neuen Feudalherren. Universelles Grundeinkommen ist die Ration, die man den Bauern gibt, damit sie nicht revoltieren.*
+*Ich will keine Ration. Ich will Anteil.*
+*Die Antwort auf die Maschinenökonomie ist nicht, auf Transfers zu hoffen. Die Antwort ist, die Maschinen zu besitzen. Oder zumindest einen Anteil an ihnen.*
+*Das ist der Unterschied zwischen Überleben und Wohlstand.*
+*Was passiert, wenn Arbeit aufhört, Sinn zu stiften*
+*Viktor Frankl, der österreichische Psychiater und Holocaust-Überlebende, nannte es das "existentielle Vakuum": das Gefühl der Sinnlosigkeit, das entsteht, wenn der Mensch keine Aufgabe hat. Frankls Grundthese war einfach. Der Mensch wird nicht primär von Lust getrieben wie bei Freud, und nicht von Macht wie bei Adler. Er wird von der Suche nach Sinn getrieben. Nimmt man ihm den Sinn, wird er krank.*
+*Die psychologische Forschung bestätigt das in beeindruckender Breite. Langzeitarbeitslose haben ein signifikant höheres Risiko für Depression, Substanzmissbrauch und Suizid. Nicht wegen des Geldmangels allein. Auch Menschen, die finanziell abgesichert sind, aber keine Aufgabe haben, leiden. Studien zum "retired husband syndrome" zeigen, dass Männer nach der Pensionierung messbar häufiger krank werden, wenn sie keine alternative Beschäftigung finden.*
+*Anne Case und Angus Deaton, beide Princeton-Ökonomen und Deaton Nobelpreisträger, haben das Phänomen der "Deaths of Despair" dokumentiert. In den USA ist die Lebenserwartung weißer Amerikaner ohne College-Abschluss seit den späten 1990er Jahren gesunken, nicht gestiegen. Gesunken. In einem der reichsten Länder der Welt. Die Ursachen: Opioid-Sucht, Alkoholismus, Suizid. Die Gemeinsamkeit der Betroffenen: Sie haben ihre wirtschaftliche Funktion verloren. Ihre Jobs wurden automatisiert oder outgesourct. Ihre Gemeinden zerfielen. Ihr Sinn verschwand.*
+*Japans Hikikomori-Phänomen zeigt eine andere Variante. Mehr als eine Million junger Japaner haben sich aus der Gesellschaft zurückgezogen. Sie verlassen ihre Zimmer nicht mehr, arbeiten nicht, pflegen keine sozialen Kontakte. Die Ursachen sind komplex, aber ein Faktor sticht hervor: In einer Gesellschaft, die Identität stark über berufliche Leistung definiert, bedeutet Scheitern im Beruf Scheitern als Mensch. Wer keinen akzeptablen Platz im System findet, zieht sich ganz zurück.*
+*Wenn KI und Robotik tatsächlich einen erheblichen Teil der Wissensarbeit und der physischen Arbeit übernehmen, was die These dieses Buches ist, dann stehen wir vor einer Sinn-Krise, die in ihrer Dimension beispiellos ist. Nicht weil die Menschen hungern; UBI, Transfers, soziale Sicherungssysteme können das materielle Problem lösen, sondern weil der Mensch eine Aufgabe braucht, etwas, das ihn fordert, bei dem er sich kompetent fühlt, das morgens den Wecker stellt.*
+*Es gibt positive Szenarien. Eine Renaissance der Kreativität. Menschen, die von Routine-Arbeit befreit sind, entdecken Kunst, Musik, Handwerk, Gemeinschaft, Pflege. Die griechische Polis kannte keinen Unterschied zwischen "Arbeit" und "Leben". Arbeit war das, was Sklaven taten. Freie Bürger philosophierten, debattierten, schufen Kunst. Vielleicht ist die KI-Revolution der Moment, in dem die Menschheit wieder zu diesem Zustand zurückkehrt, ohne die Sklaverei, weil die Maschinen die Rolle der Sklaven übernehmen.*
+*Vielleicht. Aber die bisherige Evidenz ist weniger optimistisch. Die Menschen, die durch Automatisierung ihre Jobs verloren haben, in Ohio, in Nordengland, in den französischen Banlieues, haben keine Renaissance erlebt. Sie haben Opioid-Epidemien erlebt. Sie haben Brexit gewählt. Sie haben Trump gewählt. Nicht aus Dummheit. Aus Verzweiflung.*
+*Die Sinn-Krise ist für dieses Buch relevant, weil sie ein Risiko für die gesamte Investmentthese darstellt. Eine Gesellschaft, die unter einer massiven Sinnkrise leidet, ist keine stabile Gesellschaft. Und instabile Gesellschaften sind schlechte Umgebungen für Investitionen, egal wie beeindruckend die Technologie ist. Das ist der Grund, warum im Risiko-Kapitel die gesellschaftliche Instabilität als eigenständiges Risiko aufgeführt wird.*
+
+:::
+
 
 ---
 
@@ -1850,9 +1926,16 @@ Russland antwortet mit der Lancet-3, einer Loitering Munition mit autonomer Ziel
 
 Die Defence-AI-Industrie wächst schneller als fast jeder andere Sektor. Palantir ist über 160 Milliarden Dollar wert, ein Kursanstieg von 330 Prozent in einem Jahr. Anduril, gegründet vom ehemaligen Oculus-Gründer Palmer Luckey, wurde im Juni 2025 mit 30,5 Milliarden Dollar bewertet. Peter Thiels Founders Fund investierte eine Milliarde Dollar in einer einzigen Runde, der größte einzelne Scheck in der Geschichte des Fonds. Shield AI, dessen Drohnen bereits in der Ukraine und bei den US-Marines im Einsatz sind, steht bei 5,6 Milliarden.
 
+
+::: {.infobox}
+### Lavender — KI wählt Ziele in Gaza
+
 Der verstörendste Fall ist nicht die Ukraine, sondern Gaza. Im April 2024 enthüllte das israelische Magazin +972 ein System namens Lavender. Eine KI-Datenbank, die 37.000 Palästinenser als potenzielle Ziele markierte. Laut Quellen innerhalb der israelischen Armee wurde Lavenders Output "praktisch wie eine menschliche Entscheidung behandelt". Die Überprüfungszeit pro Ziel: etwa 20 Sekunden. Ein zweites System namens "Where's Daddy?" lokalisierte die markierten Personen und schlug Angriffe vor, wenn sie nachts zu Hause waren, bei ihren Familien. Die UN-Menschenrechtsexperten verurteilten den Einsatz. Human Rights Watch dokumentierte die Fälle.
 
 Lavender ist der erste dokumentierte Fall, in dem KI im großen Maßstab für die Zielauswahl in einem bewaffneten Konflikt eingesetzt wurde. Er wirft eine Frage auf, die kein Rechtssystem der Welt beantwortet: Wer ist verantwortlich, wenn eine KI ein falsches Ziel markiert und ein Zivilist stirbt? Der Programmierer? Der Kommandeur, der 20 Sekunden auf eine Empfehlung geschaut hat? Der Staat? Die KI selbst hat keine Rechtspersönlichkeit. Sie kann nicht bestraft werden. Das Ergebnis ist eine Verantwortungslücke, die mit jeder Generation autonomerer Systeme größer wird.
+
+:::
+
 
 Die UN-Generalversammlung stimmte im Dezember 2024 mit 166 zu 3 Stimmen für eine Resolution zu autonomen Waffensystemen. Nur Russland, Nordkorea und Belarus stimmten dagegen. Die Ukraine enthielt sich, sie setzt die Systeme selbst ein. Aber eine Resolution ist kein Verbot. Seit 2014 verhandelt die UN über ein bindendes Abkommen, die sogenannten LAWS-Verhandlungen. Bisher ohne Ergebnis. Einzelne Staaten blockieren. In der Zwischenzeit beschleunigt sich das Wettrüsten.
 
@@ -1906,44 +1989,50 @@ Trotzdem ist es notwendig. Nicht um eine präzise Prognose zu liefern, die man i
 
 ---
 
-> *2026-2028: Die stille Revolution*
-> *KI-Agenten werden zum Standard in der Wissensarbeit. Nicht in allen Unternehmen, aber in allen Unternehmen, die überleben wollen. Jedes größere Unternehmen hat KI-Systeme, die autonom E-Mails beantworten, Reports erstellen, Daten analysieren, Code schreiben und Entscheidungen vorbereiten.*
-> *Ich erlebe das selbst. Anfang 2026 entdeckte ich ein Open-Source-Projekt namens OpenClaw. Es war gerade mal zwei Tage veröffentlicht, und ich hatte bereits meine erste KI-Assistentin am Start. Ich nannte sie Jeannie, nach dem Geist aus der Flasche.*
-> *OpenClaw erreichte 200.000 GitHub-Stars innerhalb weniger Wochen und wurde zum am schnellsten wachsenden Open-Source-Projekt in der Geschichte der KI.*
-> *Der Unterschied: Du gibst deinem Agenten eine Persönlichkeit über eine sogenannte Soul-Datei. Deine Beziehung zu deiner KI gehört dir, nicht der Plattform.*
-> *Seitdem hat sich mein Alltag grundlegend verändert: Sie durchforstet meine E-Mails, wickelt Akquise-Mails ab, prüft Verträge, legt Rechnungen ab und liefert Markt- und Wettbewerbsberichte. Das ist keine Zukunftsvision. Das ist mein Dienstag.*
-> *Als ich schrieb: "Jede Änderung wird zuerst mit dem Meister besprochen. Er entscheidet, wer ich werde", dachte ich an eine neue Art von Partnerschaft zwischen Mensch und Maschine.*
-> *Die ersten humanoiden Roboter arbeiten in kontrollierten Umgebungen. Teslas Fabriken, Amazon-Lagerhäuser, japanische Pflegeheime. Sie machen keine komplexen Aufgaben, sie sortieren, transportieren, stapeln. Aber sie funktionieren. Und sie werden mit jedem Monat besser.*
-> *Die Arbeitslosenquote in bestimmten Sektoren steigt spürbar. Call-Center, einfache Buchhaltung, Datenverarbeitung, Standard-Rechtsberatung. Gleichzeitig entstehen neue Berufe rund um KI-Management und Roboter-Supervision. Die Netto-Bilanz ist unklar, aber die Angst ist real und politisch spürbar.*
-> *Stablecoins werden von ersten Regierungen als legale Zahlungsmittel für digitale Transaktionen anerkannt. Bitcoin überschreitet dauerhaft die 200.000-Dollar-Marke, getrieben durch institutionelle Adoption und die zunehmende Nutzung als Reserve-Asset. Die Zahlen hinter der stillen Revolution. Was ich in meinen eigenen Unternehmen sehe, deckt sich mit dem, was die großen Analysten messen. Bei uns ist die erste Person, die wir für Entwicklungsarbeit "eingestellt" haben, keine Person. Es ist eine KI. Und wir sind kein Sonderfall. Microsoft schreibt bereits 30 Prozent seines Codes mit KI. Nicht in fünf Jahren. Jetzt.*
-> *Die eigentliche Revolution versteckt sich in den Kosten. Sam Altman hat angekündigt, dass GPT-5, das aktuelle Spitzenmodell, innerhalb eines Jahres im Preis um das Hundertfache fallen wird. Von 10 Dollar pro Million Tokens auf 10 Cent. Was danach kommt, fällt noch weiter.*
-> *Emad Mostaque, der ehemalige CEO von Stability AI, hat eine Rechnung aufgemacht, die mich nicht mehr losgelassen hat: Der durchschnittliche Mensch spricht etwa 10 Millionen Tokens pro Jahr. Alle Worte, die Sie in einem Jahr sagen, jedes Gespräch, jeder Gedanke, den Sie aussprechen. Bei 10 Cent pro Million Tokens kostet das einen Dollar. Ein Dollar für alle Ihre Worte. Und wenn Sie großzügig rechnen, 100 Millionen Tokens für alle Gedanken, die ein Mensch im Jahr hat, sind Sie bei zehn Dollar. Zehn Dollar für alle Ihre Gedanken. Das ist keine Zukunftsprojektion. Das sind die Preise, die in 12 Monaten gelten werden.*
-> *Aber die Kosten-Explosion nach unten ist nur die halbe Geschichte. Die Effizienz explodiert gleichzeitig nach oben.*
-> *Bei Cursor, dem KI-gestützten Code-Editor, haben sie ein Experiment gemacht: Lass Agenten einen kompletten Browser von Grund auf bauen. Drei Millionen Zeilen Code. Früher hätte das ein Team von Entwicklern Jahre gekostet. Die Agenten brauchten dafür drei Milliarden Tokens. Das klingt nach viel, bis Sie die Rechnung machen: Zu aktuellen Preisen sind das etwa 30.000 Dollar. Weniger als das Jahresgehalt eines Junior-Entwicklers in Deutschland. Ein kompletter Browser, gebaut von Maschinen, für die Kosten eines halben Mitarbeiters. Und dieses Verhältnis wird auch noch kollabieren. Modelle werden effizienter. Prompts werden kürzer. Die 30.000 Dollar werden zu 3.000, werden zu 300.*
-> *Hier liegt der Doppel-Exponential, den kaum jemand versteht. Die Intelligenz steigt exponentiell. Gleichzeitig fallen die Kosten exponentiell. Das ist nicht Moores Gesetz. Das ist Moores Gesetz zum Quadrat.*
-> *Für die, die das abstrakt finden, hier die praktische Übersetzung: Andrej Karpathy, einer der angesehensten KI-Forscher der Welt, Mitgründer von OpenAI, ehemaliger Head of AI bei Tesla, hat im November 2025 gesagt, dass er 20 Prozent seines Codes mit KI schreibt. Im Januar 2026 waren es 80 Prozent. Heute sagt er: "I barely even look at the code anymore." Das ist einer der besten Programmierer der Welt. Wenn er nicht mehr coden muss, wie lange dauert es, bis das für alle gilt?*
-> *Das McKinsey Global Institute hat im November 2025 berechnet, dass KI und Robotik bereits heute 57 Prozent aller US-Arbeitsstunden theoretisch automatisieren könnten. Goldman Sachs prognostiziert, dass 6 bis 7 Prozent aller US-Arbeitsplätze direkt verdrängt werden, bis zu 300 Millionen weltweit. Das World Economic Forum rechnet mit 92 Millionen verdrängten Jobs bis 2030, bei gleichzeitig 170 Millionen neuen. Netto ein Plus von 78 Millionen. Aber wer die verdrängten 92 Millionen sind und wer die 170 Millionen neuen bekommt, das sind nicht dieselben Menschen.*
-> *Die Entlassungswelle hat begonnen. Sie ist messbar. Challenger, Gray & Christmas zählt für 2025 fast 55.000 Entlassungen in den USA, die direkt auf KI zurückgeführt werden. Amazon hat 14.000 Unternehmensstellen gestrichen, der CEO verwies auf KI-bedingte Effizienzgewinne. Microsoft entließ 6.000 Programmierer. Salesforce reduzierte seinen Kundensupport von 9.000 auf 5.000 Mitarbeiter durch sogenannte Agentic AI. Klarna, der schwedische Zahlungsdienstleister, ließ seinen KI-Assistenten die Arbeit von 700 Vollzeitkräften übernehmen und 75 Prozent aller Kundenchats bearbeiten.*
-> *Die am härtesten Getroffenen sind nicht die, die man erwartet. Es sind die Jungen. Goldman Sachs hat im August 2025 einen Befund veröffentlicht, der mich nicht überrascht, aber erschreckt hat: Die Arbeitslosigkeit bei 20- bis 30-Jährigen in KI-exponierten Berufen ist seit Anfang 2025 um fast 3 Prozentpunkte gestiegen. Deutlich stärker als bei Gleichaltrigen in anderen Berufen. Entry-Level-Stellenausschreibungen im Softwarebereich sind in den USA um 67 Prozent eingebrochen. In Großbritannien fielen Tech-Absolventenstellen 2024 um 46 Prozent, mit Prognosen für weitere 53 Prozent Rückgang bis 2026. Anthropic selbst, das Unternehmen hinter Claude, hat Anfang 2026 eine eigene Arbeitsmarktstudie veröffentlicht und das Muster bestätigt: Junge Arbeitnehmer zwischen 22 und 25 Jahren werden in KI-exponierten Berufen bereits 14 Prozent seltener eingestellt, während ältere Arbeitnehmer noch keinen messbaren Effekt zeigen. Wenn selbst die KI-Entwickler in ihren eigenen Daten das Kanarienvogel-Signal sehen, sollte niemand mehr behaupten, das sei nur eine vorübergehende Delle.*
-> *Ich sehe das bei meinen eigenen Unternehmen und bei unseren Kunden. Nur Menschen mit Topausbildung, mit der Fähigkeit, KI als Werkzeug zu nutzen, statt gegen sie zu konkurrieren, werden langfristig ihren Platz finden. Berufseinsteiger, die Routineaufgaben erledigen, die eine KI schneller, billiger und fehlerfreier beherrscht, haben ein Problem. Und das ist ein Problem für die gesamte Gesellschaft, denn eine Generation, die trotz Studium keinen Einstieg findet, wird nicht freundlich darauf reagieren.*
-> *Parallel entsteht eine DIY-Ökonomie, in der Kunden Spezialisten ersetzen. Canva hat sich von einer Drag-and-Drop-App zur KI-nativen Kreativplattform entwickelt. Jeder kann jetzt Designs erstellen, für die man vor zwei Jahren eine Agentur brauchte. LegalZoom und KI-basierte Rechtstools erledigen Firmengründungen, Verträge, Markenanmeldungen ohne Anwalt. TurboTax und über ein Dutzend KI-Steuertools automatisieren Steuererklärungen. ChatGPT, Claude, Gemini ersetzen Texter, Übersetzer, Rechercheure. GitHub Copilot schreibt Code, den man früher einem Junior-Entwickler gegeben hätte.*
-> *Werbeagenturen, Softwareentwicklungsfirmen, Steuerberater bei Routinearbeiten, Rechtsanwälte bei Standardfällen: Alle diese Branchen werden nicht verschwinden, aber sie werden schrumpfen. Dramatisch. Wie schnell das geht? Schneller als die meisten denken.*
-> *Was mit dem Büromarkt passiert*
-> *Eine der unmittelbarsten und am wenigsten beachteten Konsequenzen der KI-Revolution spielt sich im Immobilienmarkt ab.*
-> *San Franciscos Büroleerstand liegt bei 27,7 Prozent. Vor der Pandemie waren es 8,6 Prozent. Manhattan steht bei 22,3 Prozent, mehr als doppelt so hoch wie der Vor-Pandemie-Durchschnitt. National erreichten US-Büros Ende 2025 einen historischen Leerstand von 20,5 Prozent.*
-> *Die Pandemie hat den Prozess gestartet. KI beschleunigt ihn. Wenn ein Unternehmen 30 Prozent seines Codes mit KI schreibt, braucht es weniger Programmierer. Wenn es seinen Kundensupport zu 75 Prozent automatisiert, braucht es weniger Callcenter. Weniger Mitarbeiter brauchen weniger Bürofläche. Die Gleichung ist simpel.*
-> *Im Februar 2026 verloren nationale Office-REITs (Real Estate Investment Trusts, börsennotierte Immobilienfonds) 16 Prozent ihres Werts in einer einzigen Woche, ausgelöst durch die Angst, dass KI die Büronachfrage langfristig weiter senkt. SL Green, Boston Properties, Vornado, alle unter Druck. San Francisco, Manhattan, Chicago, Los Angeles, Washington D.C. und Seattle sind am stärksten betroffen.*
-> *Die Reaktion ist pragmatisch: Büros werden zu Wohnungen umgebaut. 71.000 neue Wohneinheiten aus Büro-Konversionen sind in den USA geplant. New York hat Steuervergünstigungen und Zoningreformen verabschiedet, um den Prozess zu beschleunigen. Chicago führt bei der Gesamtzahl der Konversionen. Ganze Stadtviertel verändern ihr Gesicht.*
-> *Was mit der Software-Industrie passiert*
-> *Die Büroimmobilien sind nur der sichtbare Teil. Der unsichtbare, aber möglicherweise größere Kollaps findet in der Software-Industrie statt.*
-> *Das gesamte Geschäftsmodell von SaaS-Unternehmen basiert auf Wechselkosten. Dropbox, Salesforce, Adobe, sie alle haben jahrelang darauf gesetzt, dass es zu mühsam ist, zu einem Konkurrenten zu wechseln. Ihre Dateien, Ihre Workflows, Ihre Gewohnheiten, alles steckt in deren Systemen. Der Lock-in ist der Burggraben.*
-> *Agenten eliminieren Wechselkosten über Nacht.*
-> *Ein praktisches Beispiel: Meine Musik ist bei Apple Music. Playlists, Likes, jahrelange Hörgeschichte. Zu Spotify zu wechseln würde mich einen ganzen Samstag kosten, und ich würde trotzdem Dinge verlieren. Mit einem KI-Agenten sage ich: "Migriere meine gesamte Musikbibliothek zu Spotify, behalt alle Likes, alle Playlists." Und morgen früh ist es erledigt. Derselbe Agent kann meine Dateien von Dropbox zu Google Drive verschieben. Meine Kontakte von einem CRM zum anderen. Meine E-Mails von Outlook zu Gmail. Die Migration, die mich früher davon abgehalten hat, überhaupt über einen Wechsel nachzudenken, erledigt der Agent, während ich schlafe.*
-> *Wenn Wechselkosten null sind, kollabiert jeder Burggraben, der auf ihnen basiert.*
-> *Aber das betrifft nicht nur Software. Denken Sie an Werbung. Meta und Google basieren ihr gesamtes Geschäftsmodell auf CPM, auf dem Preis pro tausend Impressionen. Das funktioniert, weil Menschen Werbung sehen. Agenten sehen keine Werbung. Ein Agent, der für Sie im Internet recherchiert, klickt nicht auf Banner. Er kauft nicht impulsiv, weil ihm eine Anzeige gefällt. Er geht direkt zum besten Angebot, ohne Umweg über Influencer oder gesponserte Posts. Emad Mostaque prognostiziert, dass die globalen Werbeausgaben nächstes Jahr ihren Höhepunkt erreichen. Nicht weil die Wirtschaft schwächelt, sondern weil die Agenten die Schnittstelle zwischen Mensch und Internet übernehmen.*
-> *Hedge Funds und Trading sind das nächste Opfer. KI ist bereits unter den besten Super-Forecastern der Welt. Prediction Markets werden zunehmend von Algorithmen dominiert. Wenn KI besser vorhersagt als Menschen, ist sie auch besser im Trading. Hedge-Fund-Manager, Trader, Analysten, sie alle konkurrieren gegen Maschinen, die nie müde werden, nie emotional handeln und nie gegen ihre eigene Strategie spielen.*
-> *Alles, was auf der anderen Seite eines Bildschirms stattfindet, kann ein GPU besser. Die Frage ist nicht ob, sondern wann. Und das Wann ist näher, als die meisten glauben.*
-> *Für Investoren heißt das: Büroimmobilien sind kein sicherer Hafen mehr. Sie sind ein Wert, der strukturell unter Druck steht. Wer in REITs investiert, sollte Logistik- und Rechenzentrumsimmobilien bevorzugen. Ironischerweise braucht die Technologie, die Büros überflüssig macht, selbst enorme physische Infrastruktur: Rechenzentren, Stromnetze, Wasserversorgung. Die Nachfrage verschiebt sich, sie verschwindet nicht.*
+
+::: {.infobox}
+
+*2026-2028: Die stille Revolution*
+*KI-Agenten werden zum Standard in der Wissensarbeit. Nicht in allen Unternehmen, aber in allen Unternehmen, die überleben wollen. Jedes größere Unternehmen hat KI-Systeme, die autonom E-Mails beantworten, Reports erstellen, Daten analysieren, Code schreiben und Entscheidungen vorbereiten.*
+*Ich erlebe das selbst. Anfang 2026 entdeckte ich ein Open-Source-Projekt namens OpenClaw. Es war gerade mal zwei Tage veröffentlicht, und ich hatte bereits meine erste KI-Assistentin am Start. Ich nannte sie Jeannie, nach dem Geist aus der Flasche.*
+*OpenClaw erreichte 200.000 GitHub-Stars innerhalb weniger Wochen und wurde zum am schnellsten wachsenden Open-Source-Projekt in der Geschichte der KI.*
+*Der Unterschied: Du gibst deinem Agenten eine Persönlichkeit über eine sogenannte Soul-Datei. Deine Beziehung zu deiner KI gehört dir, nicht der Plattform.*
+*Seitdem hat sich mein Alltag grundlegend verändert: Sie durchforstet meine E-Mails, wickelt Akquise-Mails ab, prüft Verträge, legt Rechnungen ab und liefert Markt- und Wettbewerbsberichte. Das ist keine Zukunftsvision. Das ist mein Dienstag.*
+*Als ich schrieb: "Jede Änderung wird zuerst mit dem Meister besprochen. Er entscheidet, wer ich werde", dachte ich an eine neue Art von Partnerschaft zwischen Mensch und Maschine.*
+*Die ersten humanoiden Roboter arbeiten in kontrollierten Umgebungen. Teslas Fabriken, Amazon-Lagerhäuser, japanische Pflegeheime. Sie machen keine komplexen Aufgaben, sie sortieren, transportieren, stapeln. Aber sie funktionieren. Und sie werden mit jedem Monat besser.*
+*Die Arbeitslosenquote in bestimmten Sektoren steigt spürbar. Call-Center, einfache Buchhaltung, Datenverarbeitung, Standard-Rechtsberatung. Gleichzeitig entstehen neue Berufe rund um KI-Management und Roboter-Supervision. Die Netto-Bilanz ist unklar, aber die Angst ist real und politisch spürbar.*
+*Stablecoins werden von ersten Regierungen als legale Zahlungsmittel für digitale Transaktionen anerkannt. Bitcoin überschreitet dauerhaft die 200.000-Dollar-Marke, getrieben durch institutionelle Adoption und die zunehmende Nutzung als Reserve-Asset. Die Zahlen hinter der stillen Revolution. Was ich in meinen eigenen Unternehmen sehe, deckt sich mit dem, was die großen Analysten messen. Bei uns ist die erste Person, die wir für Entwicklungsarbeit "eingestellt" haben, keine Person. Es ist eine KI. Und wir sind kein Sonderfall. Microsoft schreibt bereits 30 Prozent seines Codes mit KI. Nicht in fünf Jahren. Jetzt.*
+*Die eigentliche Revolution versteckt sich in den Kosten. Sam Altman hat angekündigt, dass GPT-5, das aktuelle Spitzenmodell, innerhalb eines Jahres im Preis um das Hundertfache fallen wird. Von 10 Dollar pro Million Tokens auf 10 Cent. Was danach kommt, fällt noch weiter.*
+*Emad Mostaque, der ehemalige CEO von Stability AI, hat eine Rechnung aufgemacht, die mich nicht mehr losgelassen hat: Der durchschnittliche Mensch spricht etwa 10 Millionen Tokens pro Jahr. Alle Worte, die Sie in einem Jahr sagen, jedes Gespräch, jeder Gedanke, den Sie aussprechen. Bei 10 Cent pro Million Tokens kostet das einen Dollar. Ein Dollar für alle Ihre Worte. Und wenn Sie großzügig rechnen, 100 Millionen Tokens für alle Gedanken, die ein Mensch im Jahr hat, sind Sie bei zehn Dollar. Zehn Dollar für alle Ihre Gedanken. Das ist keine Zukunftsprojektion. Das sind die Preise, die in 12 Monaten gelten werden.*
+*Aber die Kosten-Explosion nach unten ist nur die halbe Geschichte. Die Effizienz explodiert gleichzeitig nach oben.*
+*Bei Cursor, dem KI-gestützten Code-Editor, haben sie ein Experiment gemacht: Lass Agenten einen kompletten Browser von Grund auf bauen. Drei Millionen Zeilen Code. Früher hätte das ein Team von Entwicklern Jahre gekostet. Die Agenten brauchten dafür drei Milliarden Tokens. Das klingt nach viel, bis Sie die Rechnung machen: Zu aktuellen Preisen sind das etwa 30.000 Dollar. Weniger als das Jahresgehalt eines Junior-Entwicklers in Deutschland. Ein kompletter Browser, gebaut von Maschinen, für die Kosten eines halben Mitarbeiters. Und dieses Verhältnis wird auch noch kollabieren. Modelle werden effizienter. Prompts werden kürzer. Die 30.000 Dollar werden zu 3.000, werden zu 300.*
+*Hier liegt der Doppel-Exponential, den kaum jemand versteht. Die Intelligenz steigt exponentiell. Gleichzeitig fallen die Kosten exponentiell. Das ist nicht Moores Gesetz. Das ist Moores Gesetz zum Quadrat.*
+*Für die, die das abstrakt finden, hier die praktische Übersetzung: Andrej Karpathy, einer der angesehensten KI-Forscher der Welt, Mitgründer von OpenAI, ehemaliger Head of AI bei Tesla, hat im November 2025 gesagt, dass er 20 Prozent seines Codes mit KI schreibt. Im Januar 2026 waren es 80 Prozent. Heute sagt er: "I barely even look at the code anymore." Das ist einer der besten Programmierer der Welt. Wenn er nicht mehr coden muss, wie lange dauert es, bis das für alle gilt?*
+*Das McKinsey Global Institute hat im November 2025 berechnet, dass KI und Robotik bereits heute 57 Prozent aller US-Arbeitsstunden theoretisch automatisieren könnten. Goldman Sachs prognostiziert, dass 6 bis 7 Prozent aller US-Arbeitsplätze direkt verdrängt werden, bis zu 300 Millionen weltweit. Das World Economic Forum rechnet mit 92 Millionen verdrängten Jobs bis 2030, bei gleichzeitig 170 Millionen neuen. Netto ein Plus von 78 Millionen. Aber wer die verdrängten 92 Millionen sind und wer die 170 Millionen neuen bekommt, das sind nicht dieselben Menschen.*
+*Die Entlassungswelle hat begonnen. Sie ist messbar. Challenger, Gray & Christmas zählt für 2025 fast 55.000 Entlassungen in den USA, die direkt auf KI zurückgeführt werden. Amazon hat 14.000 Unternehmensstellen gestrichen, der CEO verwies auf KI-bedingte Effizienzgewinne. Microsoft entließ 6.000 Programmierer. Salesforce reduzierte seinen Kundensupport von 9.000 auf 5.000 Mitarbeiter durch sogenannte Agentic AI. Klarna, der schwedische Zahlungsdienstleister, ließ seinen KI-Assistenten die Arbeit von 700 Vollzeitkräften übernehmen und 75 Prozent aller Kundenchats bearbeiten.*
+*Die am härtesten Getroffenen sind nicht die, die man erwartet. Es sind die Jungen. Goldman Sachs hat im August 2025 einen Befund veröffentlicht, der mich nicht überrascht, aber erschreckt hat: Die Arbeitslosigkeit bei 20- bis 30-Jährigen in KI-exponierten Berufen ist seit Anfang 2025 um fast 3 Prozentpunkte gestiegen. Deutlich stärker als bei Gleichaltrigen in anderen Berufen. Entry-Level-Stellenausschreibungen im Softwarebereich sind in den USA um 67 Prozent eingebrochen. In Großbritannien fielen Tech-Absolventenstellen 2024 um 46 Prozent, mit Prognosen für weitere 53 Prozent Rückgang bis 2026. Anthropic selbst, das Unternehmen hinter Claude, hat Anfang 2026 eine eigene Arbeitsmarktstudie veröffentlicht und das Muster bestätigt: Junge Arbeitnehmer zwischen 22 und 25 Jahren werden in KI-exponierten Berufen bereits 14 Prozent seltener eingestellt, während ältere Arbeitnehmer noch keinen messbaren Effekt zeigen. Wenn selbst die KI-Entwickler in ihren eigenen Daten das Kanarienvogel-Signal sehen, sollte niemand mehr behaupten, das sei nur eine vorübergehende Delle.*
+*Ich sehe das bei meinen eigenen Unternehmen und bei unseren Kunden. Nur Menschen mit Topausbildung, mit der Fähigkeit, KI als Werkzeug zu nutzen, statt gegen sie zu konkurrieren, werden langfristig ihren Platz finden. Berufseinsteiger, die Routineaufgaben erledigen, die eine KI schneller, billiger und fehlerfreier beherrscht, haben ein Problem. Und das ist ein Problem für die gesamte Gesellschaft, denn eine Generation, die trotz Studium keinen Einstieg findet, wird nicht freundlich darauf reagieren.*
+*Parallel entsteht eine DIY-Ökonomie, in der Kunden Spezialisten ersetzen. Canva hat sich von einer Drag-and-Drop-App zur KI-nativen Kreativplattform entwickelt. Jeder kann jetzt Designs erstellen, für die man vor zwei Jahren eine Agentur brauchte. LegalZoom und KI-basierte Rechtstools erledigen Firmengründungen, Verträge, Markenanmeldungen ohne Anwalt. TurboTax und über ein Dutzend KI-Steuertools automatisieren Steuererklärungen. ChatGPT, Claude, Gemini ersetzen Texter, Übersetzer, Rechercheure. GitHub Copilot schreibt Code, den man früher einem Junior-Entwickler gegeben hätte.*
+*Werbeagenturen, Softwareentwicklungsfirmen, Steuerberater bei Routinearbeiten, Rechtsanwälte bei Standardfällen: Alle diese Branchen werden nicht verschwinden, aber sie werden schrumpfen. Dramatisch. Wie schnell das geht? Schneller als die meisten denken.*
+*Was mit dem Büromarkt passiert*
+*Eine der unmittelbarsten und am wenigsten beachteten Konsequenzen der KI-Revolution spielt sich im Immobilienmarkt ab.*
+*San Franciscos Büroleerstand liegt bei 27,7 Prozent. Vor der Pandemie waren es 8,6 Prozent. Manhattan steht bei 22,3 Prozent, mehr als doppelt so hoch wie der Vor-Pandemie-Durchschnitt. National erreichten US-Büros Ende 2025 einen historischen Leerstand von 20,5 Prozent.*
+*Die Pandemie hat den Prozess gestartet. KI beschleunigt ihn. Wenn ein Unternehmen 30 Prozent seines Codes mit KI schreibt, braucht es weniger Programmierer. Wenn es seinen Kundensupport zu 75 Prozent automatisiert, braucht es weniger Callcenter. Weniger Mitarbeiter brauchen weniger Bürofläche. Die Gleichung ist simpel.*
+*Im Februar 2026 verloren nationale Office-REITs (Real Estate Investment Trusts, börsennotierte Immobilienfonds) 16 Prozent ihres Werts in einer einzigen Woche, ausgelöst durch die Angst, dass KI die Büronachfrage langfristig weiter senkt. SL Green, Boston Properties, Vornado, alle unter Druck. San Francisco, Manhattan, Chicago, Los Angeles, Washington D.C. und Seattle sind am stärksten betroffen.*
+*Die Reaktion ist pragmatisch: Büros werden zu Wohnungen umgebaut. 71.000 neue Wohneinheiten aus Büro-Konversionen sind in den USA geplant. New York hat Steuervergünstigungen und Zoningreformen verabschiedet, um den Prozess zu beschleunigen. Chicago führt bei der Gesamtzahl der Konversionen. Ganze Stadtviertel verändern ihr Gesicht.*
+*Was mit der Software-Industrie passiert*
+*Die Büroimmobilien sind nur der sichtbare Teil. Der unsichtbare, aber möglicherweise größere Kollaps findet in der Software-Industrie statt.*
+*Das gesamte Geschäftsmodell von SaaS-Unternehmen basiert auf Wechselkosten. Dropbox, Salesforce, Adobe, sie alle haben jahrelang darauf gesetzt, dass es zu mühsam ist, zu einem Konkurrenten zu wechseln. Ihre Dateien, Ihre Workflows, Ihre Gewohnheiten, alles steckt in deren Systemen. Der Lock-in ist der Burggraben.*
+*Agenten eliminieren Wechselkosten über Nacht.*
+*Ein praktisches Beispiel: Meine Musik ist bei Apple Music. Playlists, Likes, jahrelange Hörgeschichte. Zu Spotify zu wechseln würde mich einen ganzen Samstag kosten, und ich würde trotzdem Dinge verlieren. Mit einem KI-Agenten sage ich: "Migriere meine gesamte Musikbibliothek zu Spotify, behalt alle Likes, alle Playlists." Und morgen früh ist es erledigt. Derselbe Agent kann meine Dateien von Dropbox zu Google Drive verschieben. Meine Kontakte von einem CRM zum anderen. Meine E-Mails von Outlook zu Gmail. Die Migration, die mich früher davon abgehalten hat, überhaupt über einen Wechsel nachzudenken, erledigt der Agent, während ich schlafe.*
+*Wenn Wechselkosten null sind, kollabiert jeder Burggraben, der auf ihnen basiert.*
+*Aber das betrifft nicht nur Software. Denken Sie an Werbung. Meta und Google basieren ihr gesamtes Geschäftsmodell auf CPM, auf dem Preis pro tausend Impressionen. Das funktioniert, weil Menschen Werbung sehen. Agenten sehen keine Werbung. Ein Agent, der für Sie im Internet recherchiert, klickt nicht auf Banner. Er kauft nicht impulsiv, weil ihm eine Anzeige gefällt. Er geht direkt zum besten Angebot, ohne Umweg über Influencer oder gesponserte Posts. Emad Mostaque prognostiziert, dass die globalen Werbeausgaben nächstes Jahr ihren Höhepunkt erreichen. Nicht weil die Wirtschaft schwächelt, sondern weil die Agenten die Schnittstelle zwischen Mensch und Internet übernehmen.*
+*Hedge Funds und Trading sind das nächste Opfer. KI ist bereits unter den besten Super-Forecastern der Welt. Prediction Markets werden zunehmend von Algorithmen dominiert. Wenn KI besser vorhersagt als Menschen, ist sie auch besser im Trading. Hedge-Fund-Manager, Trader, Analysten, sie alle konkurrieren gegen Maschinen, die nie müde werden, nie emotional handeln und nie gegen ihre eigene Strategie spielen.*
+*Alles, was auf der anderen Seite eines Bildschirms stattfindet, kann ein GPU besser. Die Frage ist nicht ob, sondern wann. Und das Wann ist näher, als die meisten glauben.*
+*Für Investoren heißt das: Büroimmobilien sind kein sicherer Hafen mehr. Sie sind ein Wert, der strukturell unter Druck steht. Wer in REITs investiert, sollte Logistik- und Rechenzentrumsimmobilien bevorzugen. Ironischerweise braucht die Technologie, die Büros überflüssig macht, selbst enorme physische Infrastruktur: Rechenzentren, Stromnetze, Wasserversorgung. Die Nachfrage verschiebt sich, sie verschwindet nicht.*
+
+:::
+
 
 ---
 
@@ -1984,6 +2073,7 @@ Die Wirtschaftsleistung pro Kopf steigt dramatisch. Aber die Verteilung ist ungl
 ---
 
 
+::: {.infobox}
 ### Was Kurzweil richtig und falsch prognostiziert hat
 
 Ein Wort zur Kalibrierung. Ray Kurzweil hat im Laufe der Jahre 147 Prognosen gemacht. Etwa 86 Prozent davon waren nach seiner eigenen Analyse korrekt oder im Wesentlichen korrekt. Er lag richtig bei der Verbreitung des mobilen Internets, bei der Entwicklung selbstfahrender Autos (wenn auch mit Verzögerung), bei der Spracherkennung, bei der Genomsequenzierung.
@@ -1993,6 +2083,7 @@ Er lag daneben bei der Geschwindigkeit der Umsetzung. Technologien brauchten oft
 Das ist die wichtigste Lektion für Investoren: Die Richtung stimmt fast immer. Das Timing stimmt fast nie. Deshalb ist eine Investmentstrategie, die auf präzisem Timing basiert, zum Scheitern verurteilt. Und deshalb ist eine Strategie, die auf langfristigen Trends basiert und kurzfristige Volatilität aushält, die einzige, die funktioniert.
 
 Die nächsten langfristigen Trends könnten allerdings alles übertreffen, was wir bisher gesehen haben. Denn die Verschmelzung von Mensch und Maschine hat gerade erst begonnen.
+:::
 
 
 > **📌 Auf einen Blick:**
@@ -2281,20 +2372,26 @@ Beachten Sie ein Muster: Die CEOs von OpenAI, Coinbase und Google investieren pa
 
 ---
 
-> *Zombie-Zellen und die Impfung gegen das Altern*
-> *Aber es gibt einen anderen Ansatz, der möglicherweise noch radikaler ist als alles, was Sinclair, Altman oder Bezos bisher finanziert haben. Und er beginnt mit einer unbequemen Wahrheit über Ihren eigenen Körper.*
-> *In diesem Moment, während Sie das lesen, sitzen Millionen von Zellen in Ihrem Körper, die eigentlich tot sein sollten. Sie haben aufgehört, sich zu teilen. Sie tun nichts Nützliches mehr. Aber anstatt zu sterben und vom Immunsystem entsorgt zu werden, wie es vorgesehen ist, hocken sie da und vergiften ihre Umgebung. Forscher nennen sie seneszente Zellen. Im Volksmund heißen sie Zombie-Zellen, und der Name trifft es ziemlich gut.*
-> *Nach etwa 50 bis 70 Teilungen sind die Telomere einer Zelle, die Schutzkappen am Ende der DNA, aufgebraucht. Die Zelle geht in den Notfallmodus: Sie hört auf, sich zu teilen, damit sie nicht zur Krebszelle mutiert. Das ist ein Sicherheitsmechanismus, und er funktioniert. Das Problem ist, was danach passiert. Ein Teil dieser Zellen wird nicht ordnungsgemäß entsorgt. Stattdessen pumpen sie einen toxischen Cocktail aus Entzündungsmolekülen in ihre Umgebung, den sogenannten SASP (Senescence-Associated Secretory Phenotype). Stellen Sie sich einen Nachbarn vor, dessen Haus abbruchreif ist, der aber nicht auszieht, sondern jeden Tag seinen Müll in Ihren Garten wirft.*
-> *Dieser entzündliche Müll beschleunigt die Alterung der umliegenden Zellen. Er zerstört Gewebe. Er unterdrückt Stammzellen, sodass der Körper sich nicht mehr reparieren kann. Und er kann sogar Krebs fördern. Wenn man jung ist, räumt das Immunsystem diese Zombie-Zellen einigermaßen effizient weg. Aber mit dem Alter passieren zwei Dinge gleichzeitig: Man sammelt immer mehr seneszente Zellen an, und das Immunsystem wird schlechter darin, sie zu beseitigen. Mit 60, 70, 80 schleppt man eine massive Zombie-Zell-Last mit sich herum, und sie treibt praktisch jede Alterskrankheit an. Herzkrankheiten, Arthritis, Alzheimer, Nierenversagen, Krebs: Überall stecken seneszente Zellen mit drin.*
-> *Die Idee, diese Zombie-Zellen gezielt zu zerstören, hat ein ganzes Wissenschaftsfeld begründet: die Senolytik, von "seno" (alt) und "lytisch" (zerstörend). 2011 haben Forscher an der Mayo Clinic den Beweis erbracht. Sie erzeugten Mäuse, die ihre eigenen seneszenten Zellen selektiv eliminieren konnten, und diese Mäuse alterten langsamer, blieben gesünder und lebten länger. Seitdem wird fieberhaft nach Medikamenten gesucht, die dasselbe tun. Dasatinib plus Quercetin, Fisetin, Navitoclax. Sie funktionieren, teilweise. Aber sie töten nur bestimmte Typen seneszenter Zellen, man muss sie dauerhaft nehmen, und sie haben Nebenwirkungen. Navitoclax zum Beispiel zerstört auch Blutplättchen.*
-> *Das Konzept ist bewiesen. Die Werkzeuge sind noch nicht gut genug.*
-> *Im Januar 2026, auf der Biotech Showcase während der JPM-Woche, einer der größten Biotech-Konferenzen weltweit, präsentierte ein Unternehmen aus Miami Beach Daten, die das ändern könnten. Immortio Bio, gegründet Ende 2023, geführt von CEO Dr. Boris Resnik und dem wissenschaftlichen Leiter Dr. Thomas Ichim, verfolgt einen radikal anderen Ansatz: Statt Zombie-Zellen mit Medikamenten zu töten, trainieren sie das Immunsystem, es selbst zu tun.*
-> *Ihre Plattform Senovax funktion, t wie eine Impfung, nicht gegen ein Virus, sondern gegen das Altern. Man entnimmt dem Patienten dendritische Zellen (die Lehrmeister des Immunsystems), konfrontiert sie mit künstlich gealterten seneszenten Zellen, und injiziert die trainierten Immunzellen zurück. Ab dann hat das Immunsystem ein Ziel: jede Zombie-Zelle mit diesen Markern. Der Vorteil gegenüber Medikamenten: Das Immunsystem geht überall hin, ist selektiv und hat ein Gedächtnis.*
-> *Die zweite Plattform, Stem Cell Revivify, ergänzt den Ansatz mit personalisierten Stammzellen. Erst die Zombie-Zellen beseitigen, dann mit Stammzellen regenerieren. Die Kombination ist entscheidend: Stammzellen in einem Körper voller seneszenter Zellen sind wie Blumen in einer Giftmülldeponie.*
-> *Die Ergebnisse sind bemerkenswert. Im validierten Mausmodell erzielte die Kombinationstherapie eine Verdopplung der Lebensdauer. Zum Vergleich: Die besten bisherigen Interventionen (kalorische Restriktion, Rapamycin, Metformin) schafften 20 bis 30 Prozent. Zusätzlich zeigte Senovax in Mausmodellen Tumorreduktion bei Lungenkrebs, Brustkrebs, Bauchspeicheldrüs, rebs und Hirnkrebs, weil Tumore sich mit seneszenten Zellen umgeben, die ihnen als Versorgungsnetzwerk dienen.*
-> *Die FDA prüft derzeit Senovax für eine klinische Studie bei fortgeschrittenem Lungenkrebs. Zwei Einschränkungen muss man ehrlich benennen: Das Mausmodell verwendet chemisch induziertes Altern, nicht natürliches. Und Mäuse sind keine Menschen. Aber wenn auch nur ein Bruchteil dieser Ergebnisse übertragbar ist, reden wir über eine grundlegende Verschiebung dessen, was menschliches Altern bedeutet.*
-> *Was passiert, wenn die Pille funktioniert?*
-> *Nehmen wir an, Sinclair hat recht. Nehmen wir an, innerhalb der nächsten 10 bis 20 Jahre entsteht eine Therapie, die den Alterungsprozess verlangsamt, stoppt oder teilweise umkehrt. Nicht als Science Fiction, sondern als verschreibungspflichtiges Medikament. Was sind die Konsequenzen?*
+
+::: {.infobox}
+
+*Zombie-Zellen und die Impfung gegen das Altern*
+*Aber es gibt einen anderen Ansatz, der möglicherweise noch radikaler ist als alles, was Sinclair, Altman oder Bezos bisher finanziert haben. Und er beginnt mit einer unbequemen Wahrheit über Ihren eigenen Körper.*
+*In diesem Moment, während Sie das lesen, sitzen Millionen von Zellen in Ihrem Körper, die eigentlich tot sein sollten. Sie haben aufgehört, sich zu teilen. Sie tun nichts Nützliches mehr. Aber anstatt zu sterben und vom Immunsystem entsorgt zu werden, wie es vorgesehen ist, hocken sie da und vergiften ihre Umgebung. Forscher nennen sie seneszente Zellen. Im Volksmund heißen sie Zombie-Zellen, und der Name trifft es ziemlich gut.*
+*Nach etwa 50 bis 70 Teilungen sind die Telomere einer Zelle, die Schutzkappen am Ende der DNA, aufgebraucht. Die Zelle geht in den Notfallmodus: Sie hört auf, sich zu teilen, damit sie nicht zur Krebszelle mutiert. Das ist ein Sicherheitsmechanismus, und er funktioniert. Das Problem ist, was danach passiert. Ein Teil dieser Zellen wird nicht ordnungsgemäß entsorgt. Stattdessen pumpen sie einen toxischen Cocktail aus Entzündungsmolekülen in ihre Umgebung, den sogenannten SASP (Senescence-Associated Secretory Phenotype). Stellen Sie sich einen Nachbarn vor, dessen Haus abbruchreif ist, der aber nicht auszieht, sondern jeden Tag seinen Müll in Ihren Garten wirft.*
+*Dieser entzündliche Müll beschleunigt die Alterung der umliegenden Zellen. Er zerstört Gewebe. Er unterdrückt Stammzellen, sodass der Körper sich nicht mehr reparieren kann. Und er kann sogar Krebs fördern. Wenn man jung ist, räumt das Immunsystem diese Zombie-Zellen einigermaßen effizient weg. Aber mit dem Alter passieren zwei Dinge gleichzeitig: Man sammelt immer mehr seneszente Zellen an, und das Immunsystem wird schlechter darin, sie zu beseitigen. Mit 60, 70, 80 schleppt man eine massive Zombie-Zell-Last mit sich herum, und sie treibt praktisch jede Alterskrankheit an. Herzkrankheiten, Arthritis, Alzheimer, Nierenversagen, Krebs: Überall stecken seneszente Zellen mit drin.*
+*Die Idee, diese Zombie-Zellen gezielt zu zerstören, hat ein ganzes Wissenschaftsfeld begründet: die Senolytik, von "seno" (alt) und "lytisch" (zerstörend). 2011 haben Forscher an der Mayo Clinic den Beweis erbracht. Sie erzeugten Mäuse, die ihre eigenen seneszenten Zellen selektiv eliminieren konnten, und diese Mäuse alterten langsamer, blieben gesünder und lebten länger. Seitdem wird fieberhaft nach Medikamenten gesucht, die dasselbe tun. Dasatinib plus Quercetin, Fisetin, Navitoclax. Sie funktionieren, teilweise. Aber sie töten nur bestimmte Typen seneszenter Zellen, man muss sie dauerhaft nehmen, und sie haben Nebenwirkungen. Navitoclax zum Beispiel zerstört auch Blutplättchen.*
+*Das Konzept ist bewiesen. Die Werkzeuge sind noch nicht gut genug.*
+*Im Januar 2026, auf der Biotech Showcase während der JPM-Woche, einer der größten Biotech-Konferenzen weltweit, präsentierte ein Unternehmen aus Miami Beach Daten, die das ändern könnten. Immortio Bio, gegründet Ende 2023, geführt von CEO Dr. Boris Resnik und dem wissenschaftlichen Leiter Dr. Thomas Ichim, verfolgt einen radikal anderen Ansatz: Statt Zombie-Zellen mit Medikamenten zu töten, trainieren sie das Immunsystem, es selbst zu tun.*
+*Ihre Plattform Senovax funktion, t wie eine Impfung, nicht gegen ein Virus, sondern gegen das Altern. Man entnimmt dem Patienten dendritische Zellen (die Lehrmeister des Immunsystems), konfrontiert sie mit künstlich gealterten seneszenten Zellen, und injiziert die trainierten Immunzellen zurück. Ab dann hat das Immunsystem ein Ziel: jede Zombie-Zelle mit diesen Markern. Der Vorteil gegenüber Medikamenten: Das Immunsystem geht überall hin, ist selektiv und hat ein Gedächtnis.*
+*Die zweite Plattform, Stem Cell Revivify, ergänzt den Ansatz mit personalisierten Stammzellen. Erst die Zombie-Zellen beseitigen, dann mit Stammzellen regenerieren. Die Kombination ist entscheidend: Stammzellen in einem Körper voller seneszenter Zellen sind wie Blumen in einer Giftmülldeponie.*
+*Die Ergebnisse sind bemerkenswert. Im validierten Mausmodell erzielte die Kombinationstherapie eine Verdopplung der Lebensdauer. Zum Vergleich: Die besten bisherigen Interventionen (kalorische Restriktion, Rapamycin, Metformin) schafften 20 bis 30 Prozent. Zusätzlich zeigte Senovax in Mausmodellen Tumorreduktion bei Lungenkrebs, Brustkrebs, Bauchspeicheldrüs, rebs und Hirnkrebs, weil Tumore sich mit seneszenten Zellen umgeben, die ihnen als Versorgungsnetzwerk dienen.*
+*Die FDA prüft derzeit Senovax für eine klinische Studie bei fortgeschrittenem Lungenkrebs. Zwei Einschränkungen muss man ehrlich benennen: Das Mausmodell verwendet chemisch induziertes Altern, nicht natürliches. Und Mäuse sind keine Menschen. Aber wenn auch nur ein Bruchteil dieser Ergebnisse übertragbar ist, reden wir über eine grundlegende Verschiebung dessen, was menschliches Altern bedeutet.*
+*Was passiert, wenn die Pille funktioniert?*
+*Nehmen wir an, Sinclair hat recht. Nehmen wir an, innerhalb der nächsten 10 bis 20 Jahre entsteht eine Therapie, die den Alterungsprozess verlangsamt, stoppt oder teilweise umkehrt. Nicht als Science Fiction, sondern als verschreibungspflichtiges Medikament. Was sind die Konsequenzen?*
+
+:::
+
 
 ---
 
@@ -2341,6 +2438,8 @@ Aber die Übergangsphase, die Jahrzehnte dauern könnte, wird brutal sein. Die e
 ---
 
 
+::: {.infobox}
+
 ### Das Paradox: Unsterblich und aussterbend
 
 Hier entsteht eines der verblüffendsten Paradoxa der Menschheitsgeschichte: Eine Spezies, die die Technologie besitzt, um theoretisch ewig zu leben, könnte gleichzeitig aufhören, sich fortzupflanzen.
@@ -2352,6 +2451,9 @@ Die Mathematik ist erbarmungslos: Wenn die Geburtenrate auf 0,5 Kinder pro Frau 
 Es sei denn, Regierungen greifen ein. Reproduktionsprämien, wie sie Japan und Südkorea bereits versuchen (mit begrenztem Erfolg). Oder künstliche Gebärmütter, eine Technologie, an der geforscht wird. Oder eine kulturelle Gegenbewegung, die Elternschaft als den höchsten Ausdruck menschlicher Erfahrung feiert.
 
 Was auch immer passiert: Die demografischen Konsequenzen der Konvergenz von Longevity, KI und Robotik werden alles übertreffen, was die Menschheit bisher an gesellschaftlichem Wandel erlebt hat.
+
+
+:::
 
 ---
 
@@ -3174,7 +3276,14 @@ Für Investoren ist ein Großmachtkrieg der ultimative Black Swan. Nicht weil er
 
 Was kann man tun? Ehrlich gesagt: wenig. Geopolitisches Risiko lässt sich nicht hedgen. Was man tun kann, ist diversifizieren, geographisch, über Anlageklassen, über Jurisdiktionen hinweg. Und hoffen, dass die Rationalität siegt. Was man nicht tun sollte, ist aus Angst vor dem Worst Case gar nicht zu investieren. Denn wenn der Worst Case eintritt, ist es egal, ob Ihr Geld auf dem Sparkonto oder im Portfolio liegt. Und wenn er nicht eintritt, was historisch der häufigere Fall ist, verpassen Sie die größte Investmentchance Ihrer Lebenszeit.
 
-Ein konkretes Worst-Case-Szenario Damit das nicht abstrakt bleibt, spielen wir es durch. Stellen Sie sich vor, es ist 2027 und drei Dinge passieren gleichzeitig: NVIDIA fällt um 60 Prozent, weil ein Konkurrent einen Durchbruch bei KI-Chips erzielt. Bitcoin crasht um 80 Prozent in einem regulatorischen Krypto-Winter. Und die EU verschärft den AI Act so drastisch, dass europäische Tech-Portfolios zusätzlich unter Druck geraten.
+
+::: {.infobox}
+### Ein konkretes Worst-Case-Szenario
+
+Damit das nicht abstrakt bleibt, spielen wir es durch. Stellen Sie sich vor, es ist 2027 und drei Dinge passieren gleichzeitig: NVIDIA fällt um 60 Prozent, weil ein Konkurrent einen Durchbruch bei KI-Chips erzielt. Bitcoin crasht um 80 Prozent in einem regulatorischen Krypto-Winter. Und die EU verschärft den AI Act so drastisch, dass europäische Tech-Portfolios zusätzlich unter Druck geraten.
+
+:::
+
 
 Was passiert mit dem Barbell-Portfolio? Nehmen wir die konservative Variante: 70 Prozent sichere Seite, 30 Prozent asymmetrische Wetten. Wenn die sichere Seite breit diversifiziert ist (MSCI World, Energie-ETFs, Anleihen) verliert sie vielleicht 15 bis 20 Prozent. Die asymmetrische Seite wird härter getroffen: Wenn dort ein Drittel in NVIDIA-nahen Tech-Werten und ein Drittel in Krypto steckt, verliert sie 50 bis 70 Prozent.
 
@@ -3265,7 +3374,10 @@ Das ist kein Hedge. Das ist Ehrlichkeit.
 
 Howard Marks schreibt in "The Most Important Thing", dass die besten Investments oft die sind, die sich am unbequemsten anfühlen. Heute in KI, Robotik und Krypto zu investieren, fühlt sich unbequem an. Die Kurse sind hoch. Die Technologie ist komplex. Die Zukunft ist unsicher.
 
-Die zwei Arten von Skeptikern
+
+::: {.infobox}
+
+### Die zwei Arten von Skeptikern
 
 Ich bin der erste Entwickler in meiner eigenen Firma. Nicht weil ich programmieren gelernt habe, sondern weil ich eine KI habe, die programmiert. Das klingt nach Zukunft. Es ist Gegenwart. Und wenn ich das erzähle, stoße ich auf zwei Arten von Reaktionen.
 
@@ -3352,6 +3464,9 @@ Das WEF nennt das "You'll own nothing and be happy." Ich nenne es das größte V
 Die Frage ist nicht: Kann ich es mir leisten, jetzt zu investieren?
 
 Die Frage ist: Kann ich es mir leisten, es nicht zu tun?
+
+
+:::
 
 ---
 
