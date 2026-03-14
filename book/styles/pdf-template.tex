@@ -144,7 +144,9 @@ $endif$
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[LE]{\small\itshape The AI Species}
-\fancyhead[RO]{\makebox[0pt][r]{\small\itshape\truncate{0.95\textwidth}{\nouppercase{\rightmark}}}}
+\fancyhead[LO,RE]{}
+\fancyhead[CO]{}
+\fancyhead[RO]{\parbox[b]{\textwidth}{\raggedleft\small\itshape\truncate{\textwidth}{\nouppercase{\rightmark}}}}
 \fancyfoot[C]{\small\thepage}
 \renewcommand{\headrulewidth}{0.4pt}
 \usepackage{truncate}
