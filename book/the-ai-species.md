@@ -294,7 +294,9 @@ Dieses Buch ist für Menschen geschrieben, die spüren, dass sich etwas verände
 > **Auf einen Blick:**
 >
 > ◆ KI, Robotik und Kryptowährungen konvergieren zur größten wirtschaftlichen Transformation seit der Dampfmaschine.
+>
 > ◆ Anders als frühere Transformationen laufen alle drei gleichzeitig und beschleunigen sich gegenseitig.
+>
 > ◆ Infrastruktur-Investoren profitieren historisch am stärksten - nicht die Anwendungs-Hypes.
 
 
@@ -486,7 +488,9 @@ Das Muster ist klar: Mit jeder Phase wächst der adressierbare Markt um ungefäh
 > **Auf einen Blick:**
 >
 > ◆ Vier Phasen: Werkzeug → Mitarbeiter → Agent → Roboter.
+>
 > ◆ Jede Phase vergrößert den adressierbaren Markt um eine Größenordnung.
+>
 > ◆ Null-Marginalkosten und exponentielles Lernen schaffen disruptive Kostenvorteile.
 
 
@@ -753,7 +757,9 @@ Und diese Praxis hat bereits begonnen. In der Welt der tokenisierten Vermögensw
 > **Auf einen Blick:**
 >
 > ◆ Maschinen brauchen eigenes Geld, weil das traditionelle Bankensystem sie ausschließt.
+>
 > ◆ Krypto und Smart Contracts sind der native Zahlungskanal für autonome Agenten.
+>
 > ◆ Die Machine-to-Machine Economy funktioniert bereits heute.
 
 
@@ -1132,7 +1138,9 @@ Die Tokenisierung aller Vermögenswerte dieser Welt ist keine Frage des Ob. Sie 
 > **Auf einen Blick:**
 >
 > ◆ Tokenisierung demokratisiert den Zugang zu bisher illiquiden Assets.
+>
 > ◆ BlackRock, JPMorgan und Goldman Sachs sind bereits aktiv - das ist kein Krypto-Hype mehr.
+>
 > ◆ Self-Custody wird in einer CBDC-Welt zum Menschenrecht.
 
 
@@ -1300,7 +1308,9 @@ Im nächsten Teil des Buches verlassen wir die These und schauen uns an, was das
 > **Auf einen Blick:**
 >
 > ◆ DAOs ermöglichen Unternehmen ohne menschliche Führung.
+>
 > ◆ Smart Contracts + KI-Agenten = autonome Wirtschaftseinheiten.
+>
 > ◆ Token-Halter profitieren - aber die Zugangsfrage verschärft die Ungleichheit.
 
 
@@ -1448,7 +1458,9 @@ Aber selbst das beste Hedge-Asset nützt nichts ohne Energie. KI-Systeme verbrau
 > **Auf einen Blick:**
 >
 > ◆ Die USA dominieren das KI-Ökosystem: Hardware, Cloud, Venture Capital.
+>
 > ◆ China holt auf, Europa reguliert sich ins Abseits.
+>
 > ◆ TSMC in Taiwan ist das geopolitische Nadelöhr der gesamten KI-Revolution.
 
 
@@ -1615,7 +1627,9 @@ Aber es gibt noch eine andere Hälfte, die nicht in Gigawatt und Kubikmetern gem
 > **Auf einen Blick:**
 >
 > ◆ Der Energieverbrauch von KI wächst exponentiell.
+>
 > ◆ Kernenergie ist die einzige skalierbare Lösung für den Baseload-Bedarf.
+>
 > ◆ Tech-Giganten kaufen Kernkraftwerke - Uran wird zum strategischen Asset.
 
 
@@ -1864,7 +1878,9 @@ Die Frage, wie Gesellschaften mit dieser Transformation umgehen, führt unweiger
 > **Auf einen Blick:**
 >
 > ◆ 30 bis 50 Prozent der Wissensarbeit könnten automatisiert werden.
+>
 > ◆ Die Sinnkrise ist das größere Risiko als der reine Jobverlust.
+>
 > ◆ Anpassungsfähigkeit und KI-Kompetenz werden zu Überlebensfähigkeiten.
 
 
@@ -2010,7 +2026,9 @@ Im nächsten Teil verlassen wir die Gegenwart und schauen in die Zukunft. Was is
 > **Auf einen Blick:**
 >
 > ◆ Der EU AI Act bremst europäische KI-Innovation.
+>
 > ◆ Die Roboter-Steuer-Debatte greift zu kurz.
+>
 > ◆ Regulierung kann die Transformation verlangsamen, aber nicht aufhalten.
 
 
@@ -2135,7 +2153,9 @@ Die nächsten langfristigen Trends könnten allerdings alles übertreffen, was w
 > **Auf einen Blick:**
 >
 > ◆ 2026-2028: Stille Revolution - KI-Agenten senken Kosten um 90 Prozent.
+>
 > ◆ 2028-2031: Der Wendepunkt - physische Robotik erreicht die Massenproduktion.
+>
 > ◆ 2031-2035: Neue Normalität - die autonome Wirtschaft ist Realität.
 
 
@@ -2230,7 +2250,9 @@ Die Progression ist klar: von der Tastatur zur Sprache zum Gedanken. Jeder Schri
 > **Auf einen Blick:**
 >
 > ◆ Voice und Gesten ersetzen Tastatur und Maus als primäre Interfaces.
+>
 > ◆ Brain-Computer Interfaces erreichen in den 2030ern klinische Reife.
+>
 > ◆ Synthetische Realität (BCI + KI-generierte Welten) wird die nächste Plattform.
 
 
@@ -2362,7 +2384,9 @@ Es gibt allerdings eine Konvergenz, die noch radikaler ist als alles bisher Besp
 > **Auf einen Blick:**
 >
 > ◆ Bewusstsein ist wissenschaftlich nicht definiert - weder bei Menschen noch bei Maschinen.
+>
 > ◆ Eigentumsfragen bei KI-generierten Werken sind rechtlich ungelöst.
+>
 > ◆ Die Grenze zwischen Mensch und Maschine verschwimmt - mit ethischen Konsequenzen.
 
 
@@ -2521,7 +2545,9 @@ Die Frage ist: Kann ich es mir leisten, zu sterben, bevor die Rendite eintritt?
 > **Auf einen Blick:**
 >
 > ◆ Altern ist kein unausweichliches Schicksal, sondern ein biologischer Prozess.
+>
 > ◆ Smart Money investiert Milliarden in Longevity-Forschung.
+>
 > ◆ Senolytika, Epigenetik und KI-beschleunigte Wirkstoffentwicklung sind die Schlüsseltechnologien.
 
 
@@ -3158,7 +3184,9 @@ Aber was, wenn ich falsch liege? Jede ehrliche Investmentthese muss ihre eigenen
 > **Auf einen Blick:**
 >
 > ◆ Barbell-Strategie: 60-70% sicherer Kern plus 30-40% asymmetrische Wetten.
+>
 > ◆ Konkretes Beispiel-Portfolio mit 100.000 Euro Ausgangsbasis.
+>
 > ◆ Regel Nr. 1: Nie mehr riskieren, als man bereit ist zu verlieren.
 
 Erledigt: Was Sie jetzt tun können
@@ -3402,7 +3430,9 @@ Das ist kein Hedge. Das ist Ehrlichkeit.
 > **Auf einen Blick:**
 >
 > ◆ Eine KI-Blase ist möglich, aber die Infrastruktur-Investitionen haben reale Gegenwerte.
+>
 > ◆ Bitcoin-Volatilität sinkt historisch mit jeder Marktkapitalisierungsstufe.
+>
 > ◆ Die Barbell-Strategie schützt vor allen Szenarien - auch dem Worst Case.
 
 Erledigt: Was Sie jetzt tun können
@@ -3544,7 +3574,9 @@ Wir sehen uns auf der anderen Seite.
 > **Auf einen Blick:**
 >
 > ◆ Das Zeitfenster für asymmetrische Renditen schließt sich - in Jahren, nicht Jahrzehnten.
+>
 > ◆ Warten bis der "Beweis" da ist bedeutet, die höchsten Preise zu zahlen.
+>
 > ◆ Definiter Optimismus: Aktiv handeln, statt passiv hoffen.
 
 Erledigt: Was Sie jetzt tun können

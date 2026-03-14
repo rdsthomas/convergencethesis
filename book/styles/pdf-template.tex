@@ -58,14 +58,8 @@ $endif$
 
 % --- Fonts ---
 \usepackage{fontspec}
-\setmainfont{EB Garamond}[
-    Path=/usr/share/fonts/truetype/ebgaramond/,
-    Extension=.ttf,
-    UprightFont=EBGaramond12-Regular,
-    BoldFont=EBGaramond12-Bold,
-    ItalicFont=EBGaramond12-Italic
-]
-\setsansfont[Scale=0.9]{Open Sans}
+\setmainfont{Inter}
+\setsansfont{Inter}
 \setmonofont[Scale=0.8]{DejaVu Sans Mono}
 
 % --- Line spacing ---
@@ -148,7 +142,7 @@ $endif$
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[LE]{\small\itshape The AI Species}
-\fancyhead[RO]{\makebox[\headwidth][r]{\small\itshape\truncate{0.85\headwidth}{\nouppercase{\rightmark}}}}
+\fancyhead[RO]{{\hfill\small\itshape\nouppercase{\rightmark}}}
 \fancyfoot[C]{\small\thepage}
 \renewcommand{\headrulewidth}{0.4pt}
 \usepackage{truncate}
