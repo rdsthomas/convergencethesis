@@ -1,0 +1,172 @@
+% ============================================================
+% The AI Species — LaTeX Template for Print PDF
+% ============================================================
+
+% Pandoc includes
+$if(highlighting-macros)$
+$highlighting-macros$
+$endif$
+
+\documentclass[$if(fontsize)$$fontsize$$else$11pt$endif$,a5paper,twoside]{book}
+
+% --- Packages ---
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage[breakable,skins]{tcolorbox}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{setspace}
+\usepackage{microtype}
+\usepackage{hyperref}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{enumitem}
+\usepackage{float}
+\usepackage{caption}
+\let\origfigure\figure
+\let\endorigfigure\endfigure
+\renewenvironment{figure}[1][htbp]{%
+  \origfigure[H]
+}{%
+  \endorigfigure
+}
+
+% --- Page Geometry (A5 for print) ---
+\geometry{
+    paperwidth=5.5in,
+    paperheight=8.5in,
+    inner=0.75in,
+    outer=0.5in,
+    top=0.7in,
+    bottom=0.7in,
+}
+
+% --- Colors ---
+\definecolor{chapterblue}{HTML}{1a3a5c}
+\definecolor{sectionblue}{HTML}{2c5282}
+\definecolor{infoboxbg}{HTML}{edf2f7}
+\definecolor{infoboxborder}{HTML}{2c5282}
+\definecolor{scenebg}{HTML}{fffff0}
+\definecolor{sceneborder}{HTML}{d4a574}
+\definecolor{quoteborder}{HTML}{2c5282}
+
+% --- Fonts ---
+\usepackage{fontspec}
+\setmainfont{DejaVu Serif}
+\setsansfont{DejaVu Sans}
+\setmonofont{DejaVu Sans Mono}
+
+% --- Line spacing ---
+\setstretch{1.15}
+
+% --- Chapter and Section Formatting ---
+\titleformat{\chapter}[display]
+    {\normalfont\huge\bfseries\color{chapterblue}}
+    {\chaptertitlename\ \thechapter}
+    {10pt}
+    {\Huge}
+
+\titleformat{\section}
+    {\normalfont\Large\bfseries\color{chapterblue}}
+    {\thesection}
+    {1em}
+    {}
+
+\titleformat{\subsection}
+    {\normalfont\large\bfseries\color{sectionblue}}
+    {}
+    {0em}
+    {}
+
+\titleformat{\subsubsection}
+    {\normalfont\normalsize\bfseries\itshape}
+    {}
+    {0em}
+    {}
+
+% --- Infobox Environment ---
+\newtcolorbox{infobox}[1][]{
+    colback=infoboxbg,
+    colframe=infoboxborder,
+    fonttitle=\bfseries\color{sectionblue},
+    left=8pt,
+    right=8pt,
+    top=6pt,
+    bottom=6pt,
+    boxrule=0pt,
+    leftrule=4pt,
+    arc=2pt,
+    breakable,
+    title={#1}
+}
+
+% --- Scene Environment ---
+\newtcolorbox{szene}{
+    colback=scenebg,
+    colframe=sceneborder,
+    left=12pt,
+    right=12pt,
+    top=8pt,
+    bottom=8pt,
+    boxrule=0pt,
+    toprule=2pt,
+    bottomrule=2pt,
+    arc=0pt,
+    breakable,
+    fontupper=\itshape\color{black!80}
+}
+
+% --- Headers and Footers ---
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\small\itshape\leftmark}
+\fancyhead[RO]{\small\itshape\rightmark}
+\fancyfoot[C]{\small\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+
+% --- Hyperlinks ---
+\hypersetup{
+    colorlinks=true,
+    linkcolor=chapterblue,
+    urlcolor=sectionblue,
+    citecolor=chapterblue,
+}
+
+% --- Images ---
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\makeatother
+\let\oldincludegraphics\includegraphics
+\renewcommand{\includegraphics}[2][]{\oldincludegraphics[width=\maxwidth,#1]{#2}}
+
+% --- Tight list (Pandoc compatibility) ---
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% --- Document Info ---
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$for(author)$$author$$sep$ \and $endfor$}
+$endif$
+\date{$date$}
+
+\begin{document}
+
+$if(title)$
+\maketitle
+$endif$
+
+$if(toc)$
+\tableofcontents
+\newpage
+$endif$
+
+$body$
+
+\end{document}
