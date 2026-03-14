@@ -3020,20 +3020,24 @@ Was ich Ihnen geben kann, ist ein Denkrahmen.
 
 ### Variante A: Der Konservative (Kapital 100K–500K€)
 
+**Sichere Seite (70%)**
+
 | Sektor | Allokation | Anteil |
 |-------|-----------|--------|
-| **SICHERE SEITE (70%)** | | |
 | Aktien | Globaler ETF (MSCI World), Tech-Übergewichtung | 30% |
 | Big Tech | NVIDIA, Microsoft, Apple, Alphabet | 15% |
 | Energie | Cameco, Constellation Energy, NextEra | 10% |
 | Robotik | Intuitive Surgical, ABB, Fanuc | 10% |
 | Cash | Tagesgeld / Geldmarkt | 5% |
-| **ASYMMETRISCHE SEITE (30%)** | | |
+
+**Asymmetrische Seite (30%)**
+
+| Sektor | Allokation | Anteil |
+|-------|-----------|--------|
 | Bitcoin | DCA über 6-12 Monate | 15% |
 | Ethereum | Layer-2-Ökosystem, Agent-TAM | 5% |
 | RWA | BUIDL, Ondo Finance (Tokenisierte Treasuries) | 5% |
 | Infrastruktur | Coinbase, OLAS, PEAQ, Agent-Payment-Rails | 5% |
-| **Gesamt** | | **100%** |
 
 *Anmerkungen zur sicheren Seite:*
 - *30% Globaler Aktien-ETF (MSCI World) mit Übergewichtung USA/Tech*
@@ -3053,21 +3057,25 @@ Was ich Ihnen geben kann, ist ein Denkrahmen.
 
 ### Variante B: Der Ausgewogene (Kapital 500K–2M€)
 
+**Sichere Seite (60%)**
+
 | Sektor | Allokation | Anteil |
 |-------|-----------|--------|
-| **SICHERE SEITE (60%)** | | |
 | Aktien | Globaler ETF mit KI-Tilt | 20% |
 | Big Tech | NVIDIA, Microsoft, Apple, Alphabet, Amazon, Meta | 15% |
 | Robotik | Tesla, Intuitive Surgical, ABB, Figure AI | 10% |
 | Energie | Cameco, Constellation, NuScale, Oklo, Uran-ETF | 10% |
 | Cash | Cash-Reserve | 5% |
-| **ASYMMETRISCHE SEITE (40%)** | | |
+
+**Asymmetrische Seite (40%)**
+
+| Sektor | Allokation | Anteil |
+|-------|-----------|--------|
 | Bitcoin | DCA über 12 Monate | 15% |
 | Ethereum | Staking, Layer-2-Exposure | 8% |
 | DeFi | Circle (IPO), Aave, Uniswap | 7% |
 | RWA | Maple, Centrifuge, Hamilton Lane tokenisiert | 5% |
 | Machine Economy | Olas, peaq, Fetch.ai/ASI, Render Network | 5% |
-| **Gesamt** | | **100%** |
 
 *Anmerkungen zur sicheren Seite:*
 - *20% Globaler Aktien-ETF mit KI-Tilt*
@@ -3087,20 +3095,24 @@ Was ich Ihnen geben kann, ist ein Denkrahmen.
 
 ### Variante C: Der Aggressive (Kapital 2M€+, hohe Risikotoleranz)
 
+**Sichere Seite (50%)**
+
 | Sektor | Allokation | Anteil |
 |-------|-----------|--------|
-| **SICHERE SEITE (50%)** | | |
 | Big Tech | NVIDIA, Microsoft, Apple | 15% |
 | Energie | Nuklear & Energie breit diversifiziert | 15% |
 | Robotik | Tesla, Intuitive Surgical + Venture-Positionen | 10% |
 | Cash / Treasuries | Tokenisierte Treasuries, yield-generierend | 10% |
-| **ASYMMETRISCHE SEITE (50%)** | | |
+
+**Asymmetrische Seite (50%)**
+
+| Sektor | Allokation | Anteil |
+|-------|-----------|--------|
 | Bitcoin | Kernposition | 20% |
 | Ethereum | Smart-Contract-Plattform | 10% |
 | KI-Token / DeFi | Render, Filecoin, Olas, ASI Alliance, Aave | 8% |
 | RWA | Private Equity, Immobilien, Private Credit | 7% |
 | Venture / Angel | peaq-Ökosystem, Robotik-DAOs, BCI-nahe Firmen | 5% |
-| **Gesamt** | | **100%** |
 
 *Anmerkungen zur sicheren Seite:*
 - *15% Big Tech (NVIDIA, Microsoft, Apple)*
