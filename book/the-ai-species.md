@@ -2768,11 +2768,17 @@ Aber die Übergangsphase, die Jahrzehnte dauern könnte, wird brutal sein. Die e
 ### Unendliche Langeweile
 Und dann die Frage, die niemand stellt: Was tun Menschen mit unendlich viel Zeit?
 In Kapitel 10 haben wir beschrieben, wie die Maschinenökonomie zu einer Sinnkrise führt, weil Arbeit als identitätsstiftendes Element wegfällt. Jetzt multiplizieren Sie diese Krise mit der Unendlichkeit.
+
 Ein 80-jähriges Leben ist kurz genug, dass die meisten Menschen nie wirklich mit existenzieller Langeweile konfrontiert werden. Es gibt immer noch etwas zu tun: Karriere, Familie, Hobbys, die Bucket List. Aber ein 500-jähriges Leben? Ein 1.000-jähriges? Was tut man, wenn man alles gelesen, alles gereist, jeden Sport gemeistert, jedes Instrument gelernt hat?
+
 Es werden neue Formen der Beschäftigung entstehen müssen. Und hier schließt sich der Kreis zu den anderen Kapiteln dieses Buches:
+
 Sport und körperliche Aktivität werden eine Renaissance erleben. Wenn der Körper durch Longevity-Therapien jung und leistungsfähig bleibt, wird Sport nicht mehr ein Kampf gegen den Verfall sein, sondern eine dauerhafte Quelle von Flow und Gemeinschaft. Neue Sportarten werden entstehen. Die olympische Idee wird sich transformieren.
+
 Unternehmerische Aktivität wird sich verändern. Wenn man Jahrhunderte Zeit hat, kann man Projekte starten, die über Jahrzehnte wachsen. Kathedralen brauchten 200 Jahre im Bau. Ein unsterblicher Unternehmer könnte sein eigenes Lebenswerk über Jahrhunderte gestalten.
+
 Kunst und Handwerk werden eine unerwartete Aufwertung erfahren. Und hier liegt eine der überraschendsten Prognosen dieses Buches: In einer Welt, in der KI jedes Bild perfekter malen, jede Symphonie komplexer komponieren und jedes Buch grammatikalisch einwandfreier schreiben kann als ein Mensch, wird menschliches Schaffen nicht wertlos. Es wird wertvoller. Nicht weil es besser ist, sondern weil es menschlich ist.
+
 Der Trend "Back to the Roots" wird kommen, und er wird massiv sein. Handgemachte Keramik, die unvollkommener ist als maschinell produzierte, wird mehr kosten, nicht weniger. Ein Gemälde eines menschlichen Künstlers, mit seinen Unregelmäßigkeiten und seiner Geschichte, wird ein Luxusgut sein, während KI-generierte Perfektion Massenware ist. Ein Tisch, den ein Schreiner mit seinen Händen gebaut hat, wird mehr wert sein als ein Tisch, den ein Roboter in Minuten produziert hat, obwohl letzterer technisch überlegen ist. Weil der Wert nicht in der Perfektion liegt, sondern in der Menschlichkeit.
 
 Das ist kein sentimentaler Wunsch. Es ist die ökonomische Logik von Knappheit. Wenn maschinelle Perfektion unbegrenzt verfügbar ist, wird sie wertlos. Was knapp bleibt, ist das Menschliche.
